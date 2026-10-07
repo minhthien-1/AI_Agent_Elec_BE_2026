@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Pytest
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Build / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
