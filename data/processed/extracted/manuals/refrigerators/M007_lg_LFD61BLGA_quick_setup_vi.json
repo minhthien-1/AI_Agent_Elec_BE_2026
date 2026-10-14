@@ -1,0 +1,4082 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\manuals\\refrigerators\\M007_lg_LFD61BLGA_quick_setup_vi.pdf",
+  "filename": "M007_lg_LFD61BLGA_quick_setup_vi.pdf",
+  "file_type": "pdf",
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 1678.1099853515625,
+      "height": 595.2760009765625,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "•\t Thiết bị này được trang bị dây điện có dây dẫn nối",
+          "bbox": [
+            639.2125854492188,
+            6.002182960510254,
+            830.8096313476562,
+            21.67118263244629
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Vận hành",
+          "bbox": [
+            1058.740234375,
+            5.724213600158691,
+            1101.2740478515625,
+            23.134214401245117
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "cưng vào trong thiết bị.\n•\t Không đặt các vật nặng hoặc dễ vỡ, thùng chứa",
+          "bbox": [
+            847.55908203125,
+            6.002182960510254,
+            1031.23388671875,
+            33.88853073120117
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "•\t Đừng chạm vào thực phẩm đông lạnh hoặc các",
+          "bbox": [
+            1058.740234375,
+            20.705917358398438,
+            1241.2730712890625,
+            36.37491989135742
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "•\t Thiết bị này chứa một lượng nhỏ môi chất làm lạnh",
+          "bbox": [
+            219.68499755859375,
+            36.59532165527344,
+            398.8435363769531,
+            52.26432418823242
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "LG Electronics mới được tháo rời, sửa chữa, hoặc \nthay đổi thiết bị. Liên hệ với trung tâm thông \ntin khách hàng LG Electronics nếu bạn cần di \nchuyển và lắp đặt thiết bị tại một địa điểm khác.",
+          "bbox": [
+            435.1181945800781,
+            6.002182960510254,
+            621.2169189453125,
+            54.07120895385742
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "đất và phích cắm nối đất. Phích cắm phải được \ncắm vào ổ cắm phù hợp, được lắp đặt và nối đất \ntheo toàn bộ các quy tắc và quy định trong nước.\n•\t Tuyệt đối không được khởi động thiết bị có dấu",
+          "bbox": [
+            639.2125854492188,
+            16.802169799804688,
+            825.779296875,
+            66.28849029541016
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "HƯỚNG DẪN AN TOÀN\nLG đang nỗ lực kiến tạo tương lai \nbền vững bằng cách chỉ xuất bản \ntrực tuyến các phần của tài liệu \nhướng dẫn này.",
+          "bbox": [
+            8.503899574279785,
+            7.889430999755859,
+            1651.46630859375,
+            67.03181457519531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "bộ phận kim loại trong ngăn đá bằng tay ướt hoặc \nẩm. Nó có thể gây tê cóng.\n•\t Không đặt hộp đựng, chai lọ thủy tinh hay đồ",
+          "bbox": [
+            1058.740234375,
+            31.505905151367188,
+            1252.1885986328125,
+            70.19217681884766
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "Nguy cơ hỏa hoạn và vật liệu dễ cháy",
+          "bbox": [
+            428.0315856933594,
+            57.559112548828125,
+            595.1434936523438,
+            74.9691162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "chất lỏng, chất dễ cháy, các vật dễ cháy (như nến, \nđèn, v.v.), hoặc các thiết bị sưởi ấm (như bếp lò, lò \nsưởi, v.v.) lên trên thiết bị.\n•\t Không đặt bất kỳ thiết bị điện tử (như máy sưởi và",
+          "bbox": [
+            847.55908203125,
+            29.019515991210938,
+            1038.985595703125,
+            78.50577545166016
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "ĐỌC TOÀN BỘ HƯỚNG DẪN \nTRƯỚC KHI SỬ DỤNG",
+          "bbox": [
+            76.75589752197266,
+            53.066925048828125,
+            194.71803283691406,
+            82.4769287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "•\t Nếu phát hiện có chỗ rò rỉ, cần tránh bất kỳ sự",
+          "bbox": [
+            428.0315856933594,
+            72.54078674316406,
+            606.603515625,
+            88.20978546142578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "isobutane (R600a) nhưng vẫn là khí dễ cháy. Khi vận \nchuyển và lắp đặt thiết bị, cần cẩn thận để đảm bảo \nrằng không có bộ phận của mạch làm lạnh bị hư hỏng.\n•\t Chất làm lạnh và khí thổi cách điện được sử dụng",
+          "bbox": [
+            219.68499755859375,
+            47.39518737792969,
+            410.0389709472656,
+            96.88159942626953
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "hiệu hư hỏng. Nếu nghi ngờ, hãy tham khảo ý \nkiến đại lý của bạn.\n•\t Để tất cả vật liệu đóng gói (chẳng hạn như túi",
+          "bbox": [
+            639.2125854492188,
+            61.41947937011719,
+            816.3021850585938,
+            100.1058120727539
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 16,
+          "text": "điện thoại di động) bên trong thiết bị.\n•\t Nếu bị rò rỉ gas (isobutane, propane, khí thiên",
+          "bbox": [
+            847.55908203125,
+            73.63679504394531,
+            1022.6232299804688,
+            101.52320098876953
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 17,
+          "text": "hộp (đặc biệt là hộp đựng đồ uống có ga) trong \nngăn đá, kệ hoặc khay đá sẽ tiếp xúc với nhiệt \nđộ dưới mức đóng băng.\n•\t Kính cường lực ở mặt trước của cửa thiết bị hoặc",
+          "bbox": [
+            1058.740234375,
+            65.32322692871094,
+            1251.7830810546875,
+            114.80948638916016
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 18,
+          "text": "Tìm kiếm tài liệu hướng dẫn trực tuyến",
+          "bbox": [
+            1500.1849365234375,
+            99.66339111328125,
+            1663.9361572265625,
+            115.41539001464844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 19,
+          "text": "nhựa và xốp) cách xa trẻ em. Vật liệu đóng gói có \nthể gây ngạt thở.\n•\t Không cắm thiết bị vào ổ cắm đa cổng mà không",
+          "bbox": [
+            639.2125854492188,
+            95.23680114746094,
+            828.0068359375,
+            133.92320251464844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 20,
+          "text": "của kệ có thể bị vỡ do tác động. Nếu kính bị vỡ, \nkhông được chạm tay vào.\n•\t Không treo đồ lên cửa thiết bị, khoang bảo quản,",
+          "bbox": [
+            1058.740234375,
+            109.94050598144531,
+            1247.59912109375,
+            148.6269073486328
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 21,
+          "text": "trong thiết bị cần phải được xử lý đặc biệt. Tham \nkhảo ý kiến ​các đại lý dịch vụ hoặc một người có \ntrình độ tương tự trước khi xử lý của chúng.\n•\t Đừng làm hỏng mạch làm lạnh.\n•\t Nếu dây nguồn bị hỏng hoặc lỗ ổ cắm bị lỏng thì",
+          "bbox": [
+            219.68499755859375,
+            92.01258850097656,
+            407.62017822265625,
+            153.71620178222656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 22,
+          "text": "Các hướng dẫn an toàn sau đây nhằm mục đích ngăn \nchặn các rủi ro hoặc hư hỏng không thể lường trước \ntừ việc vận hành sản phẩm không an toàn hoặc không \nđúng cách. Các hướng dẫn được chia thành hai phần \n‘CẢNH BÁO’ và ‘THẬN TRỌNG’ như được mô tả bên dưới.",
+          "bbox": [
+            8.503899574279785,
+            96.79811096191406,
+            197.88336181640625,
+            155.66709899902344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 23,
+          "text": "có cáp điện (được cắm).\n•\t Các thiết bị phải được nối với một đường dây điện",
+          "bbox": [
+            639.2125854492188,
+            129.05421447753906,
+            830.79345703125,
+            156.9405059814453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 24,
+          "text": "hoặc leo lên trên đó.\n•\t Không bảo quản một số lượng lớn chai nước hoặc",
+          "bbox": [
+            1058.740234375,
+            143.7578887939453,
+            1251.2928466796875,
+            171.6442108154297
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 25,
+          "text": "CẢNH BÁO",
+          "bbox": [
+            22.677200317382812,
+            160.42840576171875,
+            91.4098892211914,
+            179.04440307617188
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 26,
+          "text": "chuyên dụng được nối cầu chì riêng.\n•\t Không sử dụng ổ cắm (rời) đa cổng không được",
+          "bbox": [
+            639.2125854492188,
+            152.0714874267578,
+            823.43017578125,
+            179.9578094482422
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 27,
+          "text": "tiếp xúc nào với ngọn lửa hoặc các nguồn có khả \nnăng đánh lửa và không khí trong phòng mà thiết \nbị được đặt trong vài phút. Để tránh việc tạo ra \nmột hỗn hợp khí gas dễ cháy khi mạch làm lạnh bị \nrò rỉ, kích thước của phòng đặt thiết bị phải tương \nứng với số lượng chất làm lạnh sử dụng trong \nthiết bị. Phòng phải đảm bảo 1m² cho mỗi 8g \nR600a chất làm lạnh bên trong thiết bị.\n•\t Chất làm lạnh rò rỉ ra khỏi ống nước có thể bốc",
+          "bbox": [
+            428.0315856933594,
+            83.34080505371094,
+            621.0052490234375,
+            186.8271026611328
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 28,
+          "text": "nhiên, v.v.), không chạm vào thiết bị hoặc phích \ncắm và lập tức thông gió cho khu vực Thiết bị này \nsử dụng gas môi chất làm lạnh (isobutane,R600a). \nMặc dù thiết bị sử dụng một lượng nhỏ khí gas \nnhưng đây vẫn là khí dễ cháy. Rò rỉ gas trong khi \nvận chuyển, lắp đặt hay vận hành thiết bị có thể \ngây cháy, nổ hoặc thương tật nếu phát sinh tia lửa.\n•\t Không sử dụng hoặc bảo quản các chất dễ cháy",
+          "bbox": [
+            847.55908203125,
+            96.65419006347656,
+            1037.8262939453125,
+            189.3404998779297
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 29,
+          "text": "phải thay thế. Không được sử dụng dây nguồn đó \nvà liên hệ với trung tâm dịch vụ được ủy quyền để \ntránh nguy hiểm.\n•\t Không đặt ổ cắm rời nhiều cổng hoặc nguồn cấp",
+          "bbox": [
+            219.68499755859375,
+            148.8472137451172,
+            411.1760559082031,
+            198.33360290527344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 30,
+          "text": "•\t Để giảm rủi ro cháy, nổ, tử vong, điện giật, thương",
+          "bbox": [
+            8.503899574279785,
+            183.6317901611328,
+            201.50979614257812,
+            199.30079650878906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 31,
+          "text": "Tài liệu hướng dẫn sử dụng rút gọn \nnày đề cập đến các thông tin an \ntoàn, vận hành, bảo trì, v.v. của người \ndùng.\nĐể xem toàn bộ hướng dẫn sử dụng, \nhãy quét mã QR trên nhãn.",
+          "bbox": [
+            1500.1849365234375,
+            117.86369323730469,
+            1668.8309326171875,
+            204.43199157714844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 32,
+          "text": "bình đựng đồ ăn phụ ở giỏ cửa.\n•\t Không mở hoặc đóng cửa bằng lực quá mức cần thiết.\n•\t Nếu bản lề cửa của thiết bị bị hỏng hoặc hoạt",
+          "bbox": [
+            1058.740234375,
+            166.7751922607422,
+            1249.409912109375,
+            206.87879943847656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 33,
+          "text": "cháy hoặc gây ra một vụ nổ.\n•\t Lượng chất làm lạnh trong thiết bị của bạn được hiển",
+          "bbox": [
+            428.0315856933594,
+            181.95811462402344,
+            621.3606567382812,
+            209.8444061279297
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 34,
+          "text": "thị trên bảng thông số kỹ thuật bên trong thiết bị.",
+          "bbox": [
+            435.1181945800781,
+            204.9753875732422,
+            607.2048950195312,
+            220.64439392089844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 35,
+          "text": "di động ở phía sau thiết bị.\n•\t Cắm chặt phích cắm vào ổ cắm sau khi loại bỏ",
+          "bbox": [
+            219.68499755859375,
+            193.46461486816406,
+            397.38177490234375,
+            221.3509063720703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 36,
+          "text": "tích hoặc bỏng ở người khi sử dụng sản phẩm \nnày, hãy thực hiện theo các biện pháp phòng \nngừa cơ bản, bao gồm các điều sau:",
+          "bbox": [
+            15.590499877929688,
+            194.4318084716797,
+            186.46002197265625,
+            231.70082092285156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 37,
+          "text": "nối đất đúng cách. Trong trường hợp sử dụng ổ \ncắm (rời) đa cổng được nối đất đúng cách, hãy sử \ndụng ổ cắm đa cổng theo công suất định mức \nđiện quy định hiện hành và sử dụng ổ cắm đa \ncổng cho riêng thiết bị này.",
+          "bbox": [
+            646.29931640625,
+            175.0887908935547,
+            828.5494384765625,
+            233.9578094482422
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 38,
+          "text": "hay bắt cháy (ví dụ benzen, cồn, hóa chất, LPG, \nbình xịt dễ cháy, thuốc trừ sâu, chất làm sạch \nkhông khí, mỹ phẩm, vv) gần thiết bị.\n•\t Thiết bị này tích hợp nối đất để phục vụ các mục",
+          "bbox": [
+            847.55908203125,
+            184.4715118408203,
+            1033.412841796875,
+            233.9578094482422
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 39,
+          "text": "động không đúng cách, hãy ngưng sử dụng thiết \nbị và liên hệ với trung tâm dịch vụ được ủy quyền.\n•\t Ngăn chặn không để động vật gặm nhấm dây",
+          "bbox": [
+            1058.740234375,
+            202.0098114013672,
+            1247.7532958984375,
+            240.6961212158203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 40,
+          "text": "Lắp đặt",
+          "bbox": [
+            428.0315856933594,
+            224.13238525390625,
+            461.7725830078125,
+            241.54238891601562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 41,
+          "text": "sạch hơi ẩm và bụi bẩn.\n•\t Tuyệt đối không rút phích cắm thiết bị bằng cách",
+          "bbox": [
+            219.68499755859375,
+            216.4818878173828,
+            408.04144287109375,
+            244.3682098388672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 42,
+          "text": "•\t Thiết bị này chỉ nên được vận chuyển bởi hai hoặc",
+          "bbox": [
+            428.0315856933594,
+            239.11399841308594,
+            619.466064453125,
+            254.7830047607422
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 43,
+          "text": "Vận hành",
+          "bbox": [
+            639.2125854492188,
+            237.44580078125,
+            681.7466430664062,
+            254.85580444335938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 44,
+          "text": "đích chức năng.\n•\t Chỉ nối với nguồn cấp nước uống được.",
+          "bbox": [
+            847.55908203125,
+            229.0887908935547,
+            998.6475830078125,
+            256.97509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 45,
+          "text": "An toàn về Kỹ thuật",
+          "bbox": [
+            8.503899574279785,
+            241.52328491210938,
+            97.42389678955078,
+            258.93328857421875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 47,
+          "text": "điện hoặc ống nước.\n•\t Đừng bao giờ ăn thực phẩm đông lạnh ngay sau",
+          "bbox": [
+            1058.740234375,
+            235.8271026611328,
+            1245.801025390625,
+            263.7135009765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 48,
+          "text": "-\tNếu kết nối với nguồn cấp nước thì chỉ được kết",
+          "bbox": [
+            856.06298828125,
+            252.10609436035156,
+            1038.830810546875,
+            267.77508544921875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 49,
+          "text": "•\t Không sử dụng thiết bị cho mục đích khác (bảo",
+          "bbox": [
+            639.2125854492188,
+            252.4274139404297,
+            821.1298217773438,
+            268.0964050292969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 50,
+          "text": "•\t Thiết bị này không nhằm dành cho những người",
+          "bbox": [
+            8.503899574279785,
+            256.5050048828125,
+            195.1351318359375,
+            272.1739807128906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 51,
+          "text": "kéo dây điện. Luôn cầm chặt phích cắm và kéo \nthẳng phích cắm ra khỏi ổ cắm.\n•\t Giữ các lỗ thông gió, và các kết cấu gắn liền trong",
+          "bbox": [
+            219.68499755859375,
+            239.4991912841797,
+            404.6065979003906,
+            278.18548583984375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 52,
+          "text": "nối với nguồn cấp nước sinh hoạt.",
+          "bbox": [
+            861.7322998046875,
+            262.9061279296875,
+            986.0592651367188,
+            278.5751037597656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 53,
+          "text": "Tìm kiếm hướng dẫn PDF có thể in được",
+          "bbox": [
+            1500.1849365234375,
+            267.7348937988281,
+            1665.2227783203125,
+            283.48687744140625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 54,
+          "text": "khi chúng được lấy ra từ trong ngăn đá.\n•\t Đảm bảo không để tay hoặc chân bị kẹp khi mở",
+          "bbox": [
+            1058.740234375,
+            258.8445129394531,
+            1244.2545166015625,
+            286.7308044433594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 55,
+          "text": "nhiều người để giữ thiết bị một cách chắc chắn.\n•\t Đặt thiết bị trên sàn chắc chắn và bằng phẳng.\n•\t Không lắp đặt thiết bị ở nơi có nhiều bụi và ẩm",
+          "bbox": [
+            428.0315856933594,
+            249.9139862060547,
+            609.2520141601562,
+            290.017578125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 56,
+          "text": "•\t Chỉ đổ nước uống.",
+          "bbox": [
+            847.55908203125,
+            276.5408020019531,
+            922.1591796875,
+            292.20977783203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 57,
+          "text": "Tủ lạnh & Tủ \nđông lạnh",
+          "bbox": [
+            1288.3465576171875,
+            229.56350708007812,
+            1414.7691650390625,
+            294.2655029296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 58,
+          "text": "hoặc đóng cửa hoặc cửa trong cửa của thiết bị.",
+          "bbox": [
+            1065.826904296875,
+            281.86181640625,
+            1240.052978515625,
+            297.5307922363281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 59,
+          "text": "hoặc bên cạnh thiết bị sạch sẽ, không bị tắc nghẽn.\n•\t Không bảo quản chất nổ như bình xon khí chứa",
+          "bbox": [
+            219.68499755859375,
+            273.3165283203125,
+            408.4903259277344,
+            301.202880859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 60,
+          "text": "-\tNếu sử dụng máy làm đá hoặc bình chứa nước",
+          "bbox": [
+            856.06298828125,
+            287.3408203125,
+            1035.072265625,
+            303.0097961425781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 61,
+          "text": "quản các vật liệu y tế hoặc thí nghiệm hay để vận \nchuyển) ngoài việc sử dụng để bảo quản thực \nphẩm của gia đình.\n•\t Nếu nước thâm nhập vào các bộ phận điện của",
+          "bbox": [
+            639.2125854492188,
+            263.2274169921875,
+            828.1121215820312,
+            312.71368408203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 62,
+          "text": "Hướng dẫn sử dụng đơn giản",
+          "bbox": [
+            1288.3465576171875,
+            292.3374938964844,
+            1447.20361328125,
+            313.2294921875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 63,
+          "text": "Bảo trì",
+          "bbox": [
+            1058.740234375,
+            301.0187072753906,
+            1088.872314453125,
+            318.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 64,
+          "text": "của bộ phân phối, hãy đảm bảo chỉ đổ đầy bằng \nnước sinh hoạt.",
+          "bbox": [
+            861.7322998046875,
+            298.14080810546875,
+            1040.0458984375,
+            324.60980224609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 65,
+          "text": "•\t Thiết bị này được trang bị đèn LED bên trong",
+          "bbox": [
+            1058.740234375,
+            316.00042724609375,
+            1232.90576171875,
+            331.6694030761719
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 66,
+          "text": "nhiên liệu dễ cháy trong thiết bị này.\n•\t Đừng nghiêng thiết bị để kéo hoặc đẩy khi vận chuyển.\n•\t Phải đảm bảo dây cắm điện không bị vướng hay",
+          "bbox": [
+            219.68499755859375,
+            296.33380126953125,
+            410.07586669921875,
+            336.4375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 67,
+          "text": "•\tTrước khi bắt đầu lắp đặt, hãy đọc",
+          "bbox": [
+            1288.3465576171875,
+            318.2231140136719,
+            1449.021240234375,
+            337.3741149902344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 68,
+          "text": "Tiêu hủy",
+          "bbox": [
+            847.55908203125,
+            322.42840576171875,
+            886.0341796875,
+            339.8384094238281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 69,
+          "text": "thiết bị, hãy rút phích cắm điện và liên hệ với trung \ntâm thông tin khách hàng của LG Electronics.\n•\t Rút phích cắm điện khi có giông bão nghiêm trọng,",
+          "bbox": [
+            639.2125854492188,
+            307.8447265625,
+            832.0154418945312,
+            346.5309753417969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 70,
+          "text": "•\t Khi bỏ thiết bị đi, cần loại bỏ các miếng đệm cửa và để",
+          "bbox": [
+            847.55908203125,
+            337.41009521484375,
+            1039.81982421875,
+            353.0790710449219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 71,
+          "text": "thấp. Không lắp đặt hoặc bảo quản thiết bị ở bất \nkỳ khu vực ngoài trời hoặc ở bất kỳ chỗ nào chịu \ntác động của điều kiện thời tiết như ánh sáng mặt \ntrời trực tiếp, gió, mưa hoặc nhiệt độ dưới mức \nđóng băng.\n•\t Không đặt thiết bị dưới ánh sáng mặt trời trực",
+          "bbox": [
+            428.0315856933594,
+            285.1487121582031,
+            619.8064575195312,
+            356.2349853515625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 72,
+          "text": "hư hỏng khi đặt thiết bị.\n•\t Không sử dụng các thiết bị máy móc hoặc các",
+          "bbox": [
+            219.68499755859375,
+            331.5685119628906,
+            391.0372009277344,
+            359.4548034667969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 73,
+          "text": "(bao gồm trẻ em) có năng lực thể chất, giác \nquan hoặc tinh thần bị suy giảm, hoặc thiếu kinh \nnghiệm và kiến thức sử dụng nếu họ không có sự \ngiám sát hoặc hướng dẫn liên quan đến việc sử \ndụng thiết bị từ người chịu trách nhiệm về sự an \ntoàn của họ. Trẻ em cần phải được giám sát để \nđảm bảo rằng các bé không chơi đùa với thiết bị.\n•\t Thiết bị này nhằm để sử dụng trong gia đình và",
+          "bbox": [
+            8.503899574279785,
+            267.3050231933594,
+            199.40386962890625,
+            359.9913024902344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 74,
+          "text": "lại kệ và giỏ tại chỗ và để trẻ em tránh xa khỏi thiết bị.",
+          "bbox": [
+            854.6456909179688,
+            348.2101135253906,
+            1036.069580078125,
+            363.87908935546875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 75,
+          "text": "hoặc khi không sử dụng trong một thời gian dài.\n•\t Không được chạm vào phích cắm hoặc các phần",
+          "bbox": [
+            639.2125854492188,
+            341.6620178222656,
+            825.4551391601562,
+            369.5483093261719
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 76,
+          "text": "các ứng dụng tương tự như:",
+          "bbox": [
+            15.590499877929688,
+            355.122314453125,
+            119.043701171875,
+            370.7912902832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 77,
+          "text": "phương tiện khác để đẩy nhanh quá trình tan băng.\n•\t Không sử dụng máy sấy tóc để làm khô bên trong",
+          "bbox": [
+            219.68499755859375,
+            354.5858154296875,
+            411.7188720703125,
+            382.4720764160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 78,
+          "text": "-\tkhu bếp cho nhân viên trong cửa hàng, văn",
+          "bbox": [
+            17.00790023803711,
+            368.75701904296875,
+            183.8753204345703,
+            384.4259948730469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 79,
+          "text": "được bảo hành miễn phí. Không được tháo vỏ \nđèn hay đèn LED để sửa chữa hoặc thay đổi. Hãy \nliên hệ với trung tâm thông tin khách hàng của LG \nElectronics.\n•\t Không lau kệ hoặc nắp thủy tinh bằng nước ấm",
+          "bbox": [
+            1058.740234375,
+            326.8004150390625,
+            1251.746337890625,
+            387.0867004394531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 80,
+          "text": "Tài liệu hướng dẫn sử dụng rút gọn \nnày đề cập đến các thông tin an toàn, \nvận hành và bảo trì của người dùng.\nĐể xem toàn bộ hướng dẫn sử dụng, \nhãy truy cập lg.com và tìm số mẫu \nmáy của bạn;\n1\t Tìm số mẫu máy.",
+          "bbox": [
+            1497.350341796875,
+            285.9299011230469,
+            1668.1246337890625,
+            389.7388000488281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 81,
+          "text": "THẬN TRỌNG",
+          "bbox": [
+            861.2371215820312,
+            371.3495178222656,
+            946.1828002929688,
+            389.96551513671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 82,
+          "text": "tiếp hoặc tiếp xúc với sức nóng từ các thiết bị tỏa \nnhiệt như bếp lò hoặc lò sưởi.\n•\t Hãy cẩn thận không để hở phía sau của thiết bị",
+          "bbox": [
+            428.0315856933594,
+            351.36602783203125,
+            616.5340576171875,
+            390.0522766113281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 83,
+          "text": "điều khiển thiết bị bằng tay ướt.\n•\t Không được gập cong dây điện quá mức hoặc đặt",
+          "bbox": [
+            639.2125854492188,
+            364.6794128417969,
+            831.3115844726562,
+            392.5657043457031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 84,
+          "text": "phòng và các môi trường làm việc khác;",
+          "bbox": [
+            22.677200317382812,
+            379.5570068359375,
+            167.61863708496094,
+            395.2259826660156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 85,
+          "text": "-\t gia đình nông thôn, dành cho khách hàng trong khách",
+          "bbox": [
+            17.00790023803711,
+            391.7743225097656,
+            199.95086669921875,
+            407.44329833984375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 86,
+          "text": "•\t Để giảm thiểu những rủi ro có thể gây ra thương tích",
+          "bbox": [
+            847.55908203125,
+            394.5530090332031,
+            1039.9295654296875,
+            410.22198486328125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 87,
+          "text": "một vật nặng lên dây.\n•\t Ngay lập tức rút phích điện ra và liên hệ với trung",
+          "bbox": [
+            639.2125854492188,
+            387.69671630859375,
+            829.1005249023438,
+            415.5829772949219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 88,
+          "text": "của thiết bị hoặc đặt một ngọn nến bên trong để \nloại bỏ mùi.\n•\t Không sử dụng các thiết bị điện bên trong",
+          "bbox": [
+            219.68499755859375,
+            377.60321044921875,
+            408.0657653808594,
+            416.28948974609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 89,
+          "text": "khi lắp đặt.\n•\t Lắp đặt thiết bị ở nơi dễ rút phích cắm của thiết bị.\n•\t Hãy cẩn thận không để thiết bị cửa rơi ra khi lắp",
+          "bbox": [
+            428.0315856933594,
+            385.1833190917969,
+            615.5675048828125,
+            425.2868957519531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 90,
+          "text": "sạn, nhà nghỉ và các loại hình cơ sở lưu trú khác;\n-\tcác loại hình cơ sở lưu trú cung cấp chỗ nghỉ",
+          "bbox": [
+            17.00790023803711,
+            402.5743103027344,
+            188.21693420410156,
+            430.4606018066406
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 91,
+          "text": "kỹ những hướng dẫn này. Điều này \nsẽ đơn giản hoá quá trình lắp đặt \nvà đảm bảo sản phẩm được lắp đặt \nđúng cách và an toàn. Để hướng \ndẫn này ở gần sản phẩm sau khi lắp \nđặt để sau này tham khảo.\n•\tHướng dẫn này có thể có các hình",
+          "bbox": [
+            1288.3465576171875,
+            331.4231262207031,
+            1458.9112548828125,
+            431.1914367675781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 92,
+          "text": "khi chúng đang lạnh. Chúng có thể bị vỡ nếu tiếp \nxúc với nhiệt độ thay đổi đột ngột.\n•\t Không lắp kệ lộn ngược. Kệ có thể rơi xuống.\n•\t Để loại bỏ sương ra khỏi thiết bị, liên hệ với trung",
+          "bbox": [
+            1058.740234375,
+            382.21771240234375,
+            1248.619873046875,
+            433.1213073730469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 93,
+          "text": "ráp hoặc tháo gỡ.\n•\t Hãy cẩn thận không để móp, trầy xước, hoặc làm",
+          "bbox": [
+            428.0315856933594,
+            420.41802978515625,
+            616.0967407226562,
+            448.3042907714844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 94,
+          "text": "khoang bảo quản thực phẩm của thiết bị, trừ khi \nchúng là khuyến nghị của nhà sản xuất.\n•\t Hãy chắc chắn rằng không một phần nào của cơ",
+          "bbox": [
+            219.68499755859375,
+            411.4205322265625,
+            412.01666259765625,
+            450.1067810058594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 95,
+          "text": "nhỏ cho người, hoặc làm thiết bị hoạt động sai chức \nnăng cũng như hư hỏng sản phẩm hoặc tài sản khi \nsử dụng sản phẩm này, hãy thực hiện các biện pháp \nphòng ngừa cơ bản, bao gồm các điều sau:",
+          "bbox": [
+            854.6458129882812,
+            405.35302734375,
+            1036.6011962890625,
+            453.4219970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 96,
+          "text": "qua đêm kèm bữa sáng;\n-\tứng dụng phục vụ ăn uống và các ứng dụng phi",
+          "bbox": [
+            17.00790023803711,
+            425.59161376953125,
+            201.233642578125,
+            453.4778747558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 97,
+          "text": "tâm thông tin khách hàng của LG Electronics.\n•\t Loại bỏ lớp băng bên trong khay đá trong ngăn đá",
+          "bbox": [
+            1058.740234375,
+            428.2523193359375,
+            1250.9862060546875,
+            456.1387023925781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 98,
+          "text": "tâm thông tin khách hàng LG Electronics nếu bạn \nphát hiện ra một âm thanh kỳ lạ, mùi, hoặc khói \nbốc ra khỏi thiết bị.\n•\t Không được đặt bàn tay hay các vật kim loại bên",
+          "bbox": [
+            639.2125854492188,
+            410.7140197753906,
+            829.4486083984375,
+            460.2002868652344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 99,
+          "text": "bán lẻ tương tự.",
+          "bbox": [
+            22.677200317382812,
+            448.6089172363281,
+            81.44270324707031,
+            464.27789306640625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 100,
+          "text": "bằng cách ngắt điện trong một khoảng thời gian",
+          "bbox": [
+            1065.826904296875,
+            451.26971435546875,
+            1242.0867919921875,
+            466.9386901855469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 101,
+          "text": "ảnh hoặc nội dung khác với kiểu \nmáy mà bạn đã mua.\n•\tHướng dẫn sử dụng này có thể được",
+          "bbox": [
+            1288.3465576171875,
+            425.24041748046875,
+            1462.505126953125,
+            472.2087097167969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 102,
+          "text": "•\t Thiết bị làm lạnh này không được thiết kế để sử",
+          "bbox": [
+            8.503899574279785,
+            462.2436218261719,
+            191.2633514404297,
+            477.91259765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 103,
+          "text": "Lắp đặt",
+          "bbox": [
+            847.55908203125,
+            463.2445068359375,
+            881.3001098632812,
+            480.6545104980469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 104,
+          "text": "hỏng cáp điện trong quá trình lắp ráp hoặc tháo \ngỡ cửa thiết bị.\n•\t Không để vật nhọn chọc vào phích cắm điện hoặc",
+          "bbox": [
+            428.0315856933594,
+            443.435302734375,
+            619.4984741210938,
+            482.12158203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 105,
+          "text": "thể như bàn tay hoặc bàn chân bị mắc kẹt trong \nkhi di chuyển thiết bị.\n•\t Rút dây điện trước khi vệ sinh bên trong hoặc bên",
+          "bbox": [
+            219.68499755859375,
+            445.23779296875,
+            411.7431945800781,
+            483.9241027832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 106,
+          "text": "thay đổi bởi nhà sản xuất.",
+          "bbox": [
+            1295.4332275390625,
+            466.2577209472656,
+            1410.6390380859375,
+            485.4087219238281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 107,
+          "text": "•\t Sau khi tháo dỡ, hãy kiểm tra thiết bị xem có bất",
+          "bbox": [
+            847.55908203125,
+            478.2261962890625,
+            1032.7490234375,
+            493.8951721191406
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 108,
+          "text": "trong khu vực tỏa ra không khí lạnh, lên nắp hoặc \nlưới tản nhiệt ở phía sau.\n•\t Không tác dụng lực mạnh hoặc tác động vào nắp",
+          "bbox": [
+            639.2125854492188,
+            455.331298828125,
+            830.0480346679688,
+            494.0176086425781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 109,
+          "text": "dụng như một thiết bị tích hợp.\n•\t Thiết bị này không được sử dụng như một thiết bị",
+          "bbox": [
+            8.503899574279785,
+            473.0436096191406,
+            191.50523376464844,
+            500.9299011230469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 110,
+          "text": "để thiết bị đè lên phích cắm điện.\n•\t Không nên kết nối một bộ chuyển đổi ổ cắm hoặc",
+          "bbox": [
+            428.0315856933594,
+            477.25262451171875,
+            619.7495727539062,
+            505.1388854980469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 111,
+          "text": "ngoài thiết bị.\n•\t Không phun nước hoặc các chất dễ cháy (kem",
+          "bbox": [
+            219.68499755859375,
+            479.05511474609375,
+            397.39813232421875,
+            506.9413757324219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 112,
+          "text": "phía sau của thiết bị.\n•\t Hãy cẩn thận trẻ em ở gần khi bạn mở hoặc đóng",
+          "bbox": [
+            639.2125854492188,
+            489.1487121582031,
+            830.0318603515625,
+            517.0350341796875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 113,
+          "text": "kỳ hư hỏng nào có thể xảy ra trong quá trình vận \nchuyển hay không.\n•\t Chờ ít nhất 3-4 giờ để đảm bảo mạch chất làm",
+          "bbox": [
+            847.55908203125,
+            489.0262145996094,
+            1035.8348388671875,
+            527.7125244140625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 114,
+          "text": "cầm tay hoặc trong các điều kiện lắp đặt di động, \nchẳng hạn như sử dụng trên biển hoặc xe lưu động \n(RV), nơi thiết bị sẽ di chuyển trong khi vận hành.",
+          "bbox": [
+            15.590499877929688,
+            496.0609130859375,
+            198.28546142578125,
+            533.3298950195312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 115,
+          "text": "2\t Nhập số mẫu máy trên trang web của LG tại",
+          "bbox": [
+            1497.350341796875,
+            520.697998046875,
+            1656.776123046875,
+            539.3140258789062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 116,
+          "text": "các phụ kiện khác với ổ cắm điện.\n•\t Không thay đổi hoặc nối dài dây điện.\n•\t Đảm bảo ổ cắm điện được nối đất đúng cách và",
+          "bbox": [
+            428.0315856933594,
+            500.2698974609375,
+            612.2651977539062,
+            540.3735961914062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 117,
+          "text": "https://www.lg.com/vn/tro-giup.",
+          "bbox": [
+            1511.5235595703125,
+            533.2501220703125,
+            1615.10302734375,
+            547.1781005859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 118,
+          "text": "lạnh hoạt động hiệu quả.\n•\t Di chuyển thiết bị cẩn thận trên sàn dễ bị hỏng để",
+          "bbox": [
+            847.55908203125,
+            522.8436279296875,
+            1040.111572265625,
+            550.7297973632812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 119,
+          "text": "cửa thiết bị. Cánh cửa có thể va vào trẻ em và gây \nthương tích.\n•\t Cẩn thận không để trẻ em bị mắc kẹt bên trong",
+          "bbox": [
+            639.2125854492188,
+            512.166015625,
+            829.4811401367188,
+            550.852294921875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 120,
+          "text": "đánh răng, rượu, dung môi, benzen, chất lỏng dễ \ncháy, ăn mòn, vv) lên trên nội thất hoặc ngoại thất \ncủa thiết bị để làm sạch nó.\n•\t Không làm sạch thiết bị với bàn chải, khăn lau",
+          "bbox": [
+            219.68499755859375,
+            502.07244873046875,
+            411.5730895996094,
+            551.558837890625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 121,
+          "text": "tránh làm hỏng sàn.",
+          "bbox": [
+            854.6458129882812,
+            545.86083984375,
+            928.4449462890625,
+            561.5298461914062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 122,
+          "text": "•",
+          "bbox": [
+            8.503899574279785,
+            552.2337036132812,
+            17.696500778198242,
+            567.9027099609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 123,
+          "text": "Đây là biểu tượng cảnh báo vật \nliệu dễ bắt lửa gây cháy nếu \nngười dùng không cẩn thận.",
+          "bbox": [
+            76.99210357666016,
+            535.7857055664062,
+            192.90313720703125,
+            573.0547485351562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 124,
+          "text": "chân nối đất trên dây điện không bị hư hỏng hoặc \ntháo khỏi ổ cắm điện. Để biết thêm chi tiết về việc \nnối đất, hãy liên hệ tới trung tâm thông tin khách \nhàng của LG Electronics.",
+          "bbox": [
+            435.1181945800781,
+            535.504638671875,
+            620.7054443359375,
+            583.5736083984375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 125,
+          "text": "thiết bị. Trẻ em bị mắc kẹt bên trong thiết bị này \ncó thể bị ngạt thở.\n•\t Không đặt các loài động vật, chẳng hạn như thú",
+          "bbox": [
+            639.2125854492188,
+            545.9833374023438,
+            830.113037109375,
+            584.6696166992188
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 126,
+          "text": "hoặc bọt biển với bề mặt thô ráp hoặc được làm \nbằng vật liệu kim loại.\n•\t Chỉ nhân viên có trình độ của trung tâm dịch vụ",
+          "bbox": [
+            219.68499755859375,
+            546.689697265625,
+            409.0118713378906,
+            585.3760986328125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 127,
+          "text": "MFL71988302\nRev.00_042424",
+          "bbox": [
+            1350.0269775390625,
+            565.471923828125,
+            1398.9222412109375,
+            589.8171997070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 1678.1099853515625,
+      "height": 595.2760009765625,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "XỬ LÝ SỰ CỐ\nXỬ LÝ SỰ CỐ\nXỬ LÝ SỰ CỐ\nVẬN HÀNH/BẢO TRÌ",
+          "bbox": [
+            8.503999710083008,
+            9.49801254272461,
+            1373.76416015625,
+            33.969512939453125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            646.2730712890625,
+            38.76318359375,
+            824.9988403320312,
+            52.691184997558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            854.619384765625,
+            38.76318359375,
+            1033.3450927734375,
+            52.691184997558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            1065.800537109375,
+            38.76318359375,
+            1244.5257568359375,
+            52.691184997558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            1485.328125,
+            38.76318359375,
+            1664.0533447265625,
+            52.691184997558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Lưu ý khi Vận hành",
+          "bbox": [
+            11.338600158691406,
+            37.00472640991211,
+            108.33550262451172,
+            52.75672912597656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "Các biện pháp vệ sinh chung",
+          "bbox": [
+            222.5196990966797,
+            37.00472640991211,
+            367.1163635253906,
+            52.75672912597656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "Các bộ phận và tính năng",
+          "bbox": [
+            1267.0865478515625,
+            34.71949768066406,
+            1392.1728515625,
+            53.87049865722656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "Đá",
+          "bbox": [
+            428.0315856933594,
+            34.71961975097656,
+            441.3371887207031,
+            53.87062072753906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "•\t Người dùng cần lưu ý rằng sương giá có thể hình thành",
+          "bbox": [
+            8.503899574279785,
+            54.41741943359375,
+            198.53526306152344,
+            68.34542083740234
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "•\t Thực hiện làm tan băng, bảo dưỡng hay vệ sinh thiết bị",
+          "bbox": [
+            219.68499755859375,
+            55.200927734375,
+            411.9419250488281,
+            69.1289291381836
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            1274.14697265625,
+            59.02587890625,
+            1452.8721923828125,
+            72.9538803100586
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            435.0920104980469,
+            59.026123046875,
+            613.8176879882812,
+            72.9541244506836
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "Có phải bạn đã cho vào tủ lạnh đồ \năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn trước khi đặt vào",
+          "bbox": [
+            907.4614868164062,
+            53.359375,
+            1030.6248779296875,
+            85.2873764038086
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "Cửa có thể không được đóng lại \nđúng cách.\n•\t Kiểm tra xem các thực phẩm bên",
+          "bbox": [
+            1118.6427001953125,
+            53.359375,
+            1235.2535400390625,
+            85.2873764038086
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "Có phải có những đồ vật nằm rải \nrác phía sau thiết bị?\n•\t Lấy các đồ vật nằm rải rác phía sau",
+          "bbox": [
+            1538.1702880859375,
+            53.359375,
+            1660.478759765625,
+            85.2873764038086
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 17,
+          "text": "Đường đá ra có thể bị kẹt không? \n(Bạn có thể kiểm tra đường ống \nbằng cách tháo bình đựng đá.)\n•\t Đá có thể không xả ra đúng cách do",
+          "bbox": [
+            699.1151733398438,
+            53.359375,
+            825.9378051757812,
+            94.28740692138672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 18,
+          "text": "ngăn tủ lạnh hoặc tủ đông lạnh.",
+          "bbox": [
+            914.5482177734375,
+            80.35940551757812,
+            1019.0057983398438,
+            94.28740692138672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 19,
+          "text": "Sương giá \nhình thành \ntrong ngăn \nđá.",
+          "bbox": [
+            1061.94970703125,
+            53.359375,
+            1104.9910888671875,
+            94.28740692138672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 20,
+          "text": "thiết bị ra.",
+          "bbox": [
+            1545.2569580078125,
+            80.35940551757812,
+            1578.1392822265625,
+            94.28740692138672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 21,
+          "text": "nếu cửa chưa được đóng hoàn toàn hoặc, độ ẩm cao \nvào mùa hè.\n•\t Đảm bảo có đủ không gian giữa thực phẩm được bảo",
+          "bbox": [
+            8.503899574279785,
+            62.91741943359375,
+            189.65049743652344,
+            94.69579315185547
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 22,
+          "text": "Bạn mới lắp đặt thiết bị gần đây?\n•\t Máy làm đá sản xuất đá bình thường",
+          "bbox": [
+            487.9341125488281,
+            73.6221923828125,
+            616.2687377929688,
+            96.5501937866211
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 23,
+          "text": "trong thiết bị này có cản trở cửa và \nđảm bảo rằng cửa được đóng kín.",
+          "bbox": [
+            1125.7293701171875,
+            80.35940551757812,
+            1238.0458984375,
+            103.28740692138672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 24,
+          "text": "Cửa thiết bị \nkhông được \nđóng chặt.",
+          "bbox": [
+            1270.296142578125,
+            73.62210083007812,
+            1316.72314453125,
+            105.55010223388672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 25,
+          "text": "Có phải thiết bị bị nghiêng về phía \ntrước?\n•\t Điều chỉnh chân trước để hơi nâng",
+          "bbox": [
+            1326.9891357421875,
+            73.62210083007812,
+            1451.7215576171875,
+            105.55010223388672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 26,
+          "text": "trong khi thực phẩm vẫn được bảo quản trong ngăn đá \ncó thể làm tăng nhiệt độ của thực phẩm và giảm thời \ngian bảo quản.\n•\t Thường xuyên vệ sinh bất kỳ bề mặt nào có thể tiếp xúc",
+          "bbox": [
+            219.68499755859375,
+            64.200927734375,
+            412.6117858886719,
+            106.54619598388672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 27,
+          "text": "đường ống bị kẹt. Kiểm tra đá và vệ \nsinh thường xuyên đường đá ra.",
+          "bbox": [
+            706.2017822265625,
+            89.35940551757812,
+            823.4035034179688,
+            112.28740692138672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 28,
+          "text": "quản trên khay hoặc giỏ cửa để cửa được đóng hoàn toàn.\n•\t Việc mở cửa trong thời gian dài có thể làm tăng đáng kể",
+          "bbox": [
+            8.503899574279785,
+            89.26779174804688,
+            199.92486572265625,
+            112.54619598388672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 29,
+          "text": "mặt trước lên.",
+          "bbox": [
+            1334.0758056640625,
+            100.62210083007812,
+            1379.7310791015625,
+            114.55010223388672
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 30,
+          "text": "Có đồ vật nằm trên nóc của thiết bị?\n•\t Bỏ đồ vật nằm trên nóc của thiết bị xuống.",
+          "bbox": [
+            1538.1702880859375,
+            92.12091064453125,
+            1665.5457763671875,
+            115.04891204833984
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 31,
+          "text": "Có phải bạn đã lưu trữ quá nhiều \nthực phẩm?\n•\t Duy trì khoảng cách phù hợp giữa",
+          "bbox": [
+            907.4614868164062,
+            92.12091064453125,
+            1028.51513671875,
+            124.04891204833984
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 32,
+          "text": "sau khoảng 48 giờ trôi qua kể từ khi \nthiết bị được lắp đặt.\n•\t Nếu nhiệt độ ngăn tủ lạnh quá thấp,",
+          "bbox": [
+            487.9341125488281,
+            91.6221923828125,
+            615.3759765625,
+            124.40059661865234
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 33,
+          "text": "với thực phẩm.\n•\t Khi lau chùi bên trong hay bên ngoài thiết bị, không lau",
+          "bbox": [
+            219.68499755859375,
+            101.61819458007812,
+            409.0108642578125,
+            125.96349334716797
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 34,
+          "text": "nhiệt độ trong các ngăn của thiết bị.\n•\t Nếu để trống tủ lạnh trong thời gian dài, hãy tắt nguồn,",
+          "bbox": [
+            8.503899574279785,
+            107.11819458007812,
+            198.3480682373047,
+            130.39659118652344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 35,
+          "text": "các thực phẩm.",
+          "bbox": [
+            914.5482177734375,
+            119.12091064453125,
+            964.32177734375,
+            133.0489044189453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 36,
+          "text": "Có phải bạn đã cho vào tủ lạnh đồ \năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn trước khi đặt vào",
+          "bbox": [
+            1118.6427001953125,
+            101.12091064453125,
+            1241.8050537109375,
+            133.0489044189453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 37,
+          "text": "Các khay đã được lắp ráp đúng cách?\n•\t Lắp lại các khay nếu cần thiết.",
+          "bbox": [
+            1326.9891357421875,
+            112.38360595703125,
+            1453.95947265625,
+            135.3115997314453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 38,
+          "text": "Nước",
+          "bbox": [
+            639.2125854492188,
+            116.39738464355469,
+            666.5960083007812,
+            135.5483856201172
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 39,
+          "text": "Máy tự động \nkhông sản \nxuất nước đá \nhoặc sản xuất \nmột lượng \nnhỏ đá.",
+          "bbox": [
+            431.2412109375,
+            73.6221923828125,
+            483.1171875,
+            135.55018615722656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 40,
+          "text": "Tiếng nhấp \nchuột",
+          "bbox": [
+            1481.477294921875,
+            112.88238525390625,
+            1524.430419921875,
+            135.8103790283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 41,
+          "text": "ngăn tủ lạnh hoặc tủ đông lạnh.",
+          "bbox": [
+            1125.7293701171875,
+            128.12091064453125,
+            1230.1875,
+            142.0489044189453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 42,
+          "text": "bộ lọc nước có thể bị đóng băng, \nngăn nước chảy vào máy làm đá.",
+          "bbox": [
+            495.02069091796875,
+            119.47259521484375,
+            604.3383178710938,
+            142.4005889892578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 43,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            646.2730712890625,
+            140.70379638671875,
+            824.9988403320312,
+            154.6317901611328
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 44,
+          "text": "giã đông, vệ sinh, lau khô và để cửa mở để tránh nấm \nmốc phát triển bên trong thiết bị.\n•\t Lưu ý rằng sự gia tăng nhiệt độ sau khi rã đông có một",
+          "bbox": [
+            8.503899574279785,
+            124.96859741210938,
+            191.58731079101562,
+            156.7469940185547
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 45,
+          "text": "bằng bàn chải thô, kem đánh răng, hoặc các vật liệu dễ \ncháy. Không sử dụng các chất làm sạch chứa các chất \ndễ bắt lửa. Điều này có thể làm đổi màu hoặc hư hỏng \nthiết bị.",
+          "bbox": [
+            226.7716064453125,
+            121.03549194335938,
+            407.9891357421875,
+            161.96348571777344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 46,
+          "text": "Có phải cửa thiết bị chưa đóng \nhoàn toàn?\n•\t Đóng khít cửa và đảm bảo rằng thực",
+          "bbox": [
+            907.4614868164062,
+            130.88238525390625,
+            1031.3087158203125,
+            162.8103790283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 47,
+          "text": "Bạn đã đóng cửa với lực mạnh quá \nmức?\n•\t Nếu bạn dùng quá nhiều lực hoặc đóng",
+          "bbox": [
+            1326.9891357421875,
+            133.14511108398438,
+            1455.5748291015625,
+            165.07310485839844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 48,
+          "text": "-\t Các chất dễ cháy: cồn (ethanol, methanol, rượu",
+          "bbox": [
+            228.18899536132812,
+            157.03549194335938,
+            388.7518310546875,
+            170.96348571777344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 49,
+          "text": "phẩm được lưu trữ không cản trở cửa.",
+          "bbox": [
+            914.5482177734375,
+            157.88238525390625,
+            1034.378173828125,
+            171.8103790283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 50,
+          "text": "Có phải lối ra và vào của không khí \ntrong ngăn đá bị chặn?\n•\t Hãy chắc chắn rằng lối ra và vào của",
+          "bbox": [
+            1118.6427001953125,
+            139.88238525390625,
+            1245.509033203125,
+            171.8103790283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 51,
+          "text": "Bạn đã kết nối đường ống cấp nước \ncho thiết bị và mở van cấp nước?\n•\t Kết nối đường ống cấp nước cho thiết",
+          "bbox": [
+            487.9341125488281,
+            140.23410034179688,
+            616.1104736328125,
+            172.16209411621094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 52,
+          "text": "Nước không \nchảy ra.",
+          "bbox": [
+            642.4223022460938,
+            155.29998779296875,
+            690.05615234375,
+            178.2279815673828
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 53,
+          "text": "Bình đựng nước có thể hết nước.\n•\t Đổ nước vào bình đựng nước phân",
+          "bbox": [
+            699.1151733398438,
+            155.29998779296875,
+            821.84814453125,
+            178.2279815673828
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 54,
+          "text": "Hệ thống điều khiển rã đông sẽ phát ra \ntiếng nhấp chuột khi chu trình rã đông \ntự động bắt đầu và kết thúc. Việc kiểm \nsoát nhiệt (hoặc điều khiển thiết bị trên \nmột số model) cũng sẽ phát ra tiếng \nnhấp chuột khi chu trình bật và tắt.\n•\t Vận hành bình thường",
+          "bbox": [
+            1538.1702880859375,
+            112.88238525390625,
+            1666.9248046875,
+            180.8103790283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 55,
+          "text": "bị và mở hoàn toàn van cấp nước.",
+          "bbox": [
+            495.02069091796875,
+            167.23410034179688,
+            601.278564453125,
+            181.16209411621094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 56,
+          "text": "phối.",
+          "bbox": [
+            706.2017822265625,
+            173.29998779296875,
+            722.4881591796875,
+            187.2279815673828
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 57,
+          "text": "không khí không bị chặn và không \nkhí có thể lưu thông bên trong.",
+          "bbox": [
+            1125.7293701171875,
+            166.88238525390625,
+            1239.5543212890625,
+            189.8103790283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 58,
+          "text": "phạm vi cho phép trong thông số kỹ thuật của thiết bị. Nếu \nbạn muốn giảm thiểu tác động của sự gia tăng nhiệt độ \nnày lên thực phẩm được bảo quản, hãy đóng kín hoặc bọc \nthực phẩm bằng nhiều lớp.",
+          "bbox": [
+            15.590499877929688,
+            151.31900024414062,
+            201.26113891601562,
+            191.84690856933594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 59,
+          "text": "cửa quá nhanh, cửa có thể vẫn mở \ntrước khi đóng. Đảm bảo bạn không \nđóng sập cửa. Đóng cửa tủ nhẹ nhàng.",
+          "bbox": [
+            1334.0758056640625,
+            160.14511108398438,
+            1451.3914794921875,
+            192.07310485839844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 60,
+          "text": "isopropyl, rượu isobutyl, vv), chất pha loãng, thuốc tẩy, \nbenzen, chất lỏng dễ cháy, ăn mòn...\n•\t Sau khi làm sạch, kiểm tra xem cáp điện có bị hỏng",
+          "bbox": [
+            219.68499755859375,
+            166.03549194335938,
+            411.64788818359375,
+            197.96348571777344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 61,
+          "text": "Liệu có đủ không gian xung quanh \nthiết bị?\n•\t Điều chỉnh vị trí lắp đặt để đảm bảo",
+          "bbox": [
+            907.4614868164062,
+            169.64401245117188,
+            1034.876708984375,
+            201.57200622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 62,
+          "text": "Tiếng róc \nrách",
+          "bbox": [
+            1481.477294921875,
+            178.64401245117188,
+            1517.18798828125,
+            201.57200622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 63,
+          "text": "Đường ống cung cấp nước bị cong?\n•\t Nếu đường ống cấp nước bị cong,",
+          "bbox": [
+            487.9341125488281,
+            178.99569702148438,
+            614.639892578125,
+            201.92369079589844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 64,
+          "text": "không.",
+          "bbox": [
+            226.7716064453125,
+            193.03549194335938,
+            249.22840881347656,
+            206.96348571777344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 65,
+          "text": "đủ không gian xung quanh thiết bị.",
+          "bbox": [
+            914.5482177734375,
+            196.64401245117188,
+            1031.93994140625,
+            210.57200622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 66,
+          "text": "Đồ trong ngăn đá quá đầy?\n•\t Duy trì khoảng cách phù hợp giữa",
+          "bbox": [
+            1118.6427001953125,
+            187.64401245117188,
+            1238.2510986328125,
+            210.57200622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 67,
+          "text": "dòng chảy của nước có thể bị cản trở.",
+          "bbox": [
+            495.02069091796875,
+            196.99569702148438,
+            614.5667724609375,
+            210.92369079589844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 68,
+          "text": "Bảo quản hiệu quả thực phẩm",
+          "bbox": [
+            11.338600158691406,
+            196.4259033203125,
+            161.74545288085938,
+            212.1779022216797
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 69,
+          "text": "Bạn đang sử dụng nước không \nđược lọc?\n•\t Nước không được lọc có thể chứa",
+          "bbox": [
+            699.1151733398438,
+            185.06149291992188,
+            815.2723999023438,
+            216.98948669433594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 70,
+          "text": "các thực phẩm.",
+          "bbox": [
+            1125.7293701171875,
+            205.64401245117188,
+            1175.503173828125,
+            219.57200622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 71,
+          "text": "Khó khăn khi \nmở cửa thiết \nbị.",
+          "bbox": [
+            1270.296142578125,
+            189.90670776367188,
+            1320.638671875,
+            221.83470153808594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 72,
+          "text": "Bạn đã mở cánh cửa ngay sau khi \nbạn đóng nó?\n•\t Nếu bạn cố gắng để mở cửa thiết bị",
+          "bbox": [
+            1326.9891357421875,
+            189.90670776367188,
+            1449.67626953125,
+            221.83470153808594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 73,
+          "text": "Vệ sinh Phần bên ngoài",
+          "bbox": [
+            222.5196990966797,
+            211.54238891601562,
+            340.4061584472656,
+            227.2943878173828
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 74,
+          "text": "•\t Thực phẩm có thể đóng băng hoặc hỏng nếu được bảo",
+          "bbox": [
+            8.503899574279785,
+            213.78118896484375,
+            197.9016876220703,
+            227.7091827392578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 75,
+          "text": "Thiết bị có \nmùi hôi.",
+          "bbox": [
+            850.7686157226562,
+            208.40548706054688,
+            890.6375732421875,
+            231.33348083496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 76,
+          "text": "Tiếng lạch cạch có thể phát ra từ \ndòng chảy của thiết bị, đường \nnước ở mặt sau của thiết bị (chỉ với \nmẫu máy có bơm) hoặc các đồ bảo \nquản quanh thiết bị.\n•\t Vận hành bình thường",
+          "bbox": [
+            1538.1702880859375,
+            178.64401245117188,
+            1667.1143798828125,
+            237.57200622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 77,
+          "text": "Có phải tủ lạnh hoặc tủ đông lạnh \nđược cài đặt ở nhiệt độ cao nhất?\n•\t Cài đặt nhiệt độ ngăn mát hoặc ngăn",
+          "bbox": [
+            907.4614868164062,
+            208.40548706054688,
+            1037.502685546875,
+            240.33348083496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 78,
+          "text": "Bạn đã lấy đi một lượng đá lớn gần \nđây?\n•\t Phải mất khoảng 24 giờ để sản xuất",
+          "bbox": [
+            487.9341125488281,
+            208.7572021484375,
+            616.2021484375,
+            240.68519592285156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 79,
+          "text": "một lượng lớn các kim loại nặng khác \nnhau hoặc các chất lạ, khiến bộ lọc có \nthể bị tắc ngay cả khi mới sử dụng.",
+          "bbox": [
+            706.2017822265625,
+            212.06149291992188,
+            828.1205444335938,
+            243.98948669433594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 80,
+          "text": "•\t Nếu vệ sinh các lỗ thông gió bên ngoài của thiết bị bằng",
+          "bbox": [
+            219.68499755859375,
+            230.41500854492188,
+            412.22930908203125,
+            244.34300231933594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 81,
+          "text": "đá ở mức lạnh hơn.",
+          "bbox": [
+            914.5482177734375,
+            235.40548706054688,
+            977.555419921875,
+            249.33348083496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 82,
+          "text": "quản ở nhiệt độ không phù hợp. Hãy cài đặt tủ lạnh ở \nmức nhiệt độ phù hợp với thực phẩm được bảo quản.\n•\t Bảo quản thực phẩm đông lạnh hoặc thực phẩm lạnh",
+          "bbox": [
+            8.503899574279785,
+            222.28118896484375,
+            192.07687377929688,
+            254.05958557128906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 83,
+          "text": "Có phải bạn đã mở và đóng cửa thiết \nbị thường xuyên hoặc cửa thiết bị \nkhông được đóng đúng cách?\n•\t Sương giá hoặc nước ngưng tụ có thể",
+          "bbox": [
+            1118.6427001953125,
+            217.40548706054688,
+            1248.328125,
+            258.33349609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 84,
+          "text": "đá trong Máy làm đá tự động. Xin vui \nlòng chờ.",
+          "bbox": [
+            495.02069091796875,
+            235.7572021484375,
+            616.8375244140625,
+            258.6852111816406
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 85,
+          "text": "trong vòng một phút sau khi bạn đóng \nnó, bạn có thể gặp khó khăn vì áp suất \nbên trong thiết bị. Hãy cố gắng mở cửa \nthiết bị một lần nữa sau một vài phút \nđể áp suất bên trong ổn định.",
+          "bbox": [
+            1334.0758056640625,
+            216.90670776367188,
+            1456.271484375,
+            266.834716796875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 86,
+          "text": "Làm mát",
+          "bbox": [
+            639.2125854492188,
+            248.0994110107422,
+            683.0794677734375,
+            267.25042724609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 87,
+          "text": "Thiết bị không được đặt trên sàn \nbằng phẳng\n•\t Sàn nhà yếu hoặc không bằng",
+          "bbox": [
+            1538.1702880859375,
+            235.40548706054688,
+            1658.21533203125,
+            267.33349609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 88,
+          "text": "Bạn đã để vào thực phẩm nặng mùi?\n•\t Bảo quản thực phẩm nặng mùi",
+          "bbox": [
+            907.4614868164062,
+            247.1671142578125,
+            1034.48828125,
+            270.0951232910156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 89,
+          "text": "trong hộp kín.\n•\t Kiểm tra ngày hết hạn và nhãn (hướng dẫn bảo quản)",
+          "bbox": [
+            8.503899574279785,
+            248.631591796875,
+            191.76731872558594,
+            271.909912109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 90,
+          "text": "hình thành nếu không khí bên ngoài \nthâm nhập vào bên trong thiết bị.",
+          "bbox": [
+            1125.7293701171875,
+            253.40548706054688,
+            1242.2960205078125,
+            276.33349609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 91,
+          "text": "trong hộp chứa kín.",
+          "bbox": [
+            914.5482177734375,
+            265.1671142578125,
+            978.36181640625,
+            279.0951232910156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 92,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            646.2730712890625,
+            272.4059143066406,
+            824.9988403320312,
+            286.33392333984375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 93,
+          "text": "trước khi bảo quản thức ăn trong thiết bị.\n•\t Không bảo quản thực phẩm trong khoảng thời gian dài",
+          "bbox": [
+            8.503899574279785,
+            266.4819030761719,
+            197.64968872070312,
+            289.76031494140625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 94,
+          "text": "Sương giá \nhoặc nước \nngưng tụ đã \nhình thành \nbên trong \nhoặc bên \nngoài thiết \nbị.",
+          "bbox": [
+            1061.94970703125,
+            217.40548706054688,
+            1109.52490234375,
+            294.33349609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 95,
+          "text": "phẳng có thể được điều chỉnh bằng \nchân điều chỉnh độ cao. Tham khảo \nphần Điều chỉnh Cửa.",
+          "bbox": [
+            1545.2569580078125,
+            262.4054870605469,
+            1663.3370361328125,
+            294.33349609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 96,
+          "text": "Bạn đã chuyển công tắc của máy \nlàm đá hoặc nút làm đá tự động trên \nbảng điều khiển sang chế độ ON?\n•\t Nhấn I trên công tắc của máy làm đá",
+          "bbox": [
+            487.9341125488281,
+            256.5187072753906,
+            616.1636352539062,
+            297.44671630859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 97,
+          "text": "cách hút bụi thì phải rút dây điện ra khỏi ổ cắm để tránh \nhiện tượng xả tĩnh điện có thể làm hỏng các linh kiện \nđiện tử hoặc gây ra giật điện. Nên thường xuyên vệ sinh \nnắp thông gió phía sau và bên cạnh để thiết bị vận hành \nhiệu quả và tiết kiệm chi phí.\n•\t Giữ vệ sinh các lỗ thông gió bên ngoài thiết bị. Lỗ thông",
+          "bbox": [
+            219.68499755859375,
+            240.0150146484375,
+            412.13580322265625,
+            303.3603210449219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 98,
+          "text": "Chân điều chỉnh độ cao phía trước \nđã được kéo dài, mặt phẳng tủ lạnh \nvà các cửa đã được chỉnh chưa?\n•\t Khi các giỏ cửa được chất đầy, cửa có",
+          "bbox": [
+            1326.9891357421875,
+            264.668212890625,
+            1455.9326171875,
+            305.5962219238281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 99,
+          "text": "Có phải môi trường lắp đặt thiết bị \nquá ẩm ướt?\n•\t Sự ngưng tụ có thể xuất hiện ở bên",
+          "bbox": [
+            1118.6427001953125,
+            274.1671142578125,
+            1243.1324462890625,
+            306.0951232910156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 100,
+          "text": "nếu là thực phẩm dễ bị hỏng ở nhiệt độ thấp.\n•\t Không đặt thực phẩm chưa đông lạnh tiếp xúc trực tiếp",
+          "bbox": [
+            8.503899574279785,
+            284.3323059082031,
+            198.49205017089844,
+            307.6107177734375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 101,
+          "text": "Các loại rau hoặc trái cây có thể bị \nthối trong ngăn đựng rau\n•\t Vứt bỏ rau thối và làm sạch ngăn",
+          "bbox": [
+            907.4614868164062,
+            276.9285888671875,
+            1031.5465087890625,
+            308.8565979003906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 102,
+          "text": "Có phải nguồn điện bị ngắt?\n•\t Kiểm tra nguồn điện của các thiết bị khác.",
+          "bbox": [
+            699.1151733398438,
+            287.0021057128906,
+            825.5926513671875,
+            309.93011474609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 103,
+          "text": "Miếng đệm \ncửa không \ngấp lại trong \nvà ngoài \nđúng cách.",
+          "bbox": [
+            1270.296142578125,
+            264.668212890625,
+            1319.173828125,
+            314.5962219238281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 104,
+          "text": "gió bị tắc có thể gây cháy nổ hoặc làm hư hỏng thiết bị.\n•\t Để vệ sinh bên ngoài thiết bị, sử dụng miếng bọt biển",
+          "bbox": [
+            219.68499755859375,
+            299.03228759765625,
+            406.81488037109375,
+            323.97772216796875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 105,
+          "text": "Thiết bị với máy nén đã bị dịch \nchuyển khi đang vận hành.\n•\t Vận hành bình thường. Nếu máy nén",
+          "bbox": [
+            1538.1702880859375,
+            292.1669921875,
+            1662.0308837890625,
+            324.0950012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 106,
+          "text": "đựng rau. Không lưu trữ rau quá lâu \ntrong ngăn rau.",
+          "bbox": [
+            914.5482177734375,
+            303.9285888671875,
+            1034.2987060546875,
+            326.8565979003906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 107,
+          "text": "Không thể \nlàm lạnh \nhoặc đông \nlạnh.",
+          "bbox": [
+            642.4223022460938,
+            287.0021057128906,
+            682.6961059570312,
+            327.93011474609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 108,
+          "text": "Thiết bị bị rút phích cắm.\n•\t Cắm phích cắm điện vào ổ cắm một",
+          "bbox": [
+            699.1151733398438,
+            307.76361083984375,
+            824.5338745117188,
+            330.6916198730469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 109,
+          "text": "cách chắc chắn.",
+          "bbox": [
+            706.2017822265625,
+            325.76361083984375,
+            757.5808715820312,
+            339.6916198730469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 110,
+          "text": "không dừng kêu lạch tạch sau ba phút, \ntắt điện thiết bị và sau đó bật lại.",
+          "bbox": [
+            1545.2569580078125,
+            319.1669921875,
+            1668.1854248046875,
+            342.0950012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 111,
+          "text": "ngoài của thiết bị nếu khu vực lắp \nthiết bị quá ẩm ướt hoặc vào một \nngày ẩm ướt như ngày mưa. Lau \nsạch hơi ẩm với một miếng vải khô.",
+          "bbox": [
+            1125.7293701171875,
+            301.1671142578125,
+            1240.2239990234375,
+            342.0951232910156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 112,
+          "text": "với thực phẩm đông lạnh. Có thể cần giảm số lượng \nthực phẩm cần làm lạnh nếu dự kiến cần làm đông lạnh \nhàng ngày.\n•\t Đặt thực phẩm lạnh hoặc thực phẩm đông lạnh vào tủ",
+          "bbox": [
+            8.503899574279785,
+            302.1827087402344,
+            198.98887634277344,
+            342.4610900878906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 113,
+          "text": "Ngưng tụ và sương giá",
+          "bbox": [
+            847.5590209960938,
+            330.9665222167969,
+            962.0820922851562,
+            350.1175231933594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 114,
+          "text": "tự động hoặc cài đặt ON cho nút điều \nkhiển máy làm đá tự động trên bảng \nđiều khiển. (Để biết thêm chi tiết về \ncách sử dụng, hãy truy cập trang web \ncủa LG Electronics hoặc sử dụng điện \nthoại thông minh của bạn.)",
+          "bbox": [
+            495.02069091796875,
+            292.5187072753906,
+            616.0679321289062,
+            351.44671630859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 115,
+          "text": "lạnh hoặc tủ đông lạnh ngay lập tức sau khi mua.\n•\t Đựng thịt và cá sống bằng các hộp chứa thích hợp trong",
+          "bbox": [
+            8.503899574279785,
+            337.0330810546875,
+            201.2928924560547,
+            360.3114929199219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 116,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            854.619384765625,
+            355.27301025390625,
+            1033.3450927734375,
+            369.2010192871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 117,
+          "text": "Tiếng ù ù\nĐộng cơ quạt của dàn lạnh tuần \nhoàn không khí lưu thông qua các \nngăn tủ lạnh và tủ đông lạnh.\n•\t Vận hành bình thường",
+          "bbox": [
+            1481.477294921875,
+            339.9285888671875,
+            1663.2550048828125,
+            380.8565979003906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 118,
+          "text": "Nhiệt độ của ngăn đá được cài đặt \nquá cao?\n•\t Nếu nhiệt độ cài đặt quá ấm, đá sẽ",
+          "bbox": [
+            487.9341125488281,
+            349.28021240234375,
+            613.4950561523438,
+            381.2082214355469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 119,
+          "text": "sạch hoặc vải mềm và chất tẩy rửa nhẹ với nước ấm. \nKhông sử dụng chất tẩy rửa ăn mòn hoặc chất tẩy \nmạnh. Lau khô kĩ bằng vải mềm. Không sử dụng vải bẩn \nđể vệ sinh cửa bằng thép không gỉ. Luôn sử dụng vải \nmềm và lau thuận chiều thớ vải. Cách này giúp bề mặt \nthiết bị không bị xỉn và biến màu.",
+          "bbox": [
+            226.77169799804688,
+            319.6496887207031,
+            411.1925964355469,
+            381.5777282714844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 120,
+          "text": "tủ lạnh sao cho các thực phẩm này không tiếp xúc hoặc \nrỉ nước lên thực phẩm khác.\n•\t Có thể đặt thực phẩm lạnh và các món thực phẩm khác",
+          "bbox": [
+            8.503899574279785,
+            354.88348388671875,
+            198.44886779785156,
+            386.6618957519531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 121,
+          "text": "Bên hông \nhoặc mặt \ntrước của \nthiết bị ấm \nnóng.",
+          "bbox": [
+            1061.94970703125,
+            339.9285888671875,
+            1104.0855712890625,
+            389.8565979003906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 122,
+          "text": "Có các ống chống ngưng tụ được \nlắp ở các khu vực này của thiết bị \nđể giảm sự ngưng tụ hình thành \nxung quanh khu vực cửa.\n•\t Ống tỏa nhiệt để ngăn chặn sự",
+          "bbox": [
+            1118.6427001953125,
+            339.9285888671875,
+            1240.5667724609375,
+            389.8565979003906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 123,
+          "text": "Cầu chì trong nhà có thể bị nổ hoặc \nthiết bị đóng ngắt mạch bị ngắt. \nHoặc thiết bị được nối với ổ thiết bị \nngắt mạch nối đất (GFCI) và thiết bị \nđóng ngắt của ổ bị ngắt.\n•\t Kiểm tra hộp điện chính và thay cầu chì",
+          "bbox": [
+            699.1151733398438,
+            337.52508544921875,
+            828.2977905273438,
+            396.4530944824219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 124,
+          "text": "Có phải bạn đã cho vào tủ lạnh đồ \năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn nóng trước khi đặt",
+          "bbox": [
+            907.4614868164062,
+            369.86907958984375,
+            1033.8306884765625,
+            401.7970886230469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 125,
+          "text": "Vệ sinh Phần bên trong",
+          "bbox": [
+            222.5196990966797,
+            386.1565246582031,
+            339.23577880859375,
+            401.90850830078125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 126,
+          "text": "trên ngăn đựng rau.\n•\t Tránh làm đông lại thực phẩm đã được rã đông hoàn",
+          "bbox": [
+            8.503899574279785,
+            381.23388671875,
+            183.98768615722656,
+            404.5122985839844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 127,
+          "text": "thể bị lệch, cản trở hoạt động bình \nthường của thanh đứng khung cửa hoặc \nchức năng Cửa mở tự động. Kéo dài \nhai chân chỉnh thăng bằng ở mặt trước \nđủ để chúng chống chắc chắn lên sàn \nnhà. Thực hiện theo hướng dẫn trong \nmục Điều chỉnh cửa để nâng cánh cửa \ntủ lạnh bên trái cho đến khi thanh đứng \nkhung cửa hoạt động đúng cách trở lại. \nĐiều chỉnh cánh cửa tủ lạnh bên phải \nthẳng hàng với cửa tủ lạnh bên trái.",
+          "bbox": [
+            1334.0758056640625,
+            300.668212890625,
+            1455.914306640625,
+            404.5962219238281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 128,
+          "text": "Không khí bị đẩy vào bình ngưng \nbởi quạt của bình ngưng.\n•\t Vận hành bình thường",
+          "bbox": [
+            1538.1702880859375,
+            378.6900939941406,
+            1658.9569091796875,
+            410.61810302734375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 129,
+          "text": "vào ngăn tủ lạnh hoặc tủ đông lạnh.",
+          "bbox": [
+            914.5482177734375,
+            396.86907958984375,
+            1032.3619384765625,
+            410.7970886230469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 130,
+          "text": "được sản xuất chậm hoặc không được \nsản xuất. Cài đặt nhiệt độ Tủ đông lạnh \nở -18 °C để máy làm đá tự động có thể \nhoạt động bình thường.",
+          "bbox": [
+            495.02069091796875,
+            376.28021240234375,
+            617.1419067382812,
+            417.2082214355469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 131,
+          "text": "•\t Khi tháo khay hay ngăn từ bên trong thiết bị, lấy tất cả",
+          "bbox": [
+            219.68499755859375,
+            404.95831298828125,
+            408.4018249511719,
+            418.8863220214844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 132,
+          "text": "Có ngưng tụ \nbên trong \nthiết bị hoặc \ndưới đáy của \nnắp ngăn rau.",
+          "bbox": [
+            850.7686157226562,
+            369.86907958984375,
+            901.7923583984375,
+            419.7970886230469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 133,
+          "text": "Đèn hỏng\n•\t Đóng cửa thiết bị sau đó mở lại. Nếu đèn",
+          "bbox": [
+            1326.9891357421875,
+            402.4296875,
+            1456.921875,
+            425.3576965332031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 134,
+          "text": "toàn. Làm đông lại thực phẩm đã được rã đông hoàn toàn \ncó thể khiến thực phẩm bị giảm mùi vị và dinh dưỡng.\n•\t Đừng để thiết bị quá đầy. Không khí lạnh không thể lưu",
+          "bbox": [
+            8.503899574279785,
+            399.08428955078125,
+            200.18360900878906,
+            430.8627014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 135,
+          "text": "Tiếng rít\nThiết bị đang chạy hệ thống làm mát.\n•\t Vận hành bình thường",
+          "bbox": [
+            1481.477294921875,
+            408.45159912109375,
+            1665.024169921875,
+            431.3796081542969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 136,
+          "text": "Bạn đã để cửa thiết bị mở?\n•\t Mặc dù sự ngưng tụ sẽ biến mất ngay",
+          "bbox": [
+            907.4614868164062,
+            408.6307067871094,
+            1033.0926513671875,
+            431.5587158203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 137,
+          "text": "hoặc đặt lại cầu dao. Không tăng công \nsuất cầu chì. Nếu sự cố là do mạch quá tải \nthì hãy thuê thợ điện lành nghề khắc phục.\n•\t Bật lại thiết bị đóng ngắt mạch trên",
+          "bbox": [
+            699.1151733398438,
+            391.52508544921875,
+            827.0081176757812,
+            433.8703918457031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 138,
+          "text": "Đèn bên \ntrong thiết bị \nkhông sáng.",
+          "bbox": [
+            1270.296142578125,
+            402.4296875,
+            1321.19775390625,
+            434.3576965332031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 139,
+          "text": "Bạn đã mở cửa thiết bị thường xuyên?\n•\t Nếu bạn mở cửa thiết bị thường xuyên,",
+          "bbox": [
+            487.9341125488281,
+            415.04180908203125,
+            615.7739868164062,
+            437.9698181152344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 140,
+          "text": "thông tốt nếu thiết bị quá đầy.\n•\t Làm nguội thức ăn nóng trước khi cho vào bảo quản.",
+          "bbox": [
+            8.503899574279785,
+            425.4346923828125,
+            190.33450317382812,
+            448.7131042480469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 141,
+          "text": "sau khi bạn đóng cửa thiết bị nhưng \nbạn cũng có thể lau bằng vải khô.",
+          "bbox": [
+            914.5482177734375,
+            426.6307067871094,
+            1027.836181640625,
+            449.5587158203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 142,
+          "text": "vẫn không bật, vui lòng liên hệ Trung \ntâm thông tin khác hàng LG Electronics. \nKhông nên tìm cách tháo đèn.",
+          "bbox": [
+            1334.0758056640625,
+            420.4296875,
+            1453.8868408203125,
+            452.3576965332031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 143,
+          "text": "ngưng tụ được lắp ở mặt trước và \nbên hông của thiết bị. Bạn có thể \ncảm thấy nó đặc biệt nóng ngay sau \nkhi thiết bị được lắp đặt hoặc vào \nmùa hè. Bạn có thể yên tâm rằng \nđây không phải là một vấn đề gì và \nnó hoàn toàn bình thường.",
+          "bbox": [
+            1125.7293701171875,
+            384.9285888671875,
+            1245.4727783203125,
+            452.8565979003906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 144,
+          "text": "thiết bị ngắt mạch nối đất (GFCI). \nNếu vấn đề chưa được giải quyết, \nhãy liên hệ với thợ điện.",
+          "bbox": [
+            706.2017822265625,
+            428.9423828125,
+            816.772216796875,
+            460.8703918457031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 145,
+          "text": "Tiếng lộp bộp\nSự co và giãn của các bức tường bên \ntrong do thay đổi nhiệt độ.\n•\t Vận hành bình thường",
+          "bbox": [
+            1481.4771728515625,
+            429.2131042480469,
+            1664.065185546875,
+            461.14111328125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 146,
+          "text": "không khí lạnh sẽ thoát ra, làm giảm tốc \nđộ sản xuất nước đá. Đừng mở hoặc \nđóng cửa thiết bị quá thường xuyên.",
+          "bbox": [
+            495.02069091796875,
+            433.04180908203125,
+            615.653076171875,
+            464.9698181152344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 147,
+          "text": "các thực phẩm được bảo quản trên khay hoặc ngăn \nra để tránh thương tích hoặc hư hại cho thiết bị. Nếu \nkhông, chấn thương có thể xảy ra do trọng lượng của \ncác thực phẩm được bảo quản.\n•\t Tháo các khay và ngăn và làm sạch chúng với nước, và",
+          "bbox": [
+            219.68499755859375,
+            414.55828857421875,
+            408.62994384765625,
+            468.3036193847656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 148,
+          "text": "Liệu có nước rò rỉ xung quanh thiết bị?\n•\t Kiểm tra xem nước đã bị rò rỉ từ bồn",
+          "bbox": [
+            1118.6427001953125,
+            450.6900939941406,
+            1246.868896484375,
+            473.61810302734375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 149,
+          "text": "Tiếng ồn",
+          "bbox": [
+            1267.0865478515625,
+            456.46771240234375,
+            1309.6663818359375,
+            475.61871337890625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 150,
+          "text": "Bạn mở hoặc đóng cửa thiết bị quá \nthường xuyên?\n•\t Sự ngưng tụ có thể hình thành do",
+          "bbox": [
+            907.4614868164062,
+            447.3922119140625,
+            1035.311767578125,
+            479.3202209472656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 151,
+          "text": "rửa hay chỗ khác.",
+          "bbox": [
+            1125.7294921875,
+            468.6900939941406,
+            1182.91943359375,
+            482.61810302734375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 152,
+          "text": "Làm lạnh \nhoặc đông \nlạnh kém.",
+          "bbox": [
+            642.4223022460938,
+            458.7040100097656,
+            682.6961059570312,
+            490.63201904296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 153,
+          "text": "Có phải tủ lạnh hoặc tủ đông lạnh \nđược cài đặt ở nhiệt độ cao nhất?\n•\t Cài đặt nhiệt độ ngăn mát hoặc ngăn",
+          "bbox": [
+            699.1151733398438,
+            458.7040100097656,
+            829.15625,
+            490.63201904296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 154,
+          "text": "Có nước bên \ntrong hoặc \nbên ngoài \ncủa thiết bị.",
+          "bbox": [
+            1061.94970703125,
+            450.6900939941406,
+            1109.988525390625,
+            491.61810302734375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 155,
+          "text": "Nếu quá nhiều thức ăn nóng được đặt bên trong, nhiệt \nđộ bên trong của thiết bị có thể tăng và ảnh hưởng \nkhông tốt đến các loại thực phẩm khác được bảo quản \ntrong thiết bị.\n•\t Nếu bạn đặt nhiệt độ quá thấp đối với thực phẩm, nó",
+          "bbox": [
+            8.503899574279785,
+            443.28509521484375,
+            196.64886474609375,
+            492.0635070800781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 156,
+          "text": "Triệu chứng\nNguyên nhân có thể xảy ra & giải pháp",
+          "bbox": [
+            1274.14697265625,
+            480.77410888671875,
+            1452.8721923828125,
+            494.7021179199219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 157,
+          "text": "Có phải cửa thiết bị chưa đóng hoàn \ntoàn?\n•\t Nếu cửa thiết bị không được đóng",
+          "bbox": [
+            487.9341125488281,
+            462.80328369140625,
+            612.408935546875,
+            494.7312927246094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 158,
+          "text": "chênh lệch nhiệt độ từ bên ngoài. Lau \nsạch hơi ẩm bằng một miếng vải khô.",
+          "bbox": [
+            914.5482177734375,
+            474.3922119140625,
+            1035.7633056640625,
+            497.3202209472656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 159,
+          "text": "đá ở mức lạnh hơn.",
+          "bbox": [
+            706.2017822265625,
+            485.7040100097656,
+            769.208984375,
+            499.63201904296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 160,
+          "text": "sau đó lau đủ khô, trước khi lắp lại chúng.\n•\t Thường xuyên lau gioăng cửa bằng khăn mềm ẩm.\n•\t Đồ ăn rớt trên giỏ cửa và các vết bẩn phải được làm",
+          "bbox": [
+            219.68499755859375,
+            463.9755859375,
+            400.3425598144531,
+            499.9383239746094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 161,
+          "text": "Có nước ở dưới đáy thiết bị?\n•\t Kiểm tra xem có nước từ thực phẩm",
+          "bbox": [
+            1118.642822265625,
+            480.45159912109375,
+            1244.5797119140625,
+            503.3796081542969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 162,
+          "text": "Rung\nNếu mặt bên hoặc mặt sau của \nthiết bị chạm vào tủ hoặc tường, \nmột số chấn rung bình thường có \nthể phát ra âm thanh.\n•\t Để loại bỏ tiếng ồn, đảm bảo rằng",
+          "bbox": [
+            1481.4771728515625,
+            458.9747009277344,
+            1660.6341552734375,
+            508.9027099609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 163,
+          "text": "có thể bị đóng đá. Đừng đặt nhiệt độ thấp hơn nhiệt độ \ncần thiết để thực phẩm được bảo quản đúng cách.\n•\t Nếu có khoang ướp lạnh trong thiết bị, không nên chứa",
+          "bbox": [
+            8.503899574279785,
+            486.635498046875,
+            198.89524841308594,
+            518.4138793945312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 164,
+          "text": "đông lạnh rã đông hoặc một bình \nđựng bị rơi hoặc vỡ không.",
+          "bbox": [
+            1125.7294921875,
+            498.45159912109375,
+            1237.3800048828125,
+            521.3795776367188
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 165,
+          "text": "khít, nhiệt độ của ngăn đá sẽ tăng \nlên, làm chậm tốc độ sản xuất đá. \nĐóng khít cửa thiết bị.",
+          "bbox": [
+            495.02069091796875,
+            489.80328369140625,
+            611.3748779296875,
+            521.7312622070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 166,
+          "text": "mặt bên và mặt sau không tiếp xúc \nvới bất kỳ tường hoặc tủ nào.",
+          "bbox": [
+            1545.2568359375,
+            503.9747314453125,
+            1661.5223388671875,
+            526.9027099609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 167,
+          "text": "Thiết bị được lắp đặt trên một sàn \nyếu hoặc không bằng phẳng?\n•\t Đặt thiết bị trên sàn chắc chắn và",
+          "bbox": [
+            1326.9891357421875,
+            495.37030029296875,
+            1451.721435546875,
+            527.2982788085938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 168,
+          "text": "sạch vì chúng có thể làm tổn hại khả năng lưu trữ của \ngiỏ và thậm chí có thể bị hư hỏng.\n•\t Không được làm sạch khay hoặc hộp đựng trong máy",
+          "bbox": [
+            219.68499755859375,
+            495.61029052734375,
+            407.1064758300781,
+            530.1555786132812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 169,
+          "text": "Bạn đã đặt thức ăn nóng hoặc ẩm \nbên trong mà không đựng nó trong \nmột hộp kín?\n•\t Đựng thực phẩm trong hộp được",
+          "bbox": [
+            907.4614868164062,
+            495.1536865234375,
+            1035.6365966796875,
+            536.0816650390625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 170,
+          "text": "bằng phẳng.",
+          "bbox": [
+            1334.0758056640625,
+            522.3703002929688,
+            1375.5478515625,
+            536.2982788085938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 171,
+          "text": "Có phải thiết bị bị chiếu ánh sáng mặt \ntrời trực tiếp, hoặc nằm gần thiết bị \nsinh nhiệt như bếp hoặc lò sưởi?\n•\t Kiểm tra khu vực lắp đặt và đặt thiết",
+          "bbox": [
+            699.1151733398438,
+            497.46551513671875,
+            829.1103515625,
+            538.3934936523438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 172,
+          "text": "Đá không xả ra.\nKhông nghe được tiếng đá xả ra?\n•\t Trên bảng điều khiển, chọn lần lượt",
+          "bbox": [
+            431.2412109375,
+            519.5648193359375,
+            612.2584228515625,
+            542.4927978515625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 173,
+          "text": "rau quả có hàm lượng ẩm cao hơn trong các khoang \nlạnh vì chúng có thể đóng băng do nhiệt độ thấp hơn.\n•\t Trong trường hợp mất điện, hãy gọi cho công ty điện lực",
+          "bbox": [
+            8.503899574279785,
+            512.9859008789062,
+            200.904052734375,
+            544.7642822265625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 174,
+          "text": "đậy hoặc dán kín.",
+          "bbox": [
+            914.5482177734375,
+            531.1536865234375,
+            971.2913818359375,
+            545.0816650390625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 175,
+          "text": "Thiết bị gây \ntiếng ồn và \ntạo ra những \nâm thanh bất \nthường.",
+          "bbox": [
+            1270.296142578125,
+            495.37030029296875,
+            1322.15478515625,
+            545.2982788085938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 176,
+          "text": "bị cách xa các thiết bị sinh nhiệt.",
+          "bbox": [
+            706.2017822265625,
+            533.4655151367188,
+            811.408203125,
+            547.3934936523438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 177,
+          "text": "chế độ đá viên và đá bào để lấy đá.",
+          "bbox": [
+            495.02069091796875,
+            537.5648193359375,
+            608.6078491210938,
+            551.4927978515625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 178,
+          "text": "và hỏi xem sẽ kéo dài bao lâu.",
+          "bbox": [
+            15.590499877929688,
+            539.3363037109375,
+            113.0280990600586,
+            553.2642822265625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 179,
+          "text": "rửa chén. Các bộ phận có thể trở nên biến dạng do \nnhiệt.\n•\t Hệ thống rã đông tự động trong thiết bị đảm bảo ngăn",
+          "bbox": [
+            219.68499755859375,
+            525.8275756835938,
+            412.5021667480469,
+            560.3728637695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 180,
+          "text": "Có phải phía sau của thiết bị chạm \nvào tường?\n•\t Điều chỉnh vị trí lắp đặt để đảm bảo",
+          "bbox": [
+            1326.9891357421875,
+            534.1317749023438,
+            1452.14599609375,
+            566.0597534179688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 181,
+          "text": "-\t Bạn nên tránh mở cửa trong khi bị mất điện.\n-\t Khi nguồn điện trở lại bình thường, hãy kiểm tra tình",
+          "bbox": [
+            17.00790023803711,
+            548.3363037109375,
+            194.97315979003906,
+            572.6815795898438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 182,
+          "text": "đủ không gian xung quanh thiết bị.",
+          "bbox": [
+            1334.0758056640625,
+            561.1317749023438,
+            1446.3636474609375,
+            575.0597534179688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 183,
+          "text": "không bị tích tụ băng trong điều kiện hoạt động bình \nthường. Người dùng không cần rã đông thủ công.",
+          "bbox": [
+            226.77169799804688,
+            556.044921875,
+            405.64923095703125,
+            579.572998046875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 184,
+          "text": "trạng của thực phẩm.",
+          "bbox": [
+            22.677200317382812,
+            567.7536010742188,
+            92.7907943725586,
+            581.6815795898438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 18.5 (Windows)",
+    "producer": "Adobe PDF Library 17.0",
+    "creationDate": "D:20240423101252+09'00'",
+    "modDate": "D:20240423101253+09'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "•\t Thiết bị này được trang bị dây điện có dây dẫn nối\n\nVận hành\n\ncưng vào trong thiết bị.\n•\t Không đặt các vật nặng hoặc dễ vỡ, thùng chứa\n\n•\t Đừng chạm vào thực phẩm đông lạnh hoặc các\n\n•\t Thiết bị này chứa một lượng nhỏ môi chất làm lạnh\n\nLG Electronics mới được tháo rời, sửa chữa, hoặc\nthay đổi thiết bị. Liên hệ với trung tâm thông\ntin khách hàng LG Electronics nếu bạn cần di\nchuyển và lắp đặt thiết bị tại một địa điểm khác.\n\nđất và phích cắm nối đất. Phích cắm phải được\ncắm vào ổ cắm phù hợp, được lắp đặt và nối đất\ntheo toàn bộ các quy tắc và quy định trong nước.\n•\t Tuyệt đối không được khởi động thiết bị có dấu\n\nHƯỚNG DẪN AN TOÀN\nLG đang nỗ lực kiến tạo tương lai\nbền vững bằng cách chỉ xuất bản\ntrực tuyến các phần của tài liệu\nhướng dẫn này.\n\nbộ phận kim loại trong ngăn đá bằng tay ướt hoặc\nẩm. Nó có thể gây tê cóng.\n•\t Không đặt hộp đựng, chai lọ thủy tinh hay đồ\n\nNguy cơ hỏa hoạn và vật liệu dễ cháy\n\nchất lỏng, chất dễ cháy, các vật dễ cháy (như nến,\nđèn, v.v.), hoặc các thiết bị sưởi ấm (như bếp lò, lò\nsưởi, v.v.) lên trên thiết bị.\n•\t Không đặt bất kỳ thiết bị điện tử (như máy sưởi và\n\nĐỌC TOÀN BỘ HƯỚNG DẪN\nTRƯỚC KHI SỬ DỤNG\n\n•\t Nếu phát hiện có chỗ rò rỉ, cần tránh bất kỳ sự\n\nisobutane (R600a) nhưng vẫn là khí dễ cháy. Khi vận\nchuyển và lắp đặt thiết bị, cần cẩn thận để đảm bảo\nrằng không có bộ phận của mạch làm lạnh bị hư hỏng.\n•\t Chất làm lạnh và khí thổi cách điện được sử dụng\n\nhiệu hư hỏng. Nếu nghi ngờ, hãy tham khảo ý\nkiến đại lý của bạn.\n•\t Để tất cả vật liệu đóng gói (chẳng hạn như túi\n\nđiện thoại di động) bên trong thiết bị.\n•\t Nếu bị rò rỉ gas (isobutane, propane, khí thiên\n\nhộp (đặc biệt là hộp đựng đồ uống có ga) trong\nngăn đá, kệ hoặc khay đá sẽ tiếp xúc với nhiệt\nđộ dưới mức đóng băng.\n•\t Kính cường lực ở mặt trước của cửa thiết bị hoặc\n\nTìm kiếm tài liệu hướng dẫn trực tuyến\n\nnhựa và xốp) cách xa trẻ em. Vật liệu đóng gói có\nthể gây ngạt thở.\n•\t Không cắm thiết bị vào ổ cắm đa cổng mà không\n\ncủa kệ có thể bị vỡ do tác động. Nếu kính bị vỡ,\nkhông được chạm tay vào.\n•\t Không treo đồ lên cửa thiết bị, khoang bảo quản,\n\ntrong thiết bị cần phải được xử lý đặc biệt. Tham\nkhảo ý kiến ​các đại lý dịch vụ hoặc một người có\ntrình độ tương tự trước khi xử lý của chúng.\n•\t Đừng làm hỏng mạch làm lạnh.\n•\t Nếu dây nguồn bị hỏng hoặc lỗ ổ cắm bị lỏng thì\n\nCác hướng dẫn an toàn sau đây nhằm mục đích ngăn\nchặn các rủi ro hoặc hư hỏng không thể lường trước\ntừ việc vận hành sản phẩm không an toàn hoặc không\nđúng cách. Các hướng dẫn được chia thành hai phần\n‘CẢNH BÁO’ và ‘THẬN TRỌNG’ như được mô tả bên dưới.\n\ncó cáp điện (được cắm).\n•\t Các thiết bị phải được nối với một đường dây điện\n\nhoặc leo lên trên đó.\n•\t Không bảo quản một số lượng lớn chai nước hoặc\n\nCẢNH BÁO\n\nchuyên dụng được nối cầu chì riêng.\n•\t Không sử dụng ổ cắm (rời) đa cổng không được\n\ntiếp xúc nào với ngọn lửa hoặc các nguồn có khả\nnăng đánh lửa và không khí trong phòng mà thiết\nbị được đặt trong vài phút. Để tránh việc tạo ra\nmột hỗn hợp khí gas dễ cháy khi mạch làm lạnh bị\nrò rỉ, kích thước của phòng đặt thiết bị phải tương\nứng với số lượng chất làm lạnh sử dụng trong\nthiết bị. Phòng phải đảm bảo 1m² cho mỗi 8g\nR600a chất làm lạnh bên trong thiết bị.\n•\t Chất làm lạnh rò rỉ ra khỏi ống nước có thể bốc\n\nnhiên, v.v.), không chạm vào thiết bị hoặc phích\ncắm và lập tức thông gió cho khu vực Thiết bị này\nsử dụng gas môi chất làm lạnh (isobutane,R600a).\nMặc dù thiết bị sử dụng một lượng nhỏ khí gas\nnhưng đây vẫn là khí dễ cháy. Rò rỉ gas trong khi\nvận chuyển, lắp đặt hay vận hành thiết bị có thể\ngây cháy, nổ hoặc thương tật nếu phát sinh tia lửa.\n•\t Không sử dụng hoặc bảo quản các chất dễ cháy\n\nphải thay thế. Không được sử dụng dây nguồn đó\nvà liên hệ với trung tâm dịch vụ được ủy quyền để\ntránh nguy hiểm.\n•\t Không đặt ổ cắm rời nhiều cổng hoặc nguồn cấp\n\n•\t Để giảm rủi ro cháy, nổ, tử vong, điện giật, thương\n\nTài liệu hướng dẫn sử dụng rút gọn\nnày đề cập đến các thông tin an\ntoàn, vận hành, bảo trì, v.v. của người\ndùng.\nĐể xem toàn bộ hướng dẫn sử dụng,\nhãy quét mã QR trên nhãn.\n\nbình đựng đồ ăn phụ ở giỏ cửa.\n•\t Không mở hoặc đóng cửa bằng lực quá mức cần thiết.\n•\t Nếu bản lề cửa của thiết bị bị hỏng hoặc hoạt\n\ncháy hoặc gây ra một vụ nổ.\n•\t Lượng chất làm lạnh trong thiết bị của bạn được hiển\n\nthị trên bảng thông số kỹ thuật bên trong thiết bị.\n\ndi động ở phía sau thiết bị.\n•\t Cắm chặt phích cắm vào ổ cắm sau khi loại bỏ\n\ntích hoặc bỏng ở người khi sử dụng sản phẩm\nnày, hãy thực hiện theo các biện pháp phòng\nngừa cơ bản, bao gồm các điều sau:\n\nnối đất đúng cách. Trong trường hợp sử dụng ổ\ncắm (rời) đa cổng được nối đất đúng cách, hãy sử\ndụng ổ cắm đa cổng theo công suất định mức\nđiện quy định hiện hành và sử dụng ổ cắm đa\ncổng cho riêng thiết bị này.\n\nhay bắt cháy (ví dụ benzen, cồn, hóa chất, LPG,\nbình xịt dễ cháy, thuốc trừ sâu, chất làm sạch\nkhông khí, mỹ phẩm, vv) gần thiết bị.\n•\t Thiết bị này tích hợp nối đất để phục vụ các mục\n\nđộng không đúng cách, hãy ngưng sử dụng thiết\nbị và liên hệ với trung tâm dịch vụ được ủy quyền.\n•\t Ngăn chặn không để động vật gặm nhấm dây\n\nLắp đặt\n\nsạch hơi ẩm và bụi bẩn.\n•\t Tuyệt đối không rút phích cắm thiết bị bằng cách\n\n•\t Thiết bị này chỉ nên được vận chuyển bởi hai hoặc\n\nVận hành\n\nđích chức năng.\n•\t Chỉ nối với nguồn cấp nước uống được.\n\nAn toàn về Kỹ thuật\n\nđiện hoặc ống nước.\n•\t Đừng bao giờ ăn thực phẩm đông lạnh ngay sau\n\n-\tNếu kết nối với nguồn cấp nước thì chỉ được kết\n\n•\t Không sử dụng thiết bị cho mục đích khác (bảo\n\n•\t Thiết bị này không nhằm dành cho những người\n\nkéo dây điện. Luôn cầm chặt phích cắm và kéo\nthẳng phích cắm ra khỏi ổ cắm.\n•\t Giữ các lỗ thông gió, và các kết cấu gắn liền trong\n\nnối với nguồn cấp nước sinh hoạt.\n\nTìm kiếm hướng dẫn PDF có thể in được\n\nkhi chúng được lấy ra từ trong ngăn đá.\n•\t Đảm bảo không để tay hoặc chân bị kẹp khi mở\n\nnhiều người để giữ thiết bị một cách chắc chắn.\n•\t Đặt thiết bị trên sàn chắc chắn và bằng phẳng.\n•\t Không lắp đặt thiết bị ở nơi có nhiều bụi và ẩm\n\n•\t Chỉ đổ nước uống.\n\nTủ lạnh & Tủ\nđông lạnh\n\nhoặc đóng cửa hoặc cửa trong cửa của thiết bị.\n\nhoặc bên cạnh thiết bị sạch sẽ, không bị tắc nghẽn.\n•\t Không bảo quản chất nổ như bình xon khí chứa\n\n-\tNếu sử dụng máy làm đá hoặc bình chứa nước\n\nquản các vật liệu y tế hoặc thí nghiệm hay để vận\nchuyển) ngoài việc sử dụng để bảo quản thực\nphẩm của gia đình.\n•\t Nếu nước thâm nhập vào các bộ phận điện của\n\nHướng dẫn sử dụng đơn giản\n\nBảo trì\n\ncủa bộ phân phối, hãy đảm bảo chỉ đổ đầy bằng\nnước sinh hoạt.\n\n•\t Thiết bị này được trang bị đèn LED bên trong\n\nnhiên liệu dễ cháy trong thiết bị này.\n•\t Đừng nghiêng thiết bị để kéo hoặc đẩy khi vận chuyển.\n•\t Phải đảm bảo dây cắm điện không bị vướng hay\n\n•\tTrước khi bắt đầu lắp đặt, hãy đọc\n\nTiêu hủy\n\nthiết bị, hãy rút phích cắm điện và liên hệ với trung\ntâm thông tin khách hàng của LG Electronics.\n•\t Rút phích cắm điện khi có giông bão nghiêm trọng,\n\n•\t Khi bỏ thiết bị đi, cần loại bỏ các miếng đệm cửa và để\n\nthấp. Không lắp đặt hoặc bảo quản thiết bị ở bất\nkỳ khu vực ngoài trời hoặc ở bất kỳ chỗ nào chịu\ntác động của điều kiện thời tiết như ánh sáng mặt\ntrời trực tiếp, gió, mưa hoặc nhiệt độ dưới mức\nđóng băng.\n•\t Không đặt thiết bị dưới ánh sáng mặt trời trực\n\như hỏng khi đặt thiết bị.\n•\t Không sử dụng các thiết bị máy móc hoặc các\n\n(bao gồm trẻ em) có năng lực thể chất, giác\nquan hoặc tinh thần bị suy giảm, hoặc thiếu kinh\nnghiệm và kiến thức sử dụng nếu họ không có sự\ngiám sát hoặc hướng dẫn liên quan đến việc sử\ndụng thiết bị từ người chịu trách nhiệm về sự an\ntoàn của họ. Trẻ em cần phải được giám sát để\nđảm bảo rằng các bé không chơi đùa với thiết bị.\n•\t Thiết bị này nhằm để sử dụng trong gia đình và\n\nlại kệ và giỏ tại chỗ và để trẻ em tránh xa khỏi thiết bị.\n\nhoặc khi không sử dụng trong một thời gian dài.\n•\t Không được chạm vào phích cắm hoặc các phần\n\ncác ứng dụng tương tự như:\n\nphương tiện khác để đẩy nhanh quá trình tan băng.\n•\t Không sử dụng máy sấy tóc để làm khô bên trong\n\n-\tkhu bếp cho nhân viên trong cửa hàng, văn\n\nđược bảo hành miễn phí. Không được tháo vỏ\nđèn hay đèn LED để sửa chữa hoặc thay đổi. Hãy\nliên hệ với trung tâm thông tin khách hàng của LG\nElectronics.\n•\t Không lau kệ hoặc nắp thủy tinh bằng nước ấm\n\nTài liệu hướng dẫn sử dụng rút gọn\nnày đề cập đến các thông tin an toàn,\nvận hành và bảo trì của người dùng.\nĐể xem toàn bộ hướng dẫn sử dụng,\nhãy truy cập lg.com và tìm số mẫu\nmáy của bạn;\n1\t Tìm số mẫu máy.\n\nTHẬN TRỌNG\n\ntiếp hoặc tiếp xúc với sức nóng từ các thiết bị tỏa\nnhiệt như bếp lò hoặc lò sưởi.\n•\t Hãy cẩn thận không để hở phía sau của thiết bị\n\nđiều khiển thiết bị bằng tay ướt.\n•\t Không được gập cong dây điện quá mức hoặc đặt\n\nphòng và các môi trường làm việc khác;\n\n-\t gia đình nông thôn, dành cho khách hàng trong khách\n\n•\t Để giảm thiểu những rủi ro có thể gây ra thương tích\n\nmột vật nặng lên dây.\n•\t Ngay lập tức rút phích điện ra và liên hệ với trung\n\ncủa thiết bị hoặc đặt một ngọn nến bên trong để\nloại bỏ mùi.\n•\t Không sử dụng các thiết bị điện bên trong\n\nkhi lắp đặt.\n•\t Lắp đặt thiết bị ở nơi dễ rút phích cắm của thiết bị.\n•\t Hãy cẩn thận không để thiết bị cửa rơi ra khi lắp\n\nsạn, nhà nghỉ và các loại hình cơ sở lưu trú khác;\n-\tcác loại hình cơ sở lưu trú cung cấp chỗ nghỉ\n\nkỹ những hướng dẫn này. Điều này\nsẽ đơn giản hoá quá trình lắp đặt\nvà đảm bảo sản phẩm được lắp đặt\nđúng cách và an toàn. Để hướng\ndẫn này ở gần sản phẩm sau khi lắp\nđặt để sau này tham khảo.\n•\tHướng dẫn này có thể có các hình\n\nkhi chúng đang lạnh. Chúng có thể bị vỡ nếu tiếp\nxúc với nhiệt độ thay đổi đột ngột.\n•\t Không lắp kệ lộn ngược. Kệ có thể rơi xuống.\n•\t Để loại bỏ sương ra khỏi thiết bị, liên hệ với trung\n\nráp hoặc tháo gỡ.\n•\t Hãy cẩn thận không để móp, trầy xước, hoặc làm\n\nkhoang bảo quản thực phẩm của thiết bị, trừ khi\nchúng là khuyến nghị của nhà sản xuất.\n•\t Hãy chắc chắn rằng không một phần nào của cơ\n\nnhỏ cho người, hoặc làm thiết bị hoạt động sai chức\nnăng cũng như hư hỏng sản phẩm hoặc tài sản khi\nsử dụng sản phẩm này, hãy thực hiện các biện pháp\nphòng ngừa cơ bản, bao gồm các điều sau:\n\nqua đêm kèm bữa sáng;\n-\tứng dụng phục vụ ăn uống và các ứng dụng phi\n\ntâm thông tin khách hàng của LG Electronics.\n•\t Loại bỏ lớp băng bên trong khay đá trong ngăn đá\n\ntâm thông tin khách hàng LG Electronics nếu bạn\nphát hiện ra một âm thanh kỳ lạ, mùi, hoặc khói\nbốc ra khỏi thiết bị.\n•\t Không được đặt bàn tay hay các vật kim loại bên\n\nbán lẻ tương tự.\n\nbằng cách ngắt điện trong một khoảng thời gian\n\nảnh hoặc nội dung khác với kiểu\nmáy mà bạn đã mua.\n•\tHướng dẫn sử dụng này có thể được\n\n•\t Thiết bị làm lạnh này không được thiết kế để sử\n\nLắp đặt\n\nhỏng cáp điện trong quá trình lắp ráp hoặc tháo\ngỡ cửa thiết bị.\n•\t Không để vật nhọn chọc vào phích cắm điện hoặc\n\nthể như bàn tay hoặc bàn chân bị mắc kẹt trong\nkhi di chuyển thiết bị.\n•\t Rút dây điện trước khi vệ sinh bên trong hoặc bên\n\nthay đổi bởi nhà sản xuất.\n\n•\t Sau khi tháo dỡ, hãy kiểm tra thiết bị xem có bất\n\ntrong khu vực tỏa ra không khí lạnh, lên nắp hoặc\nlưới tản nhiệt ở phía sau.\n•\t Không tác dụng lực mạnh hoặc tác động vào nắp\n\ndụng như một thiết bị tích hợp.\n•\t Thiết bị này không được sử dụng như một thiết bị\n\nđể thiết bị đè lên phích cắm điện.\n•\t Không nên kết nối một bộ chuyển đổi ổ cắm hoặc\n\nngoài thiết bị.\n•\t Không phun nước hoặc các chất dễ cháy (kem\n\nphía sau của thiết bị.\n•\t Hãy cẩn thận trẻ em ở gần khi bạn mở hoặc đóng\n\nkỳ hư hỏng nào có thể xảy ra trong quá trình vận\nchuyển hay không.\n•\t Chờ ít nhất 3-4 giờ để đảm bảo mạch chất làm\n\ncầm tay hoặc trong các điều kiện lắp đặt di động,\nchẳng hạn như sử dụng trên biển hoặc xe lưu động\n(RV), nơi thiết bị sẽ di chuyển trong khi vận hành.\n\n2\t Nhập số mẫu máy trên trang web của LG tại\n\ncác phụ kiện khác với ổ cắm điện.\n•\t Không thay đổi hoặc nối dài dây điện.\n•\t Đảm bảo ổ cắm điện được nối đất đúng cách và\n\nhttps://www.lg.com/vn/tro-giup.\n\nlạnh hoạt động hiệu quả.\n•\t Di chuyển thiết bị cẩn thận trên sàn dễ bị hỏng để\n\ncửa thiết bị. Cánh cửa có thể va vào trẻ em và gây\nthương tích.\n•\t Cẩn thận không để trẻ em bị mắc kẹt bên trong\n\nđánh răng, rượu, dung môi, benzen, chất lỏng dễ\ncháy, ăn mòn, vv) lên trên nội thất hoặc ngoại thất\ncủa thiết bị để làm sạch nó.\n•\t Không làm sạch thiết bị với bàn chải, khăn lau\n\ntránh làm hỏng sàn.\n\n•\n\nĐây là biểu tượng cảnh báo vật\nliệu dễ bắt lửa gây cháy nếu\nngười dùng không cẩn thận.\n\nchân nối đất trên dây điện không bị hư hỏng hoặc\ntháo khỏi ổ cắm điện. Để biết thêm chi tiết về việc\nnối đất, hãy liên hệ tới trung tâm thông tin khách\nhàng của LG Electronics.\n\nthiết bị. Trẻ em bị mắc kẹt bên trong thiết bị này\ncó thể bị ngạt thở.\n•\t Không đặt các loài động vật, chẳng hạn như thú\n\nhoặc bọt biển với bề mặt thô ráp hoặc được làm\nbằng vật liệu kim loại.\n•\t Chỉ nhân viên có trình độ của trung tâm dịch vụ\n\nMFL71988302\nRev.00_042424\n\nXỬ LÝ SỰ CỐ\nXỬ LÝ SỰ CỐ\nXỬ LÝ SỰ CỐ\nVẬN HÀNH/BẢO TRÌ\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nLưu ý khi Vận hành\n\nCác biện pháp vệ sinh chung\n\nCác bộ phận và tính năng\n\nĐá\n\n•\t Người dùng cần lưu ý rằng sương giá có thể hình thành\n\n•\t Thực hiện làm tan băng, bảo dưỡng hay vệ sinh thiết bị\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nCó phải bạn đã cho vào tủ lạnh đồ\năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn trước khi đặt vào\n\nCửa có thể không được đóng lại\nđúng cách.\n•\t Kiểm tra xem các thực phẩm bên\n\nCó phải có những đồ vật nằm rải\nrác phía sau thiết bị?\n•\t Lấy các đồ vật nằm rải rác phía sau\n\nĐường đá ra có thể bị kẹt không?\n(Bạn có thể kiểm tra đường ống\nbằng cách tháo bình đựng đá.)\n•\t Đá có thể không xả ra đúng cách do\n\nngăn tủ lạnh hoặc tủ đông lạnh.\n\nSương giá\nhình thành\ntrong ngăn\nđá.\n\nthiết bị ra.\n\nnếu cửa chưa được đóng hoàn toàn hoặc, độ ẩm cao\nvào mùa hè.\n•\t Đảm bảo có đủ không gian giữa thực phẩm được bảo\n\nBạn mới lắp đặt thiết bị gần đây?\n•\t Máy làm đá sản xuất đá bình thường\n\ntrong thiết bị này có cản trở cửa và\nđảm bảo rằng cửa được đóng kín.\n\nCửa thiết bị\nkhông được\nđóng chặt.\n\nCó phải thiết bị bị nghiêng về phía\ntrước?\n•\t Điều chỉnh chân trước để hơi nâng\n\ntrong khi thực phẩm vẫn được bảo quản trong ngăn đá\ncó thể làm tăng nhiệt độ của thực phẩm và giảm thời\ngian bảo quản.\n•\t Thường xuyên vệ sinh bất kỳ bề mặt nào có thể tiếp xúc\n\nđường ống bị kẹt. Kiểm tra đá và vệ\nsinh thường xuyên đường đá ra.\n\nquản trên khay hoặc giỏ cửa để cửa được đóng hoàn toàn.\n•\t Việc mở cửa trong thời gian dài có thể làm tăng đáng kể\n\nmặt trước lên.\n\nCó đồ vật nằm trên nóc của thiết bị?\n•\t Bỏ đồ vật nằm trên nóc của thiết bị xuống.\n\nCó phải bạn đã lưu trữ quá nhiều\nthực phẩm?\n•\t Duy trì khoảng cách phù hợp giữa\n\nsau khoảng 48 giờ trôi qua kể từ khi\nthiết bị được lắp đặt.\n•\t Nếu nhiệt độ ngăn tủ lạnh quá thấp,\n\nvới thực phẩm.\n•\t Khi lau chùi bên trong hay bên ngoài thiết bị, không lau\n\nnhiệt độ trong các ngăn của thiết bị.\n•\t Nếu để trống tủ lạnh trong thời gian dài, hãy tắt nguồn,\n\ncác thực phẩm.\n\nCó phải bạn đã cho vào tủ lạnh đồ\năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn trước khi đặt vào\n\nCác khay đã được lắp ráp đúng cách?\n•\t Lắp lại các khay nếu cần thiết.\n\nNước\n\nMáy tự động\nkhông sản\nxuất nước đá\nhoặc sản xuất\nmột lượng\nnhỏ đá.\n\nTiếng nhấp\nchuột\n\nngăn tủ lạnh hoặc tủ đông lạnh.\n\nbộ lọc nước có thể bị đóng băng,\nngăn nước chảy vào máy làm đá.\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\ngiã đông, vệ sinh, lau khô và để cửa mở để tránh nấm\nmốc phát triển bên trong thiết bị.\n•\t Lưu ý rằng sự gia tăng nhiệt độ sau khi rã đông có một\n\nbằng bàn chải thô, kem đánh răng, hoặc các vật liệu dễ\ncháy. Không sử dụng các chất làm sạch chứa các chất\ndễ bắt lửa. Điều này có thể làm đổi màu hoặc hư hỏng\nthiết bị.\n\nCó phải cửa thiết bị chưa đóng\nhoàn toàn?\n•\t Đóng khít cửa và đảm bảo rằng thực\n\nBạn đã đóng cửa với lực mạnh quá\nmức?\n•\t Nếu bạn dùng quá nhiều lực hoặc đóng\n\n-\t Các chất dễ cháy: cồn (ethanol, methanol, rượu\n\nphẩm được lưu trữ không cản trở cửa.\n\nCó phải lối ra và vào của không khí\ntrong ngăn đá bị chặn?\n•\t Hãy chắc chắn rằng lối ra và vào của\n\nBạn đã kết nối đường ống cấp nước\ncho thiết bị và mở van cấp nước?\n•\t Kết nối đường ống cấp nước cho thiết\n\nNước không\nchảy ra.\n\nBình đựng nước có thể hết nước.\n•\t Đổ nước vào bình đựng nước phân\n\nHệ thống điều khiển rã đông sẽ phát ra\ntiếng nhấp chuột khi chu trình rã đông\ntự động bắt đầu và kết thúc. Việc kiểm\nsoát nhiệt (hoặc điều khiển thiết bị trên\nmột số model) cũng sẽ phát ra tiếng\nnhấp chuột khi chu trình bật và tắt.\n•\t Vận hành bình thường\n\nbị và mở hoàn toàn van cấp nước.\n\nphối.\n\nkhông khí không bị chặn và không\nkhí có thể lưu thông bên trong.\n\nphạm vi cho phép trong thông số kỹ thuật của thiết bị. Nếu\nbạn muốn giảm thiểu tác động của sự gia tăng nhiệt độ\nnày lên thực phẩm được bảo quản, hãy đóng kín hoặc bọc\nthực phẩm bằng nhiều lớp.\n\ncửa quá nhanh, cửa có thể vẫn mở\ntrước khi đóng. Đảm bảo bạn không\nđóng sập cửa. Đóng cửa tủ nhẹ nhàng.\n\nisopropyl, rượu isobutyl, vv), chất pha loãng, thuốc tẩy,\nbenzen, chất lỏng dễ cháy, ăn mòn...\n•\t Sau khi làm sạch, kiểm tra xem cáp điện có bị hỏng\n\nLiệu có đủ không gian xung quanh\nthiết bị?\n•\t Điều chỉnh vị trí lắp đặt để đảm bảo\n\nTiếng róc\nrách\n\nĐường ống cung cấp nước bị cong?\n•\t Nếu đường ống cấp nước bị cong,\n\nkhông.\n\nđủ không gian xung quanh thiết bị.\n\nĐồ trong ngăn đá quá đầy?\n•\t Duy trì khoảng cách phù hợp giữa\n\ndòng chảy của nước có thể bị cản trở.\n\nBảo quản hiệu quả thực phẩm\n\nBạn đang sử dụng nước không\nđược lọc?\n•\t Nước không được lọc có thể chứa\n\ncác thực phẩm.\n\nKhó khăn khi\nmở cửa thiết\nbị.\n\nBạn đã mở cánh cửa ngay sau khi\nbạn đóng nó?\n•\t Nếu bạn cố gắng để mở cửa thiết bị\n\nVệ sinh Phần bên ngoài\n\n•\t Thực phẩm có thể đóng băng hoặc hỏng nếu được bảo\n\nThiết bị có\nmùi hôi.\n\nTiếng lạch cạch có thể phát ra từ\ndòng chảy của thiết bị, đường\nnước ở mặt sau của thiết bị (chỉ với\nmẫu máy có bơm) hoặc các đồ bảo\nquản quanh thiết bị.\n•\t Vận hành bình thường\n\nCó phải tủ lạnh hoặc tủ đông lạnh\nđược cài đặt ở nhiệt độ cao nhất?\n•\t Cài đặt nhiệt độ ngăn mát hoặc ngăn\n\nBạn đã lấy đi một lượng đá lớn gần\nđây?\n•\t Phải mất khoảng 24 giờ để sản xuất\n\nmột lượng lớn các kim loại nặng khác\nnhau hoặc các chất lạ, khiến bộ lọc có\nthể bị tắc ngay cả khi mới sử dụng.\n\n•\t Nếu vệ sinh các lỗ thông gió bên ngoài của thiết bị bằng\n\nđá ở mức lạnh hơn.\n\nquản ở nhiệt độ không phù hợp. Hãy cài đặt tủ lạnh ở\nmức nhiệt độ phù hợp với thực phẩm được bảo quản.\n•\t Bảo quản thực phẩm đông lạnh hoặc thực phẩm lạnh\n\nCó phải bạn đã mở và đóng cửa thiết\nbị thường xuyên hoặc cửa thiết bị\nkhông được đóng đúng cách?\n•\t Sương giá hoặc nước ngưng tụ có thể\n\nđá trong Máy làm đá tự động. Xin vui\nlòng chờ.\n\ntrong vòng một phút sau khi bạn đóng\nnó, bạn có thể gặp khó khăn vì áp suất\nbên trong thiết bị. Hãy cố gắng mở cửa\nthiết bị một lần nữa sau một vài phút\nđể áp suất bên trong ổn định.\n\nLàm mát\n\nThiết bị không được đặt trên sàn\nbằng phẳng\n•\t Sàn nhà yếu hoặc không bằng\n\nBạn đã để vào thực phẩm nặng mùi?\n•\t Bảo quản thực phẩm nặng mùi\n\ntrong hộp kín.\n•\t Kiểm tra ngày hết hạn và nhãn (hướng dẫn bảo quản)\n\nhình thành nếu không khí bên ngoài\nthâm nhập vào bên trong thiết bị.\n\ntrong hộp chứa kín.\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\ntrước khi bảo quản thức ăn trong thiết bị.\n•\t Không bảo quản thực phẩm trong khoảng thời gian dài\n\nSương giá\nhoặc nước\nngưng tụ đã\nhình thành\nbên trong\nhoặc bên\nngoài thiết\nbị.\n\nphẳng có thể được điều chỉnh bằng\nchân điều chỉnh độ cao. Tham khảo\nphần Điều chỉnh Cửa.\n\nBạn đã chuyển công tắc của máy\nlàm đá hoặc nút làm đá tự động trên\nbảng điều khiển sang chế độ ON?\n•\t Nhấn I trên công tắc của máy làm đá\n\ncách hút bụi thì phải rút dây điện ra khỏi ổ cắm để tránh\nhiện tượng xả tĩnh điện có thể làm hỏng các linh kiện\nđiện tử hoặc gây ra giật điện. Nên thường xuyên vệ sinh\nnắp thông gió phía sau và bên cạnh để thiết bị vận hành\nhiệu quả và tiết kiệm chi phí.\n•\t Giữ vệ sinh các lỗ thông gió bên ngoài thiết bị. Lỗ thông\n\nChân điều chỉnh độ cao phía trước\nđã được kéo dài, mặt phẳng tủ lạnh\nvà các cửa đã được chỉnh chưa?\n•\t Khi các giỏ cửa được chất đầy, cửa có\n\nCó phải môi trường lắp đặt thiết bị\nquá ẩm ướt?\n•\t Sự ngưng tụ có thể xuất hiện ở bên\n\nnếu là thực phẩm dễ bị hỏng ở nhiệt độ thấp.\n•\t Không đặt thực phẩm chưa đông lạnh tiếp xúc trực tiếp\n\nCác loại rau hoặc trái cây có thể bị\nthối trong ngăn đựng rau\n•\t Vứt bỏ rau thối và làm sạch ngăn\n\nCó phải nguồn điện bị ngắt?\n•\t Kiểm tra nguồn điện của các thiết bị khác.\n\nMiếng đệm\ncửa không\ngấp lại trong\nvà ngoài\nđúng cách.\n\ngió bị tắc có thể gây cháy nổ hoặc làm hư hỏng thiết bị.\n•\t Để vệ sinh bên ngoài thiết bị, sử dụng miếng bọt biển\n\nThiết bị với máy nén đã bị dịch\nchuyển khi đang vận hành.\n•\t Vận hành bình thường. Nếu máy nén\n\nđựng rau. Không lưu trữ rau quá lâu\ntrong ngăn rau.\n\nKhông thể\nlàm lạnh\nhoặc đông\nlạnh.\n\nThiết bị bị rút phích cắm.\n•\t Cắm phích cắm điện vào ổ cắm một\n\ncách chắc chắn.\n\nkhông dừng kêu lạch tạch sau ba phút,\ntắt điện thiết bị và sau đó bật lại.\n\nngoài của thiết bị nếu khu vực lắp\nthiết bị quá ẩm ướt hoặc vào một\nngày ẩm ướt như ngày mưa. Lau\nsạch hơi ẩm với một miếng vải khô.\n\nvới thực phẩm đông lạnh. Có thể cần giảm số lượng\nthực phẩm cần làm lạnh nếu dự kiến cần làm đông lạnh\nhàng ngày.\n•\t Đặt thực phẩm lạnh hoặc thực phẩm đông lạnh vào tủ\n\nNgưng tụ và sương giá\n\ntự động hoặc cài đặt ON cho nút điều\nkhiển máy làm đá tự động trên bảng\nđiều khiển. (Để biết thêm chi tiết về\ncách sử dụng, hãy truy cập trang web\ncủa LG Electronics hoặc sử dụng điện\nthoại thông minh của bạn.)\n\nlạnh hoặc tủ đông lạnh ngay lập tức sau khi mua.\n•\t Đựng thịt và cá sống bằng các hộp chứa thích hợp trong\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTiếng ù ù\nĐộng cơ quạt của dàn lạnh tuần\nhoàn không khí lưu thông qua các\nngăn tủ lạnh và tủ đông lạnh.\n•\t Vận hành bình thường\n\nNhiệt độ của ngăn đá được cài đặt\nquá cao?\n•\t Nếu nhiệt độ cài đặt quá ấm, đá sẽ\n\nsạch hoặc vải mềm và chất tẩy rửa nhẹ với nước ấm.\nKhông sử dụng chất tẩy rửa ăn mòn hoặc chất tẩy\nmạnh. Lau khô kĩ bằng vải mềm. Không sử dụng vải bẩn\nđể vệ sinh cửa bằng thép không gỉ. Luôn sử dụng vải\nmềm và lau thuận chiều thớ vải. Cách này giúp bề mặt\nthiết bị không bị xỉn và biến màu.\n\ntủ lạnh sao cho các thực phẩm này không tiếp xúc hoặc\nrỉ nước lên thực phẩm khác.\n•\t Có thể đặt thực phẩm lạnh và các món thực phẩm khác\n\nBên hông\nhoặc mặt\ntrước của\nthiết bị ấm\nnóng.\n\nCó các ống chống ngưng tụ được\nlắp ở các khu vực này của thiết bị\nđể giảm sự ngưng tụ hình thành\nxung quanh khu vực cửa.\n•\t Ống tỏa nhiệt để ngăn chặn sự\n\nCầu chì trong nhà có thể bị nổ hoặc\nthiết bị đóng ngắt mạch bị ngắt.\nHoặc thiết bị được nối với ổ thiết bị\nngắt mạch nối đất (GFCI) và thiết bị\nđóng ngắt của ổ bị ngắt.\n•\t Kiểm tra hộp điện chính và thay cầu chì\n\nCó phải bạn đã cho vào tủ lạnh đồ\năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn nóng trước khi đặt\n\nVệ sinh Phần bên trong\n\ntrên ngăn đựng rau.\n•\t Tránh làm đông lại thực phẩm đã được rã đông hoàn\n\nthể bị lệch, cản trở hoạt động bình\nthường của thanh đứng khung cửa hoặc\nchức năng Cửa mở tự động. Kéo dài\nhai chân chỉnh thăng bằng ở mặt trước\nđủ để chúng chống chắc chắn lên sàn\nnhà. Thực hiện theo hướng dẫn trong\nmục Điều chỉnh cửa để nâng cánh cửa\ntủ lạnh bên trái cho đến khi thanh đứng\nkhung cửa hoạt động đúng cách trở lại.\nĐiều chỉnh cánh cửa tủ lạnh bên phải\nthẳng hàng với cửa tủ lạnh bên trái.\n\nKhông khí bị đẩy vào bình ngưng\nbởi quạt của bình ngưng.\n•\t Vận hành bình thường\n\nvào ngăn tủ lạnh hoặc tủ đông lạnh.\n\nđược sản xuất chậm hoặc không được\nsản xuất. Cài đặt nhiệt độ Tủ đông lạnh\nở -18 °C để máy làm đá tự động có thể\nhoạt động bình thường.\n\n•\t Khi tháo khay hay ngăn từ bên trong thiết bị, lấy tất cả\n\nCó ngưng tụ\nbên trong\nthiết bị hoặc\ndưới đáy của\nnắp ngăn rau.\n\nĐèn hỏng\n•\t Đóng cửa thiết bị sau đó mở lại. Nếu đèn\n\ntoàn. Làm đông lại thực phẩm đã được rã đông hoàn toàn\ncó thể khiến thực phẩm bị giảm mùi vị và dinh dưỡng.\n•\t Đừng để thiết bị quá đầy. Không khí lạnh không thể lưu\n\nTiếng rít\nThiết bị đang chạy hệ thống làm mát.\n•\t Vận hành bình thường\n\nBạn đã để cửa thiết bị mở?\n•\t Mặc dù sự ngưng tụ sẽ biến mất ngay\n\nhoặc đặt lại cầu dao. Không tăng công\nsuất cầu chì. Nếu sự cố là do mạch quá tải\nthì hãy thuê thợ điện lành nghề khắc phục.\n•\t Bật lại thiết bị đóng ngắt mạch trên\n\nĐèn bên\ntrong thiết bị\nkhông sáng.\n\nBạn đã mở cửa thiết bị thường xuyên?\n•\t Nếu bạn mở cửa thiết bị thường xuyên,\n\nthông tốt nếu thiết bị quá đầy.\n•\t Làm nguội thức ăn nóng trước khi cho vào bảo quản.\n\nsau khi bạn đóng cửa thiết bị nhưng\nbạn cũng có thể lau bằng vải khô.\n\nvẫn không bật, vui lòng liên hệ Trung\ntâm thông tin khác hàng LG Electronics.\nKhông nên tìm cách tháo đèn.\n\nngưng tụ được lắp ở mặt trước và\nbên hông của thiết bị. Bạn có thể\ncảm thấy nó đặc biệt nóng ngay sau\nkhi thiết bị được lắp đặt hoặc vào\nmùa hè. Bạn có thể yên tâm rằng\nđây không phải là một vấn đề gì và\nnó hoàn toàn bình thường.\n\nthiết bị ngắt mạch nối đất (GFCI).\nNếu vấn đề chưa được giải quyết,\nhãy liên hệ với thợ điện.\n\nTiếng lộp bộp\nSự co và giãn của các bức tường bên\ntrong do thay đổi nhiệt độ.\n•\t Vận hành bình thường\n\nkhông khí lạnh sẽ thoát ra, làm giảm tốc\nđộ sản xuất nước đá. Đừng mở hoặc\nđóng cửa thiết bị quá thường xuyên.\n\ncác thực phẩm được bảo quản trên khay hoặc ngăn\nra để tránh thương tích hoặc hư hại cho thiết bị. Nếu\nkhông, chấn thương có thể xảy ra do trọng lượng của\ncác thực phẩm được bảo quản.\n•\t Tháo các khay và ngăn và làm sạch chúng với nước, và\n\nLiệu có nước rò rỉ xung quanh thiết bị?\n•\t Kiểm tra xem nước đã bị rò rỉ từ bồn\n\nTiếng ồn\n\nBạn mở hoặc đóng cửa thiết bị quá\nthường xuyên?\n•\t Sự ngưng tụ có thể hình thành do\n\nrửa hay chỗ khác.\n\nLàm lạnh\nhoặc đông\nlạnh kém.\n\nCó phải tủ lạnh hoặc tủ đông lạnh\nđược cài đặt ở nhiệt độ cao nhất?\n•\t Cài đặt nhiệt độ ngăn mát hoặc ngăn\n\nCó nước bên\ntrong hoặc\nbên ngoài\ncủa thiết bị.\n\nNếu quá nhiều thức ăn nóng được đặt bên trong, nhiệt\nđộ bên trong của thiết bị có thể tăng và ảnh hưởng\nkhông tốt đến các loại thực phẩm khác được bảo quản\ntrong thiết bị.\n•\t Nếu bạn đặt nhiệt độ quá thấp đối với thực phẩm, nó\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nCó phải cửa thiết bị chưa đóng hoàn\ntoàn?\n•\t Nếu cửa thiết bị không được đóng\n\nchênh lệch nhiệt độ từ bên ngoài. Lau\nsạch hơi ẩm bằng một miếng vải khô.\n\nđá ở mức lạnh hơn.\n\nsau đó lau đủ khô, trước khi lắp lại chúng.\n•\t Thường xuyên lau gioăng cửa bằng khăn mềm ẩm.\n•\t Đồ ăn rớt trên giỏ cửa và các vết bẩn phải được làm\n\nCó nước ở dưới đáy thiết bị?\n•\t Kiểm tra xem có nước từ thực phẩm\n\nRung\nNếu mặt bên hoặc mặt sau của\nthiết bị chạm vào tủ hoặc tường,\nmột số chấn rung bình thường có\nthể phát ra âm thanh.\n•\t Để loại bỏ tiếng ồn, đảm bảo rằng\n\ncó thể bị đóng đá. Đừng đặt nhiệt độ thấp hơn nhiệt độ\ncần thiết để thực phẩm được bảo quản đúng cách.\n•\t Nếu có khoang ướp lạnh trong thiết bị, không nên chứa\n\nđông lạnh rã đông hoặc một bình\nđựng bị rơi hoặc vỡ không.\n\nkhít, nhiệt độ của ngăn đá sẽ tăng\nlên, làm chậm tốc độ sản xuất đá.\nĐóng khít cửa thiết bị.\n\nmặt bên và mặt sau không tiếp xúc\nvới bất kỳ tường hoặc tủ nào.\n\nThiết bị được lắp đặt trên một sàn\nyếu hoặc không bằng phẳng?\n•\t Đặt thiết bị trên sàn chắc chắn và\n\nsạch vì chúng có thể làm tổn hại khả năng lưu trữ của\ngiỏ và thậm chí có thể bị hư hỏng.\n•\t Không được làm sạch khay hoặc hộp đựng trong máy\n\nBạn đã đặt thức ăn nóng hoặc ẩm\nbên trong mà không đựng nó trong\nmột hộp kín?\n•\t Đựng thực phẩm trong hộp được\n\nbằng phẳng.\n\nCó phải thiết bị bị chiếu ánh sáng mặt\ntrời trực tiếp, hoặc nằm gần thiết bị\nsinh nhiệt như bếp hoặc lò sưởi?\n•\t Kiểm tra khu vực lắp đặt và đặt thiết\n\nĐá không xả ra.\nKhông nghe được tiếng đá xả ra?\n•\t Trên bảng điều khiển, chọn lần lượt\n\nrau quả có hàm lượng ẩm cao hơn trong các khoang\nlạnh vì chúng có thể đóng băng do nhiệt độ thấp hơn.\n•\t Trong trường hợp mất điện, hãy gọi cho công ty điện lực\n\nđậy hoặc dán kín.\n\nThiết bị gây\ntiếng ồn và\ntạo ra những\nâm thanh bất\nthường.\n\nbị cách xa các thiết bị sinh nhiệt.\n\nchế độ đá viên và đá bào để lấy đá.\n\nvà hỏi xem sẽ kéo dài bao lâu.\n\nrửa chén. Các bộ phận có thể trở nên biến dạng do\nnhiệt.\n•\t Hệ thống rã đông tự động trong thiết bị đảm bảo ngăn\n\nCó phải phía sau của thiết bị chạm\nvào tường?\n•\t Điều chỉnh vị trí lắp đặt để đảm bảo\n\n-\t Bạn nên tránh mở cửa trong khi bị mất điện.\n-\t Khi nguồn điện trở lại bình thường, hãy kiểm tra tình\n\nđủ không gian xung quanh thiết bị.\n\nkhông bị tích tụ băng trong điều kiện hoạt động bình\nthường. Người dùng không cần rã đông thủ công.\n\ntrạng của thực phẩm.",
+  "removed_repeated_lines": [],
+  "cleaning_stats": {
+    "raw_char_count": 28589,
+    "cleaned_char_count": 28276,
+    "removed_char_count": 313,
+    "reduction_ratio": 0.0109,
+    "removed_repeated_line_count": 0
+  },
+  "raw_text": "•\t Thiết bị này được trang bị dây điện có dây dẫn nối\n\nVận hành\n\ncưng vào trong thiết bị.\n•\t Không đặt các vật nặng hoặc dễ vỡ, thùng chứa\n\n•\t Đừng chạm vào thực phẩm đông lạnh hoặc các\n\n•\t Thiết bị này chứa một lượng nhỏ môi chất làm lạnh\n\nLG Electronics mới được tháo rời, sửa chữa, hoặc \nthay đổi thiết bị. Liên hệ với trung tâm thông \ntin khách hàng LG Electronics nếu bạn cần di \nchuyển và lắp đặt thiết bị tại một địa điểm khác.\n\nđất và phích cắm nối đất. Phích cắm phải được \ncắm vào ổ cắm phù hợp, được lắp đặt và nối đất \ntheo toàn bộ các quy tắc và quy định trong nước.\n•\t Tuyệt đối không được khởi động thiết bị có dấu\n\nHƯỚNG DẪN AN TOÀN\nLG đang nỗ lực kiến tạo tương lai \nbền vững bằng cách chỉ xuất bản \ntrực tuyến các phần của tài liệu \nhướng dẫn này.\n\nbộ phận kim loại trong ngăn đá bằng tay ướt hoặc \nẩm. Nó có thể gây tê cóng.\n•\t Không đặt hộp đựng, chai lọ thủy tinh hay đồ\n\nNguy cơ hỏa hoạn và vật liệu dễ cháy\n\nchất lỏng, chất dễ cháy, các vật dễ cháy (như nến, \nđèn, v.v.), hoặc các thiết bị sưởi ấm (như bếp lò, lò \nsưởi, v.v.) lên trên thiết bị.\n•\t Không đặt bất kỳ thiết bị điện tử (như máy sưởi và\n\nĐỌC TOÀN BỘ HƯỚNG DẪN \nTRƯỚC KHI SỬ DỤNG\n\n•\t Nếu phát hiện có chỗ rò rỉ, cần tránh bất kỳ sự\n\nisobutane (R600a) nhưng vẫn là khí dễ cháy. Khi vận \nchuyển và lắp đặt thiết bị, cần cẩn thận để đảm bảo \nrằng không có bộ phận của mạch làm lạnh bị hư hỏng.\n•\t Chất làm lạnh và khí thổi cách điện được sử dụng\n\nhiệu hư hỏng. Nếu nghi ngờ, hãy tham khảo ý \nkiến đại lý của bạn.\n•\t Để tất cả vật liệu đóng gói (chẳng hạn như túi\n\nđiện thoại di động) bên trong thiết bị.\n•\t Nếu bị rò rỉ gas (isobutane, propane, khí thiên\n\nhộp (đặc biệt là hộp đựng đồ uống có ga) trong \nngăn đá, kệ hoặc khay đá sẽ tiếp xúc với nhiệt \nđộ dưới mức đóng băng.\n•\t Kính cường lực ở mặt trước của cửa thiết bị hoặc\n\nTìm kiếm tài liệu hướng dẫn trực tuyến\n\nnhựa và xốp) cách xa trẻ em. Vật liệu đóng gói có \nthể gây ngạt thở.\n•\t Không cắm thiết bị vào ổ cắm đa cổng mà không\n\ncủa kệ có thể bị vỡ do tác động. Nếu kính bị vỡ, \nkhông được chạm tay vào.\n•\t Không treo đồ lên cửa thiết bị, khoang bảo quản,\n\ntrong thiết bị cần phải được xử lý đặc biệt. Tham \nkhảo ý kiến ​các đại lý dịch vụ hoặc một người có \ntrình độ tương tự trước khi xử lý của chúng.\n•\t Đừng làm hỏng mạch làm lạnh.\n•\t Nếu dây nguồn bị hỏng hoặc lỗ ổ cắm bị lỏng thì\n\nCác hướng dẫn an toàn sau đây nhằm mục đích ngăn \nchặn các rủi ro hoặc hư hỏng không thể lường trước \ntừ việc vận hành sản phẩm không an toàn hoặc không \nđúng cách. Các hướng dẫn được chia thành hai phần \n‘CẢNH BÁO’ và ‘THẬN TRỌNG’ như được mô tả bên dưới.\n\ncó cáp điện (được cắm).\n•\t Các thiết bị phải được nối với một đường dây điện\n\nhoặc leo lên trên đó.\n•\t Không bảo quản một số lượng lớn chai nước hoặc\n\nCẢNH BÁO\n\nchuyên dụng được nối cầu chì riêng.\n•\t Không sử dụng ổ cắm (rời) đa cổng không được\n\ntiếp xúc nào với ngọn lửa hoặc các nguồn có khả \nnăng đánh lửa và không khí trong phòng mà thiết \nbị được đặt trong vài phút. Để tránh việc tạo ra \nmột hỗn hợp khí gas dễ cháy khi mạch làm lạnh bị \nrò rỉ, kích thước của phòng đặt thiết bị phải tương \nứng với số lượng chất làm lạnh sử dụng trong \nthiết bị. Phòng phải đảm bảo 1m² cho mỗi 8g \nR600a chất làm lạnh bên trong thiết bị.\n•\t Chất làm lạnh rò rỉ ra khỏi ống nước có thể bốc\n\nnhiên, v.v.), không chạm vào thiết bị hoặc phích \ncắm và lập tức thông gió cho khu vực Thiết bị này \nsử dụng gas môi chất làm lạnh (isobutane,R600a). \nMặc dù thiết bị sử dụng một lượng nhỏ khí gas \nnhưng đây vẫn là khí dễ cháy. Rò rỉ gas trong khi \nvận chuyển, lắp đặt hay vận hành thiết bị có thể \ngây cháy, nổ hoặc thương tật nếu phát sinh tia lửa.\n•\t Không sử dụng hoặc bảo quản các chất dễ cháy\n\nphải thay thế. Không được sử dụng dây nguồn đó \nvà liên hệ với trung tâm dịch vụ được ủy quyền để \ntránh nguy hiểm.\n•\t Không đặt ổ cắm rời nhiều cổng hoặc nguồn cấp\n\n•\t Để giảm rủi ro cháy, nổ, tử vong, điện giật, thương\n\nTài liệu hướng dẫn sử dụng rút gọn \nnày đề cập đến các thông tin an \ntoàn, vận hành, bảo trì, v.v. của người \ndùng.\nĐể xem toàn bộ hướng dẫn sử dụng, \nhãy quét mã QR trên nhãn.\n\nbình đựng đồ ăn phụ ở giỏ cửa.\n•\t Không mở hoặc đóng cửa bằng lực quá mức cần thiết.\n•\t Nếu bản lề cửa của thiết bị bị hỏng hoặc hoạt\n\ncháy hoặc gây ra một vụ nổ.\n•\t Lượng chất làm lạnh trong thiết bị của bạn được hiển\n\nthị trên bảng thông số kỹ thuật bên trong thiết bị.\n\ndi động ở phía sau thiết bị.\n•\t Cắm chặt phích cắm vào ổ cắm sau khi loại bỏ\n\ntích hoặc bỏng ở người khi sử dụng sản phẩm \nnày, hãy thực hiện theo các biện pháp phòng \nngừa cơ bản, bao gồm các điều sau:\n\nnối đất đúng cách. Trong trường hợp sử dụng ổ \ncắm (rời) đa cổng được nối đất đúng cách, hãy sử \ndụng ổ cắm đa cổng theo công suất định mức \nđiện quy định hiện hành và sử dụng ổ cắm đa \ncổng cho riêng thiết bị này.\n\nhay bắt cháy (ví dụ benzen, cồn, hóa chất, LPG, \nbình xịt dễ cháy, thuốc trừ sâu, chất làm sạch \nkhông khí, mỹ phẩm, vv) gần thiết bị.\n•\t Thiết bị này tích hợp nối đất để phục vụ các mục\n\nđộng không đúng cách, hãy ngưng sử dụng thiết \nbị và liên hệ với trung tâm dịch vụ được ủy quyền.\n•\t Ngăn chặn không để động vật gặm nhấm dây\n\nLắp đặt\n\nsạch hơi ẩm và bụi bẩn.\n•\t Tuyệt đối không rút phích cắm thiết bị bằng cách\n\n•\t Thiết bị này chỉ nên được vận chuyển bởi hai hoặc\n\nVận hành\n\nđích chức năng.\n•\t Chỉ nối với nguồn cấp nước uống được.\n\nAn toàn về Kỹ thuật\n\nđiện hoặc ống nước.\n•\t Đừng bao giờ ăn thực phẩm đông lạnh ngay sau\n\n-\tNếu kết nối với nguồn cấp nước thì chỉ được kết\n\n•\t Không sử dụng thiết bị cho mục đích khác (bảo\n\n•\t Thiết bị này không nhằm dành cho những người\n\nkéo dây điện. Luôn cầm chặt phích cắm và kéo \nthẳng phích cắm ra khỏi ổ cắm.\n•\t Giữ các lỗ thông gió, và các kết cấu gắn liền trong\n\nnối với nguồn cấp nước sinh hoạt.\n\nTìm kiếm hướng dẫn PDF có thể in được\n\nkhi chúng được lấy ra từ trong ngăn đá.\n•\t Đảm bảo không để tay hoặc chân bị kẹp khi mở\n\nnhiều người để giữ thiết bị một cách chắc chắn.\n•\t Đặt thiết bị trên sàn chắc chắn và bằng phẳng.\n•\t Không lắp đặt thiết bị ở nơi có nhiều bụi và ẩm\n\n•\t Chỉ đổ nước uống.\n\nTủ lạnh & Tủ \nđông lạnh\n\nhoặc đóng cửa hoặc cửa trong cửa của thiết bị.\n\nhoặc bên cạnh thiết bị sạch sẽ, không bị tắc nghẽn.\n•\t Không bảo quản chất nổ như bình xon khí chứa\n\n-\tNếu sử dụng máy làm đá hoặc bình chứa nước\n\nquản các vật liệu y tế hoặc thí nghiệm hay để vận \nchuyển) ngoài việc sử dụng để bảo quản thực \nphẩm của gia đình.\n•\t Nếu nước thâm nhập vào các bộ phận điện của\n\nHướng dẫn sử dụng đơn giản\n\nBảo trì\n\ncủa bộ phân phối, hãy đảm bảo chỉ đổ đầy bằng \nnước sinh hoạt.\n\n•\t Thiết bị này được trang bị đèn LED bên trong\n\nnhiên liệu dễ cháy trong thiết bị này.\n•\t Đừng nghiêng thiết bị để kéo hoặc đẩy khi vận chuyển.\n•\t Phải đảm bảo dây cắm điện không bị vướng hay\n\n•\tTrước khi bắt đầu lắp đặt, hãy đọc\n\nTiêu hủy\n\nthiết bị, hãy rút phích cắm điện và liên hệ với trung \ntâm thông tin khách hàng của LG Electronics.\n•\t Rút phích cắm điện khi có giông bão nghiêm trọng,\n\n•\t Khi bỏ thiết bị đi, cần loại bỏ các miếng đệm cửa và để\n\nthấp. Không lắp đặt hoặc bảo quản thiết bị ở bất \nkỳ khu vực ngoài trời hoặc ở bất kỳ chỗ nào chịu \ntác động của điều kiện thời tiết như ánh sáng mặt \ntrời trực tiếp, gió, mưa hoặc nhiệt độ dưới mức \nđóng băng.\n•\t Không đặt thiết bị dưới ánh sáng mặt trời trực\n\như hỏng khi đặt thiết bị.\n•\t Không sử dụng các thiết bị máy móc hoặc các\n\n(bao gồm trẻ em) có năng lực thể chất, giác \nquan hoặc tinh thần bị suy giảm, hoặc thiếu kinh \nnghiệm và kiến thức sử dụng nếu họ không có sự \ngiám sát hoặc hướng dẫn liên quan đến việc sử \ndụng thiết bị từ người chịu trách nhiệm về sự an \ntoàn của họ. Trẻ em cần phải được giám sát để \nđảm bảo rằng các bé không chơi đùa với thiết bị.\n•\t Thiết bị này nhằm để sử dụng trong gia đình và\n\nlại kệ và giỏ tại chỗ và để trẻ em tránh xa khỏi thiết bị.\n\nhoặc khi không sử dụng trong một thời gian dài.\n•\t Không được chạm vào phích cắm hoặc các phần\n\ncác ứng dụng tương tự như:\n\nphương tiện khác để đẩy nhanh quá trình tan băng.\n•\t Không sử dụng máy sấy tóc để làm khô bên trong\n\n-\tkhu bếp cho nhân viên trong cửa hàng, văn\n\nđược bảo hành miễn phí. Không được tháo vỏ \nđèn hay đèn LED để sửa chữa hoặc thay đổi. Hãy \nliên hệ với trung tâm thông tin khách hàng của LG \nElectronics.\n•\t Không lau kệ hoặc nắp thủy tinh bằng nước ấm\n\nTài liệu hướng dẫn sử dụng rút gọn \nnày đề cập đến các thông tin an toàn, \nvận hành và bảo trì của người dùng.\nĐể xem toàn bộ hướng dẫn sử dụng, \nhãy truy cập lg.com và tìm số mẫu \nmáy của bạn;\n1\t Tìm số mẫu máy.\n\nTHẬN TRỌNG\n\ntiếp hoặc tiếp xúc với sức nóng từ các thiết bị tỏa \nnhiệt như bếp lò hoặc lò sưởi.\n•\t Hãy cẩn thận không để hở phía sau của thiết bị\n\nđiều khiển thiết bị bằng tay ướt.\n•\t Không được gập cong dây điện quá mức hoặc đặt\n\nphòng và các môi trường làm việc khác;\n\n-\t gia đình nông thôn, dành cho khách hàng trong khách\n\n•\t Để giảm thiểu những rủi ro có thể gây ra thương tích\n\nmột vật nặng lên dây.\n•\t Ngay lập tức rút phích điện ra và liên hệ với trung\n\ncủa thiết bị hoặc đặt một ngọn nến bên trong để \nloại bỏ mùi.\n•\t Không sử dụng các thiết bị điện bên trong\n\nkhi lắp đặt.\n•\t Lắp đặt thiết bị ở nơi dễ rút phích cắm của thiết bị.\n•\t Hãy cẩn thận không để thiết bị cửa rơi ra khi lắp\n\nsạn, nhà nghỉ và các loại hình cơ sở lưu trú khác;\n-\tcác loại hình cơ sở lưu trú cung cấp chỗ nghỉ\n\nkỹ những hướng dẫn này. Điều này \nsẽ đơn giản hoá quá trình lắp đặt \nvà đảm bảo sản phẩm được lắp đặt \nđúng cách và an toàn. Để hướng \ndẫn này ở gần sản phẩm sau khi lắp \nđặt để sau này tham khảo.\n•\tHướng dẫn này có thể có các hình\n\nkhi chúng đang lạnh. Chúng có thể bị vỡ nếu tiếp \nxúc với nhiệt độ thay đổi đột ngột.\n•\t Không lắp kệ lộn ngược. Kệ có thể rơi xuống.\n•\t Để loại bỏ sương ra khỏi thiết bị, liên hệ với trung\n\nráp hoặc tháo gỡ.\n•\t Hãy cẩn thận không để móp, trầy xước, hoặc làm\n\nkhoang bảo quản thực phẩm của thiết bị, trừ khi \nchúng là khuyến nghị của nhà sản xuất.\n•\t Hãy chắc chắn rằng không một phần nào của cơ\n\nnhỏ cho người, hoặc làm thiết bị hoạt động sai chức \nnăng cũng như hư hỏng sản phẩm hoặc tài sản khi \nsử dụng sản phẩm này, hãy thực hiện các biện pháp \nphòng ngừa cơ bản, bao gồm các điều sau:\n\nqua đêm kèm bữa sáng;\n-\tứng dụng phục vụ ăn uống và các ứng dụng phi\n\ntâm thông tin khách hàng của LG Electronics.\n•\t Loại bỏ lớp băng bên trong khay đá trong ngăn đá\n\ntâm thông tin khách hàng LG Electronics nếu bạn \nphát hiện ra một âm thanh kỳ lạ, mùi, hoặc khói \nbốc ra khỏi thiết bị.\n•\t Không được đặt bàn tay hay các vật kim loại bên\n\nbán lẻ tương tự.\n\nbằng cách ngắt điện trong một khoảng thời gian\n\nảnh hoặc nội dung khác với kiểu \nmáy mà bạn đã mua.\n•\tHướng dẫn sử dụng này có thể được\n\n•\t Thiết bị làm lạnh này không được thiết kế để sử\n\nLắp đặt\n\nhỏng cáp điện trong quá trình lắp ráp hoặc tháo \ngỡ cửa thiết bị.\n•\t Không để vật nhọn chọc vào phích cắm điện hoặc\n\nthể như bàn tay hoặc bàn chân bị mắc kẹt trong \nkhi di chuyển thiết bị.\n•\t Rút dây điện trước khi vệ sinh bên trong hoặc bên\n\nthay đổi bởi nhà sản xuất.\n\n•\t Sau khi tháo dỡ, hãy kiểm tra thiết bị xem có bất\n\ntrong khu vực tỏa ra không khí lạnh, lên nắp hoặc \nlưới tản nhiệt ở phía sau.\n•\t Không tác dụng lực mạnh hoặc tác động vào nắp\n\ndụng như một thiết bị tích hợp.\n•\t Thiết bị này không được sử dụng như một thiết bị\n\nđể thiết bị đè lên phích cắm điện.\n•\t Không nên kết nối một bộ chuyển đổi ổ cắm hoặc\n\nngoài thiết bị.\n•\t Không phun nước hoặc các chất dễ cháy (kem\n\nphía sau của thiết bị.\n•\t Hãy cẩn thận trẻ em ở gần khi bạn mở hoặc đóng\n\nkỳ hư hỏng nào có thể xảy ra trong quá trình vận \nchuyển hay không.\n•\t Chờ ít nhất 3-4 giờ để đảm bảo mạch chất làm\n\ncầm tay hoặc trong các điều kiện lắp đặt di động, \nchẳng hạn như sử dụng trên biển hoặc xe lưu động \n(RV), nơi thiết bị sẽ di chuyển trong khi vận hành.\n\n2\t Nhập số mẫu máy trên trang web của LG tại\n\ncác phụ kiện khác với ổ cắm điện.\n•\t Không thay đổi hoặc nối dài dây điện.\n•\t Đảm bảo ổ cắm điện được nối đất đúng cách và\n\nhttps://www.lg.com/vn/tro-giup.\n\nlạnh hoạt động hiệu quả.\n•\t Di chuyển thiết bị cẩn thận trên sàn dễ bị hỏng để\n\ncửa thiết bị. Cánh cửa có thể va vào trẻ em và gây \nthương tích.\n•\t Cẩn thận không để trẻ em bị mắc kẹt bên trong\n\nđánh răng, rượu, dung môi, benzen, chất lỏng dễ \ncháy, ăn mòn, vv) lên trên nội thất hoặc ngoại thất \ncủa thiết bị để làm sạch nó.\n•\t Không làm sạch thiết bị với bàn chải, khăn lau\n\ntránh làm hỏng sàn.\n\n•\n\nĐây là biểu tượng cảnh báo vật \nliệu dễ bắt lửa gây cháy nếu \nngười dùng không cẩn thận.\n\nchân nối đất trên dây điện không bị hư hỏng hoặc \ntháo khỏi ổ cắm điện. Để biết thêm chi tiết về việc \nnối đất, hãy liên hệ tới trung tâm thông tin khách \nhàng của LG Electronics.\n\nthiết bị. Trẻ em bị mắc kẹt bên trong thiết bị này \ncó thể bị ngạt thở.\n•\t Không đặt các loài động vật, chẳng hạn như thú\n\nhoặc bọt biển với bề mặt thô ráp hoặc được làm \nbằng vật liệu kim loại.\n•\t Chỉ nhân viên có trình độ của trung tâm dịch vụ\n\nMFL71988302\nRev.00_042424\n\nXỬ LÝ SỰ CỐ\nXỬ LÝ SỰ CỐ\nXỬ LÝ SỰ CỐ\nVẬN HÀNH/BẢO TRÌ\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nLưu ý khi Vận hành\n\nCác biện pháp vệ sinh chung\n\nCác bộ phận và tính năng\n\nĐá\n\n•\t Người dùng cần lưu ý rằng sương giá có thể hình thành\n\n•\t Thực hiện làm tan băng, bảo dưỡng hay vệ sinh thiết bị\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nCó phải bạn đã cho vào tủ lạnh đồ \năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn trước khi đặt vào\n\nCửa có thể không được đóng lại \nđúng cách.\n•\t Kiểm tra xem các thực phẩm bên\n\nCó phải có những đồ vật nằm rải \nrác phía sau thiết bị?\n•\t Lấy các đồ vật nằm rải rác phía sau\n\nĐường đá ra có thể bị kẹt không? \n(Bạn có thể kiểm tra đường ống \nbằng cách tháo bình đựng đá.)\n•\t Đá có thể không xả ra đúng cách do\n\nngăn tủ lạnh hoặc tủ đông lạnh.\n\nSương giá \nhình thành \ntrong ngăn \nđá.\n\nthiết bị ra.\n\nnếu cửa chưa được đóng hoàn toàn hoặc, độ ẩm cao \nvào mùa hè.\n•\t Đảm bảo có đủ không gian giữa thực phẩm được bảo\n\nBạn mới lắp đặt thiết bị gần đây?\n•\t Máy làm đá sản xuất đá bình thường\n\ntrong thiết bị này có cản trở cửa và \nđảm bảo rằng cửa được đóng kín.\n\nCửa thiết bị \nkhông được \nđóng chặt.\n\nCó phải thiết bị bị nghiêng về phía \ntrước?\n•\t Điều chỉnh chân trước để hơi nâng\n\ntrong khi thực phẩm vẫn được bảo quản trong ngăn đá \ncó thể làm tăng nhiệt độ của thực phẩm và giảm thời \ngian bảo quản.\n•\t Thường xuyên vệ sinh bất kỳ bề mặt nào có thể tiếp xúc\n\nđường ống bị kẹt. Kiểm tra đá và vệ \nsinh thường xuyên đường đá ra.\n\nquản trên khay hoặc giỏ cửa để cửa được đóng hoàn toàn.\n•\t Việc mở cửa trong thời gian dài có thể làm tăng đáng kể\n\nmặt trước lên.\n\nCó đồ vật nằm trên nóc của thiết bị?\n•\t Bỏ đồ vật nằm trên nóc của thiết bị xuống.\n\nCó phải bạn đã lưu trữ quá nhiều \nthực phẩm?\n•\t Duy trì khoảng cách phù hợp giữa\n\nsau khoảng 48 giờ trôi qua kể từ khi \nthiết bị được lắp đặt.\n•\t Nếu nhiệt độ ngăn tủ lạnh quá thấp,\n\nvới thực phẩm.\n•\t Khi lau chùi bên trong hay bên ngoài thiết bị, không lau\n\nnhiệt độ trong các ngăn của thiết bị.\n•\t Nếu để trống tủ lạnh trong thời gian dài, hãy tắt nguồn,\n\ncác thực phẩm.\n\nCó phải bạn đã cho vào tủ lạnh đồ \năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn trước khi đặt vào\n\nCác khay đã được lắp ráp đúng cách?\n•\t Lắp lại các khay nếu cần thiết.\n\nNước\n\nMáy tự động \nkhông sản \nxuất nước đá \nhoặc sản xuất \nmột lượng \nnhỏ đá.\n\nTiếng nhấp \nchuột\n\nngăn tủ lạnh hoặc tủ đông lạnh.\n\nbộ lọc nước có thể bị đóng băng, \nngăn nước chảy vào máy làm đá.\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\ngiã đông, vệ sinh, lau khô và để cửa mở để tránh nấm \nmốc phát triển bên trong thiết bị.\n•\t Lưu ý rằng sự gia tăng nhiệt độ sau khi rã đông có một\n\nbằng bàn chải thô, kem đánh răng, hoặc các vật liệu dễ \ncháy. Không sử dụng các chất làm sạch chứa các chất \ndễ bắt lửa. Điều này có thể làm đổi màu hoặc hư hỏng \nthiết bị.\n\nCó phải cửa thiết bị chưa đóng \nhoàn toàn?\n•\t Đóng khít cửa và đảm bảo rằng thực\n\nBạn đã đóng cửa với lực mạnh quá \nmức?\n•\t Nếu bạn dùng quá nhiều lực hoặc đóng\n\n-\t Các chất dễ cháy: cồn (ethanol, methanol, rượu\n\nphẩm được lưu trữ không cản trở cửa.\n\nCó phải lối ra và vào của không khí \ntrong ngăn đá bị chặn?\n•\t Hãy chắc chắn rằng lối ra và vào của\n\nBạn đã kết nối đường ống cấp nước \ncho thiết bị và mở van cấp nước?\n•\t Kết nối đường ống cấp nước cho thiết\n\nNước không \nchảy ra.\n\nBình đựng nước có thể hết nước.\n•\t Đổ nước vào bình đựng nước phân\n\nHệ thống điều khiển rã đông sẽ phát ra \ntiếng nhấp chuột khi chu trình rã đông \ntự động bắt đầu và kết thúc. Việc kiểm \nsoát nhiệt (hoặc điều khiển thiết bị trên \nmột số model) cũng sẽ phát ra tiếng \nnhấp chuột khi chu trình bật và tắt.\n•\t Vận hành bình thường\n\nbị và mở hoàn toàn van cấp nước.\n\nphối.\n\nkhông khí không bị chặn và không \nkhí có thể lưu thông bên trong.\n\nphạm vi cho phép trong thông số kỹ thuật của thiết bị. Nếu \nbạn muốn giảm thiểu tác động của sự gia tăng nhiệt độ \nnày lên thực phẩm được bảo quản, hãy đóng kín hoặc bọc \nthực phẩm bằng nhiều lớp.\n\ncửa quá nhanh, cửa có thể vẫn mở \ntrước khi đóng. Đảm bảo bạn không \nđóng sập cửa. Đóng cửa tủ nhẹ nhàng.\n\nisopropyl, rượu isobutyl, vv), chất pha loãng, thuốc tẩy, \nbenzen, chất lỏng dễ cháy, ăn mòn...\n•\t Sau khi làm sạch, kiểm tra xem cáp điện có bị hỏng\n\nLiệu có đủ không gian xung quanh \nthiết bị?\n•\t Điều chỉnh vị trí lắp đặt để đảm bảo\n\nTiếng róc \nrách\n\nĐường ống cung cấp nước bị cong?\n•\t Nếu đường ống cấp nước bị cong,\n\nkhông.\n\nđủ không gian xung quanh thiết bị.\n\nĐồ trong ngăn đá quá đầy?\n•\t Duy trì khoảng cách phù hợp giữa\n\ndòng chảy của nước có thể bị cản trở.\n\nBảo quản hiệu quả thực phẩm\n\nBạn đang sử dụng nước không \nđược lọc?\n•\t Nước không được lọc có thể chứa\n\ncác thực phẩm.\n\nKhó khăn khi \nmở cửa thiết \nbị.\n\nBạn đã mở cánh cửa ngay sau khi \nbạn đóng nó?\n•\t Nếu bạn cố gắng để mở cửa thiết bị\n\nVệ sinh Phần bên ngoài\n\n•\t Thực phẩm có thể đóng băng hoặc hỏng nếu được bảo\n\nThiết bị có \nmùi hôi.\n\nTiếng lạch cạch có thể phát ra từ \ndòng chảy của thiết bị, đường \nnước ở mặt sau của thiết bị (chỉ với \nmẫu máy có bơm) hoặc các đồ bảo \nquản quanh thiết bị.\n•\t Vận hành bình thường\n\nCó phải tủ lạnh hoặc tủ đông lạnh \nđược cài đặt ở nhiệt độ cao nhất?\n•\t Cài đặt nhiệt độ ngăn mát hoặc ngăn\n\nBạn đã lấy đi một lượng đá lớn gần \nđây?\n•\t Phải mất khoảng 24 giờ để sản xuất\n\nmột lượng lớn các kim loại nặng khác \nnhau hoặc các chất lạ, khiến bộ lọc có \nthể bị tắc ngay cả khi mới sử dụng.\n\n•\t Nếu vệ sinh các lỗ thông gió bên ngoài của thiết bị bằng\n\nđá ở mức lạnh hơn.\n\nquản ở nhiệt độ không phù hợp. Hãy cài đặt tủ lạnh ở \nmức nhiệt độ phù hợp với thực phẩm được bảo quản.\n•\t Bảo quản thực phẩm đông lạnh hoặc thực phẩm lạnh\n\nCó phải bạn đã mở và đóng cửa thiết \nbị thường xuyên hoặc cửa thiết bị \nkhông được đóng đúng cách?\n•\t Sương giá hoặc nước ngưng tụ có thể\n\nđá trong Máy làm đá tự động. Xin vui \nlòng chờ.\n\ntrong vòng một phút sau khi bạn đóng \nnó, bạn có thể gặp khó khăn vì áp suất \nbên trong thiết bị. Hãy cố gắng mở cửa \nthiết bị một lần nữa sau một vài phút \nđể áp suất bên trong ổn định.\n\nLàm mát\n\nThiết bị không được đặt trên sàn \nbằng phẳng\n•\t Sàn nhà yếu hoặc không bằng\n\nBạn đã để vào thực phẩm nặng mùi?\n•\t Bảo quản thực phẩm nặng mùi\n\ntrong hộp kín.\n•\t Kiểm tra ngày hết hạn và nhãn (hướng dẫn bảo quản)\n\nhình thành nếu không khí bên ngoài \nthâm nhập vào bên trong thiết bị.\n\ntrong hộp chứa kín.\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\ntrước khi bảo quản thức ăn trong thiết bị.\n•\t Không bảo quản thực phẩm trong khoảng thời gian dài\n\nSương giá \nhoặc nước \nngưng tụ đã \nhình thành \nbên trong \nhoặc bên \nngoài thiết \nbị.\n\nphẳng có thể được điều chỉnh bằng \nchân điều chỉnh độ cao. Tham khảo \nphần Điều chỉnh Cửa.\n\nBạn đã chuyển công tắc của máy \nlàm đá hoặc nút làm đá tự động trên \nbảng điều khiển sang chế độ ON?\n•\t Nhấn I trên công tắc của máy làm đá\n\ncách hút bụi thì phải rút dây điện ra khỏi ổ cắm để tránh \nhiện tượng xả tĩnh điện có thể làm hỏng các linh kiện \nđiện tử hoặc gây ra giật điện. Nên thường xuyên vệ sinh \nnắp thông gió phía sau và bên cạnh để thiết bị vận hành \nhiệu quả và tiết kiệm chi phí.\n•\t Giữ vệ sinh các lỗ thông gió bên ngoài thiết bị. Lỗ thông\n\nChân điều chỉnh độ cao phía trước \nđã được kéo dài, mặt phẳng tủ lạnh \nvà các cửa đã được chỉnh chưa?\n•\t Khi các giỏ cửa được chất đầy, cửa có\n\nCó phải môi trường lắp đặt thiết bị \nquá ẩm ướt?\n•\t Sự ngưng tụ có thể xuất hiện ở bên\n\nnếu là thực phẩm dễ bị hỏng ở nhiệt độ thấp.\n•\t Không đặt thực phẩm chưa đông lạnh tiếp xúc trực tiếp\n\nCác loại rau hoặc trái cây có thể bị \nthối trong ngăn đựng rau\n•\t Vứt bỏ rau thối và làm sạch ngăn\n\nCó phải nguồn điện bị ngắt?\n•\t Kiểm tra nguồn điện của các thiết bị khác.\n\nMiếng đệm \ncửa không \ngấp lại trong \nvà ngoài \nđúng cách.\n\ngió bị tắc có thể gây cháy nổ hoặc làm hư hỏng thiết bị.\n•\t Để vệ sinh bên ngoài thiết bị, sử dụng miếng bọt biển\n\nThiết bị với máy nén đã bị dịch \nchuyển khi đang vận hành.\n•\t Vận hành bình thường. Nếu máy nén\n\nđựng rau. Không lưu trữ rau quá lâu \ntrong ngăn rau.\n\nKhông thể \nlàm lạnh \nhoặc đông \nlạnh.\n\nThiết bị bị rút phích cắm.\n•\t Cắm phích cắm điện vào ổ cắm một\n\ncách chắc chắn.\n\nkhông dừng kêu lạch tạch sau ba phút, \ntắt điện thiết bị và sau đó bật lại.\n\nngoài của thiết bị nếu khu vực lắp \nthiết bị quá ẩm ướt hoặc vào một \nngày ẩm ướt như ngày mưa. Lau \nsạch hơi ẩm với một miếng vải khô.\n\nvới thực phẩm đông lạnh. Có thể cần giảm số lượng \nthực phẩm cần làm lạnh nếu dự kiến cần làm đông lạnh \nhàng ngày.\n•\t Đặt thực phẩm lạnh hoặc thực phẩm đông lạnh vào tủ\n\nNgưng tụ và sương giá\n\ntự động hoặc cài đặt ON cho nút điều \nkhiển máy làm đá tự động trên bảng \nđiều khiển. (Để biết thêm chi tiết về \ncách sử dụng, hãy truy cập trang web \ncủa LG Electronics hoặc sử dụng điện \nthoại thông minh của bạn.)\n\nlạnh hoặc tủ đông lạnh ngay lập tức sau khi mua.\n•\t Đựng thịt và cá sống bằng các hộp chứa thích hợp trong\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nTiếng ù ù\nĐộng cơ quạt của dàn lạnh tuần \nhoàn không khí lưu thông qua các \nngăn tủ lạnh và tủ đông lạnh.\n•\t Vận hành bình thường\n\nNhiệt độ của ngăn đá được cài đặt \nquá cao?\n•\t Nếu nhiệt độ cài đặt quá ấm, đá sẽ\n\nsạch hoặc vải mềm và chất tẩy rửa nhẹ với nước ấm. \nKhông sử dụng chất tẩy rửa ăn mòn hoặc chất tẩy \nmạnh. Lau khô kĩ bằng vải mềm. Không sử dụng vải bẩn \nđể vệ sinh cửa bằng thép không gỉ. Luôn sử dụng vải \nmềm và lau thuận chiều thớ vải. Cách này giúp bề mặt \nthiết bị không bị xỉn và biến màu.\n\ntủ lạnh sao cho các thực phẩm này không tiếp xúc hoặc \nrỉ nước lên thực phẩm khác.\n•\t Có thể đặt thực phẩm lạnh và các món thực phẩm khác\n\nBên hông \nhoặc mặt \ntrước của \nthiết bị ấm \nnóng.\n\nCó các ống chống ngưng tụ được \nlắp ở các khu vực này của thiết bị \nđể giảm sự ngưng tụ hình thành \nxung quanh khu vực cửa.\n•\t Ống tỏa nhiệt để ngăn chặn sự\n\nCầu chì trong nhà có thể bị nổ hoặc \nthiết bị đóng ngắt mạch bị ngắt. \nHoặc thiết bị được nối với ổ thiết bị \nngắt mạch nối đất (GFCI) và thiết bị \nđóng ngắt của ổ bị ngắt.\n•\t Kiểm tra hộp điện chính và thay cầu chì\n\nCó phải bạn đã cho vào tủ lạnh đồ \năn nóng trước khi nguội?\n•\t Làm nguội đồ ăn nóng trước khi đặt\n\nVệ sinh Phần bên trong\n\ntrên ngăn đựng rau.\n•\t Tránh làm đông lại thực phẩm đã được rã đông hoàn\n\nthể bị lệch, cản trở hoạt động bình \nthường của thanh đứng khung cửa hoặc \nchức năng Cửa mở tự động. Kéo dài \nhai chân chỉnh thăng bằng ở mặt trước \nđủ để chúng chống chắc chắn lên sàn \nnhà. Thực hiện theo hướng dẫn trong \nmục Điều chỉnh cửa để nâng cánh cửa \ntủ lạnh bên trái cho đến khi thanh đứng \nkhung cửa hoạt động đúng cách trở lại. \nĐiều chỉnh cánh cửa tủ lạnh bên phải \nthẳng hàng với cửa tủ lạnh bên trái.\n\nKhông khí bị đẩy vào bình ngưng \nbởi quạt của bình ngưng.\n•\t Vận hành bình thường\n\nvào ngăn tủ lạnh hoặc tủ đông lạnh.\n\nđược sản xuất chậm hoặc không được \nsản xuất. Cài đặt nhiệt độ Tủ đông lạnh \nở -18 °C để máy làm đá tự động có thể \nhoạt động bình thường.\n\n•\t Khi tháo khay hay ngăn từ bên trong thiết bị, lấy tất cả\n\nCó ngưng tụ \nbên trong \nthiết bị hoặc \ndưới đáy của \nnắp ngăn rau.\n\nĐèn hỏng\n•\t Đóng cửa thiết bị sau đó mở lại. Nếu đèn\n\ntoàn. Làm đông lại thực phẩm đã được rã đông hoàn toàn \ncó thể khiến thực phẩm bị giảm mùi vị và dinh dưỡng.\n•\t Đừng để thiết bị quá đầy. Không khí lạnh không thể lưu\n\nTiếng rít\nThiết bị đang chạy hệ thống làm mát.\n•\t Vận hành bình thường\n\nBạn đã để cửa thiết bị mở?\n•\t Mặc dù sự ngưng tụ sẽ biến mất ngay\n\nhoặc đặt lại cầu dao. Không tăng công \nsuất cầu chì. Nếu sự cố là do mạch quá tải \nthì hãy thuê thợ điện lành nghề khắc phục.\n•\t Bật lại thiết bị đóng ngắt mạch trên\n\nĐèn bên \ntrong thiết bị \nkhông sáng.\n\nBạn đã mở cửa thiết bị thường xuyên?\n•\t Nếu bạn mở cửa thiết bị thường xuyên,\n\nthông tốt nếu thiết bị quá đầy.\n•\t Làm nguội thức ăn nóng trước khi cho vào bảo quản.\n\nsau khi bạn đóng cửa thiết bị nhưng \nbạn cũng có thể lau bằng vải khô.\n\nvẫn không bật, vui lòng liên hệ Trung \ntâm thông tin khác hàng LG Electronics. \nKhông nên tìm cách tháo đèn.\n\nngưng tụ được lắp ở mặt trước và \nbên hông của thiết bị. Bạn có thể \ncảm thấy nó đặc biệt nóng ngay sau \nkhi thiết bị được lắp đặt hoặc vào \nmùa hè. Bạn có thể yên tâm rằng \nđây không phải là một vấn đề gì và \nnó hoàn toàn bình thường.\n\nthiết bị ngắt mạch nối đất (GFCI). \nNếu vấn đề chưa được giải quyết, \nhãy liên hệ với thợ điện.\n\nTiếng lộp bộp\nSự co và giãn của các bức tường bên \ntrong do thay đổi nhiệt độ.\n•\t Vận hành bình thường\n\nkhông khí lạnh sẽ thoát ra, làm giảm tốc \nđộ sản xuất nước đá. Đừng mở hoặc \nđóng cửa thiết bị quá thường xuyên.\n\ncác thực phẩm được bảo quản trên khay hoặc ngăn \nra để tránh thương tích hoặc hư hại cho thiết bị. Nếu \nkhông, chấn thương có thể xảy ra do trọng lượng của \ncác thực phẩm được bảo quản.\n•\t Tháo các khay và ngăn và làm sạch chúng với nước, và\n\nLiệu có nước rò rỉ xung quanh thiết bị?\n•\t Kiểm tra xem nước đã bị rò rỉ từ bồn\n\nTiếng ồn\n\nBạn mở hoặc đóng cửa thiết bị quá \nthường xuyên?\n•\t Sự ngưng tụ có thể hình thành do\n\nrửa hay chỗ khác.\n\nLàm lạnh \nhoặc đông \nlạnh kém.\n\nCó phải tủ lạnh hoặc tủ đông lạnh \nđược cài đặt ở nhiệt độ cao nhất?\n•\t Cài đặt nhiệt độ ngăn mát hoặc ngăn\n\nCó nước bên \ntrong hoặc \nbên ngoài \ncủa thiết bị.\n\nNếu quá nhiều thức ăn nóng được đặt bên trong, nhiệt \nđộ bên trong của thiết bị có thể tăng và ảnh hưởng \nkhông tốt đến các loại thực phẩm khác được bảo quản \ntrong thiết bị.\n•\t Nếu bạn đặt nhiệt độ quá thấp đối với thực phẩm, nó\n\nTriệu chứng\nNguyên nhân có thể xảy ra & giải pháp\n\nCó phải cửa thiết bị chưa đóng hoàn \ntoàn?\n•\t Nếu cửa thiết bị không được đóng\n\nchênh lệch nhiệt độ từ bên ngoài. Lau \nsạch hơi ẩm bằng một miếng vải khô.\n\nđá ở mức lạnh hơn.\n\nsau đó lau đủ khô, trước khi lắp lại chúng.\n•\t Thường xuyên lau gioăng cửa bằng khăn mềm ẩm.\n•\t Đồ ăn rớt trên giỏ cửa và các vết bẩn phải được làm\n\nCó nước ở dưới đáy thiết bị?\n•\t Kiểm tra xem có nước từ thực phẩm\n\nRung\nNếu mặt bên hoặc mặt sau của \nthiết bị chạm vào tủ hoặc tường, \nmột số chấn rung bình thường có \nthể phát ra âm thanh.\n•\t Để loại bỏ tiếng ồn, đảm bảo rằng\n\ncó thể bị đóng đá. Đừng đặt nhiệt độ thấp hơn nhiệt độ \ncần thiết để thực phẩm được bảo quản đúng cách.\n•\t Nếu có khoang ướp lạnh trong thiết bị, không nên chứa\n\nđông lạnh rã đông hoặc một bình \nđựng bị rơi hoặc vỡ không.\n\nkhít, nhiệt độ của ngăn đá sẽ tăng \nlên, làm chậm tốc độ sản xuất đá. \nĐóng khít cửa thiết bị.\n\nmặt bên và mặt sau không tiếp xúc \nvới bất kỳ tường hoặc tủ nào.\n\nThiết bị được lắp đặt trên một sàn \nyếu hoặc không bằng phẳng?\n•\t Đặt thiết bị trên sàn chắc chắn và\n\nsạch vì chúng có thể làm tổn hại khả năng lưu trữ của \ngiỏ và thậm chí có thể bị hư hỏng.\n•\t Không được làm sạch khay hoặc hộp đựng trong máy\n\nBạn đã đặt thức ăn nóng hoặc ẩm \nbên trong mà không đựng nó trong \nmột hộp kín?\n•\t Đựng thực phẩm trong hộp được\n\nbằng phẳng.\n\nCó phải thiết bị bị chiếu ánh sáng mặt \ntrời trực tiếp, hoặc nằm gần thiết bị \nsinh nhiệt như bếp hoặc lò sưởi?\n•\t Kiểm tra khu vực lắp đặt và đặt thiết\n\nĐá không xả ra.\nKhông nghe được tiếng đá xả ra?\n•\t Trên bảng điều khiển, chọn lần lượt\n\nrau quả có hàm lượng ẩm cao hơn trong các khoang \nlạnh vì chúng có thể đóng băng do nhiệt độ thấp hơn.\n•\t Trong trường hợp mất điện, hãy gọi cho công ty điện lực\n\nđậy hoặc dán kín.\n\nThiết bị gây \ntiếng ồn và \ntạo ra những \nâm thanh bất \nthường.\n\nbị cách xa các thiết bị sinh nhiệt.\n\nchế độ đá viên và đá bào để lấy đá.\n\nvà hỏi xem sẽ kéo dài bao lâu.\n\nrửa chén. Các bộ phận có thể trở nên biến dạng do \nnhiệt.\n•\t Hệ thống rã đông tự động trong thiết bị đảm bảo ngăn\n\nCó phải phía sau của thiết bị chạm \nvào tường?\n•\t Điều chỉnh vị trí lắp đặt để đảm bảo\n\n-\t Bạn nên tránh mở cửa trong khi bị mất điện.\n-\t Khi nguồn điện trở lại bình thường, hãy kiểm tra tình\n\nđủ không gian xung quanh thiết bị.\n\nkhông bị tích tụ băng trong điều kiện hoạt động bình \nthường. Người dùng không cần rã đông thủ công.\n\ntrạng của thực phẩm.",
+  "char_count": 28589
+}

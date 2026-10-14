@@ -1,0 +1,2229 @@
+HƯỚNG DẪN SỬ DỤNG
+TỦ LẠNH & TỦ ĐÔNG
+
+Trước khi bắt đầu lắp đặt, hãy đọc kỹ những hướng dẫn này.
+Điều này sẽ đơn giản hoá quá trình lắp đặt và đảm bảo sản
+phẩm được lắp đặt đúng cách và an toàn. Để hướng dẫn này
+ở gần sản phẩm sau khi lắp đặt để sau này tham khảo.
+
+TIẾNG VIỆT
+
+MFL71817203
+Rev.08_110524
+www.lg.com
+
+Bản quyền © 2021-2024 Công ty LG Electronics Việt Nam Hải Phòng bảo lưu mọi quyền
+
+MỤC LỤC
+Hướng dẫn này có thể có các hình ảnh
+hoặc nội dung khác với kiểu máy mà bạn
+đã mua.
+
+Hướng dẫn sử dụng này có thể được thay
+đổi bởi nhà sản xuất.
+
+HƯỚNG DẪN AN TOÀN
+
+ĐỌC TOÀN BỘ HƯỚNG DẪN TRƯỚC KHI SỬ DỤNG .....................................3
+CẢNH BÁO...........................................................................................................3
+THẬN TRỌNG......................................................................................................9
+
+LẮP ĐẶT
+
+Trước khi lắp đặt ..............................................................................................11
+Tạo bề mặt bằng phẳng đặt thiết bị..............................................................12
+Bật điện thiết bị................................................................................................12
+Di chuyển thiết bị để chuyển vị trí .................................................................12
+
+VẬN HÀNH
+
+Trước khi sử dụng............................................................................................14
+Đặc điểm sản phẩm.........................................................................................17
+Bảng Điều khiển...............................................................................................19
+Thiết bị lấy nước ngoài....................................................................................22
+Khay đá di chuyển linh hoạt ...........................................................................25
+Máy làm đá tự động.........................................................................................26
+Ngăn kéo ngăn mát.........................................................................................27
+Giỏ gắn ở cửa....................................................................................................28
+Kệ.......................................................................................................................28
+
+CHỨC NĂNG THÔNG MINH
+
+Ứng dụng LG ThinQ.........................................................................................29
+Chẩn đoán thông minh ...................................................................................30
+
+BẢO TRÌ
+
+Vệ sinh ...............................................................................................................32
+
+XỬ LÝ SỰ CỐ
+
+Trước khi gọi trung tâm dịch vụ.....................................................................33
+
+3
+HƯỚNG DẪN AN TOÀN
+
+HƯỚNG DẪN AN TOÀN
+
+ĐỌC TOÀN BỘ HƯỚNG DẪN TRƯỚC KHI SỬ DỤNG
+
+TIẾNG VIỆT
+
+Các hướng dẫn an toàn sau đây nhằm mục đích ngăn chặn các rủi ro
+hoặc hư hỏng không thể lường trước từ việc vận hành sản phẩm không
+an toàn hoặc không đúng cách. Các hướng dẫn được chia thành hai
+phần ‘CẢNH BÁO’ và ‘THẬN TRỌNG’ như được mô tả bên dưới.
+
+Thông báo an toàn
+
+Biểu tượng này được hiển thị để cho biết các vấn đề và thao
+tác vận hành có thể gây ra rủi ro. Hãy đọc cẩn thận phần có
+biểu tượng này và thực hiện theo các hướng dẫn để tránh rủi
+ro.
+
+CẢNH BÁO
+
+Biểu tượng này cho biết nếu không thực hiện theo các
+hướng dẫn có thể gây ra thương tích nghiêm trọng hoặc tử
+vong.
+
+THẬN TRỌNG
+
+Biểu tượng này cho biết nếu không thực hiện theo các
+hướng dẫn có thể gây ra thương tích nhẹ hoặc hư hỏng sản
+phẩm.
+
+CẢNH BÁO
+
+CẢNH BÁO
+• Để giảm rủi ro cháy, nổ, tử vong, điện giật, thương tích hoặc bỏng ở
+người khi sử dụng sản phẩm này, hãy thực hiện theo các biện pháp
+phòng ngừa cơ bản, bao gồm các điều sau:
+
+An toàn về Kỹ thuật
+
+• Thiết bị này không nhằm dành cho những người (bao gồm trẻ em) có
+năng lực thể chất, giác quan hoặc tinh thần bị suy giảm, hoặc thiếu
+
+4
+HƯỚNG DẪN AN TOÀN
+
+kinh nghiệm và kiến thức sử dụng nếu họ không có sự giám sát hoặc
+hướng dẫn liên quan đến việc sử dụng thiết bị từ người chịu trách
+nhiệm về sự an toàn của họ. Trẻ em cần phải được giám sát để đảm
+bảo rằng các bé không chơi đùa với thiết bị.
+
+• Thiết bị này nhằm để sử dụng trong gia đình và các ứng dụng tương
+tự như:
+
+- khu bếp cho nhân viên trong cửa hàng, văn phòng và các môi
+trường làm việc khác;
+
+- gia đình nông thôn, dành cho khách hàng trong khách sạn, nhà
+nghỉ và các loại hình cơ sở lưu trú khác;
+
+- các loại hình cơ sở lưu trú cung cấp chỗ nghỉ qua đêm kèm bữa
+sáng;
+
+- ứng dụng phục vụ ăn uống và các ứng dụng phi bán lẻ tương tự.
+
+• Thiết bị này không được sử dụng như một thiết bị cầm tay hoặc trong
+các điều kiện lắp đặt di động, chẳng hạn như sử dụng trên biển hoặc
+xe lưu động (RV), nơi thiết bị sẽ di chuyển trong khi vận hành.
+
+•
+
+Đây là biểu tượng cảnh báo vật liệu dễ bắt lửa gây cháy
+nếu người dùng không cẩn thận.
+
+• Thiết bị này chứa một lượng nhỏ môi chất làm lạnh isobutane (R600a)
+nhưng vẫn là khí dễ cháy. Khi vận chuyển và lắp đặt thiết bị, cần cẩn
+thận để đảm bảo rằng không có bộ phận của mạch làm lạnh bị hư
+hỏng.
+
+• Chất làm lạnh và khí thổi cách điện được sử dụng trong thiết bị cần
+phải được xử lý đặc biệt. Tham khảo ý kiến các đại lý dịch vụ hoặc một
+người có trình độ tương tự trước khi xử lý chúng.
+
+• Đừng làm hỏng mạch làm lạnh.
+
+• Nếu dây nguồn bị hỏng hoặc lỗ ổ cắm bị lỏng thì phải thay thế. Không
+được sử dụng dây nguồn đó và liên hệ với trung tâm dịch vụ được ủy
+quyền để tránh nguy hiểm.
+
+• Không đặt ổ cắm rời nhiều cổng hoặc nguồn cấp điện di động ở phía
+sau thiết bị.
+
+• Cắm chặt phích cắm vào ổ cắm sau khi loại bỏ sạch hơi ẩm và bụi bẩn.
+
+5
+HƯỚNG DẪN AN TOÀN
+
+• Tuyệt đối không rút phích cắm thiết bị khỏi nguồn điện bằng cách kéo
+dây điện. Luôn cầm chặt phích cắm và kéo thẳng phích cắm ra khỏi ổ
+cắm.
+
+• Giữ các lỗ thông gió, và các kết cấu gắn liền trong hoặc bên cạnh thiết
+bị sạch sẽ, không bị tắc nghẽn.
+
+TIẾNG VIỆT
+
+• Không bảo quản chất nổ như bình xon khí chứa nhiên liệu dễ cháy
+trong thiết bị này.
+
+• Đừng nghiêng thiết bị để kéo hoặc đẩy khi vận chuyển.
+
+• Phải đảm bảo dây cắm điện không bị vướng hay hư hỏng khi đặt thiết
+bị.
+
+• Không sử dụng các thiết bị máy móc hoặc các phương tiện khác để
+đẩy nhanh quá trình tan băng.
+
+• Không sử dụng máy sấy tóc để làm khô bên trong của thiết bị hoặc
+đặt một ngọn nến bên trong để loại bỏ mùi.
+
+• Không sử dụng các thiết bị điện bên trong khoang bảo quản thực
+phẩm của thiết bị, trừ khi chúng là khuyến nghị của nhà sản xuất.
+
+• Hãy chắc chắn rằng không một phần nào của cơ thể như bàn tay hoặc
+bàn chân bị mắc kẹt trong khi di chuyển thiết bị.
+
+• Rút dây điện trước khi vệ sinh bên trong hoặc bên ngoài thiết bị.
+
+• Không phun nước hoặc các chất dễ cháy (kem đánh răng, rượu, dung
+môi, benzen, chất lỏng dễ cháy, ăn mòn, vv) lên trên nội thất hoặc
+ngoại thất của thiết bị để làm sạch nó.
+
+• Không làm sạch thiết bị với bàn chải, khăn lau hoặc bọt biển với bề
+mặt thô ráp hoặc được làm bằng vật liệu kim loại.
+
+• Chỉ nhân viên bảo dưỡng có trình độ của trung tâm dịch vụ LG
+Electronics mới được tháo rời hoặc sửa chữa thiết bị.
+
+Nguy cơ hỏa hoạn và vật liệu dễ cháy
+
+• Nếu phát hiện có chỗ rò rỉ, cần tránh bất kỳ sự tiếp xúc nào với ngọn
+lửa hoặc các nguồn có khả năng đánh lửa và không khí trong phòng
+mà thiết bị được đặt trong vài phút. Để tránh việc tạo ra một hỗn hợp
+khí gas dễ cháy khi mạch làm lạnh bị rò rỉ, kích thước của phòng đặt
+thiết bị phải tương ứng với số lượng chất làm lạnh sử dụng trong thiết
+
+6
+HƯỚNG DẪN AN TOÀN
+
+bị. Phòng phải đảm bảo 1m² cho mỗi 8g R600a chất làm lạnh bên
+trong thiết bị.
+
+• Chất làm lạnh rò rỉ ra khỏi ống nước có thể bốc cháy hoặc gây ra một
+vụ nổ.
+
+• Lượng chất làm lạnh trong thiết bị của bạn được hiển thị trên bảng
+thông số kỹ thuật bên trong thiết bị.
+
+Lắp đặt
+
+• Thiết bị này chỉ nên được vận chuyển bởi hai hoặc nhiều người để giữ
+thiết bị một cách chắc chắn.
+
+• Đặt thiết bị trên sàn chắc chắn và bằng phẳng.
+
+• Không lắp đặt thiết bị ở nơi có nhiều bụi và ẩm thấp. Không lắp đặt
+hoặc bảo quản thiết bị ở bất kỳ khu vực ngoài trời hoặc ở bất kỳ chỗ
+nào chịu tác động của điều kiện thời tiết như ánh sáng mặt trời trực
+tiếp, gió, mưa hoặc nhiệt độ dưới mức đóng băng.
+
+• Không đặt thiết bị dưới ánh sáng mặt trời trực tiếp hoặc tiếp xúc với
+sức nóng từ các thiết bị tỏa nhiệt như bếp lò hoặc lò sưởi.
+
+• Hãy cẩn thận không để hở phía sau của thiết bị khi lắp đặt.
+
+• Lắp đặt thiết bị ở nơi dễ rút phích cắm của thiết bị.
+
+• Hãy cẩn thận không để thiết bị cửa rơi ra khi lắp ráp hoặc tháo gỡ.
+
+• Hãy cẩn thận không để móp, trầy xước, hoặc làm hỏng cáp điện trong
+quá trình lắp ráp hoặc tháo gỡ cửa thiết bị.
+
+• Không để vật nhọn chọc vào phích cắm điện hoặc để thiết bị đè lên
+phích cắm điện.
+
+• Không thay đổi hoặc nối dài dây điện.
+
+• Đảm bảo ổ cắm điện được nối đất đúng cách và chân nối đất trên dây
+điện không bị hư hỏng hoặc tháo khỏi ổ cắm điện. Để biết thêm chi
+tiết về việc nối đất, hãy liên hệ tới trung tâm thông tin khách hàng của
+LG Electronics.
+
+• Thiết bị này được trang bị dây điện có dây dẫn nối đất và phích cắm
+nối đất. Phích cắm phải được cắm vào ổ cắm phù hợp, được lắp đặt
+và nối đất theo toàn bộ các quy tắc và quy định trong nước.
+
+7
+HƯỚNG DẪN AN TOÀN
+
+• Tuyệt đối không được khởi động thiết bị có dấu hiệu hư hỏng. Nếu
+nghi ngờ, hãy tham khảo ý kiến đại lý của bạn.
+
+• Để tất cả vật liệu đóng gói (chẳng hạn như túi nhựa và xốp) cách xa
+trẻ em. Vật liệu đóng gói có thể gây ngạt thở.
+
+• Không cắm thiết bị vào ổ cắm đa cổng mà không có cáp điện (được
+cắm).
+
+TIẾNG VIỆT
+
+• Các thiết bị phải được nối với một đường dây điện chuyên dụng được
+nối cầu chì riêng.
+
+• Không sử dụng ổ cắm (rời) đa cổng không được nối đất đúng cách. Ổ
+cắm phải tuân thủ các thông số kỹ thuật của thiết bị và chỉ được sử
+dụng cho thiết bị.
+
+Vận hành
+
+• Không sử dụng thiết bị cho mục đích khác (bảo quản các vật liệu y tế
+hoặc thí nghiệm hay để vận chuyển) ngoài việc sử dụng để bảo quản
+thực phẩm của gia đình.
+
+• Nếu nước thâm nhập vào các bộ phận điện của thiết bị, hãy rút phích
+cắm điện và liên hệ với trung tâm thông tin khách hàng của LG
+Electronics.
+
+• Rút phích cắm điện khi có giông bão nghiêm trọng, hoặc khi không
+sử dụng trong một thời gian dài.
+
+• Không được chạm vào phích cắm hoặc các phần điều khiển thiết bị
+bằng tay ướt.
+
+• Không được gập cong dây điện quá mức hoặc đặt một vật nặng lên
+dây.
+
+• Ngay lập tức rút phích điện ra và liên hệ với trung tâm thông tin khách
+hàng LG Electronics nếu bạn phát hiện ra một âm thanh kỳ lạ, mùi,
+hoặc khói bốc ra khỏi thiết bị.
+
+• Không được đặt bàn tay hay các vật kim loại bên trong khu vực tỏa ra
+không khí lạnh, lên nắp hoặc lưới tản nhiệt ở phía sau.
+
+• Không tác dụng lực mạnh hoặc tác động vào nắp phía sau của thiết bị.
+
+• Hãy cẩn thận trẻ em ở gần khi bạn mở hoặc đóng cửa thiết bị. Cánh
+cửa có thể va vào trẻ em và gây thương tích.
+
+8
+HƯỚNG DẪN AN TOÀN
+
+• Cẩn thận không để trẻ em bị mắc kẹt bên trong thiết bị. Trẻ em bị mắc
+kẹt bên trong thiết bị này có thể bị ngạt thở.
+
+• Không đặt các loài động vật, chẳng hạn như thú cưng vào trong thiết
+bị.
+
+• Không đặt các vật nặng hoặc dễ vỡ, thùng chứa chất lỏng, chất dễ
+cháy, các vật dễ cháy (như nến, đèn, v.v.), hoặc các thiết bị sưởi ấm
+(như bếp lò, lò sưởi, v.v.) lên trên thiết bị.
+
+• Không đặt bất kỳ thiết bị điện tử (như máy sưởi và điện thoại di động)
+bên trong thiết bị.
+
+• Nếu bị rò rỉ gas (isobutane, propane, khí thiên nhiên, v.v.), không
+chạm vào thiết bị hoặc phích cắm và lập tức thông gió cho khu vực
+Thiết bị này sử dụng gas môi chất làm lạnh (isobutane,R600a). Mặc dù
+thiết bị sử dụng một lượng nhỏ khí gas nhưng đây vẫn là khí dễ cháy.
+Rò rỉ gas trong khi vận chuyển, lắp đặt hay vận hành thiết bị có thể
+gây cháy, nổ hoặc thương tật nếu phát sinh tia lửa.
+
+• Không sử dụng hoặc bảo quản các chất dễ cháy hay bắt cháy (ví dụ
+benzen, cồn, hóa chất, LPG, bình xịt dễ cháy, thuốc trừ sâu, chất làm
+sạch không khí, mỹ phẩm, vv) gần thiết bị.
+
+• Thiết bị này tích hợp nối đất để phục vụ các mục đích chức năng.
+
+• Chỉ nối với nguồn cấp nước uống được.
+
+- Nếu kết nối với nguồn cấp nước thì chỉ được kết nối với nguồn cấp
+nước sinh hoạt.
+
+• Chỉ đổ nước uống.
+
+- Nếu sử dụng máy làm đá hoặc bình chứa nước của bộ phân phối,
+hãy đảm bảo chỉ đổ đầy bằng nước sinh hoạt.
+
+Tiêu hủy
+
+• Khi bỏ thiết bị đi, cần loại bỏ các miếng đệm cửa và để lại kệ và giỏ tại
+chỗ và để trẻ em tránh xa khỏi thiết bị.
+
+9
+HƯỚNG DẪN AN TOÀN
+
+THẬN TRỌNG
+
+TIẾNG VIỆT
+
+THẬN TRỌNG
+• Để giảm thiểu những rủi ro có thể gây ra thương tích nhỏ cho người,
+hoặc làm thiết bị hoạt động sai chức năng cũng như hư hỏng sản
+phẩm hoặc tài sản khi sử dụng sản phẩm này, hãy thực hiện các biện
+pháp phòng ngừa cơ bản, bao gồm các điều sau:
+
+Lắp đặt
+
+• Sau khi tháo dỡ, hãy kiểm tra thiết bị xem có bất kỳ hư hỏng nào có
+thể xảy ra trong quá trình vận chuyển hay không.
+
+• Chờ ít nhất 3-4 giờ để đảm bảo mạch chất làm lạnh hoạt động hiệu
+quả.
+
+• Di chuyển thiết bị cẩn thận trên sàn dễ bị hỏng để tránh làm hỏng
+sàn.
+
+Vận hành
+
+• Đừng chạm vào thực phẩm đông lạnh hoặc các bộ phận kim loại
+trong ngăn đá bằng tay ướt hoặc ẩm. Nó có thể gây tê cóng.
+
+• Không đặt hộp đựng, chai lọ thủy tinh hoặc đồ hộp (đặc biệt là hộp
+đựng đồ uống có ga) vào ngăn đá, kệ hoặc khay đá sẽ tiếp xúc với
+nhiệt độ dưới mức đóng băng. Chất chứa bên trong có thể giãn nở khi
+được cấp đông, làm vỡ hộp đựng và gây thương tích.
+
+• Kính cường lực ở mặt trước của cửa thiết bị hoặc của kệ có thể bị vỡ
+do tác động. Nếu kính bị vỡ, không được chạm tay vào.
+
+• Không treo đồ lên cửa thiết bị, khoang bảo quản, hoặc leo lên trên đó.
+
+• Không bảo quản một số lượng lớn chai nước hoặc bình đựng đồ ăn
+phụ ở giỏ cửa.
+
+• Không mở hoặc đóng cửa bằng lực quá mức cần thiết.
+
+• Nếu bản lề cửa của thiết bị bị hỏng hoặc hoạt động không đúng cách,
+hãy ngưng sử dụng thiết bị và liên hệ với trung tâm dịch vụ được ủy
+quyền.
+
+• Ngăn chặn không để động vật gặm nhấm dây điện hoặc ống nước.
+
+10
+HƯỚNG DẪN AN TOÀN
+
+• Tuyệt đối không ăn thực phẩm cấp đông ngay sau khi lấy ra từ ngăn
+đá. Có nguy cơ bị tê cóng hoặc hình thành các vết phồng rộp do tê
+cóng. SƠ CỨU: Lập tức để phần bị thương dưới vòi nước chảy. Không
+được bóc ra.
+
+• Đảm bảo không để tay hoặc chân bị kẹp khi mở hoặc đóng cửa hoặc
+cửa trong cửa của thiết bị.
+
+Bảo trì
+
+• Thiết bị này được trang bị đèn LED bên trong được bảo hành miễn
+phí. Không được tháo vỏ đèn hay đèn LED để sửa chữa hoặc thay đổi.
+Hãy liên hệ với trung tâm thông tin khách hàng của LG Electronics.
+
+• Không lau kệ hoặc nắp thủy tinh bằng nước ấm khi chúng đang lạnh.
+Chúng có thể bị vỡ nếu tiếp xúc với nhiệt độ thay đổi đột ngột.
+
+• Không lắp kệ lộn ngược. Kệ có thể rơi xuống.
+
+• Nếu hình thành băng trong ngăn đá, vui lòng liên hệ với dịch vụ khách
+hàng của LG Electronics. Không sử dụng các vật có cạnh sắc để loại
+bỏ sương hoặc băng tích tụ. Không sử dụng bình xịt, các thiết bị làm
+nóng bằng điện như quạt sưởi, máy sấy tóc, máy làm sạch bằng hơi
+nước hoặc các nguồn nhiệt khác để rã đông. Các bộ phận bằng nhựa
+có thể biến dạng.
+
+• Loại bỏ lớp băng bên trong khay đá trong ngăn đá bằng cách ngắt
+điện trong một khoảng thời gian
+
+11
+LẮP ĐẶT
+
+LẮP ĐẶT
+
+Trước khi lắp đặt
+
+Kích thước và Khoảng cách
+
+Khoảng cách quá nhỏ so với các vật xung quanh có thể làm giảm khả năng đóng băng và tăng chi phí điện.
+Giữ khoảng cách trên 50 mm từ phía sau thiết bị đến tường khi lắp đặt thiết bị.
+
+TIẾNG VIỆT
+
+-
+Kích thước (mm)
+
+Loại
+A
+B
+C
+D
+E
+F
+
+A
+700
+700
+700
+600
+600
+555
+
+B
+1845
+1760
+1720
+1720
+1640
+1445
+
+C
+725
+680
+680
+710
+710
+637
+
+D
+5
+5
+5
+5
+5
+5
+
+E
+720
+675
+675
+705
+705
+632
+
+F
+-
+-
+-
+-
+-
+-
+
+G
+1354
+1309
+1309
+1254
+1254
+1137
+
+H
+1212
+1212
+1212
+1031
+1031
+953
+
+LƯU Ý
+
+• Bạn có thể xác định loại thiết bị đó bằng cách quan sát nhãn bên trong thiết bị.
+
+phụ thuộc vào vùng khí hậu.
+
+Nhiệt độ xung quanh
+
+• Thiết bị được thiết kế để hoạt động trong phạm
+vi giới hạn của nhiệt độ môi trường xung quanh,
+
+• Nhiệt độ bên trong có thể bị ảnh hưởng bởi vị trí
+của thiết bị, nhiệt độ xung quanh, tần suất mở
+cửa v.v.
+
+12
+LẮP ĐẶT
+
+2
+Mở cửa tủ và kiểm tra để đảm bảo cửa đóng dễ
+
+• Các lớp khí hậu có thể được tìm thấy trên nhãn
+đánh giá.
+
+dàng.
+
+LƯU Ý
+
+Lớp khí hậu
+Nhiệt độ môi trường
+xung quanh ºC
+
+SN (Ôn đới mở
+rộng)
++10 - +32
+
+• Có thể không chỉnh cửa cho cân bằng được khi
+sàn không bằng phẳng hoặc có cấu trúc xây
+dựng yếu hoặc kém.
+
+N (Ôn đới)
++16 - +32
+
+• Tủ lạnh có trọng lượng lớn và nên được lắp đặt
+trên bề mặt cứng, rắn chắc.
+
+ST (Cận nhiệt đới)
++16 - +38 / +18 - +38**
+
+• Một số loại sàn gỗ có thể gây khó khăn khi chỉnh
+
+cân bằng nếu sàn bị uốn cong quá mức.
+
+T (Nhiệt đới)
++10 - +43* / +16 - +43 /
++18 - +43**
+
+* Úc, Ấn Độ, Kenya
+
+** Argentina
+
+Bật điện thiết bị
+
+LƯU Ý
+
+Nối điện cho thiết bị
+
+Để bật thiết bị, hãy cắm phích cắm vào ổ cắm điện.
+Không cắm thêm thiết bị khác trên cùng ổ cắm.
+
+• Các thiết bị được xếp hạng từ SN đến T được sử
+dụng ở nhiệt độ môi trường xung quanh từ 10ºC
+đến 43ºC.
+
+LƯU Ý
+
+Tạo bề mặt bằng phẳng đặt
+thiết bị
+
+• Sau khi nối dây cấp nguồn (hoặc phích cắm) vào
+ổ cắm, hãy đợi đủ thời gian trước khi bạn đặt
+thực phẩm vào trong thiết bị. Nếu bạn cho thực
+phẩm vào trước khi thiết bị đã mát hoàn toàn,
+thực phẩm có thể bị hỏng.
+
+• Sau khi tắt thiết bị, hãy rút phích cắm khỏi ổ cắm
+
+Chỉnh chân điều chỉnh độ cao
+
+điện.
+
+Trong trường hợp thiết bị có vẻ không chắc chắn
+hoặc các cửa không thể đóng lại dễ dàng, hãy tiến
+hành chỉnh độ nghiêng của thiết bị theo hướng dẫn
+bên dưới.
+
+1
+Xoay chân điều chỉnh độ cao theo chiều kim
+
+Di chuyển thiết bị để
+chuyển vị trí
+
+đồng hồ để nâng cạnh bên thiết bị lên hoặc
+ngược chiều kim đồng hồ để hạ xuống.
+
+Di chuyển thiết bị
+
+1
+Lấy toàn bộ thực phẩm bên trong thiết bị ra.
+
+2
+Cắm chắc phích cắm điện.
+
+• Các mẫu máy có móc gài phích cắm điện:
+
+Rút phích cắm điện ra, chèn và cố định nó
+vào móc gài phích cắm ở phía sau hoặc phía
+trên của thiết bị.
+
+13
+LẮP ĐẶT
+
+• Các mẫu máy không có móc gài phích cắm
+điện:
+
+Rút phích cắm điện và cố định cáp cấp điện
+bằng băng dính vào mặt bên của thiết bị có
+ổ cắm điện tại vị trí lắp đặt.
+
+3
+Dùng băng dính cố định các bộ phận như các
+
+TIẾNG VIỆT
+
+kệ và tay nắm cửa để ngăn cho chúng rơi khi di
+chuyển thiết bị.
+
+4
+Phải có nhiều hơn hai người để di chuyển thiết
+
+bị cẩn thận. Khi vận chuyển thiết bị trên một
+quãng đường dài, cần giữ cho thiết bị đứng
+thẳng.
+
+THẬN TRỌNG
+• Di chuyển thiết bị cẩn thận trên sàn dễ bị hỏng
+để tránh làm hỏng sàn.
+
+- Sử dụng bìa cứng, thảm lót sàn hoặc tấm thảm
+để tránh trầy xước sàn khi lắp đặt hoặc di
+chuyển thiết bị.
+
+- Không di chuyển thiết bị theo đường zíc zắc.
+
+5
+Sau khi lắp đặt thiết bị, hãy cắm phích cắm vào
+
+ổ cắm chính và bật lên.
+
+14
+VẬN HÀNH
+
+VẬN HÀNH
+
+Trước khi sử dụng
+
+LƯU Ý
+
+Lưu ý khi Vận hành
+
+• Nếu một vấn đề được phát hiện, thiết bị sẽ không
+hoạt động và một mã lỗi sẽ được hiển thị ngay
+khi ấn vào một nút nào đó.
+
+• Trước khi cho thực phẩm vào thiết bị, hãy vệ sinh
+bên trong và bên ngoài thiết bị bằng nước ấm và
+nước tẩy rửa nhẹ để loại bỏ cặn trong quá trình
+sản xuất.
+
+• Người dùng cần lưu ý rằng sương giá có thể hình
+thành nếu cửa chưa được đóng hoàn toàn hoặc,
+độ ẩm cao vào mùa hè.
+
+• Nếu màn hình chỉ báo mã lỗi, không tắt nguồn
+điện. Hãy liên hệ ngay với trung tâm thông tin
+khách hàng của LG Electronics và thông báo mã
+lỗi. Nếu bạn tắt nguồn điện, các kỹ thuật viên sửa
+chữa tại trung tâm thông tin khách hàng của LG
+Electronics có thể gặp khó khăn trong việc tìm ra
+vấn đề.
+
+• Đảm bảo có đủ không gian giữa thực phẩm được
+bảo quản trên khay hoặc giỏ cửa để cửa được
+đóng hoàn toàn.
+
+• Việc mở cửa trong thời gian dài có thể làm tăng
+đáng kể nhiệt độ trong các ngăn của thiết bị.
+
+Đề xuất để Tiết kiệm Năng
+lượng
+
+• Nếu để trống tủ lạnh trong thời gian dài, hãy tắt
+nguồn, rã đông, vệ sinh, lau khô và để cửa mở để
+tránh nấm mốc phát triển bên trong thiết bị.
+
+• Để sử dụng năng lượng hiệu quả nhất, giữ tất cả
+các bộ phận bên trong (ví dụ: cửa bình đựng,
+ngăn kéo và khay) ở vị trí ban đầu. Việc thay đổi
+vị trí của các bộ phận này có thể làm giảm hiệu
+quả sử dụng năng lượng và hiệu suất.
+
+• Lưu ý rằng sự gia tăng nhiệt độ sau khi rã đông
+có một phạm vi cho phép trong thông số kỹ
+thuật của thiết bị. Nếu bạn muốn giảm thiểu tác
+động của sự gia tăng nhiệt độ này lên thực phẩm
+được bảo quản, hãy đóng kín hoặc bọc thực
+phẩm bằng nhiều lớp.
+
+• Đảm bảo có đủ không gian giữa các loại thực
+phẩm được bảo quản. Điều này cho phép không
+khí lạnh lưu thông đều và làm giảm hóa đơn tiền
+điện.
+
+Cảnh báo Cửa mở
+
+• Bảo quản thực phẩm nóng chỉ sau khi nó đã
+nguội để ngăn chặn sương hoặc sương giá.
+
+Tính năng này chỉ có ở một số mẫu máy.
+
+• Khi bảo quản thực phẩm trong ngăn đá, đặt
+nhiệt độ của ngăn đá thấp hơn nhiệt độ ghi trên
+thực phẩm.
+
+Có âm báo nếu cửa vẫn mở hoặc chưa đóng hoàn
+toàn.
+
+• Không cài đặt nhiệt độ thiết bị thấp hơn mức cần
+thiết.
+
+LƯU Ý
+
+• Đừng để thực phẩm gần cảm biến nhiệt độ của
+ngăn mát. Giữ khoảng cách ít nhất 3 cm từ cảm
+biến.
+
+• Liên hệ với trung tâm thông tin khách hàng của
+LG Electronics nếu âm thanh báo động vẫn tiếp
+tục ngay cả sau khi đóng tất cả các cửa.
+
+Bảo quản hiệu quả thực phẩm
+
+Phát hiện sự cố
+
+Thiết bị có thể tự động phát hiện các vấn đề trong
+quá trình hoạt động.
+
+• Thực phẩm có thể đóng băng hoặc hỏng nếu
+được bảo quản ở nhiệt độ không phù hợp. Hãy
+cài đặt tủ lạnh ở mức nhiệt độ phù hợp với thực
+phẩm được bảo quản.
+
+15
+VẬN HÀNH
+
+• Bảo quản thực phẩm đông lạnh hoặc thực phẩm
+lạnh trong hộp kín.
+
+- Ghi ngày bảo quản, thời hạn bảo quản cho
+phép, tên thực phẩm lên bao bì để tránh quá
+hạn bảo quản.
+
+• Kiểm tra ngày hết hạn và nhãn (hướng dẫn bảo
+quản) trước khi bảo quản thức ăn trong thiết bị.
+
+• Trong trường hợp mất điện, hãy gọi cho công ty
+điện lực và hỏi xem sẽ kéo dài bao lâu.
+
+- Bạn nên tránh mở cửa trong khi bị mất điện.
+
+• Không bảo quản thực phẩm trong khoảng thời
+gian dài nếu là thực phẩm dễ bị hỏng ở nhiệt độ
+thấp.
+
+- Khi nguồn điện trở lại bình thường, hãy kiểm
+tra tình trạng của thực phẩm.
+
+TIẾNG VIỆT
+
+• Không để thực phẩm chưa cấp đông tiếp xúc
+trực tiếp với thực phẩm đã cấp đông. Không bảo
+quản quá nhiều thực phẩm tươi sống.
+
+- Nếu mất điện lâu hơn, đặc biệt là vào những
+tháng hè, vui lòng thực hiện theo các hướng
+dẫn sau:
+
+• Cấp đông thực phẩm với số lượng vừa đủ để cấp
+đông nhanh hơn, rã đông và chế biến dễ dàng
+hơn.
+
+- Không cho thêm thực phẩm vào thiết bị
+trong thời gian mất điện.
+
+• Đặt thực phẩm lạnh hoặc thực phẩm đông lạnh
+vào ngăn mát hoặc ngăn đá ngay lập tức sau khi
+mua.
+
+- Nếu có thông báo mất điện và dự kiến sẽ kéo
+dài hơn 10 giờ, hãy chuẩn bị một ít đá và cho
+vào hộp đựng ở ngăn trên cùng của ngăn mát.
+
+• Đựng thịt và cá sống bằng các hộp chứa thích
+hợp trong tủ lạnh sao cho các thực phẩm này
+không tiếp xúc hoặc rỉ nước lên thực phẩm khác.
+
+- Do sự gia tăng nhiệt độ trong thiết bị khi mất
+điện hoặc sự cố khác, thời hạn sử dụng và chất
+lượng của thực phẩm sẽ giảm. Nếu cần, hãy
+chế biến thực phẩm đã rã đông và làm đông
+lạnh lại ở trạng thái đã nấu chín.
+
+• Có thể đặt thực phẩm lạnh và các món thực
+phẩm khác trên ngăn đựng rau.
+
+Công suất làm đông lạnh tối đa
+
+• Tránh làm đông lại thực phẩm đã được rã đông
+hoàn toàn. Làm đông lại thực phẩm đã được rã
+đông hoàn toàn có thể khiến thực phẩm bị giảm
+mùi vị và dinh dưỡng.
+
+• Để có khả năng cấp đông tối đa, hãy đặt nhiệt độ
+ngăn đá ở mức lạnh nhất.
+
+- Chỉ lấy ra lượng thực phẩm cần thiết. Nhanh
+chóng sử dụng thực phẩm đã rã đông. Chỉ cấp
+đông lại thực phẩm sau khi đã nấu chín.
+
+• Chức năng Express Freeze giúp ngăn đá đạt
+công suất tối đa. Chức năng này thường kéo dài
+đến 21 giờ và sẽ tự động tắt.
+
+• Phải bật chức năng Express Freeze khi cho sản
+phẩm tươi sống vào ngăn đá.
+
+• Làm nguội thức ăn nóng trước khi cho vào bảo
+quản. Nếu quá nhiều thức ăn nóng được đặt bên
+trong, nhiệt độ bên trong của thiết bị có thể tăng
+và ảnh hưởng không tốt đến các loại thực phẩm
+khác được bảo quản trong thiết bị.
+
+• Để cấp đông nhanh thực phẩm, hãy bảo quản
+thực phẩm ở ngăn trên. Thực phẩm sẽ cấp đông
+nhanh nhất ở khu vực này.
+
+• Đừng để thiết bị quá đầy. Không khí lạnh không
+thể lưu thông tốt nếu thiết bị quá đầy.
+
+• Với những mẫu máy có Bảng điều khiển 2 (loại
+B)
+
+• Nếu bạn đặt nhiệt độ quá thấp đối với thực
+phẩm, nó có thể bị đóng đá. Đừng đặt nhiệt độ
+thấp hơn nhiệt độ cần thiết để thực phẩm được
+bảo quản đúng cách.
+
+- Để làm lạnh các đồ thực phẩm nhanh, hãy bảo
+quản thực phẩm ở bên trái của ngăn dưới. Các
+đồ thực phẩm sẽ đông lạnh nhanh nhất ở khu
+vực này.
+
+• Để không khí lưu thông tốt hơn, lắp tất cả các bộ
+phận bên trong như giỏ, ngăn kéo và khay.
+
+• Nếu có khoang ướp lạnh trong thiết bị, không
+nên chứa rau quả có hàm lượng ẩm cao hơn
+trong các khoang lạnh vì chúng có thể đóng
+băng do nhiệt độ thấp hơn.
+
+• Luôn thực hiện theo hướng dẫn của nhà sản xuất
+thực phẩm về thời hạn bảo quản cho phép của
+thực phẩm đông lạnh. Không vượt quá thời gian
+bảo quản thực phẩm khuyến nghị.
+
+16
+VẬN HÀNH
+
+Làm đông lạnh lượng thực
+phẩm tối đa
+
+Nếu cần bảo quản lượng thực phẩm lớn thì nên lấy
+máy làm đá ra khỏi thiết bị và xếp trực tiếp thực
+phẩm lên các khay đông lạnh trong ngăn đá.
+
+LƯU Ý
+
+• Cho máy làm đá vào đúng vị trí.
+
+17
+VẬN HÀNH
+
+Đặc điểm sản phẩm
+
+Hình dạng hoặc các thành phần cấu tạo của thiết bị có thể khác nhau giữa các cấu hình.
+
+Phần bên trong
+
+*1 Tính năng này chỉ có ở một số mẫu máy.
+
+TIẾNG VIỆT
+
+a Bảng điều khiển*1
+
+Cài đặt nhiệt độ ngăn mát.
+
+b Thiết bị lấy nước ngoài*1
+
+c Khay ngăn đá
+
+Bảo quản thực phẩm đông lạnh như thịt, cá và kem.
+
+d Khay đá di chuyển linh hoạt*1
+
+Đây là nơi mà đá được sản xuất và bảo quản.
+
+• Bạn có thể trượt máy làm đá dọc theo khay từ bên này sang bên kia đến vị trí mong muốn bất kỳ.
+
+e Bộ điều khiển nhiệt độ ngăn đá*1
+
+Bộ điều khiển này điều chỉnh luồng khí đến ngăn đá bằng cách thiết lập luồng khí cân bằng phù hợp.
+
+f Khay đá*1
+
+Làm đá thủ công .
+
+g Giỏ gắn ở cửa ngăn đá
+
+Bảo quản thực phẩm đông lạnh trong các gói nhỏ. Không bảo quản kem hoặc thực phẩm sẽ được bảo
+quản trong một thời gian dài.
+
+18
+VẬN HÀNH
+
+h Máy làm đá tự động*1
+
+Đây là nơi đá được tự động tạo ra và bảo quản.
+
+i Bộ lọc không khí*1
+
+Giảm mùi hôi bên trong ngăn mát.
+
+LƯU Ý
+
+• Không tháo bộ lọc không khí. Nếu muốn thay thế bộ lọc không khí, vui lòng liên hệ trung tâm thông tin
+
+khách hàng của LG Electronics.
+
+j Ngăn cấp đông*1
+
+Đây là nơi lưu trữ thực phẩm ở nhiệt độ thấp hơn khu vực thông thường của ngăn mát.
+
+k Khay kéo*1
+
+l Bảng điều khiển nhiệt độ ngăn mát*1
+
+Cài đặt nhiệt độ ngăn mát.
+
+m Door Cooling*1
+
+Không khí lạnh đi ra từ đây, giúp làm mát giỏ gắn ở cửa ngăn mát.
+
+n Khay ngăn mát
+
+Bảo quản thực phẩm đông lạnh và thực phẩm tươi.
+
+Bảo quản thực phẩm có độ ẩm cao hơn ở phía trước của khay.
+
+Chiều cao của kệ có thể được điều chỉnh bằng cách chèn kệ vào rãnh có chiều cao khác nhau.
+
+o Khay dưới cùng
+
+Bảo quản thực phẩm đông lạnh và thực phẩm tươi.
+
+THẬN TRỌNG
+• Không bảo quản đồ gì ở phía trước kệ dưới cùng. Đồ có thể rơi và gây thương tích hoặc hư hỏng thiết bị.
+
+p Ngăn kéo ngăn mát
+
+Bảo quản hoa quả và rau.
+
+q Bình chứa nước*1
+
+Đây là nơi trữ nước để cấp cho bình phân phối.
+
+r Giỏ gắn ở cửa ngăn mát*1
+
+Bảo quản các gói nhỏ đựng thực phẩm đông lạnh, đồ uống và lọ nước sốt.
+
+s Khay trứng*1
+
+Đây là nơi mà trứng được bảo quản.
+
+• Bạn có thể di chuyển và sử dụng khay ở vị trí mong muốn khi cần thiết. Tuy nhiên, không được sử
+dụng khay làm khay đá hoặc đặt lên kệ trên cùng của ngăn mát hoặc ngăn đựng rau.
+
+t Khay đá*1
+
+Trữ đá từ máy làm đá.
+
+19
+VẬN HÀNH
+
+Bảng Điều khiển
+
+Bảng điều khiển trên thực tế có thể khác nhau ở mỗi cấu hình.
+
+Bảng Điều khiển và các Chức năng
+
+*1 Bảng điều khiển này chỉ có ở một số mẫu máy.
+
+Bảng điều khiển 1: Trên cửa ngăn đá*1
+
+TIẾNG VIỆT
+
+a Freezer
+
+Nhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ -23 °C đến -15 °C.
+
+• Nhiệt độ mặc định của ngăn đá là -18 °C.
+
+b Convertible
+
+Có thể cài đặt nhiệt độ ngăn đá ở mức tương đương với nhiệt độ của ngăn mát.
+
+• Nhấn nút này trong 3 giây. Khi đèn LED bên trái sáng lên, nhấn nút Fridge nhiều lần để chọn nhiệt
+độ mong muốn từ 1 °C đến 7 °C.
+
+• Nhấn nút này trong 3 giây để tắt chức năng Chuyển đổi ngăn đá và ngăn mát khi đèn LED tắt.
+
+c Fridge
+
+Nhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ 1 °C đến 7 °C.
+
+• Nhiệt độ mặc định của ngăn mát là 3 ℃ hoặc 2 ℃.
+
+LƯU Ý
+
+• Nhiệt độ bên trong trên thực tế có thể khác nhau tùy thuộc vào tình trạng thực phẩm, vì nhiệt độ cài đặt
+
+chỉ là một nhiệt độ mục tiêu, không phải nhiệt độ thực tế trong thiết bị.
+
+20
+VẬN HÀNH
+
+d Express Freeze
+
+Chức năng này có thể nhanh chóng làm đóng băng một lượng lớn nước đá hoặc thực phẩm đông lạnh.
+
+• Chức năng này sẽ lần lượt được bật và tắt mỗi khi bạn nhấn nút trong vòng 3 giây.
+
+• Chức năng này sẽ tự động dừng sau một khoảng thời gian cụ thể.
+
+e Wi-Fi
+
+Nút này cho phép thiết bị kết nối với mạng Wi-Fi trong nhà. Tham khảo phần Chức năng thông minh để
+biết thông tin về cài đặt ban đầu cho ứng dụng LG ThinQ.
+
+f Ice On/Off
+
+Nhấn nút Ice On/Off để bật/tắt máy làm đá.
+
+LƯU Ý
+
+• Để bảo quản thực phẩm tối ưu, nên tăng hoặc giảm 1 °C so với nhiệt độ mặc định đối với mỗi ngăn.
+
+• Bảng điều khiển sẽ tự động tắt để tiết kiệm năng lượng.
+
+• Nếu ngón tay hoặc da tiếp xúc với bảng điều khiển khi lau chùi, nút tính năng có thể được kích hoạt.
+
+Bảng điều khiển 2: Bên trong ngăn mát*1
+
+Loại A
+
+a Freezer
+
+Nhấn nút này nhiều lần để chọn nhiệt độ mong muốn từ Cold (Lạnh) đến Coldest (Lạnh nhất).
+
+• Nhiệt độ mặc định của ngăn đá là e.
+
+b Convertible
+
+Có thể cài đặt nhiệt độ ngăn đá ở mức tương đương với nhiệt độ của ngăn mát.
+
+• Nhấn nút này trong 3 giây. Khi đèn LED bên trái sáng lên, nhấn nút Fridge nhiều lần để chọn nhiệt
+độ mong muốn từ mức Cold (Lạnh) đến Coldest (Lạnh nhất).
+
+• Nhấn nút này trong 3 giây để tắt chức năng Chuyển đổi ngăn đá và ngăn mát khi đèn LED tắt.
+
+c Fridge
+
+Nhấn nút này nhiều lần để chọn nhiệt độ mong muốn từ Cold (Lạnh) đến Coldest (Lạnh nhất).
+
+• Nhiệt độ mặc định của ngăn mát là f.
+
+d Express Freeze
+
+Chức năng này có thể nhanh chóng làm đóng băng một lượng lớn nước đá hoặc thực phẩm đông lạnh.
+
+21
+VẬN HÀNH
+
+• Chức năng này sẽ lần lượt được bật và tắt mỗi khi bạn nhấn nút trong vòng 3 giây.
+
+• Chức năng này sẽ tự động dừng sau một khoảng thời gian cụ thể.
+
+Loại B
+
+Vặn núm xoay để chọn nhiệt độ mong muốn từ mức Cold đến Coldest.
+
+TIẾNG VIỆT
+
+Loại C
+
+Vặn núm xoay để chọn nhiệt độ mong muốn từ mức Cold đến Coldest.
+
+Để cấp đông nhanh một lượng lớn nước đá hoặc thực phẩm đông lạnh, hãy chỉnh núm xoay về cài đặt
+Express Freeze.
+
+• Chức năng này tự động dừng sau 21 giờ.
+
+LƯU Ý
+
+• Để bảo quản thực phẩm tối ưu, nên tăng hoặc giảm một mức nhiệt độ so với nhiệt độ mặc định.
+
+• Sau khi tắt chức năng Express Freeze, bộ điều khiển vẫn chỉ báo chế độ Express Freeze nhưng cài đặt
+
+nhiệt độ sẽ tự động trở về cài đặt nhiệt độ mức trung bình.
+
+Bảng điều khiển 3: Bên trong ngăn đá*1
+
+Vặn núm xoay để chọn nhiệt độ mong muốn từ mức Min đến Max.
+
+22
+VẬN HÀNH
+
+LƯU Ý
+
+• Để bảo quản thực phẩm tối ưu, nên tăng hoặc giảm một mức nhiệt độ so với nhiệt độ mặc định.
+
+• Nhấn gạt a của Thiết bị lấy nước ngoài để lấy
+nước lạnh.
+
+Cài đặt mức nhiệt độ tủ ngăn đá
+(1-5)
+
+Nhiệt độ có thể được điều chỉnh từ mức 1 đến mức
+5. Nên sử dụng mức 3.
+
+• Có thể giảm nhiệt độ bằng cách xoay bộ điều
+khiển sang phải và tăng nhiệt độ bằng cách xoay
+bộ điều khiển sang trái.
+
+• Cài đặt bộ điều khiển ở mức 4-5 sẽ duy trì nhiệt
+độ thấp trong ngăn đá. Khi hoàn tất làm đóng
+băng nhanh (mức 5), hãy cài đặt bộ điều khiển về
+mức khuyến nghị.
+
+THẬN TRỌNG
+• Giữ trẻ em tránh xa Thiết bị lấy nước ngoài để
+ngăn ngừa trẻ em đùa nghịch hoặc làm hư hỏng
+các chế độ điều khiển.
+
+LƯU Ý
+
+• Nếu miệng cốc nhỏ, thì nước có thể văng ra khỏi
+
+cốc hoặc hoàn toàn rơi ra ngoài cốc.
+
+Làm sạch Thiết bị lấy nước ngoài
+
+LƯU Ý
+
+• Lau sạch toàn bộ phần này bằng vải ẩm. Thiết bị
+lấy nước ngoài có thể dễ bị ướt do nước bị đổ.
+
+• Để bảo quản thực phẩm tối ưu, nên tăng hoặc
+giảm một mức nhiệt độ so với nhiệt độ mặc định.
+
+• Thường xuyên lau sạch vòi lấy nước ngoài bằng
+vải sạch vì bộ phận này có thể dễ bị bẩn.
+
+• Cắm thiết bị 2 đến 3 giờ trước khi bảo quản thức
+ăn trong thiết bị.
+
+• Nhiệt độ bên trong có thể bị ảnh hưởng bởi vị trí
+của thiết bị, nhiệt độ xung quanh, tần suất mở
+cửa v.v.
+
+Thiết bị lấy nước ngoài
+
+Tính năng này chỉ có ở một số mẫu máy.
+
+LƯU Ý
+
+• Xơ vải có thể dính vào vòi.
+
+Sử dụng Thiết bị lấy nước ngoài
+
+Bạn có thể nhấn gạt để lấy nước.
+
+23
+VẬN HÀNH
+
+Đổ nước vào bình chứa nước
+
+Bình chứa nước để lấy nước ngoài.
+
+CẢNH BÁO
+• Chỉ đổ nước sạch vào bình. Không cho đồ uống
+hay nước nóng vào bình chứa nước.
+
+1
+Mở nút bên trên bình chứa nước.
+
+• Không để trẻ em lại gần bình chứa nước.
+
+<Kiểu 1>
+
+TIẾNG VIỆT
+
+THẬN TRỌNG
+• Không dùng lực quá mức hoặc tác động khi tháo
+hoặc lắp bình đựng nước phân phối.
+
+<Kiểu 2>
+
+• Cẩn thận không va vào khay trong khi đổ đầy
+bình chứa nước. Khay có thể bị nhấc lên và làm
+đổ thức ăn.
+
+LƯU Ý
+
+• Cần làm sạch bình chứa nước trước khi đổ đầy
+nước sạch vào.
+
+• Nếu không có nước chảy ra, hãy cho nước sạch
+
+vào bình chứa nước.
+
+Làm sạch bình chứa nước
+
+2
+Đổ nước sạch vào bình chứa nước và đóng nút.
+
+Vệ sinh bình chứa nước nếu bình không được sử
+dụng trong 48 giờ.
+
+<Kiểu 1>
+
+<Kiểu 1>
+
+1
+Tháo nắp bình chứa nước.
+
+<Kiểu 2>
+
+2
+Tháo nước trong bình chứa nước.
+
+24
+VẬN HÀNH
+
+3
+Giữ bình chứa nước bằng cả hai tay rồi kéo lên.
+
+2
+Tháo nắp bình chứa nước.
+
+4
+Tháo van nước a trong bình chứa nước bằng
+
+cách xoay van theo chiều kim đồng hồ.
+
+3
+Tháo nước trong bình chứa nước.
+
+4
+Lau sạch nước bên trong nắp bằng vải sạch.
+
+Kéo móc trên nắp. Tháo nắp và phần cao su.
+
+5
+Làm sạch bình chứa nước và van nước dưới
+
+nước đang chảy. Lau bên trong và bên ngoài
+bình chứa nước và cửa ngăn mát bằng vải sạch.
+
+6
+Lắp bình chứa nước theo thứ tự ngược với quá
+
+trình tháo.
+
+<Kiểu 2>
+
+1
+Nhấn nút Push. Giữ bình chứa nước bằng cả
+
+hai tay rồi kéo lên.
+
+a Móc
+
+b Nắp
+
+c Phần cao su
+
+d Khay bình chứa nước
+
+5
+Làm sạch bình chứa nước, nắp và phần cao su
+
+dưới vòi nước chảy. Lau bên trong và bên ngoài
+bình chứa nước, nắp, phần cao su và khay bình
+chứa nước bằng vải sạch.
+
+25
+VẬN HÀNH
+
+6
+Lắp bình chứa nước theo thứ tự ngược với quá
+
+1
+Kéo khay đá ra.
+
+trình tháo.
+
+• Dùng lực đẩy bình chứa nước cho đến khi
+bình khớp đúng vị trí.
+
+TIẾNG VIỆT
+
+2
+Đổ nước vào khay đá tới mực nước được đánh
+
+dấu.
+
+3
+Giữ và đẩy khay đá về vị trí ban đầu.
+
+4
+Giữ cần gạt của khay đá rồi xoay theo chiều kim
+
+đồng hồ để đổ đá viên ra.
+
+• Đảm bảo bình chứa nước được lắp đúng
+cách.
+
+5
+Giữ tay cầm của khay đựng đá và kéo ra.
+
+CẢNH BÁO
+• Chỉ đổ nước uống.
+
+Khay đá di chuyển linh hoạt
+
+Tính năng này chỉ có ở một số mẫu máy.
+
+THẬN TRỌNG
+• Cẩn thận không để đổ nước khi đẩy khay đá.
+
+Sử dụng Khay đá di chuyển linh
+hoạt
+
+• Cẩn thận không vặn mạnh khay đá vì có thể sẽ
+làm vỡ khay.
+
+Đây là nơi mà đá được sản xuất và bảo quản.
+
+• Nếu bạn mở, đóng cửa ngăn đá thường xuyên,
+có thể mất nhiều thời gian hơn để nước đóng đá.
+
+• Không đổ nước vào khay đựng đá.
+
+26
+VẬN HÀNH
+
+Máy làm đá tự động
+
+LƯU Ý
+
+• Có thể tháo khay đá di chuyển linh hoạt để tăng
+không gian trong ngăn đá nếu không sử dụng.
+
+Trước khi sử dụng máy làm đá
+tự động
+
+• Nếu khay đá quá đầy, các viên đá có thể dính vào
+nhau và khó lấy ra.
+
+• Có thể lấy đá ra dễ dàng bằng cách rót nước vào
+
+khay đá.
+
+THẬN TRỌNG
+• Lô đá và nước đầu tiên có thể bao gồm các hạt
+sạn hoặc mùi từ đường ống cung cấp nước hoặc
+bình đựng nước.
+
+Sử dụng khay đá
+
+Đây là nơi làm đá một cách thủ công.
+
+Đổ nước vào khay đá tới mực nước được đánh dấu.
+
+• Nếu đá bị đổi màu hãy kiểm tra bình đựng đá và
+nguồn cấp nước bởi chúng có thể là nguyên
+nhân. Nếu vấn đề vẫn tiếp tục, hãy liên lạc với
+trung tâm thông tin khách hàng của LG
+Electronics. Không sử dụng đá hoặc nước cho
+đến khi vấn đề được khắc phục.
+
+• Không chạm vào máy làm đá tự động bằng tay
+hay công cụ.
+
+• Không tháo nắp máy làm đá tự động.
+
+• Loại bỏ băng bên trong bình đựng đá khi bạn đi
+
+nghỉ hoặc khi xảy ra cúp điện kéo dài.
+
+CẢNH BÁO
+• Chỉ đổ nước uống.
+
+LƯU Ý
+
+• Máy làm đá sản xuất đá bình thường sau khoảng
+48 giờ trôi qua kể từ khi thiết bị được cài đặt ban
+đầu.
+
+THẬN TRỌNG
+• Cẩn thận không vặn mạnh khay đá vì có thể sẽ
+làm vỡ khay.
+
+• Nếu khay đá đầy đá, chức năng sản xuất đá sẽ
+dừng lại.
+
+• Nếu bạn mở, đóng cửa ngăn đá thường xuyên,
+
+có thể mất nhiều thời gian hơn để nước đóng đá.
+
+• Âm thanh của đá rơi vào bình đựng đá là bình
+thường.
+
+LƯU Ý
+
+• Nếu khay đá quá đầy, các viên đá có thể dính vào
+nhau và khó lấy ra.
+
+• Nếu đá viên được bảo quản trong bình đựng đá
+trong một thời gian dài, chúng có thể dính lại với
+nhau và không thể tách rời một cách dễ dàng.
+Trong trường hợp như vậy, hãy làm trống khay
+đá để có thể làm đá mới.
+
+• Có thể lấy đá ra dễ dàng bằng cách rót nước vào
+
+• Có thể tháo khay đá di chuyển linh hoạt để tăng
+
+khay đá.
+
+không gian trong ngăn đá nếu không sử dụng.
+
+Máy làm đá tự động
+
+Máy làm đá tự động có thể tự động tạo ra 6 viên đá
+cùng một lúc, 30-50 viên trong 24 giờ nếu điều kiện
+thuận lợi. Số lượng này có thể thay đổi theo môi
+trường (nhiệt độ môi trường xung quanh thiết bị,
+
+27
+VẬN HÀNH
+
+tần suất mở cửa, lượng thực phẩm được lưu trữ
+trong thiết bị, v.v.).
+
+Âm thanh bình thường mà bạn
+có thể nghe thấy
+
+Van nước của máy làm đá sẽ phát ra âm báo khi
+máy làm đá đã đầy nước. Nếu đặt Bật nút Ice On/
+Off, máy sẽ phát ra âm báo ngay cả khi chưa được
+nối với đường cấp nước. Để dừng âm báo, hãy nhấn
+nút Ice On/Off về vị trí Tắt.
+
+TIẾNG VIỆT
+
+LƯU Ý
+
+Bật hoặc Tắt máy làm đá tự
+động
+
+• Bạn sẽ nghe thấy tiếng đá rơi vào bình đựng đá
+và nước chảy trong đường ống khi máy làm đá
+nạp đầy.
+
+Loại trong cửa
+Để bật/tắt máy làm đá tự động, nhấn nút Ice On/
+Off trên bảng điều khiển.
+
+• Đối với máy làm đá trong tủ, vẫn có thể nghe
+thấy tiếng ồn khi vận hành ngay cả khi máy đã
+tắt.
+
+Loại trong tủ
+Để Bật/Tắt máy làm đá tự động, hãy điều chỉnh cần
+bật/tắt Đá đến vị trí mong muốn.
+
+Chuẩn bị cho kỳ nghỉ
+
+Nếu nhiệt độ môi trường giảm xuống dưới mức
+đóng băng, hãy yêu cầu kỹ thuật viên có đủ trình độ
+chuyên môn tháo hết nước cho hệ thống cấp nước
+để tránh gây hư hỏng nghiêm trọng tài sản do
+đường ống cấp nước hay đầu nối ống bị vỡ và gây
+ngập nước.
+
+Cài đặt nút Ice On/Off về vị trí Off (Tắt) và tắt nguồn
+cấp nước cho thiết bị.
+
+THẬN TRỌNG
+• Cần làm trống bình đựng đá mỗi khi nút Ice On/
+
+Off được xoay về vị trí Off (Tắt).
+
+Ngăn kéo ngăn mát
+
+THẬN TRỌNG
+• Không tiếp tục bật nguồn cho máy làm đá nếu
+chưa kết nối đường nước. Làm như vậy có thể
+khiến máy làm đá bi hư hại.
+
+Tháo và lắp lại ngăn đựng rau
+tươi
+
+LƯU Ý
+
+• Tắt máy làm đá tự động khi khay đá được lấy ra
+
+1
+Lấy các đồ vật trong ngăn tủ ra. Giữ tay nắm
+
+lâu hơn một hoặc hai phút.
+
+của ngăn tủ đựng rau củ và dần dần đẩy ngăn
+tủ vào cho đến khi nó dừng lại.
+
+28
+VẬN HÀNH
+
+2
+Nhấc ngăn đựng rau lên và tháo bằng cách kéo
+
+Kệ
+
+nó ra.
+
+Tháo/Lắp lại khay
+
+1
+Giữ cả hai bên khay. Nâng khay lên và tháo
+
+bằng cách kéo ra.
+
+2
+Chỉnh lại kệ bằng cách trượt kệ vào trong cho
+
+đến khi kệ khít với khung.
+
+3
+Lắp ngăn đựng rau theo trình tự ngược với
+
+trình tự tháo.
+
+THẬN TRỌNG
+• Không đặt thực phẩm vào khu vực đánh dấu a
+của kệ dưới cùng. Cửa ngăn mát có thể sẽ không
+đóng kín.
+
+THẬN TRỌNG
+• Lấy toàn bộ thực phẩm bên trong ra khỏi thiết bị,
+nếu không trọng lượng của thực phẩm đang bảo
+quản có thể gây ra chấn thương.
+
+Giỏ gắn ở cửa
+
+Tháo/Lắp lại giỏ gắn ở cửa
+
+1
+Cầm mép giỏ bằng hai tay và tháo ra bằng cách
+
+nâng nó lên.
+
+2
+Lắp giỏ gắn ở cửa theo trình tự ngược với trình
+
+tự tháo.
+
+29
+CHỨC NĂNG THÔNG MINH
+
+CHỨC NĂNG THÔNG MINH
+
+Ứng dụng LG ThinQ
+
+Cài đặt ứng dụng LG ThinQ và
+kết nối thiết bị LG
+
+Tính năng này chỉ có sẵn đối với các kiểu máy có Wi-
+Fi.
+
+Các mẫu máy có mã QR
+
+Ứng dụng LG ThinQ giúp giao tiếp với thiết bị bằng
+điện thoại thông minh.
+
+TIẾNG VIỆT
+
+Quét mã QR được gắn vào sản phẩm bằng máy ảnh
+hoặc ứng dụng đọc mã QR ứng dụng trên điện
+thoại thông minh của bạn.
+
+Các tính năng của ứng dụng LG
+ThinQ
+
+Giao tiếp với thiết bị qua điện thoại thông minh
+bằng cách sử dụng các tính năng thông minh thuận
+tiện trong điện thoại.
+
+Smart Diagnosis
+
+• Nếu bạn gặp phải một sự cố khi sử dụng thiết bị
+này, tính năng chẩn đoán thông minh sẽ giúp
+bạn chẩn đoán sự cố.
+
+Cài đặt
+
+• Cho phép bạn cài đặt các tùy chọn khác nhau
+trên thiết bị và trong ứng dụng.
+
+LƯU Ý
+
+Các mẫu máy không có mã QR
+
+1
+Tìm và cài đặt ứng dụng LG ThinQ trên Google
+
+• Trong những trường hợp sau, bạn phải cập nhật
+thông tin mạng cho mỗi thiết bị trong ứng dụng
+LG ThinQ trong mục Các thẻ thiết bị ~ Cài đặt
+~ Đổi Mạng.
+
+- bộ định tuyến không dây đã được thay đổi
+
+Play Store hoặc Apple App Store trong điện
+thoại thông minh.
+
+- mật khẩu của bộ định tuyến không dây đã
+được thay đổi
+
+2
+Chạy ứng dụng LG ThinQ và đăng nhập bằng
+
+- Nhà cung cấp dịch vụ Internet đã được thay
+đổi
+
+tài khoản hiện tại của bạn hoặc tạo một tài
+khoản LG để đăng nhập.
+
+• Ứng dụng có thể được thay đổi vì mục đích cải
+tiến thiết bị mà không cần thông báo cho người
+dùng.
+
+3
+Chạm nút thêm (~) trên ứng dụng LG ThinQ
+
+• Chức năng có thể khác nhau tùy theo model.
+
+để kết nối thiết bị LG của bạn. Làm theo hướng
+dẫn trong ứng dụng để hoàn tất quá trình.
+
+LƯU Ý
+
+• Để xác nhận kết nối Wi-Fi, kiểm tra đảm bảo đèn
+báo Wi-Fi trên bảng điều khiển đã sáng.
+
+30
+CHỨC NĂNG THÔNG MINH
+
+theo các hướng dẫn trong ứng dụng để kết nối
+thiết bị.
+
+LƯU Ý
+
+• Thiết bị này chỉ hỗ trợ mạng Wi-Fi 2,4 GHz. Để
+kiểm tra tần số mạng của bạn, hãy liên hệ với nhà
+cung cấp dịch vụ Internet hoặc xem hướng dẫn
+sử dụng bộ định tuyến không dây của bạn.
+
+Thông tin của thông báo phần
+mềm nguồn mở
+
+• LG ThinQ không chịu trách nhiệm cho bất kỳ vấn
+đề kết nối mạng hay bất kỳ lỗi, trục trặc, hoặc các
+lỗi gây ra do kết nối mạng.
+
+• Môi trường không dây xung quanh có thể làm
+cho dịch vụ mạng không dây chạy chậm.
+
+Để lấy mã nguồn theo GPL, LGPL, MPL và các giấy
+phép nguồn mở khác bắt buộc tiết lộ mã nguồn có
+trong sản phẩm này và để truy cập tất cả các điều
+khoản cấp phép, thông báo bản quyền và các tài
+liệu liên quan khác, vui lòng truy cập https://
+opensource.lge.com.
+
+• Nếu khoảng cách giữa thiết bị và bộ định tuyến
+không dây quá xa, cường độ tín hiệu sẽ trở nên
+yếu. Có thể mất nhiều thời gian để kết nối hoặc
+cài đặt có thể không thành công.
+
+LG Electronics cũng sẽ cung cấp mã nguồn mở cho
+bạn trong CD-ROM có tính phí để chi trả cho chi phí
+phát hành (chẳng hạn như các khoản phí về vận
+chuyển, đĩa và xử lý) khi nhận được yêu cầu qua
+email đến địa chỉ opensource@lge.com.
+
+• Nếu thiết bị gặp khó khăn trong việc kết nối với
+mạng Wi-Fi, có thể là do nó nằm quá xa bộ định
+tuyến. Mua một bộ lặp tín hiệu Wi-Fi (thiết bị mở
+rộng phạm vi) để nâng cao cường độ tín hiệu Wi-
+Fi.
+
+Ưu đãi này có hiệu lực cho bất kỳ ai nhận được
+thông tin này trong khoảng thời gian ba năm tính
+từ ngày chúng tôi phân phối sản phẩm này.
+
+• Kết nối mạng có thể không hoạt động đúng cách
+phụ thuộc vào nhà cung cấp dịch vụ internet.
+
+• Wi-Fi có thể không thể kết nối hoặc có thể bị gián
+đoạn do môi trường mạng của gia đình.
+
+Chẩn đoán thông minh
+
+Tính năng này chỉ có ở một số mẫu máy.
+
+• Không thể kết nối thiết bị do sự cố truyền tín hiệu
+không dây. Rút phích cắm của thiết bị và chờ
+khoảng một phút trước khi thử lại.
+
+Hãy sử dụng tính năng này để giúp bạn chẩn đoán
+và khắc phục các sự cố với thiết bị của bạn.
+
+LƯU Ý
+
+• Nếu tường lửa trên bộ định tuyến không dây của
+bạn được bật, hãy vô hiệu hóa tường lửa hoặc
+thêm một ngoại lệ cho nó.
+
+• Tên mạng không dây (SSID) phải là sự kết hợp
+giữa chữ và số tiếng Anh. (Không sử dụng ký tự
+đặc biệt)
+
+• Đối với các nguyên nhân không phải do sự bất
+cẩn của LGE, bảo trì sẽ không được áp dụng đối
+với các nguyên nhân do yếu tố bên ngoài bao
+gồm nhưng không giới hạn mạng Wi-Fi không
+khả dụng, mất kết nối Wi-Fi, chính sách kho ứng
+dụng cục bộ hoặc ứng dụng không khả dụng.
+
+• Giao diện người sử dụng trên điện thoại thông
+minh (UI) có thể khác nhau tùy thuộc vào hệ điều
+hành của điện thoại (OS) và nhà sản xuất.
+
+• Tính năng này có thể được thay đổi mà không
+thông báo trước và có thể có phiên bản khác tùy
+vào nơi bạn sử dụng.
+
+• Nếu giao thức bảo mật của bộ định tuyến được
+đặt thành WEP, bạn có thể không thiết lập được
+mạng. Vui lòng đổi sang các giao thức bảo mật
+khác (khuyến khích dùng WPA2) và kết nối lại sản
+phẩm.
+
+Sử dụng LG ThinQ để chẩn đoán
+các sự cố
+
+• Để tắt chức năng Wi-Fi, nhấn và giữ nút Wi-Fi
+trong 3 giây. Đèn báo Wi-Fi sẽ tắt.
+
+Nếu bạn gặp phải một sự cố với thiết bị có hỗ trợ
+Wi-Fi, thiết bị có thể gửi dữ liệu xử lý sự cố tới điện
+thoại thông minh thông qua ứng dụng LG ThinQ.
+
+• Để kết nối lại thiết bị và thêm người dùng khác,
+nhấn giữ nút Wi-Fi trong 3 giây để tạm thời tắt
+Wi-Fi. Chạy ứng dụng LG ThinQ và thực hiện
+
+• Khởi chạy ứng dụng LG ThinQ và chọn tính năng
+Smart Diagnosis trong menu. Thực hiện theo
+
+31
+CHỨC NĂNG THÔNG MINH
+
+Bảng điều khiển 2: Bên trong ngăn mát*1
+
+các hướng dẫn được cung cấp trong ứng dụng
+LG ThinQ.
+
+1
+Mở cửa ngăn mát.
+
+2
+Đóng, mở cửa ngăn mát 5 lần trong vòng 8
+
+giây.
+
+Sử dụng tính năng chẩn đoán
+bằng âm thanh để chẩn đoán
+các sự cố
+
+TIẾNG VIỆT
+
+LƯU Ý
+
+*1 Bảng điều khiển này chỉ có ở một số mẫu máy.
+
+Thực hiện theo các hướng dẫn dưới đây để sử dụng
+phương pháp chẩn đoán âm thanh.
+
+• Nếu không đóng, mở cửa 5 lần trong vòng 8
+giây, thời gian sẽ được cài đặt lại. Sau đó, bạn sẽ
+phải làm lại thao tác đóng, mở cửa 5 lần.
+
+• Khởi chạy ứng dụng LG ThinQ và chọn tính năng
+Smart Diagnosis trong menu. Thực hiện theo
+các hướng dẫn chẩn đoán bằng âm thanh được
+cung cấp trong ứng dụng LG ThinQ.
+
+3
+Nếu âm báo kêu 4 lần, hãy mở cửa tủ ngăn đá
+
+và đặt điện thoại gần lỗ loa.
+
+Bảng điều khiển 1: Trên cửa ngăn đá*1
+
+1
+Mở cửa ngăn mát.
+
+2
+Đóng, mở cửa ngăn mát 5 lần trong vòng 8
+
+giây.
+
+LƯU Ý
+
+4
+Sau khi truyền dữ liệu hoàn tất, kết quả chẩn
+
+đoán sẽ được hiển thị trong ứng dụng.
+
+• Nếu không đóng, mở cửa 5 lần trong vòng 8
+giây, thời gian sẽ được cài đặt lại. Sau đó, bạn sẽ
+phải làm lại thao tác đóng, mở cửa 5 lần.
+
+LƯU Ý
+
+• Để đạt được kết quả tốt nhất, không di chuyển
+
+điện thoại trong khi có âm thanh phát ra.
+
+3
+Mở cửa của cả ngăn mát và ngăn đá, sau đó đặt
+
+điện thoại trên lỗ loa bên phải phía trên.
+
+4
+Sau khi truyền dữ liệu hoàn tất, kết quả chẩn
+
+đoán sẽ được hiển thị trong ứng dụng.
+
+32
+BẢO TRÌ
+
+BẢO TRÌ
+
+Vệ sinh Phần bên trong
+
+Vệ sinh
+
+Các biện pháp vệ sinh chung
+
+• Trước khi tháo khay hay ngăn từ bên trong thiết
+bị, lấy tất cả các thực phẩm được bảo quản trên
+khay hoặc ngăn ra để tránh thương tích hoặc
+làm hỏng thiết bị. Nếu không thì có thể xảy ra
+chấn thương do trọng lượng của các thực phẩm
+được bảo quản.
+
+• Thực hiện làm tan băng, bảo dưỡng hay vệ sinh
+thiết bị trong khi thực phẩm vẫn được bảo quản
+trong ngăn đá có thể làm tăng nhiệt độ của thực
+phẩm và giảm thời gian bảo quản.
+
+• Thường xuyên vệ sinh bất kỳ bề mặt nào có thể
+tiếp xúc với thực phẩm.
+
+• Tháo các khay, ngăn và làm sạch bằng nước và
+chất tẩy rửa nhẹ, sau đó để khô đủ mức trước khi
+lắp lại.
+
+• Thường xuyên lau miếng đệm cửa và gioăng cửa
+bằng nước và chất tẩy rửa nhẹ.
+
+• Khi lau chùi bên trong hay bên ngoài thiết bị,
+không lau bằng bàn chải thô, kem đánh răng,
+hoặc các vật liệu dễ cháy. Không sử dụng các
+chất làm sạch chứa các chất dễ bắt lửa. Điều này
+có thể làm đổi màu hoặc hư hỏng thiết bị.
+
+• Đồ ăn rớt trên giỏ cửa và các vết bẩn phải được
+làm sạch vì chúng có thể làm tổn hại khả năng
+lưu trữ của giỏ và thậm chí có thể bị hư hỏng.
+
+- Các chất dễ cháy: cồn (ethanol, methanol,
+rượu isopropyl, rượu isobutyl, vv), chất pha
+loãng, thuốc tẩy, benzen, chất lỏng dễ cháy,
+ăn mòn...
+
+• Tuyệt đối không làm sạch khay, miếng đệm cửa
+hoặc hộp đựng trong máy rửa chén hoặc nước
+nóng. Các bộ phận có thể bị biến dạng và kính có
+thể bị vỡ do nhiệt.
+
+• Sau khi làm sạch, kiểm tra xem cáp điện có bị
+hỏng không.
+
+• Hệ thống rã đông tự động trong thiết bị đảm bảo
+ngăn không bị tích tụ băng trong điều kiện hoạt
+động bình thường. Người dùng không cần rã
+đông thủ công.
+
+Vệ sinh Phần bên ngoài
+
+• Nếu vệ sinh các lỗ thông gió bên ngoài của thiết
+bị bằng cách hút bụi thì phải rút dây điện ra khỏi
+ổ cắm để tránh hiện tượng xả tĩnh điện có thể
+làm hỏng các linh kiện điện tử hoặc gây ra giật
+điện. Nên thường xuyên vệ sinh nắp thông gió
+phía sau và bên cạnh để thiết bị vận hành hiệu
+quả và tiết kiệm chi phí.
+
+• Giữ vệ sinh các lỗ thông gió bên ngoài thiết bị. Lỗ
+thông gió bị tắc có thể gây cháy nổ hoặc làm hư
+hỏng thiết bị.
+
+• Để vệ sinh bên ngoài thiết bị, sử dụng miếng bọt
+biển sạch hoặc vải mềm và chất tẩy rửa nhẹ với
+nước ấm. Không sử dụng chất tẩy rửa ăn mòn
+hoặc chất tẩy mạnh. Lau khô kĩ bằng vải mềm.
+Không sử dụng vải bẩn để vệ sinh cửa bằng thép
+không gỉ. Luôn sử dụng vải mềm và lau thuận
+chiều thớ vải. Cách này giúp bề mặt thiết bị
+không bị xỉn và biến màu.
+
+33
+XỬ LÝ SỰ CỐ
+
+XỬ LÝ SỰ CỐ
+
+Trước khi gọi trung tâm dịch vụ
+
+Làm mát
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+TIẾNG VIỆT
+
+Không thể làm lạnh
+hoặc đông lạnh.
+Có phải nguồn điện bị ngắt?
+
+• Kiểm tra nguồn điện của các thiết bị khác.
+
+Thiết bị bị rút phích cắm.
+
+• Cắm phích cắm điện vào ổ cắm một cách chắc chắn.
+
+Cầu chì trong nhà có thể bị nổ hoặc thiết bị đóng ngắt mạch bị ngắt.
+Hoặc thiết bị được nối với ổ thiết bị ngắt mạch nối đất (GFCI) và thiết bị
+đóng ngắt của ổ bị ngắt.
+
+• Kiểm tra hộp điện chính và thay cầu chì hoặc đặt lại cầu dao. Không tăng
+công suất cầu chì. Nếu sự cố là do mạch quá tải thì hãy thuê thợ điện lành
+nghề khắc phục.
+
+• Bật lại thiết bị đóng ngắt mạch trên thiết bị ngắt mạch nối đất (GFCI). Nếu
+vấn đề chưa được giải quyết, hãy liên hệ với thợ điện.
+
+Làm lạnh hoặc đông
+lạnh kém.
+Có phải ngăn mát hoặc ngăn đá được cài đặt ở nhiệt độ cao nhất?
+
+• Cài đặt nhiệt độ ngăn mát hoặc ngăn đá ở mức lạnh hơn.
+
+Có phải thiết bị bị chiếu ánh sáng mặt trời trực tiếp, hoặc nằm gần thiết
+bị sinh nhiệt như bếp hoặc lò sưởi?
+
+• Kiểm tra khu vực lắp đặt và đặt thiết bị cách xa các thiết bị sinh nhiệt.
+
+Có phải bạn đã cho vào tủ lạnh đồ ăn nóng trước khi nguội?
+
+• Làm nguội đồ ăn trước khi đặt vào ngăn mát hoặc ngăn đá.
+
+Có phải bạn đã lưu trữ quá nhiều thực phẩm?
+
+• Duy trì khoảng cách phù hợp giữa các thực phẩm.
+
+Có phải cửa thiết bị chưa đóng hoàn toàn?
+
+• Đóng khít cửa và đảm bảo rằng thực phẩm được lưu trữ không cản trở cửa.
+
+Liệu có đủ không gian xung quanh thiết bị?
+
+• Điều chỉnh vị trí lắp đặt để đảm bảo đủ không gian xung quanh thiết bị.
+
+Thiết bị có mùi hôi.
+Có phải nhiệt độ của ngăn mát hoặc ngăn đá được cài đặt ở mức 'Ấm'?
+
+• Cài đặt nhiệt độ ngăn mát hoặc ngăn đá ở mức lạnh hơn.
+
+Bạn đã để vào thực phẩm nặng mùi?
+
+• Bảo quản thực phẩm nặng mùi trong hộp chứa kín.
+
+34
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Thiết bị có mùi hôi.
+Các loại rau hoặc trái cây có thể bị thối trong ngăn đựng rau
+
+• Vứt bỏ rau thối và làm sạch ngăn đựng rau. Không lưu trữ rau quá lâu
+trong ngăn rau.
+
+Ngưng tụ và sương giá
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Có phải bạn đã cho vào tủ lạnh đồ ăn nóng trước khi nguội?
+
+• Làm nguội đồ ăn nóng trước khi đặt vào ngăn mát hoặc ngăn đá.
+
+Có ngưng tụ bên trong
+thiết bị hoặc dưới đáy
+của nắp ngăn rau.
+
+Bạn đã để cửa thiết bị mở?
+
+• Mặc dù sự ngưng tụ sẽ biến mất ngay sau khi bạn đóng cửa thiết bị nhưng
+bạn cũng có thể lau bằng vải khô.
+
+Bạn mở hoặc đóng cửa thiết bị quá thường xuyên?
+
+• Sự ngưng tụ có thể hình thành do chênh lệch nhiệt độ từ bên ngoài. Lau
+sạch hơi ẩm bằng một miếng vải khô.
+
+Bạn đã đặt thức ăn nóng hoặc ẩm bên trong mà không đựng nó trong
+một hộp kín?
+
+• Đựng thực phẩm trong hộp được đậy hoặc dán kín.
+
+Nước
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Nước không chảy ra.
+Bình đựng nước phân phối không có nước. (Chỉ áp dụng đối với cấu hình
+không có ống nước)
+
+• Đổ nước vào bình đựng nước phân phối.
+
+35
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Nước không chảy ra.
+Bình chứa nước đã được lắp đúng cách chưa?
+
+• <Kiểu 1>
+
+Lắp bình chứa nước vào khe sao cho nhìn thấy mặt lõm a. Đảm bảo cả hai
+bên đều được lắp đúng vị trí.
+
+TIẾNG VIỆT
+
+• <Kiểu 2>
+
+Đảm bảo lắp hẳn bình chứa nước vào hộp cho đến khi có tiếng tách. Đảm
+bảo rằng cả bốn bên đều ở đúng vị trí.
+
+Các bộ phận và tính năng
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Đèn bên trong thiết bị
+không sáng.
+Đèn hỏng
+
+• Đóng cửa thiết bị sau đó mở lại. Nếu đèn vẫn không bật, vui lòng liên hệ
+Trung tâm thông tin khách hàng LG Electronics. Không nên tìm cách tháo
+đèn.
+
+36
+XỬ LÝ SỰ CỐ
+
+Tiếng ồn
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Thiết bị được lắp đặt trên một sàn yếu hoặc không bằng phẳng?
+
+• Đặt thiết bị trên sàn chắc chắn và bằng phẳng.
+
+Thiết bị gây tiếng ồn và
+tạo ra những âm thanh
+bất thường.
+
+Có phải phía sau của thiết bị chạm vào tường?
+
+• Điều chỉnh vị trí lắp đặt để đảm bảo đủ không gian xung quanh thiết bị.
+
+Có phải có những đồ vật nằm rải rác phía sau thiết bị?
+
+• Lấy các đồ vật nằm rải rác phía sau thiết bị ra.
+
+Có đồ vật nằm trên nóc của thiết bị?
+
+• Bỏ đồ vật nằm trên nóc của thiết bị xuống.
+
+Wi-Fi
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Mật khẩu Wi-Fi mà bạn đang cố gắng kết nối không chính xác.
+
+• Tìm mạng Wi-Fi được kết nối với điện thoại thông minh và xóa mạng, sau
+đó đăng ký thiết bị trên LG ThinQ.
+
+Thiết bị gia đình và
+điện thoại thông minh
+của bạn không được
+kết nối với mạng Wi-Fi.
+
+Dữ liệu di động cho điện thoại thông minh của bạn đang bật.
+
+• Tắt Dữ liệu di động của điện thoại thông minh của bạn và đăng ký thiết bị
+bằng mạng Wi-Fi.
+
+Tên mạng không dây (SSID) được cài đặt không chính xác.
+
+• Tên mạng không dây (SSID) phải là sự kết hợp giữa chữ và số tiếng Anh.
+(Không sử dụng ký tự đặc biệt)
+
+Tần số của bộ định tuyến không phải là 2,4 GHz.
+
+• Chỉ hỗ trợ tần số của bộ định tuyến 2,4 GHz. Đặt bộ định tuyến không dây
+là 2,4 GHz và kết nối thiết bị với bộ định tuyến không dây. Để kiểm tra tần
+số bộ định tuyến, kiểm tra qua nhà cung cấp dịch vụ Internet hoặc nhà sản
+xuất bộ định tuyến.
+
+Khoảng cách giữa thiết bị và bộ định tuyến quá xa.
+
+• Nếu khoảng cách giữa thiết bị và bộ định tuyến quá xa, tín hiệu có thể yếu
+và sự kết nối có thể không được định cấu hình chính xác. Di chuyển vị trí
+của bộ định tuyến để gần với thiết bị.
+
+Ghi nhớ
+
+Ghi nhớ
+
+Ghi nhớ

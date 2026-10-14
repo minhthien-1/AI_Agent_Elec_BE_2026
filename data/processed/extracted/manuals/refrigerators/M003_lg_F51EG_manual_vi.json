@@ -1,0 +1,997 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\manuals\\refrigerators\\M003_lg_F51EG_manual_vi.pdf",
+  "filename": "M003_lg_F51EG_manual_vi.pdf",
+  "file_type": "pdf",
+  "page_count": 34,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "MFL05842120\nRev.00_121125",
+          "bbox": [
+            102.59229278564453,
+            589.4849853515625,
+            160.1681365966797,
+            610.8519897460938
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 11,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [
+        {
+          "page_number": 11,
+          "block_index": 1,
+          "text": "50",
+          "bbox": [
+            98.08940124511719,
+            182.96673583984375,
+            107.5877685546875,
+            194.6261444091797
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 2,
+          "text": "830",
+          "bbox": [
+            179.48440551757812,
+            346.48052978515625,
+            194.79129028320312,
+            359.0068664550781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 3,
+          "text": "1920",
+          "bbox": [
+            175.96969604492188,
+            363.6686706542969,
+            196.37887573242188,
+            376.19500732421875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 4,
+          "text": "594",
+          "bbox": [
+            178.52084350585938,
+            381.50836181640625,
+            193.82772827148438,
+            394.0346984863281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 5,
+          "text": "540",
+          "bbox": [
+            178.52084350585938,
+            399.4306640625,
+            193.82772827148438,
+            411.9570007324219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 6,
+          "text": "879",
+          "bbox": [
+            178.52084350585938,
+            417.435546875,
+            193.82772827148438,
+            429.9618835449219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 7,
+          "text": "978",
+          "bbox": [
+            178.52084350585938,
+            436.6517639160156,
+            193.82772827148438,
+            449.1781005859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 8,
+          "text": "1220",
+          "bbox": [
+            175.96969604492188,
+            455.1797180175781,
+            196.37887573242188,
+            467.7060546875
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 12,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 13,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 14,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 15,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 16,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 17,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 18,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 19,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [
+        {
+          "page_number": 19,
+          "block_index": 1,
+          "text": "Ng\u001fn c\u001fa t\u001f l\u001fnh",
+          "bbox": [
+            77.72460174560547,
+            394.4866027832031,
+            136.68194580078125,
+            404.7427062988281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 19,
+          "block_index": 2,
+          "text": "Dùng để bảo quản các gói thực phẩm nhỏ, đồ uống và hộp đựng nước sốt.",
+          "bbox": [
+            77.9531021118164,
+            405.18304443359375,
+            371.64801025390625,
+            416.7297058105469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 19,
+          "block_index": 3,
+          "text": "K\u001f t\u001f l\u001fnh",
+          "bbox": [
+            77.72460174560547,
+            424.4612731933594,
+            111.75337982177734,
+            434.7173767089844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 19,
+          "block_index": 4,
+          "text": "Dùng để bảo quản thực phẩm tươi và thực phẩm cần làm lạnh. \nNên đặt các loại thực phẩm có hàm lượng độ ẩm cao ở phía trước kệ.",
+          "bbox": [
+            77.9531021118164,
+            435.5596923828125,
+            352.935546875,
+            457.25726318359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 19,
+          "block_index": 5,
+          "text": "Ng\u001fn rau c\u001f dung tích l\u001fn",
+          "bbox": [
+            77.72460174560547,
+            463.51025390625,
+            175.9811553955078,
+            473.766357421875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 19,
+          "block_index": 6,
+          "text": "Dùng để bảo quản thực phẩm tươi sống và thực phẩm cần làm lạnh.",
+          "bbox": [
+            77.9531021118164,
+            475.0298156738281,
+            344.3885498046875,
+            486.57647705078125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 19,
+          "block_index": 7,
+          "text": "Ng\u001fn rau c\u001f dung tích l\u001fn",
+          "bbox": [
+            78.6734390258789,
+            495.9001159667969,
+            176.92999267578125,
+            506.1562194824219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 19,
+          "block_index": 8,
+          "text": "Dùng để bảo quản thực phẩm tươi và thực phẩm cần làm lạnh. \nNên đặt các loại thực phẩm có hàm lượng độ ẩm cao ở phía trước ngăn.",
+          "bbox": [
+            77.9531021118164,
+            508.6970520019531,
+            360.7214660644531,
+            530.3946533203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 20,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [
+        {
+          "page_number": 20,
+          "block_index": 1,
+          "text": "Ng\u001fn Nhi\u001ft \u001f\u001f Bi\u001fn \u001f\u001fi",
+          "bbox": [
+            78.74220275878906,
+            101.40965270996094,
+            157.34918212890625,
+            111.66572570800781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 2,
+          "text": "Nút điều chỉnh cho phép bạn thay đổi cài đặt để bảo quản rau củ, trái cây, đồ uống hoặc thực \nphẩm tươi sống theo nhu cầu của bạn.",
+          "bbox": [
+            77.70999908447266,
+            114.3109359741211,
+            441.48699951171875,
+            136.008544921875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 3,
+          "text": "Thanh Gi\u001fa C\u001fa T",
+          "bbox": [
+            77.04000091552734,
+            144.98143005371094,
+            149.90216064453125,
+            155.2375030517578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 4,
+          "text": "Ngăn không cho khí lạnh trong tủ thoát ra ngoài.",
+          "bbox": [
+            77.70999908447266,
+            157.3255157470703,
+            264.9390563964844,
+            168.8721923828125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 5,
+          "text": "C\u001fnh Báo",
+          "bbox": [
+            85.80960083007812,
+            182.33709716796875,
+            152.24853515625,
+            200.335693359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 6,
+          "text": "ể tránh nguy cơ trầy xước cửa hoặc làm gãy thanh giữa của cửa tủ, hãy đảm bảo rằng thanh \ngiữa luôn được gập lại khi đóng cửa tủ lạnh.",
+          "bbox": [
+            77.70999908447266,
+            198.8089141845703,
+            440.83953857421875,
+            220.50650024414062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 7,
+          "text": "Khay Ng\u001fn Ðông",
+          "bbox": [
+            77.04000091552734,
+            240.8226776123047,
+            146.5294647216797,
+            251.07875061035156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 8,
+          "text": "Dùng để lữu trữ thực phẩm đông lạnh đóng gói nhỏ hoặc các loại thực phẩm thường dùng. \nKhay trượt giúp bạn dễ dàng lấy ra và sử dụng thuận tiện hơn.",
+          "bbox": [
+            77.70999908447266,
+            253.42933654785156,
+            433.18487548828125,
+            275.1269226074219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 9,
+          "text": "Ng\u001fn Kéo Ðông",
+          "bbox": [
+            77.04000091552734,
+            283.1322021484375,
+            139.33554077148438,
+            293.3883056640625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 10,
+          "text": "Dùng để bảo quản thực phẩm đông lạnh trong thời gian dài.",
+          "bbox": [
+            77.70999908447266,
+            294.9212341308594,
+            312.5206298828125,
+            306.4678955078125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 11,
+          "text": "èn LED Chi\u001fu Sáng",
+          "bbox": [
+            77.04000091552734,
+            323.138671875,
+            154.2064208984375,
+            333.394775390625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 20,
+          "block_index": 12,
+          "text": "èn LED chiếu sáng đều toàn bộ bên trong tủ lạnh, giúp dễ dàng quan sát thực phẩm.",
+          "bbox": [
+            77.70999908447266,
+            335.48260498046875,
+            411.349365234375,
+            347.0292663574219
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 21,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [
+        {
+          "page_number": 21,
+          "block_index": 1,
+          "text": "Ng\u001fn mát\nNhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ 2 °C đến 8 °C.\nNhiệt độ mặc định của ngăn mát là 5 °C.",
+          "bbox": [
+            82.05180358886719,
+            456.0912780761719,
+            410.7416076660156,
+            488.48602294921875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 21,
+          "block_index": 2,
+          "text": "Ng\u001fn \u001fông\nNhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ -24 °C đến -15 °C.\nNhiệt độ mặc định của ngăn đông là -18 °C.",
+          "bbox": [
+            82.05180358886719,
+            507.0048522949219,
+            426.2959289550781,
+            539.400146484375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 21,
+          "block_index": 3,
+          "text": "FRESH CONVERTER+\nNhấn để chuyển đổi giữa các chế độ: Rau củ, Trái cây, Cá và Thịt.",
+          "bbox": [
+            82.05180358886719,
+            555.3482055664062,
+            340.4934387207031,
+            577.5919799804688
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 22,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [
+        {
+          "page_number": 22,
+          "block_index": 1,
+          "text": "Làm Ðông Nhanh",
+          "bbox": [
+            79.6416015625,
+            100.09715270996094,
+            151.04598999023438,
+            110.35322570800781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 2,
+          "text": "Chức năng này giúp làm đông nhanh một lượng lớn đá hoặc thực phẩm đông lạnh.\nMỗi lần nhấn nút, chức năng này sẽ lần lượt bật và tắt.\nChức năng này sẽ tự động tắt sau một khoảng thời gian nhất định.",
+          "bbox": [
+            79.87010192871094,
+            110.7943344116211,
+            402.62664794921875,
+            142.64288330078125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 3,
+          "text": "L\u001fu Ý",
+          "bbox": [
+            67.39550018310547,
+            173.998779296875,
+            99.87001037597656,
+            188.17880249023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 4,
+          "text": "Nhiệt độ bên trong thực tế có thể thay đổi tùy thuộc vào tình trạng thực phẩm, \nvì nhiệt độ hiển thị chỉ là giá trị mục tiêu chứ không phải nhiệt độ thực tế bên trong thiết bị.",
+          "bbox": [
+            79.87010192871094,
+            187.1145782470703,
+            429.05511474609375,
+            208.81216430664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 5,
+          "text": "Smart\nTrong chế độ Thông minh, nhiệt độ của ngăn mát và ngăn đông được tự động cài đặt lần lượt \nlà 5 ℃ và -18 ℃.",
+          "bbox": [
+            79.6416015625,
+            231.60887145996094,
+            445.9128112792969,
+            264.00360107421875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 6,
+          "text": "Vacation\nTrong chế độ Nghỉ, ngăn mát sẽ tạm ngừng hoạt động, nhưng ngăn đông vẫn hoạt động bình \nthường.",
+          "bbox": [
+            79.6416015625,
+            277.63134765625,
+            444.65313720703125,
+            310.026123046875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 7,
+          "text": "Khoá B\u001fng Ði\u001fu Khi\u001fn\nể mở khóa, nhấn và giữ nút trong 3 giây",
+          "bbox": [
+            79.6416015625,
+            330.2924499511719,
+            235.40440368652344,
+            352.53631591796875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 8,
+          "text": "L\u001fu Ý",
+          "bbox": [
+            66.4533462524414,
+            378.6608581542969,
+            98.9278564453125,
+            392.84088134765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 9,
+          "text": "Khi lau chùi, nếu tay hoặc da chạm vào bảng điều khiển, các nút có thể bị kích hoạt.",
+          "bbox": [
+            79.87010192871094,
+            391.5666198730469,
+            405.6885681152344,
+            403.11328125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 10,
+          "text": "Để bảo quản thực phẩm tốt nhất, nên điều chỉnh tăng hoặc giảm 1 °C so với nhiệt độ mặc định \ncủa từng ngăn.",
+          "bbox": [
+            79.87010192871094,
+            407.25421142578125,
+            449.4646301269531,
+            428.9517822265625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 11,
+          "text": "Nhiệt độ hiển thị là nhiệt độ mục tiêu, không phải nhiệt độ thực tế bên trong thiết bị.",
+          "bbox": [
+            79.87010192871094,
+            433.4306945800781,
+            402.3030090332031,
+            444.97735595703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 12,
+          "text": "Nhiệt độ thực tế của thiết bị phụ thuộc vào lượng và loại thực phẩm bên trong.",
+          "bbox": [
+            79.87010192871094,
+            449.8498229980469,
+            383.7567443847656,
+            461.396484375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 22,
+          "block_index": 13,
+          "text": "Nhiệt độ bên trong tủ cũng bị ảnh hưởng bởi: nhiệt độ phòng, lượng thực phẩm, tần suất \nmở cửa và vị trí đặt tủ. Hãy cài đặt nhiệt độ phù hợp dựa trên các yếu tố này.",
+          "bbox": [
+            79.87010192871094,
+            465.8588562011719,
+            426.3780517578125,
+            487.5564270019531
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 23,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 24,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [
+        {
+          "page_number": 24,
+          "block_index": 1,
+          "text": "Tháo/L\u001fp l\u001fi ng\u001fn kéo t\u001f l\u001fnh",
+          "bbox": [
+            65.1801986694336,
+            96.48673248291016,
+            236.45811462402344,
+            112.28331756591797
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 24,
+          "block_index": 2,
+          "text": "Tính năng này có thể khác nhau tùy theo mẫu tủ \nlạnh.",
+          "bbox": [
+            65.8593978881836,
+            112.16415405273438,
+            247.752685546875,
+            133.62881469726562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 24,
+          "block_index": 3,
+          "text": "Khi các chốt ở hai bên ngăn kéo đã được\ntháo ra, có thể nhấc ngăn kéo ra khỏi vị trí.",
+          "bbox": [
+            279.937255859375,
+            113.96334838867188,
+            438.5582580566406,
+            135.42800903320312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 24,
+          "block_index": 4,
+          "text": "Kéo ngăn kéo ra hoàn toàn.",
+          "bbox": [
+            76.36997985839844,
+            142.75863647460938,
+            179.65151977539062,
+            154.18136596679688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 24,
+          "block_index": 5,
+          "text": "Dùng dụng cụ để nhấn chốt màu trắng vào \ntrong nhằm nhả chốt khỏi ngăn kéo. Thực \nhiện thao tác này ở cả hai bên ngăn kéo.",
+          "bbox": [
+            75.48294067382812,
+            334.1416931152344,
+            236.43878173828125,
+            365.6483459472656
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 25,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 26,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 27,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 28,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 29,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 30,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 31,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 32,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 33,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 34,
+      "width": 505.0,
+      "height": 680.0,
+      "blocks": [],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [
+    "PAGES_WITHOUT_EXTRACTABLE_TEXT: 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34"
+  ],
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "512说明书",
+    "author": "naeseong.kang",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Illustrator 27.6 (Windows)",
+    "producer": "Adobe PDF library 17.00",
+    "creationDate": "D:20251112201859+09'00'",
+    "modDate": "D:20251113145815+09'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "MFL05842120\nRev.00_121125\n\n50\n\n830\n\n1920\n\n594\n\n540\n\n879\n\n978\n\n1220\n\nNgn ca t lnh\n\nDùng để bảo quản các gói thực phẩm nhỏ, đồ uống và hộp đựng nước sốt.\n\nK t lnh\n\nDùng để bảo quản thực phẩm tươi và thực phẩm cần làm lạnh.\nNên đặt các loại thực phẩm có hàm lượng độ ẩm cao ở phía trước kệ.\n\nNgn rau c dung tích ln\n\nDùng để bảo quản thực phẩm tươi sống và thực phẩm cần làm lạnh.\n\nNgn rau c dung tích ln\n\nDùng để bảo quản thực phẩm tươi và thực phẩm cần làm lạnh.\nNên đặt các loại thực phẩm có hàm lượng độ ẩm cao ở phía trước ngăn.\n\nNgn Nhit  Bin i\n\nNút điều chỉnh cho phép bạn thay đổi cài đặt để bảo quản rau củ, trái cây, đồ uống hoặc thực\nphẩm tươi sống theo nhu cầu của bạn.\n\nThanh Gia Ca T\n\nNgăn không cho khí lạnh trong tủ thoát ra ngoài.\n\nCnh Báo\n\nể tránh nguy cơ trầy xước cửa hoặc làm gãy thanh giữa của cửa tủ, hãy đảm bảo rằng thanh\ngiữa luôn được gập lại khi đóng cửa tủ lạnh.\n\nKhay Ngn Ðông\n\nDùng để lữu trữ thực phẩm đông lạnh đóng gói nhỏ hoặc các loại thực phẩm thường dùng.\nKhay trượt giúp bạn dễ dàng lấy ra và sử dụng thuận tiện hơn.\n\nNgn Kéo Ðông\n\nDùng để bảo quản thực phẩm đông lạnh trong thời gian dài.\n\nèn LED Chiu Sáng\n\nèn LED chiếu sáng đều toàn bộ bên trong tủ lạnh, giúp dễ dàng quan sát thực phẩm.\n\nNgn mát\nNhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ 2 °C đến 8 °C.\nNhiệt độ mặc định của ngăn mát là 5 °C.\n\nNgn ông\nNhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ -24 °C đến -15 °C.\nNhiệt độ mặc định của ngăn đông là -18 °C.\n\nFRESH CONVERTER+\nNhấn để chuyển đổi giữa các chế độ: Rau củ, Trái cây, Cá và Thịt.\n\nLàm Ðông Nhanh\n\nChức năng này giúp làm đông nhanh một lượng lớn đá hoặc thực phẩm đông lạnh.\nMỗi lần nhấn nút, chức năng này sẽ lần lượt bật và tắt.\nChức năng này sẽ tự động tắt sau một khoảng thời gian nhất định.\n\nLu Ý\n\nNhiệt độ bên trong thực tế có thể thay đổi tùy thuộc vào tình trạng thực phẩm,\nvì nhiệt độ hiển thị chỉ là giá trị mục tiêu chứ không phải nhiệt độ thực tế bên trong thiết bị.\n\nSmart\nTrong chế độ Thông minh, nhiệt độ của ngăn mát và ngăn đông được tự động cài đặt lần lượt\nlà 5 ℃ và -18 ℃.\n\nVacation\nTrong chế độ Nghỉ, ngăn mát sẽ tạm ngừng hoạt động, nhưng ngăn đông vẫn hoạt động bình\nthường.\n\nKhoá Bng Ðiu Khin\nể mở khóa, nhấn và giữ nút trong 3 giây\n\nLu Ý\n\nKhi lau chùi, nếu tay hoặc da chạm vào bảng điều khiển, các nút có thể bị kích hoạt.\n\nĐể bảo quản thực phẩm tốt nhất, nên điều chỉnh tăng hoặc giảm 1 °C so với nhiệt độ mặc định\ncủa từng ngăn.\n\nNhiệt độ hiển thị là nhiệt độ mục tiêu, không phải nhiệt độ thực tế bên trong thiết bị.\n\nNhiệt độ thực tế của thiết bị phụ thuộc vào lượng và loại thực phẩm bên trong.\n\nNhiệt độ bên trong tủ cũng bị ảnh hưởng bởi: nhiệt độ phòng, lượng thực phẩm, tần suất\nmở cửa và vị trí đặt tủ. Hãy cài đặt nhiệt độ phù hợp dựa trên các yếu tố này.\n\nTháo/Lp li ngn kéo t lnh\n\nTính năng này có thể khác nhau tùy theo mẫu tủ\nlạnh.\n\nKhi các chốt ở hai bên ngăn kéo đã được\ntháo ra, có thể nhấc ngăn kéo ra khỏi vị trí.\n\nKéo ngăn kéo ra hoàn toàn.\n\nDùng dụng cụ để nhấn chốt màu trắng vào\ntrong nhằm nhả chốt khỏi ngăn kéo. Thực\nhiện thao tác này ở cả hai bên ngăn kéo.",
+  "removed_repeated_lines": [],
+  "cleaning_stats": {
+    "raw_char_count": 3157,
+    "cleaned_char_count": 3105,
+    "removed_char_count": 52,
+    "reduction_ratio": 0.0165,
+    "removed_repeated_line_count": 0
+  },
+  "raw_text": "MFL05842120\nRev.00_121125\n\n50\n\n830\n\n1920\n\n594\n\n540\n\n879\n\n978\n\n1220\n\nNg\u001fn c\u001fa t\u001f l\u001fnh\n\nDùng để bảo quản các gói thực phẩm nhỏ, đồ uống và hộp đựng nước sốt.\n\nK\u001f t\u001f l\u001fnh\n\nDùng để bảo quản thực phẩm tươi và thực phẩm cần làm lạnh. \nNên đặt các loại thực phẩm có hàm lượng độ ẩm cao ở phía trước kệ.\n\nNg\u001fn rau c\u001f dung tích l\u001fn\n\nDùng để bảo quản thực phẩm tươi sống và thực phẩm cần làm lạnh.\n\nNg\u001fn rau c\u001f dung tích l\u001fn\n\nDùng để bảo quản thực phẩm tươi và thực phẩm cần làm lạnh. \nNên đặt các loại thực phẩm có hàm lượng độ ẩm cao ở phía trước ngăn.\n\nNg\u001fn Nhi\u001ft \u001f\u001f Bi\u001fn \u001f\u001fi\n\nNút điều chỉnh cho phép bạn thay đổi cài đặt để bảo quản rau củ, trái cây, đồ uống hoặc thực \nphẩm tươi sống theo nhu cầu của bạn.\n\nThanh Gi\u001fa C\u001fa T\n\nNgăn không cho khí lạnh trong tủ thoát ra ngoài.\n\nC\u001fnh Báo\n\nể tránh nguy cơ trầy xước cửa hoặc làm gãy thanh giữa của cửa tủ, hãy đảm bảo rằng thanh \ngiữa luôn được gập lại khi đóng cửa tủ lạnh.\n\nKhay Ng\u001fn Ðông\n\nDùng để lữu trữ thực phẩm đông lạnh đóng gói nhỏ hoặc các loại thực phẩm thường dùng. \nKhay trượt giúp bạn dễ dàng lấy ra và sử dụng thuận tiện hơn.\n\nNg\u001fn Kéo Ðông\n\nDùng để bảo quản thực phẩm đông lạnh trong thời gian dài.\n\nèn LED Chi\u001fu Sáng\n\nèn LED chiếu sáng đều toàn bộ bên trong tủ lạnh, giúp dễ dàng quan sát thực phẩm.\n\nNg\u001fn mát\nNhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ 2 °C đến 8 °C.\nNhiệt độ mặc định của ngăn mát là 5 °C.\n\nNg\u001fn \u001fông\nNhấn nút này nhiều lần để chọn nhiệt độ mong muốn trong khoảng từ -24 °C đến -15 °C.\nNhiệt độ mặc định của ngăn đông là -18 °C.\n\nFRESH CONVERTER+\nNhấn để chuyển đổi giữa các chế độ: Rau củ, Trái cây, Cá và Thịt.\n\nLàm Ðông Nhanh\n\nChức năng này giúp làm đông nhanh một lượng lớn đá hoặc thực phẩm đông lạnh.\nMỗi lần nhấn nút, chức năng này sẽ lần lượt bật và tắt.\nChức năng này sẽ tự động tắt sau một khoảng thời gian nhất định.\n\nL\u001fu Ý\n\nNhiệt độ bên trong thực tế có thể thay đổi tùy thuộc vào tình trạng thực phẩm, \nvì nhiệt độ hiển thị chỉ là giá trị mục tiêu chứ không phải nhiệt độ thực tế bên trong thiết bị.\n\nSmart\nTrong chế độ Thông minh, nhiệt độ của ngăn mát và ngăn đông được tự động cài đặt lần lượt \nlà 5 ℃ và -18 ℃.\n\nVacation\nTrong chế độ Nghỉ, ngăn mát sẽ tạm ngừng hoạt động, nhưng ngăn đông vẫn hoạt động bình \nthường.\n\nKhoá B\u001fng Ði\u001fu Khi\u001fn\nể mở khóa, nhấn và giữ nút trong 3 giây\n\nL\u001fu Ý\n\nKhi lau chùi, nếu tay hoặc da chạm vào bảng điều khiển, các nút có thể bị kích hoạt.\n\nĐể bảo quản thực phẩm tốt nhất, nên điều chỉnh tăng hoặc giảm 1 °C so với nhiệt độ mặc định \ncủa từng ngăn.\n\nNhiệt độ hiển thị là nhiệt độ mục tiêu, không phải nhiệt độ thực tế bên trong thiết bị.\n\nNhiệt độ thực tế của thiết bị phụ thuộc vào lượng và loại thực phẩm bên trong.\n\nNhiệt độ bên trong tủ cũng bị ảnh hưởng bởi: nhiệt độ phòng, lượng thực phẩm, tần suất \nmở cửa và vị trí đặt tủ. Hãy cài đặt nhiệt độ phù hợp dựa trên các yếu tố này.\n\nTháo/L\u001fp l\u001fi ng\u001fn kéo t\u001f l\u001fnh\n\nTính năng này có thể khác nhau tùy theo mẫu tủ \nlạnh.\n\nKhi các chốt ở hai bên ngăn kéo đã được\ntháo ra, có thể nhấc ngăn kéo ra khỏi vị trí.\n\nKéo ngăn kéo ra hoàn toàn.\n\nDùng dụng cụ để nhấn chốt màu trắng vào \ntrong nhằm nhả chốt khỏi ngăn kéo. Thực \nhiện thao tác này ở cả hai bên ngăn kéo.",
+  "char_count": 3157
+}

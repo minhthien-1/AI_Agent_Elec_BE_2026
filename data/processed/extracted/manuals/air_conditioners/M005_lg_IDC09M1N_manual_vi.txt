@@ -1,0 +1,2653 @@
+Quét mã QR để xem hướng dẫn sử dụng.
+
+HƯỚNG DẪN SỬ DỤNG
+MÁY ĐIỀU HÒA
+KHÔNG KHÍ
+
+Vui lòng đọc hướng dẫn sử dụng trước khi sử dụng sản phẩm
+để đảm bảo sử dụng an toàn và thuận tiện.
+
+TIẾNG VIỆT
+
+MFL71982468
+Rev.04_091626
+www.lg.com
+
+Bản quyền © 2024-2026 LG Electronics bảo lưu mọi quyền
+
+MỤC LỤC
+Hướng dẫn này có thể có các hình ảnh
+hoặc nội dung khác với kiểu máy mà bạn
+đã mua.
+
+Hướng dẫn sử dụng này có thể được thay
+đổi bởi nhà sản xuất.
+
+HƯỚNG DẪN AN TOÀN
+
+ĐỌC TOÀN BỘ HƯỚNG DẪN TRƯỚC KHI SỬ DỤNG .....................................3
+HƯỚNG DẪN CẢNH BÁO...................................................................................4
+HƯỚNG DẪN THẬN TRỌNG..............................................................................9
+
+VẬN HÀNH
+
+Trước khi sử dụng............................................................................................11
+Tổng Quan Sản Phẩm......................................................................................12
+Chuẩn bị trước Vận hành ................................................................................13
+Tổng quan về bộ điều khiển từ xa không dây..............................................15
+Sử dụng các chế độ vận hành ........................................................................18
+Sử dụng các chức năng đặc biệt ....................................................................22
+
+CHỨC NĂNG THÔNG MINH
+
+Ứng dụng LG ThinQ.........................................................................................34
+Chẩn đoán bằng LG ThinQ..............................................................................37
+
+BẢO TRÌ
+
+Vệ sinh ...............................................................................................................39
+
+XỬ LÝ SỰ CỐ
+
+Trước khi gọi trung tâm dịch vụ.....................................................................50
+
+3
+HƯỚNG DẪN AN TOÀN
+
+HƯỚNG DẪN AN TOÀN
+
+ĐỌC TOÀN BỘ HƯỚNG DẪN TRƯỚC KHI SỬ DỤNG
+
+TIẾNG VIỆT
+
+Các hướng dẫn an toàn sau đây nhằm mục đích ngăn chặn các rủi ro
+hoặc hư hỏng không thể lường trước từ việc vận hành sản phẩm không
+an toàn hoặc không đúng cách.
+Các hướng dẫn được chia thành hai phần ‘CẢNH BÁO’ và ‘THẬN TRỌNG’
+như được mô tả bên dưới.
+
+Thông điệp về an toàn
+
+Ký hiệu này được hiển thị để chỉ ra các vấn đề và hoạt động
+có thể gây rủi ro.
+Đọc kỹ phần có ký hiệu này và làm theo hướng dẫn để tránh
+rủi ro.
+CẢNH BÁO
+Biểu tượng này cho biết nếu không thực hiện theo các
+hướng dẫn có thể gây ra thương tích nghiêm trọng hoặc tử
+vong.
+THẬN TRỌNG
+Biểu tượng này cho biết nếu không thực hiện theo các
+hướng dẫn có thể gây ra thương tích nhẹ hoặc hư hỏng sản
+phẩm.
+
+4
+HƯỚNG DẪN AN TOÀN
+
+Lưu ý đối với Môi chất làm lạnh Dễ cháy
+
+Các ký hiệu sau được hiển thị trên các thiết bị.
+
+Ký hiệu này cho biết thiết bị này sử dụng môi chất làm lạnh
+dễ cháy. Nếu môi chất làm lạnh bị rò rỉ và tiếp xúc với nguồn
+lửa bên ngoài, có nguy cơ xảy ra hỏa hoạn.
+
+Ký hiệu này cho biết cần đọc kỹ Hướng dẫn Sử dụng.
+
+Ký hiệu này chỉ ra rằng một nhân viên dịch vụ phải xử lý thiết
+bị này với tài liệu tham khảo Hướng dẫn Lắp đặt.
+
+Ký hiệu này cho biết thông tin có trong Hướng dẫn Sử dụng
+hoặc Hướng dẫn Lắp đặt.
+
+HƯỚNG DẪN CẢNH BÁO
+
+CẢNH BÁO
+• Để giảm rủi ro cháy, nổ, tử vong, điện giật, thương tích hoặc bỏng ở
+người khi sử dụng sản phẩm này, hãy thực hiện theo các biện pháp
+phòng ngừa cơ bản, bao gồm các điều sau:
+
+An toàn về kỹ thuật
+
+• Thiết bị này không dành cho những người (bao gồm cả trẻ em) bị suy
+giảm khả năng về thể chất, giác quan hoặc tinh thần, hoặc thiếu kinh
+nghiệm và kiến thức, trừ khi họ được người chịu trách nhiệm về sự an
+toàn của họ giám sát hoặc hướng dẫn sử dụng thiết bị. Trẻ em cần
+được giám sát để đảm bảo rằng trẻ không nghịch thiết bị.
+
+• Việc lắp đặt hoặc sửa chữa được thực hiện bởi những người không
+được ủy quyền có thể gây ra các mối nguy hại cho bạn và những
+người khác.
+
+• Thông tin trong hướng dẫn là dành cho kỹ thuật viên bảo dưỡng có
+đủ trình độ chuyên môn, quen thuộc với các quy trình về an toàn và
+có trang bị các công cụ và dụng cụ kiểm tra thích hợp.
+
+5
+HƯỚNG DẪN AN TOÀN
+
+• Không đọc và thực hiện theo tất cả các hướng dẫn trong hướng dẫn
+này có thể dẫn đến trục trặc thiết bị, hư hỏng tài sản, thương tích cá
+nhân và/hoặc tử vong.
+
+• Môi chất làm lạnh và khí thổi cách điện được sử dụng trong thiết bị
+cần có quy trình xử lý đặc biệt. Tham khảo ý kiến nhân viên bảo
+dưỡng hoặc người có trình độ tương tự trước khi thải bỏ chúng.
+
+TIẾNG VIỆT
+
+• Khi thay thế dây điện, việc thay thế phải được thực hiện bởi nhân viên
+được ủy quyền và chỉ sử dụng bộ phận thay thế chính hãng.
+
+• Nếu bị hư hỏng, dây nguồn phải được thay thế bởi nhà sản xuất hoặc
+các nhân viên bảo dưỡng của họ hoặc người có đủ trình độ chuyên
+môn tương đương để tránh nguy hiểm.
+
+• Thiết bị phải được lắp đặt phù hợp với tiêu chuẩn mạng điện quốc gia.
+
+• Cách ngắt nguồn phải được đi liền với dây dẫn cố định tuân theo
+nguyên tắc mắc dây.
+
+• Thiết bị này cần phải được tiếp đất đúng cách để giảm thiểu rủi ro
+điện giật.
+
+• Không cắt hoặc gỡ bỏ chân tiếp đất khỏi phích cắm điện.
+
+• Gắn đầu tiếp đất của bộ đổi điện vào vít bắt nắp của ổ điện gắn tường
+sẽ không phải là cách tiếp đất thiết bị, trừ khi vít bắt nắp này bằng kim
+loại, dẫn điện và ổ điện gắn tường được tiếp đất thông qua mạng điện
+trong nhà.
+
+• Nếu bạn có bất kỳ nghi ngờ gì không biết máy điều hòa không khí có
+được tiếp đất đúng cách hay không, hãy yêu cầu nhân viên điện đủ
+trình độ chuyên môn kiểm tra ổ cắm điện gắn tường và hệ thống dây
+điện.
+
+Lắp đặt
+
+• Liên hệ trung tâm dịch vụ được ủy quyền khi lắp đặt hoặc di dời máy
+điều hòa không khí.
+
+• Không lắp đặt máy điều hòa không khí ở bề mặt không ổn định hoặc
+ở vị trí có nguy cơ dễ rơi.
+
+• Không lắp đặt thiết bị trong môi trường dễ cháy nổ.
+
+• Không lắp đặt máy điều hòa không khí ở vị trí có cất trữ chất lỏng
+hoặc khí dễ cháy như xăng, khí prô-pan, chất pha loãng sơn v.v...
+
+6
+HƯỚNG DẪN AN TOÀN
+
+• Lắp tấm pa-nen và nắp bảo vệ hộp điều khiển một cách an toàn.
+
+• Lắp đặt ổ cắm điện và áp-tô-mát chuyên dụng trước khi sử dụng máy
+điều hòa không khí.
+
+• Sử dụng áp-tô-mát và cầu chì tiêu chuẩn, phù hợp với định mức điện
+của máy điều hòa không khí.
+
+• Đảm bảo đường ống và cáp điện kết nối dàn lạnh và dàn nóng không
+bị kéo quá căng khi lắp đặt máy điều hòa không khí.
+
+• Các kết nối mạng điện trong nhà/ngoài trời phải được buộc chặt chắc
+chắn và phải đi dây cáp đúng cách sao cho dây cáp không bị lực kéo
+từ các đầu cực kết nối. Việc đấu nối không đúng cách hoặc bị lỏng có
+thể sinh nhiệt hoặc gây ra hỏa hoạn.
+
+• Không kết nối dây tiếp đất với ống khí ga, cột thu lôi hoặc dây tiếp đất
+điện thoại.
+
+• Dùng khí ga không cháy (nitơ) để kiểm tra rò rỉ và thổi khí làm sạch
+ống; dùng khí nén hoặc khí dễ cháy có thể gây ra cháy hoặc nổ.
+
+Vận hành
+
+• Không sửa đổi hoặc nối dài dây nguồn. Trầy xước hoặc bong lớp cách
+điện trên dây nguồn có thể dẫn đến cháy nổ hoặc giật điện và cần
+được thay thế.
+
+• Đảm bảo cáp nguồn không bị bẩn, lỏng hoặc đứt.
+
+• Không được đặt bất kỳ vật gì trên dây cáp nguồn.
+
+• Không bố trí lò sưởi hoặc các thiết bị sưởi ấm khác gần dây nguồn.
+
+• Thận trọng để đảm bảo rằng dây nguồn không bị kéo ra hoặc bị hỏng
+trong quá trình hoạt động.
+
+• Không bao giờ được chạm, vận hành hoặc sửa chữa máy điều hòa
+không khí khi tay đang ướt.
+
+• Không đưa tay hoặc các vật khác vào đường nạp hoặc đường thoát
+khí khi máy điều hòa không khí đang vận hành.
+
+• Đảm bảo không để trẻ em trèo lên hoặc sờ chạm vào dàn nóng.
+
+• Đảm bảo chỉ sử dụng những bộ phận có trong danh sách các bộ phận
+bảo dưỡng. Tuyệt đối không cố gắng sửa đổi thiết bị.
+
+7
+HƯỚNG DẪN AN TOÀN
+
+• Không chạm vào đường ống môi chất làm lạnh hoặc đường ống nước
+hoặc bất kỳ bộ phận bên trong nào khi thiết bị đang hoạt động hoặc
+ngay sau khi hoạt động.
+
+• Không đặt để các chất dễ cháy như xăng, ben-zen hoặc chất pha
+loãng gần máy điều hòa không khí.
+
+TIẾNG VIỆT
+
+• Không sử dụng máy điều hòa không khí trong một khoảng thời gian
+dài ở không gian nhỏ mà không có hệ thống thông gió thích hợp.
+
+• Đảm bảo thông gió hoàn toàn khi sử dụng đồng thời máy điều hòa
+không khí và thiết bị tạo nhiệt ví dụ như bình gia nhiệt.
+
+• Không làm nghẽn cửa hút gió hoặc cửa thông khí.
+
+• Ngắt nguồn cấp điện nếu có bất kỳ tiếng động, mùi hoặc khói phát ra
+từ máy điều hòa không khí.
+
+• Liên hệ trung tâm dịch vụ được ủy quyền khi máy điều hòa không khí
+bị ngập trong nước lũ.
+
+• Trong trường hợp rò rỉ gas (như Freon, khí prô-pan, khí dầu mỏ hóa
+lỏng...), thông gió hoàn toàn trước khi sử dụng lại máy điều hòa
+không khí.
+
+• Ngắt nguồn cấp điện ngay lập tức trong trường hợp mất điện hoặc
+giông bão.
+
+Điều khiển Từ xa Không dây
+
+• Tháo pin nếu không sử dụng điều khiển từ xa trong một thời gian dài.
+
+• Không bao giờ được dùng lẫn lộn các loại pin, hoặc dùng chung pin
+cũ và pin mới cho điều khiển từ xa.
+
+• Không sạc lại hoặc tháo rời các bộ phận của pin.
+
+• Dừng sử dụng bộ điều khiển từ xa nếu có chất lỏng rò rỉ từ pin. Nếu
+quần áo hoặc da của bạn tiếp xúc với chất lỏng rò rỉ này, hãy rửa sạch
+bằng nước sạch.
+
+• Nếu nuốt phải dung dịch điện phân ở pin bị rò rỉ, hãy súc sạch kỹ bên
+trong miệng và hỏi ý kiến bác sĩ.
+
+• Thải bỏ pin ở nơi không có nguy cơ cháy.
+
+8
+HƯỚNG DẪN AN TOÀN
+
+Bảo trì
+
+• Trước khi vệ sinh hoặc tiến hành bảo trì, hãy ngắt kết nối nguồn cấp
+điện và chờ đến khi quạt ngừng quay.
+
+• Không vệ sinh thiết bị bằng cách phun nước trực tiếp vào sản phẩm.
+
+Môi chất làm lạnh
+
+Cài đặt chung
+
+• Chỉ sử dụng môi chất làm lạnh được quy định trên nhãn máy điều hòa
+không khí.
+
+• Không sử dụng môi chất làm lạnh chưa được chứng nhận.
+
+• Không nạp không khí hoặc khí ga vào hệ thống ngoại trừ môi chất
+làm lạnh đặc thù.
+
+• Không chạm vào môi chất làm lạnh đang rò rỉ trong quá trình lắp đặt
+hoặc sửa chữa.
+
+• Đảm bảo kiểm tra tình trạng rò rỉ môi chất làm lạnh sau khi lắp đặt
+hoặc sửa chữa máy điều hòa không khí.
+
+• Thiết bị phải được cất giữ để tránh tổn hại về cơ học.
+
+Chỉ dành cho R32
+
+• Bất kỳ người nào có liên quan đang làm việc hoặc đột nhập vào mạch
+làm lạnh thì phải có giấy chứng nhận có giá trị tại thời điểm hiện tại
+do cơ quan thẩm định được công nhận bởi ngành công nghiệp, ủy
+quyền cho họ có đủ thẩm quyền xử lý môi chất làm lạnh một cách an
+toàn dựa theo tiêu chuẩn được đánh giá và công nhận bởi ngành
+công nghiệp.
+
+• Việc bảo dưỡng chỉ được thực hiện theo khuyến nghị của nhà sản
+xuất thiết bị. Việc hỗ trợ các kĩ năng cá nhân trong bảo dưỡng và sửa
+
+9
+HƯỚNG DẪN AN TOÀN
+
+chữa sẽ được thực hiện dưới sự giám sát của người có thẩm quyền
+trong việc sử dụng các môi chất làm lạnh dễ cháy.
+
+• Thiết bị sẽ được lưu trữ tại nơi thông thoáng, nơi mà kích thước
+phòng sẽ tương ứng với khu vực hoạt động của máy.
+
+• Giữ các lỗ thông khí cần thiết không bị cản trở.
+
+TIẾNG VIỆT
+
+• Thiết bị này phải được lưu trữ trong phòng mà không cần phải liên
+tục mở ngọn lửa (ví dụ như thiết bị gas đang hoạt động) và các nguồn
+tạo ra lửa (ví dụ như lò sưởi điện đang hoạt động).
+
+HƯỚNG DẪN THẬN TRỌNG
+
+THẬN TRỌNG
+• Để giảm thiểu những rủi ro có thể gây ra thương tích nhỏ cho người,
+hoặc làm thiết bị hoạt động sai chức năng cũng như hư hỏng sản
+phẩm hoặc tài sản khi sử dụng sản phẩm này, hãy thực hiện các biện
+pháp phòng ngừa cơ bản, bao gồm các điều sau:
+
+Lắp đặt
+
+• Vận chuyển máy điều hòa không khí với hai hoặc nhiều người hoặc sử
+dụng xe nâng.
+
+• Lắp đặt dàn nóng sao cho có thể tránh được ánh nắng trực tiếp.
+Không bố trí dàn lạnh ở nơi tiếp xúc trực tiếp với ánh nắng chiếu qua
+cửa sổ.
+
+• Không lắp đặt máy điều hòa không khí ở khu vực chịu ảnh hưởng trực
+tiếp của gió biển (hơi muối).
+
+• Lắp đặt ống xả đúng cách để dễ dàng xả nước đọng.
+
+• Lắp đặt máy điều hòa không khí ở nơi sao cho tiếng ồn từ dàn nóng
+hoặc hơi thải sẽ không làm phiền đến những người sống xung quanh.
+Nếu không, có thể dẫn đến mâu thuẫn với họ.
+
+• Thải bỏ an toàn các vật liệu đóng gói như vít, đinh, túi nhựa hoặc pin
+bằng bao bì thích hợp sau khi lắp đặt hoặc sửa chữa.
+
+• Thao tác thận trọng khi dỡ kiện hoặc lắp đặt máy điều hòa không khí.
+
+10
+HƯỚNG DẪN AN TOÀN
+
+Vận hành
+
+• Đảm bảo đã lắp bộ lọc trước khi vận hành máy điều hòa không khí.
+
+• Không uống nước xả ra từ máy điều hòa không khí.
+
+• Không đặt bất kỳ vật gì lên máy điều hòa không khí.
+
+• Không để máy điều hòa không khí vận hành trong thời gian dài khi có
+độ ẩm cao hoặc khi cửa ra vào hoặc cửa sổ để mở.
+
+• Không để người, động vật hoặc cây cối tiếp xúc với luồng gió nóng
+hoặc lạnh từ máy điều hòa không khí trong thời gian dài.
+
+• Không sử dụng thiết bị cho các mục đích đặc biệt, như bảo quản thực
+phẩm, tác phẩm nghệ thuật, v.v. Máy điều hòa không khí được thiết
+kế cho mục đích tiêu dùng và không phải là hệ thống làm lạnh chính
+xác. Có nguy cơ gây hư hại hoặc tổn thất tài sản.
+
+Bảo trì
+
+• Sử dụng ghế hoặc thang vững chắc khi vệ sinh, bảo trì hoặc sửa chữa
+máy điều hòa không khí ở trên cao.
+
+• Tuyệt đối không sử dụng chất tẩy rửa mạnh hoặc dung môi hoặc
+phun nước khi vệ sinh máy điều hòa không khí. Hãy sử dụng vải mềm.
+
+• Tuyệt đối không chạm vào các bộ phận kim loại của máy điều hòa
+không khí khi tháo tấm lọc khí.
+
+• Để vệ sinh bên trong, hãy liên hệ với trung tâm dịch vụ hoặc đại lý ủy
+quyền. Sử dụng chất tẩy rửa mạnh có thể gây ăn mòn hoặc hư hỏng
+thiết bị.
+
+11
+VẬN HÀNH
+
+VẬN HÀNH
+
+Trước khi sử dụng
+
+Lưu ý khi vận hành
+
+• Điều chỉnh hướng luồng khí lên/xuống hoặc trái/phải để lưu thông không khí trong nhà.
+
+TIẾNG VIỆT
+
+• Tăng tốc độ quạt để làm mát hoặc làm ấm nhanh không khí trong nhà trong một khoảng thời gian ngắn.
+
+• Tắt thiết bị và thường xuyên mở cửa sổ để thông gió. Chất lượng không khí trong nhà có thể suy giảm
+nếu sử dụng thiết bị trong thời gian dài.
+
+• Vệ sinh tấm lọc khí 2 tuần một lần. Bụi và tạp chất tích tụ trong tấm lọc khí có thể chặn luồng khí hoặc
+làm giảm hiệu suất của thiết bị.
+
+Đề xuất giúp tiết kiệm năng lượng
+
+• Không làm mát quá mức. Điều này có thể gây hại cho sức khỏe của bạn và có thể tiêu thụ nhiều điện hơn.
+
+• Che nắng bằng tấm chắn hoặc rèm cửa khi vận hành thiết bị.
+
+• Đóng chặt các cửa ra vào hoặc cửa sổ khi vận hành thiết bị.
+
+12
+VẬN HÀNH
+
+Tổng Quan Sản Phẩm
+
+Sản Phẩm Treo Tường
+
+a
+Tấm lọc khí
+f
+Bộ chỉnh hướng Gió (Cánh đảo gió Lên-
+Xuống)
+
+b
+Lỗ Hút Khí
+g
+Tấm chuyển hướng gió (bộ chuyển
+hướng gió lên-xuống bên trong)
+
+c
+Nắp đậy Phía trước
+h
+Lỗ thông hơi luồng khí chính
+
+d
+Tấm dẫn hướng gió
+i
+Lỗ thông hơi luồng khí nhẹ
+
+e
+Bộ chỉnh hướng Gió (Cánh đảo gió Trái-
+Phải)
+j
+Nút Nguồn
+
+LƯU Ý
+
+• Bộ chuyển hướng gió lên-xuống kép: f + g
+
+• Số lượng và vị trí các bộ phận có thể khác nhau tùy theo mẫu máy của thiết bị.
+
+• Các tính năng có thể thay đổi tùy theo loại mẫu máy.
+
+13
+VẬN HÀNH
+
+Chuẩn bị trước Vận hành
+
+Chọn độ Fahrenheit hoặc độ
+Celsius
+
+Lắp pin vào bộ điều khiển từ xa
+không dây
+
+Đặt hiển thị nhiệt độ để hiển thị đơn vị Fahrenheit
+(8) hoặc Celsius (7).
+
+Lắp pin AAA (1,5 V) vào bộ điều khiển từ xa không
+dây.
+
+1
+Bật thiết bị.
+
+TIẾNG VIỆT
+
+1
+Tháo nắp pin.
+
+2
+Nhấn nút Chức năng.
+
+2
+Lắp pin mới và đảm bảo lắp đúng các cực + và
+
+– của pin.
+
+3
+Gắn lại nắp bằng cách trượt trở về vị trí.
+
+LƯU Ý
+
+• Khi màn hình của điều khiển từ xa không dây bắt
+đầu bị mờ, hãy thay pin AAA (1,5 V).
+
+• Không được sử dụng pin cũ và pin mới cùng
+nhau.
+
+• Không sử dụng các loại pin khác ngoại trừ pin
+
+kiềm.
+
+14
+VẬN HÀNH
+
+3
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+dưới đây nhấp nháy trên màn hình hiển thị. Sau
+đó nhấn nút Chức năng.
+
+4
+Nhấn nút L hoặc M để cài đặt đơn vị
+
+Fahrenheit (8) hoặc Celsius (7).
+
+• Mỗi khi nhấn nút, chức năng sẽ thay đổi theo
+trình tự sau: 7 & 8
+
+5
+Sau đó nhấn nút Chức năng.
+
+15
+VẬN HÀNH
+
+Tổng quan về bộ điều khiển từ xa không dây
+
+Bộ điều khiển từ xa không dây
+
+Bạn có thể vận hành thiết bị thuận tiện hơn với điều khiển từ xa không dây.
+
+TIẾNG VIỆT
+
+16
+VẬN HÀNH
+
+Hình ảnh
+Mô tả
+
+Nguồn
+Bật hoặc tắt thiết bị.
+
+Kết nối với LG ThinQ
+Nhấn giữ nút Nguồn trong khoảng 3 giây để chuẩn bị cho trạng thái kết nối thiết bị
+và Wi-Fi.
+
+Mode
+Chọn chế độ vận hành mong muốn.
+
+• Mỗi lần nhấn sẽ thay đổi các chế độ theo thứ tự sau: Làm mát ~ Khử ẩm ~ Quạt
+
+AI Air
+Hoạt động tự động bằng cách phát hiện môi trường xung quanh và đặc điểm của
+người dùng.
+
+Soft Air (3 s)
+Nhấn và giữ nút AI Air trong khoảng 3 giây để bạn cảm thấy mát mà không cảm thấy
+gió thổi.
+
+Temp. J, K
+Điều chỉnh nhiệt độ phòng mong muốn.
+
+Fan Speed ~, !
+Điều chỉnh tốc độ quạt.
+
+Ã (Luồng gió lên-xuống)
+Điều chỉnh hướng luồng khí lên xuống.
+
+Jet Mode (3 s)
+Nhấn giữ nút Ã trong khoảng 3 giây để nhanh chóng thay đổi nhiệt độ phòng.
+
+Chế độ vệ sinh
+Trong khi tắt điều khiển từ xa và thiết bị, nhấn giữ nút Ã trong khoảng 5 giây để cố
+định bộ chuyển hướng gió lên-xuống để dễ dàng vệ sinh bộ phận này.
+
+Ä (Luồng gió trái-phải)
+Điều chỉnh hướng luồng khí sang trái và sang phải.
+
+Air Purify (3 s)
+Nhấn giữ nút Ä trong khoảng 3 giây để cấp không khí sạch, trong lành bằng cách sử
+dụng các phân tử ion và bộ lọc.
+
+17
+VẬN HÀNH
+
+Hình ảnh
+Mô tả
+
+Ñ (Kiểm soát năng lượng)
+Giảm công suất đầu vào. Bạn có thể kiểm soát lượng điện năng tiêu thụ.
+
+Mute (3 s)
+Nhấn giữ nút Ñ trong khoảng 3 giây để tắt tiếng bíp.
+
+TIẾNG VIỆT
+
+Chức năng
+Chọn chức năng mong muốn.
+
+Ç (Ngủ)
+Tự động tắt thiết bị vào thời gian mong muốn. Bật chế độ này trước khi đi ngủ.
+
+Light Off (3 s)
+Nhấn giữ nút Ç trong khoảng 3 giây để cài đặt chức năng tắt đèn.
+
+18
+VẬN HÀNH
+
+2
+Nhấn nút Mode nhiều lần để thay đổi chế độ
+
+vận hành.
+
+Sử dụng các chế độ vận
+hành
+
+Vận hành bằng bộ điều khiển từ
+xa không dây
+
+Hướng bộ điều khiển từ xa không dây về phía bộ
+nhận tín hiệu nằm bên phải thiết bị để vận hành
+thiết bị.
+
+w
+Chế độ Làm mát
+
+LƯU Ý
+
+q
+Chế độ Khử ẩm
+
+G
+Chế độ Quạt
+
+• Bộ điều khiển từ xa không dây có thể vận hành
+các thiết bị điện tử khác nếu hướng điều khiển về
+phía chúng. Hãy đảm bảo hướng bộ điều khiển
+từ xa không dây về phía bộ nhận tín hiệu của
+thiết bị.
+
+3
+Nhấn nút J hoặc nút K để cài đặt nhiệt độ
+
+• Để thiết bị vận hành tương ứng, dùng vải mềm
+để vệ sinh bộ truyền phát và bộ nhận tín hiệu.
+
+mong muốn.
+
+• Nếu một chức năng có trên điều khiển từ xa
+không được thiết bị hỗ trợ, thiết bị có thể không
+chỉ ra điều này bằng cách phát ra âm báo.
+
+Chế độ Làm mát, Khử ẩm, Tự
+Quạt
+
+Bạn có thể thay đổi chế độ vận hành khi bật thiết bị.
+
+1
+Bật thiết bị.
+
+Lưu ý đối với mỗi chế độ vận hành
+
+Chế độ Khử ẩm
+
+• Bạn không thể điều chỉnh tốc độ quạt.
+
+• Ở chế độ Khử ẩm, máy nén và quạt dàn lạnh có
+thể không vận hành để tránh làm mát quá mức.
+
+19
+VẬN HÀNH
+
+Chế độ Quạt
+
+LƯU Ý
+
+• ON hoặc t được hiển thị trên dàn lạnh.
+
+• Chế độ Làm mát nhanh
+
+• Bạn không thể điều chỉnh nhiệt độ.
+
+Luồng khí làm mát mạnh sẽ thổi ra trong 30
+phút. Sau 30 phút, thiết bị sẽ quay trở lại chế độ
+Làm mát. Cài đặt tốc độ quạt và nhiệt độ sẽ quay
+trở lại cài đặt trước đó.
+
+Chế độ Vận hành nhanh
+
+Bạn có thể thay đổi nhiệt độ phòng nhanh chóng.
+
+TIẾNG VIỆT
+
+• Chế độ Vận hành nhanh có thể vận hành khác
+với màn hình hiển thị của điều khiển từ xa không
+dây.
+
+• Chế độ Vận hành nhanh khả dụng với chế độ
+Làm mát.
+
+1
+Bật thiết bị.
+
+Điều chỉnh tốc độ quạt
+
+2
+Nhấn nút Mode nhiều lần để chọn chế độ
+
+Bạn có thể điều chỉnh tốc độ quạt bằng cách nhấn
+nút ~ hoặc ! nhiều lần.
+
+mong muốn.
+
+3
+Nhấn và giữ nút Ã trong khoảng 3 giây.
+
+Tốc độ
+
+Biểu tượng
+trên dàn
+Lạnh
+
+Biểu tượng
+Bộ điều
+khiển từ xa
+không dây
+
+Gió tự nhiên
+-
+
+Cao
+Fs
+
+Trung bình -
+Cao
+F4
+
+Trung bình
+F3
+
+Trung bình -
+Thấp
+Fz
+
+20
+VẬN HÀNH
+
+Điều chỉnh hướng trái-phải (trên
+một số mẫu máy)
+
+Tốc độ
+
+Biểu tượng
+trên dàn
+Lạnh
+
+Biểu tượng
+Bộ điều
+khiển từ xa
+không dây
+
+• Nhấn nút Ä nhiều lần để điều chỉnh hướng
+luồng khí.
+
+Thấp
+F1
+
+LƯU Ý
+
+• Tốc độ quạt của chế độ Gió tự nhiên điều chỉnh
+tự động.
+
+• Các biểu tượng trên dàn lạnh được hiển thị trên
+một số dàn lạnh.
+
+• Màn hình của dàn lạnh hiển thị các biểu tượng
+tốc độ quạt chỉ trong 5 giây và sau đó quay về
+nhiệt độ đã cài đặt.
+
+Điều chỉnh hướng luồng khí
+
+Bạn có thể điều chỉnh hướng luồng khí theo chiều
+dọc hoặc chiều ngang.
+
+Điều chỉnh hướng lên-xuống
+
+- Chọn Ä để tự động điều chỉnh hướng trái-
+phải của luồng khí.
+
+• Nhấn nút Ã nhiều lần để điều chỉnh hướng
+luồng khí.
+
+LƯU Ý
+
+• Việc điều chỉnh tùy ý tấm chuyển hướng gió có
+thể gây lỗi thiết bị.
+
+• Khi được khởi động lại, thiết bị sẽ sử dụng hướng
+luồng khí được cài đặt gần nhất. Vị trí của tấm
+chuyển hướng gió có thể không khớp với biểu
+tượng được hiển thị trên bộ điều khiển từ xa
+không dây. Khi xảy ra hiện tượng này, hãy điều
+chỉnh lại hướng luồng khí.
+
+• Chức năng này có thể vận hành khác với màn
+hình hiển thị của bộ điều khiển từ xa không dây.
+
+• Điều chỉnh hướng trái-phải có thể không được
+
+hỗ trợ, tùy thuộc vào mẫu máy.
+
+Vận hành thủ công
+
+Nếu không có điều khiển từ xa không dây, bạn có
+thể bật, tắt thiết bị bằng cách nhấn nút Nguồn a
+trên dàn lạnh.
+
+- Chọn Ã để tự động điều chỉnh hướng lên
+xuống của luồng khí.
+
+21
+VẬN HÀNH
+
+• Nhấn nút Nguồn a.
+
+2
+Khi thiết bị phát ra tiếng bíp hai lần, hãy nhả
+
+nút Nguồn a. Đèn sẽ nhấp nháy. Điều này sẽ
+lặp lại 4 lần.
+
+TIẾNG VIỆT
+
+LƯU Ý
+
+• Tốc độ quạt được cài đặt ở mức cao theo mặc
+định.
+
+LƯU Ý
+
+• Các tính năng có thể thay đổi tùy theo loại mẫu
+máy.
+
+• Tính năng này có thể thay đổi tùy theo loại mẫu
+máy.
+
+• Không thể thay đổi nhiệt độ khi sử dụng nút
+Nguồn a.
+
+• Nhiệt độ được cài đặt mặc định là 22 7.
+
+• Nếu bạn nhấn và giữ nút Nguồn a trong 3 – 5
+giây, thay vì 6 giây, thiết bị sẽ chuyển sang chế độ
+vận hành thử. Ở chế độ vận hành thử, thiết bị
+thổi ra luồng khí làm mát mạnh trong 18 phút rồi
+trở về cài đặt mặc định của nhà sản xuất.
+
+Khôi phục Cài đặt trước đó
+
+Khi bật lại máy điều hòa sau khi mất điện, chức
+năng Tự động khởi động lại sẽ khôi phục các tùy
+chọn cài đặt trước đó.
+
+Khi sử dụng thiết bị lần đầu, chức năng Tự động
+khởi động lại được cài đặt. Bạn có thể hủy và cài
+đặt chức năng này bằng cách nhấn nút Nguồn a
+trên dàn lạnh.
+
+Hủy Tự khởi động lại
+
+1
+Nhấn giữ nút Nguồn a trong 6 giây.
+
+2
+Khi thiết bị phát ra tiếng bíp hai lần, hãy nhả
+
+nút Nguồn a. Đèn sẽ nhấp nháy hai lần. Điều
+này sẽ lặp lại 4 lần.
+
+Cài đặt Tự khởi động lại
+
+1
+Nhấn giữ nút Nguồn a trong 6 giây.
+
+22
+VẬN HÀNH
+
+Sử dụng các chức năng đặc
+biệt
+
+CẢNH BÁO
+• Không chạm vào bộ tạo ion trong khi đang vận
+
+hành.
+
+Chức năng lọc không khí (trên
+một số mẫu máy)
+
+LƯU Ý
+
+• Bạn có thể sử dụng chức năng này mà không cần
+
+Bạn có thể cấp không khí sạch và trong lành thông
+qua các phân tử ion và tấm lọc.
+
+bật thiết bị.
+
+• Nhấn và giữ nút Ä trong khoảng 3 giây.
+
+Chức năng kiểm soát năng
+lượng (Trên một số mẫu máy)
+
+Bạn có thể giảm công suất đầu vào.
+
+1
+Bật thiết bị.
+
+Chức năng
+Mô tả
+
+Bộ tạo ion
+Các hạt ion từ bộ tạo
+ion làm giảm vi khuẩn
+bề mặt và các chất có
+hại khác.
+
+23
+VẬN HÀNH
+
+2
+Nhấn nút Ñ nhiều lần để chọn bước mong
+
+muốn.
+LƯU Ý
+
+• 8O, 6O, 4O hoặc L (1 bước), LL (2 bước) được hiển
+thị trên một số dàn lạnh.
+
+• Có thể sử dụng chức năng này ở chế độ Làm
+mát.
+
+• Công suất có thể giảm khi chọn chức năng Kiểm
+soát năng lượng.
+
+TIẾNG VIỆT
+
+• Nhiệt độ mong muốn được hiển thị trong
+khoảng 5 giây nếu bạn nhấn nút J hoặc K.
+
+• Tốc độ quạt được hiển thị trong khoảng 5 giây
+nếu bạn nhấn nút ~ hoặc !.
+
+• Khi được kết nối với dàn nóng Multi, chức năng
+
+này có thể không được hỗ trợ.
+
+Chế độ AI Air
+
+Tốc độ quạt và hướng luồng khí tự động thay đổi
+dựa trên thói quen sử dụng đã học và sự thay đổi
+nhiệt độ xung quanh.
+
+Nếu bạn chọn chế độ AI Air, máy điều hòa không
+khí tự động phân tích môi trường xung quanh để
+nhanh chóng đạt được nhiệt độ cài đặt. Hướng gió
+và tốc độ quạt cũng được tự động điều chỉnh nhằm
+mang lại không gian thoải mái nhất.
+
+1
+Bật thiết bị.
+
+Bước
+Màn hình
+hiển thị
+Mô tả
+
+1
+
+Đầu vào nguồn
+điện giảm 20% so
+với đầu vào nguồn
+điện định mức.
+
+2
+
+Đầu vào nguồn
+điện giảm 40% so
+với đầu vào nguồn
+điện định mức.
+
+Đầu vào nguồn
+điện giảm 60% so
+với đầu vào nguồn
+điện định mức.
+
+3
+(trên một
+số mẫu
+máy)
+
+24
+VẬN HÀNH
+
+Soft Air
+
+2
+Nhấn nút AI Air.
+
+Tính năng này hướng luồng khí nhẹ hướng lên trên
+để giúp bạn luôn mát mẻ mà không có cảm giác bị
+gió lùa.
+
+Với ứng dụng LG ThinQ, bạn có thể tinh chỉnh nhiệt
+độ và cường độ luồng khí.
+
+a Bình thường
+
+b Soft Air
+
+1
+Bật thiết bị.
+
+LƯU Ý
+
+• Có thể sử dụng chức năng này ở chế độ Làm
+mát.
+
+• AI được hiển thị trên màn hình hiển thị.
+
+• Để thay đổi nhiệt độ mong muốn, hãy nhấn nút
+Nhiệt độ J hoặc K trên điều khiển từ xa.
+
+• Nhấn nút Mode hoặc Jet Mode trong khi ở chế
+độ AI Air sẽ vận hành chức năng đã chọn.
+
+• Chức năng này có thể vận hành khác tùy theo
+
+mẫu máy.
+
+25
+VẬN HÀNH
+
+• Khi được kết nối với dàn nóng Multi, bạn không
+
+2
+Nhấn và giữ nút AI Air trong khoảng 3 giây.
+
+thể điều chỉnh nhiệt độ luồng khí.
+
+Cảm biến phát hiện có người
+(trên một số mẫu máy)
+
+TIẾNG VIỆT
+
+Luồng khí trực tiếp và gián tiếp
+
+Tính năng này nhận biết khi có người và cài đặt
+luồng khí Trực tiếp hoặc Gián tiếp dựa trên mong
+muốn của bạn.
+
+• Luồng khí trực tiếp
+
+Sau khi nhận biết khu vực có người, tính năng
+này hướng luồng khí về khu vực đó.
+
+• Luồng khí gián tiếp
+
+Sau khi nhận biết khu vực có người, tính năng
+này hướng luồng khí về khu vực không có người.
+
+1
+Bật thiết bị.
+
+2
+Nhấn nút Chức năng.
+
+LƯU Ý
+
+• Khi kích hoạt chức năng Soft Air, nhiệt độ không
+khí phả ra từ thiết bị được thay đổi và luồng khí
+được hướng lên trên.
+
+• Có thể sử dụng chức năng Soft Air với chế độ
+Làm mát và Quạt.
+
+• so được hiển thị trên màn hình hiển thị.
+
+• Để thay đổi nhiệt độ mong muốn, hãy nhấn nút
+Nhiệt độ J hoặc K trên điều khiển từ xa.
+
+- Khoảng điều chỉnh nhiệt độ có thể bị giới hạn
+khi sử dụng chức năng Soft Air.
+
+• Nhấn nút ~ hoặc ! để điều chỉnh tốc độ quạt.
+
+• Nhiệt độ luồng khí có thể không tăng hay giảm
+tùy theo nhiệt độ trong nhà và ngoài trời.
+
+26
+VẬN HÀNH
+
+3
+Nhấn nút L hoặc M để cài đặt biểu tượng dưới
+
+• Mỗi khi nhấn nút, chức năng sẽ thay đổi theo
+trình tự sau: Trực tiếp & Gián tiếp & TẮT
+
+đây nhấp nháy ở dưới cùng của màn hình hiển
+thị. Sau đó nhấn nút Function.
+
+a Trực tiếp
+
+b Gián tiếp
+
+4
+Nhấn nút L hoặc M để cài đặt chức năng trực
+
+c Tắt
+
+tiếp và gián tiếp.
+
+5
+Sau đó nhấn nút Chức năng.
+
+Nhận biết sự vắng mặt
+
+Tính năng này tự động thay đổi vận hành tiết kiệm
+năng lượng khi không có người.
+
+• Nếu bạn bật thiết bị khi ra ngoài, thiết bị sẽ tự
+động thực hiện vận hành làm mát tiết kiệm
+năng lượng hoặc tắt nguồn khi hết thời gian
+nhận biết sự vắng mặt, giúp tiết kiệm hóa đơn
+tiền điện.
+
+• Kết nối thiết bị với ứng dụng LG ThinQ để cài
+đặt thời gian nhận biết sự vắng mặt và chế độ
+nhận biết sự vắng mặt.
+
+27
+VẬN HÀNH
+
+1
+Bật thiết bị.
+
+3
+Nhấn nút L hoặc M để cài đặt biểu tượng dưới
+
+đây nhấp nháy ở dưới cùng của màn hình hiển
+thị. Sau đó nhấn nút Function.
+
+2
+Nhấn nút Chức năng.
+
+TIẾNG VIỆT
+
+4
+Nhấn nút L hoặc M để cài đặt chức năng nhận
+
+biết sự vắng mặt.
+
+• Mỗi khi nhấn nút, chức năng sẽ thay đổi theo
+trình tự sau: BẬT & TẮT
+
+5
+Sau đó nhấn nút Chức năng.
+
+LƯU Ý
+
+• Vận hành Luồng khí trực tiếp và gián tiếp khả
+dụng với chế độ Làm mát.
+
+• Độ nhạy của cảm biến radar có thể thay đổi tùy
+theo môi trường và điều kiện trong nhà, bao
+gồm:
+
+28
+VẬN HÀNH
+
+3
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+LƯU Ý
+
+dưới đây nhấp nháy ở dưới cùng của màn hình
+hiển thị. Sau đó nhấn nút Function.
+
+- Nếu có ít chuyển động, chẳng hạn như khi
+xem TV hoặc khi ngủ
+
+- Nếu bạn đang ngồi trên sàn gần thiết bị
+
+- Nếu bạn ở vị trí cách xa thiết bị khoảng 5 m (16
+ft) trở lên
+
+• Các vật thể chuyển động như quạt, máy hút bụi
+robot hoặc động vật đồng hành có thể bị nhầm
+lẫn với con người.
+
+Hẹn giờ ngủ
+
+Bạn có thể cài đặt tắt thiết bị tự động sau khoảng
+thời gian đã đặt. Thiết bị sẽ tự động thay đổi nhiệt
+độ, tốc độ quạt và hướng luồng khí. Có hai cách để
+cài đặt hẹn giờ ngủ.
+
+Có thể cài đặt chức năng này khi bật thiết bị.
+
+Cách 1
+
+1
+Bật thiết bị.
+
+2
+Nhấn nút Chức năng.
+
+4
+Nhấn nút L hoặc M để cài đặt thời gian mong
+
+muốn. Sau đó nhấn nút Chức năng.
+
+• Bắt đầu từ 30 phút, có thể cài đặt Hẹn giờ
+ngủ theo các khoảng theo giờ lên đến 12 giờ.
+
+Cách 2
+
+1
+Bật thiết bị.
+
+29
+VẬN HÀNH
+
+2
+Nhấn nút Ç.
+
+1
+Nhấn nút Chức năng.
+
+TIẾNG VIỆT
+
+3
+Nhấn nút L hoặc M để cài đặt thời gian mong
+
+2
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+muốn. Sau đó nhấn nút Chức năng.
+
+dưới đây nhấp nháy ở dưới cùng của màn hình
+hiển thị. Sau đó nhấn nút Function.
+
+• Bắt đầu từ 30 phút, có thể cài đặt Hẹn giờ
+ngủ theo các khoảng theo giờ lên đến 12 giờ.
+
+LƯU Ý
+
+• Màn hình của dàn lạnh hiển thị thời gian cài đặt
+từ 1 giờ đến 12 giờ chỉ trong 5 giây, sau đó biến
+mất trên một số mẫu máy.
+
+• Ở chế độ Làm mát và Khử ẩm, nhiệt độ tăng
+thêm 1 7 sau 30 phút và tăng thêm 1 7 sau 30
+phút nữa để giúp bạn có giấc ngủ thoải mái hơn.
+Nhiệt độ tăng lên tối đa 2 7 từ nhiệt độ cài đặt
+
+sẵn và lên tới 30 7.
+
+• Mặc dù chỉ báo tốc độ quạt có thể được thay đổi
+trên màn hình hiển thị, nhưng tốc độ quạt vẫn
+được điều chỉnh tự động trên một số mẫu máy.
+
+Bộ hẹn giờ bật và tắt
+
+Bạn có thể cài đặt tự động bật, tắt thiết bị vào thời
+gian mong muốn.
+
+Có thể cài đặt Bộ hẹn giờ bật và Bộ hẹn giờ tắt
+đồng thời.
+
+Cài đặt bộ hẹn giờ bật
+
+Bạn có thể cài đặt hoặc hủy chức năng này bất kể
+thiết bị đang bật hay tắt.
+
+30
+VẬN HÀNH
+
+3
+Nhấn nút L hoặc M để cài đặt thời gian mong
+
+2
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+muốn. Sau đó nhấn nút Chức năng.
+
+dưới đây nhấp nháy ở dưới cùng của màn hình
+hiển thị. Sau đó nhấn nút Function.
+
+• Có thể cài đặt thời gian tối đa là 24 giờ.
+
+Cài đặt bộ hẹn giờ tắt
+
+Bạn có thể cài đặt hoặc hủy chức năng này bất kể
+thiết bị đang bật hay tắt.
+
+1
+Nhấn nút Chức năng.
+
+3
+Nhấn nút L hoặc M để cài đặt thời gian mong
+
+muốn. Sau đó nhấn nút Chức năng.
+
+• Có thể cài đặt thời gian tối đa là 24 giờ.
+
+Hủy cài đặt bộ hẹn giờ
+
+Bạn có thể hủy toàn bộ cài đặt hẹn giờ.
+
+31
+VẬN HÀNH
+
+Chức năng tắt tiếng
+
+1
+Nhấn nút Chức năng.
+
+Bạn có thể bật hoặc tắt âm báo để thông báo khi cài
+đặt hoặc thay đổi chức năng của máy điều hòa
+không khí.
+
+• Nhấn giữ nút Ñ trong khoảng 3 giây để cài đặt
+chức năng Tắt tiếng.
+
+TIẾNG VIỆT
+
+2
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+dưới đây nhấp nháy ở dưới cùng của màn hình
+hiển thị. Sau đó nhấn nút Function.
+
+LƯU Ý
+
+• Mỗi lần cài đặt chức năng này, chức năng sẽ thay
+đổi giữa bật và tắt.
+
+• Khi đặt Tắt tiếng, OF sẽ xuất hiện một lúc trên
+màn hình hiển thị của một số dàn lạnh và âm báo
+sẽ tắt.
+
+• Chức năng này có thể vận hành khác tùy theo
+
+mẫu máy.
+
+Chức năng Tắt Đèn
+
+Bạn có thể cài đặt độ sáng màn hình hiển thị của
+dàn lạnh.
+
+32
+VẬN HÀNH
+
+2
+Nhấn nút Chức năng.
+
+• Nhấn giữ nút Ç trong khoảng 3 giây để cài đặt
+chức năng tắt đèn.
+
+3
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+LƯU Ý
+
+• Nút này sẽ bật hoặc tắt màn hình hiển thị.
+
+dưới đây nhấp nháy ở dưới cùng của màn hình
+hiển thị. Sau đó nhấn nút Function.
+
+• Nếu độ sáng của màn hình dàn lạnh được cài đặt
+thành tắt, hãy nhấn một nút trên bộ điều khiển
+từ xa để tự động bật màn hình trong một lúc.
+
+• Chức năng này có thể vận hành khác tùy theo
+
+mẫu máy.
+
+Kiểm tra nhiệt độ phòng
+
+Bạn có thể kiểm tra nhiệt độ phòng hiện tại.
+
+1
+Bật thiết bị.
+
+33
+VẬN HÀNH
+
+LƯU Ý
+
+• Nhiệt độ phòng được hiển thị trong 5 giây trước
+khi quay lại màn hình trước.
+
+• Chức năng này có thể vận hành khác tùy theo
+mẫu máy.
+
+• Trong một số chức năng, nhiệt độ được thiết lập
+
+hiển thị thay vì nhiệt độ phòng.
+
+TIẾNG VIỆT
+
+34
+CHỨC NĂNG THÔNG MINH
+
+CHỨC NĂNG THÔNG MINH
+
+Ứng dụng LG ThinQ
+
+Cài đặt ứng dụng LG ThinQ và
+kết nối thiết bị LG
+
+Tính năng này chỉ khả dụng trên các mẫu máy có
+Wi-Fi.
+
+Các mẫu máy có mã QR
+
+Ứng dụng LG ThinQ cho phép bạn giao tiếp với
+thiết bị bằng điện thoại thông minh.
+
+Quét mã QR được gắn vào sản phẩm bằng máy ảnh
+hoặc ứng dụng đọc mã QR trên điện thoại thông
+minh của bạn.
+
+Các tính năng của ứng dụng LG
+ThinQ
+
+Những tính năng thông thường
+
+Giao tiếp với thiết bị từ điện thoại thông minh bằng
+cách sử dụng ứng dụng LG ThinQ.
+
+• Smart Diagnosis
+
+- Nếu bạn gặp phải sự cố khi sử dụng thiết bị
+này, tính năng Smart Diagnosis sẽ giúp bạn
+chẩn đoán sự cố.
+
+Những tính năng bổ sung
+
+Các mẫu máy không có mã QR
+
+Có nhiều tính năng hơn nếu thiết bị của bạn được
+kết nối Wi-Fi.
+
+1
+Tìm và cài đặt ứng dụng LG ThinQ trên Google
+
+• Cài đặt
+
+Play Store hoặc Apple App Store trong điện
+thoại thông minh.
+
+- Cho phép bạn cài đặt các tùy chọn khác nhau
+trên thiết bị và trong ứng dụng.
+
+2
+Chạy ứng dụng LG ThinQ và đăng nhập bằng
+
+LƯU Ý
+
+tài khoản hiện tại của bạn hoặc tạo một tài
+khoản LG để đăng nhập.
+
+• Trong những trường hợp sau, bạn phải cập nhật
+thông tin mạng cho mỗi thiết bị trong ứng dụng
+LG ThinQ trong mục Các thẻ thiết bị > Cài đặt >
+Thay đổi mạng.
+
+3
+Chạm nút thêm (~) trên ứng dụng LG ThinQ
+
+- bộ định tuyến không dây đã được thay đổi
+
+để kết nối thiết bị LG của bạn. Làm theo hướng
+dẫn trong ứng dụng để hoàn tất quá trình.
+
+- mật khẩu của bộ định tuyến không dây đã
+được thay đổi
+
+LƯU Ý
+
+- Nhà cung cấp dịch vụ Internet đã được thay
+đổi
+
+• Để xác nhận kết nối Wi-Fi, kiểm tra đảm bảo đèn
+báo Wi-Fi trên bảng điều khiển đã sáng.
+
+• Ứng dụng có thể được thay đổi vì mục đích cải
+tiến thiết bị mà không cần thông báo cho người
+dùng.
+
+• Chức năng có thể khác nhau tùy theo mẫu máy.
+
+• Thiết bị chỉ hỗ trợ mạng Wi-Fi 2,4 GHz. Để kiểm
+tra tần số mạng, hãy liên hệ với nhà cung cấp
+dịch vụ Internet hoặc tham khảo hướng dẫn sử
+dụng bộ định tuyến không dây của bạn.
+
+• LG ThinQ không chịu trách nhiệm cho bất kỳ vấn
+đề kết nối mạng hay bất kỳ lỗi, trục trặc hoặc các
+lỗi nào gây ra do kết nối mạng.
+
+35
+CHỨC NĂNG THÔNG MINH
+
+• Nếu cửa sổ mở, 8O, 6O hoặc 4O sẽ xuất hiện trên
+màn hình hiển thị của dàn lạnh.
+
+• Môi trường mạng không dây xung quanh có thể
+là nguyên nhân khiến dịch vụ mạng không dây
+chạy chậm.
+
+LƯU Ý
+
+• Có thể sử dụng chức năng Phát hiện cửa sổ mở
+với chế độ Làm mát.
+
+• Nếu khoảng cách giữa thiết bị và bộ định tuyến
+không dây quá xa, cường độ tín hiệu sẽ trở nên
+yếu. Có thể mất nhiều thời gian để kết nối hoặc
+cài đặt có thể không thành công.
+
+• Có thể hủy chức năng Phát hiện cửa sổ mở
+trong những trường hợp sau.
+
+TIẾNG VIỆT
+
+- Nếu thiết bị nhận thấy cửa sổ đã đóng
+
+• Nếu thiết bị gặp sự cố khi kết nối với mạng Wi-Fi,
+có thể là do thiết bị ở quá xa bộ định tuyến. Hãy
+mua bộ khuếch đại Wi-Fi (bộ kích sóng Wi-Fi) để
+cải thiện cường độ tín hiệu Wi-Fi.
+
+- Nếu đã hết Thời gian tắt kiểm soát năng
+lượng chủ động
+
+• Kết nối mạng có thể không hoạt động đúng cách
+phụ thuộc vào nhà cung cấp dịch vụ Internet.
+
+- Nếu thay đổi chế độ vận hành
+
+• Wi-Fi có thể không thể kết nối hoặc có thể bị gián
+đoạn do môi trường mạng gia đình.
+
+• Chức năng Phát hiện cửa sổ mở không hoạt
+động trong những trường hợp sau.
+
+- Nếu chạy vận hành Làm mát quá sớm sau khi
+bật thiết bị
+
+• Không thể kết nối thiết bị do các sự cố truyền tín
+hiệu không dây. Hãy rút phích cắm của thiết bị và
+chờ khoảng một phút trước khi thử lại.
+
+- Nếu chênh lệch nhiệt độ giữa trong nhà và
+ngoài trời không lớn
+
+- Nếu thông gió qua cửa sổ không đủ
+
+• Tên mạng không dây (SSID) phải là sự kết hợp
+giữa chữ cái tiếng Anh (A-Z) và các số (0-9).
+Không sử dụng ký tự đặc biệt.
+
+• Khi được kết nối với dàn nóng Multi, chức năng
+
+này có thể không được hỗ trợ.
+
+• Giao diện người sử dụng trên điện thoại thông
+minh (UI) có thể khác nhau tùy thuộc vào hệ điều
+hành của điện thoại (OS) và nhà sản xuất.
+
+Làm sạch toàn diện (trên một số
+mẫu máy/LG ThinQ)
+
+• Nếu giao thức bảo mật của bộ định tuyến được
+đặt thành WEP, bạn có thể không thiết lập được
+mạng. Vui lòng thay đổi giao thức thành các giao
+thức bảo mật khác (nên dùng WPA2) và kết nối
+lại thiết bị.
+
+Phát hiện cửa sổ mở (trên một
+số mẫu máy/LG ThinQ)
+
+Bằng cách đóng băng và rã đông nhiều lần bộ trao
+đổi nhiệt của máy điều hòa không khí, các chất gây
+ô nhiễm như bụi sẽ được loại bỏ và thiết bị được giữ
+sạch sẽ.
+
+Sau khi làm sạch, chức năng này sẽ làm giảm độ ẩm
+bên trong dàn lạnh.
+
+Ở một số dàn lạnh, AL sẽ hiển thị trên màn hình của
+dàn lạnh.
+
+LƯU Ý
+
+Khi cửa sổ mở hoặc không khí bên ngoài lọt vào, có
+thể phát hiện thấy thay đổi nhiệt độ và chức năng
+Kiểm soát năng lượng chủ động sẽ bật.
+
+• Chức năng Làm sạch toàn diện sẽ kết thúc sau
+khi thiết bị đã khô.
+
+Để sử dụng chức năng Phát hiện cửa sổ mở hoặc
+cài đặt Thời gian tắt kiểm soát năng lượng chủ
+động, hãy kết nối thiết bị với ứng dụng LG ThinQ.
+
+36
+CHỨC NĂNG THÔNG MINH
+
+EO xuất hiện trên màn hình dàn lạnh ở một số mẫu
+máy.
+
+LƯU Ý
+
+LƯU Ý
+
+• Nếu độ ẩm trong phòng cao khi chức năng Làm
+sạch toàn diện đang vận hành, khu vực gần dàn
+lạnh có thể bị sương mù.
+
+• Khi sử dụng chức năng AI kW Manager, sản
+lượng làm mát có thể bị giảm, tùy vào mức công
+suất mục tiêu còn lại.
+
+• Chức năng Làm sạch toàn diện có thể được sử
+dụng trong nhà ở mức 21 7 đến 32 7 và ngoài
+
+• Khi vượt quá mức tiêu thụ điện mục tiêu, chức
+năng AI kW Manager sẽ bị tắt.
+
+• Khi được kết nối với dàn nóng Multi, chức năng
+này có thể không được hỗ trợ.
+
+trời ở mức 21 7 đến 37 7. Chức năng Làm sạch
+toàn diện là chức năng quản lý vệ sinh, không
+phải chức năng làm mát, vì vậy các điều kiện sử
+dụng có thể khác với nhiệt độ làm mát được đảm
+bảo của thiết bị.
+
+• Mức sử dụng năng lượng được hiển thị qua ứng
+dụng LG ThinQ có thể khác với mức sử dụng
+năng lượng thực tế hiển thị trên hóa đơn tiện ích
+của bạn.
+
+• Nếu vận hành chức năng Làm sạch toàn diện
+khi nhiệt độ nằm ngoài giới hạn cho phép, ứng
+dụng LG ThinQ sẽ báo động và chức năng này sẽ
+không hoạt động.
+
+• Thông tin về mức tiêu thụ điện có thể khác nhau
+tùy theo thiết bị.
+
+• Chức năng Làm sạch toàn diện khả dụng ngay
+cả khi thiết bị đang hoạt động.
+
+• Mức tiêu thụ điện có thể khác với kết quả đo
+được bằng cách sử dụng các thiết bị đo khác.
+
+• Tùy theo môi trường lắp đặt thiết bị, mức tiêu
+thụ điện đo được có thể khác nhau.
+
+• Nếu bạn nhấn nút t trên thiết bị hoặc trên điều
+khiển từ xa trong quá trình Làm sạch toàn diện,
+chức năng Làm sạch toàn diện sẽ bị hủy kích
+hoạt.
+
+• Mức tiêu thụ điện đo được có thể khác nhau tùy
+theo môi trường sử dụng hoặc phương pháp sử
+dụng của thiết bị gia dụng.
+
+• Trong quá trình Làm sạch toàn diện, có thể
+nghe thấy tiếng “tíc tắc” hoặc “tách tách” khi thiết
+bị nở ra hoặc co lại.
+
+• Khi cài đặt thời gian sử dụng, thiết bị sẽ không tự
+động bật hoặc tắt.
+
+• Sau khi sử dụng chức năng Làm sạch toàn diện,
+thiết bị sẽ tự động tắt. Khi có điện trở lại, thiết bị
+sẽ hoạt động ở chế độ Làm mát.
+
+• Ngay cả trong quá trình vận hành chức năng AI
+kW Manager, chức năng được cài đặt bằng điều
+khiển từ xa sẽ được hiển thị trước tiên.
+
+• Nếu đặt chức năng Hẹn giờ, chức năng Làm
+sạch toàn diện có thể không vận hành bình
+thường.
+
+• Mức sử dụng thực tế có thể khác.
+
+• Khí lạnh phả ra từ cửa thông khí khi kích hoạt
+
+chức năng Làm sạch toàn diện.
+
+Sleep+ (trên một số mẫu máy/
+LG ThinQ)
+
+AI kW Manager (trên một số
+mẫu máy/LG ThinQ)
+
+Mức tiêu thụ điện của máy điều hòa không khí
+được điều chỉnh tự động theo lịch trình và mức tiêu
+thụ điện mục tiêu do người dùng đặt.
+
+Bật chế độ này trước khi đi ngủ. Thiết bị sẽ tự động
+học và điều chỉnh nhiệt độ và tốc độ quạt để tạo ra
+
+37
+CHỨC NĂNG THÔNG MINH
+
+một môi trường ngủ thậm chí được cá nhân hóa ở
+mức cao hơn.
+
+Thông số kỹ thuật mô-đun
+radar
+
+LƯU Ý
+
+Tính năng này chỉ khả dụng trên các mẫu máy có
+cảm biến radar.
+
+• Có thể cài đặt chức năng này khi bật thiết bị.
+
+• Có thể sử dụng chức năng này ở chế độ Làm
+mát.
+
+Tên mẫu
+máy
+Dải tần số
+Công suất đầu
+ra (Max.)
+
+• Khi được kết nối với dàn nóng Multi, chức năng
+
+TIẾNG VIỆT
+
+này có thể không được hỗ trợ.
+
+RSMV2
+61,0 GHz ~
+61,5 GHz
+6,27 dBm
+
+RSMV3
+61,0 GHz ~
+61,5 GHz
+4,69 dBm
+
+Thông tin của thông báo phần
+mềm nguồn mở
+
+Chẩn đoán bằng LG ThinQ
+
+Hãy sử dụng tính năng này để giúp bạn chẩn đoán
+và khắc phục các sự cố với thiết bị của bạn.
+
+Để lấy mã nguồn theo GPL, LGPL, MPL và các giấy
+phép nguồn mở khác bắt buộc tiết lộ mã nguồn có
+trong sản phẩm này và để truy cập tất cả các điều
+khoản cấp phép và thông báo bản quyền, vui lòng
+truy cập https://opensource.lge.com.
+
+LƯU Ý
+
+LG Electronics cũng sẽ cung cấp mã nguồn mở cho
+bạn với một khoản phí để chi trả cho chi phí phát
+hành khi nhận được yêu cầu qua email đến địa chỉ
+opensource@lge.com.
+
+• Đối với các nguyên nhân không phải do sự bất
+cẩn của LGE, bảo trì sẽ không được áp dụng đối
+với các nguyên nhân do yếu tố bên ngoài bao
+gồm nhưng không giới hạn mạng Wi-Fi không
+khả dụng, mất kết nối Wi-Fi, chính sách kho ứng
+dụng cục bộ hoặc ứng dụng không khả dụng.
+
+Ưu đãi này có hiệu lực cho bất kỳ ai nhận được
+thông tin này trong khoảng thời gian ba năm tính
+từ ngày chúng tôi phân phối sản phẩm này.
+
+• Tính năng này có thể được thay đổi mà không
+thông báo trước và có thể có phiên bản khác tùy
+vào nơi bạn sử dụng.
+
+Thông số kỹ thuật của thiết bị
+vô tuyến
+
+Sử dụng LG ThinQ để chẩn đoán
+các sự cố
+
+Loại
+Dải tần số vận
+hành
+
+Công
+suất đầu
+ra (Max.)
+
+Nếu bạn gặp phải một sự cố với thiết bị có hỗ trợ
+Wi-Fi, thiết bị có thể gửi dữ liệu xử lý sự cố tới điện
+thoại thông minh thông qua ứng dụng LG ThinQ.
+
+Mạng LAN
+không dây
+2400 MHz ~
+2483,5 MHz
+< 100 mW
+
+Bluetooth*1
+
+• Khởi chạy ứng dụng LG ThinQ và chọn tính năng
+Smart Diagnosis trong menu. Làm theo hướng
+dẫn có trong ứng dụng LG ThinQ.
+
+*1 Tính năng này chỉ khả dụng trên một số mẫu
+máy.
+
+38
+CHỨC NĂNG THÔNG MINH
+
+• Giữ điện thoại thông minh ở nguyên vị trí
+cho đến khi hoàn tất truyền dữ liệu.
+
+Sử dụng tính năng chẩn đoán
+bằng âm thanh để chẩn đoán
+các sự cố
+
+Thực hiện theo các hướng dẫn dưới đây để sử dụng
+phương pháp chẩn đoán âm thanh.
+
+• Khởi chạy ứng dụng LG ThinQ và chọn tính năng
+Smart Diagnosis trong menu. Làm theo hướng
+dẫn để chẩn đoán bằng âm thanh được cung cấp
+trong ứng dụng LG ThinQ.
+
+1
+Cắm phích cắm điện chắc chắn vào ổ cắm.
+
+2
+Đặt loa điện thoại thông minh của bạn gần
+
+thiết bị.
+
+3
+Nhấn nút Chức năng.
+
+5
+Sau khi truyền dữ liệu hoàn tất, kết quả chẩn
+
+đoán sẽ được hiển thị trong ứng dụng.
+
+4
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+LƯU Ý
+
+dưới đây nhấp nháy ở dưới cùng của màn hình
+hiển thị. Sau đó nhấn nút Function.
+
+• Để đạt được kết quả tốt nhất, không di chuyển
+điện thoại trong khi có âm thanh phát ra.
+
+• Đảm bảo hạn chế tối đa tiếng ồn ở môi trường
+xung quanh, nếu không điện thoại không thể
+nhận đúng tiếng bíp còi báo từ dàn lạnh.
+
+39
+BẢO TRÌ
+
+BẢO TRÌ
+
+Vệ sinh
+
+CẢNH BÁO
+• Trước khi vệ sinh hoặc tiến hành bảo trì, hãy ngắt kết nối nguồn cấp điện và chờ đến khi quạt ngừng
+
+quay.
+
+TIẾNG VIỆT
+
+Khoảng thời gian làm sạch
+
+Vệ sinh thiết bị
+
+Nếu không sử dụng thiết bị trong thời gian dài, hãy làm khô thiết bị để duy trì thiết bị ở tình trạng tốt nhất.
+Vệ sinh thiết bị thường xuyên để duy trì hiệu suất tối ưu và ngăn ngừa hỏng hóc có thể xảy ra.
+
+• Làm khô thiết bị ở chế độ Quạt từ 3 đến 4 giờ rồi ngắt nguồn điện. Có thể có hư hỏng bên trong nếu có
+độ ẩm trong các bộ phận của thiết bị.
+
+• Trước khi sử dụng lại thiết bị, hãy làm khô các bộ phận bên trong của thiết bị ở chế độ Quạt trong 3 đến
+4 giờ. Điều này sẽ giúp làm giảm mùi do độ ẩm tạo ra.
+
+a Tấm lọc khí
+
+LƯU Ý
+
+• Tính năng này có thể thay đổi tùy theo loại mẫu máy.
+
+Loại
+Mô tả
+Tần suất
+
+Dàn lạnh
+Vệ sinh bề mặt dàn lạnh bằng vải khô, mềm.
+Thường xuyên
+
+Yêu cầu chuyên viên vệ sinh khay xả nước ngưng tụ.
+Mỗi năm một lần
+
+Yêu cầu chuyên viên vệ sinh đường ống xả nước ngưng tụ.
+4 tháng một lần
+
+Thay pin bộ điều khiển từ xa không dây.
+Mỗi năm một lần
+
+40
+BẢO TRÌ
+
+Loại
+Mô tả
+Tần suất
+
+Mỗi năm một lần
+
+Dàn nóng
+Yêu cầu chuyên viên vệ sinh các cuộn dây của bộ trao đổi
+nhiệt và lỗ thông hơi pa-nen. (Tham khảo ý kiến kỹ thuật
+viên.)
+
+Yêu cầu chuyên viên vệ sinh quạt.
+Mỗi năm một lần
+
+Yêu cầu chuyên viên vệ sinh khay xả nước ngưng tụ.
+Mỗi năm một lần
+
+Yêu cầu chuyên viên xác nhận là tất cả các cụm quạt đã được
+gắn chắc chắn.
+Mỗi năm một lần
+
+Vệ sinh các bộ phận điện bằng khí nén.
+Mỗi năm một lần
+
+41
+BẢO TRÌ
+
+Vệ sinh tấm chuyển hướng gió
+
+1
+Tắt thiết bị.
+
+2
+Nhấn giữ nút Ã trong khoảng 5 giây để mở tấm chuyển hướng gió giúp vệ sinh dễ dàng bộ phận này.
+
+TIẾNG VIỆT
+
+3
+Vệ sinh tấm chuyển hướng gió bằng vải khô, mềm.
+
+4
+Nhấn giữ nút Ã trong khoảng 5 giây để đóng tấm chuyển hướng gió.
+
+LƯU Ý
+
+• Khi bạn nhấn nút t trong khi đang bật chức năng này thì sẽ không bật được thiết bị.
+
+- Nếu nhấn nút này t nhiều lần, bạn sẽ bật được thiết bị.
+
+Vệ sinh Bộ lọc và các Bộ phận khác
+
+Loại
+Mô tả
+Tần suất
+
+Tấm lọc khí
+Vệ sinh bằng máy hút bụi hoặc bằng tay.
+2 tuần
+
+Bộ lọc Chống dị
+ứng
+Vệ sinh bằng máy hút bụi hoặc bàn chải.
+6 tháng một lần
+
+Bộ tạo ion (trên
+một số mẫu máy)
+Dùng tăm bông khô để lau bụi.
+6 tháng một lần
+
+LƯU Ý
+
+• Tuyệt đối không sử dụng nước cao hơn 40 7 khi bạn vệ sinh các tấm lọc. Làm như vậy có thể gây biến
+dạng hoặc mất màu.
+
+42
+BẢO TRÌ
+
+LƯU Ý
+
+• Tuyệt đối không sử dụng các chất dễ bay hơi khi bạn vệ sinh các tấm lọc. Các chất này có thể làm hỏng
+bề mặt của thiết bị.
+
+• Không dùng nước rửa bộ lọc Chống dị ứng vì có thể làm hỏng bộ lọc (trên một số mẫu máy).
+
+43
+BẢO TRÌ
+
+2
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+Sử dụng chức năng Làm khô tự
+động+
+
+dưới đây nhấp nháy ở dưới cùng của màn hình
+hiển thị. Sau đó nhấn nút Function.
+
+Ở các chế độ Làm mát và Khử ẩm, độ ẩm được tạo
+ra bên trong dàn lạnh. Bạn có thể làm giảm độ ẩm
+đó.
+
+1
+Nhấn nút Chức năng.
+
+TIẾNG VIỆT
+
+3
+Nhấn nút L hoặc M để cài đặt trạng thái mong
+
+muốn của chức năng Làm khô tự động+.
+
+• Mỗi khi nhấn nút, chức năng sẽ thay đổi theo
+trình tự sau: Sto & BẬT & TẮT
+
+4
+Sau đó nhấn nút Chức năng.
+
+LƯU Ý
+
+• Chức năng Tự động làm sạch+ được thiết lập
+sẵn khi bạn mua thiết bị. Nếu không muốn sử
+dụng, bạn có thể tắt đi.
+
+44
+BẢO TRÌ
+
+1
+Nhấn nút Chức năng.
+
+LƯU Ý
+
+• Thời gian của chức năng Làm khô tự động+
+được cài đặt tự động theo điều kiện sử dụng
+thiết bị và trạng thái tiến trình được hiển thị dưới
+dạng số phút còn lại trên màn hình hiển thị của
+dàn lạnh.
+
+- Thời gian của chức năng Làm khô tự động+ là
+tối đa 20 phút.
+
+• Điều kiện làm khô bên trong thiết bị có thể khác
+nhau tùy thuộc vào nhiệt độ hoặc độ ẩm của
+không khí trong nhà.
+
+- Để làm khô bên trong thiết bị một cách hiệu
+quả nhất, hãy vận hành thiết bị ở chế độ Quạt
+trong hơn 1 giờ.
+
+• Khi chức năng Làm khô tự động+ được thiết lập,
+nó sẽ tiếp tục được kích hoạt cho đến khi tắt.
+
+2
+Nhấn nút L hoặc M cho đến khi biểu tượng
+
+dưới đây nhấp nháy trên màn hình hiển thị. Sau
+đó nhấn nút Chức năng.
+
+• Nếu không sử dụng thiết bị trong một thời gian
+dài, hãy chạy chế độ Quạt trong hơn 1 giờ để làm
+khô hoàn toàn bên trong thiết bị trước khi cất
+giữ.
+
+• Bạn có thể cài đặt chức năng Làm khô tự động+
+
+ngay cả khi thiết bị đã dừng vận hành.
+
+Vệ sinh bộ trao đổi nhiệt (trên
+một số mẫu máy)
+
+Bằng cách đóng băng và rã đông nhiều lần bộ trao
+đổi nhiệt của máy điều hòa không khí, các chất gây
+ô nhiễm như bụi sẽ được loại bỏ và thiết bị được giữ
+sạch sẽ.
+FC xuất hiện trên màn hình và tiến trình vệ sinh từ
+O đến GG được hiển thị.
+
+45
+BẢO TRÌ
+
+LƯU Ý
+
+• Chức năng Vệ sinh bộ trao đổi nhiệt sẽ kết thúc
+sau khi thiết bị đã khô.
+
+• Nếu độ ẩm trong phòng cao khi chức năng Vệ
+sinh bộ trao đổi nhiệt đang vận hành, khu vực
+gần dàn lạnh có thể bị sương mù.
+
+TIẾNG VIỆT
+
+• Chức năng Vệ sinh bộ trao đổi nhiệt có thể
+được sử dụng trong nhà ở mức 21 7 đến 32 7
+
+và ngoài trời ở mức 21 7 đến 37 7. Chức năng
+Vệ sinh bộ trao đổi nhiệt là chức năng quản lý
+vệ sinh, không phải chức năng làm mát, vì vậy
+các điều kiện sử dụng có thể khác với nhiệt độ
+làm mát được đảm bảo của thiết bị.
+
+• Nếu vận hành chức năng Vệ sinh bộ trao đổi
+nhiệt ở nhiệt độ ngoài phạm vi cho phép, sẽ có
+tiếng bíp 5 lần và chức năng này không hoạt
+động.
+
+- Mã trong hình dưới đây sẽ được hiển thị trên
+một số dàn lạnh.
+
+• Chức năng Vệ sinh bộ trao đổi nhiệt khả dụng
+ngay cả khi thiết bị đang hoạt động.
+
+• Nếu bạn nhấn nút t trên thiết bị hoặc trên điều
+khiển từ xa trong quá trình Vệ sinh bộ trao đổi
+nhiệt, chức năng Vệ sinh bộ trao đổi nhiệt sẽ bị
+hủy kích hoạt.
+
+• Trong quá trình Vệ sinh bộ trao đổi nhiệt, có
+thể nghe thấy tiếng “tíc tắc” hoặc “tách tách” khi
+thiết bị nở ra hoặc co lại.
+
+• Sau khi sử dụng chức năng Vệ sinh bộ trao đổi
+nhiệt, thiết bị sẽ tự động tắt. Khi có điện trở lại,
+thiết bị sẽ hoạt động ở chế độ Làm mát.
+
+• Nếu đặt chức năng Hẹn giờ, chức năng Vệ sinh
+bộ trao đổi nhiệt có thể không hoạt động bình
+thường.
+
+• Khí lạnh phả ra từ cửa thông khí khi kích hoạt
+chức năng Vệ sinh bộ trao đổi nhiệt.
+
+• Khi được kết nối với dàn nóng Multi, chức năng
+
+này có thể không được hỗ trợ.
+
+46
+BẢO TRÌ
+
+Tháo và Thay Bộ lọc Không khí
+
+4
+Lắp các móc trên tấm lọc khí vào các khe ở mặt
+
+sau của tấm pa-nen phía trước.
+
+LƯU Ý
+
+• Không được gập cong tấm lọc khí vì tấm lọc có
+thể bị vỡ.
+
+• Lắp ráp bộ lọc khí đúng cách để ngăn bụi và các
+
+chất khác xâm nhập vào thiết bị.
+
+1
+Tắt nguồn đến thiết bị.
+
+LƯU Ý
+
+• Số lượng và vị trí các móc có thể khác nhau tùy
+
+2
+Xác định vị trí các núm của bộ lọc không khí ở
+
+theo mẫu máy của thiết bị.
+
+phía trên cùng của thiết bị.
+
+5
+Nhấn các móc xuống cho đến khi khớp đúng vị
+
+trí.
+
+a Núm
+
+b Tấm lọc khí
+
+6
+Để đảm bảo tấm lọc được lắp đúng cách, hãy
+
+ấn xuống dọc theo toàn bộ chiều dài phía trước
+của tấm lọc.
+
+3
+Kéo nhẹ các núm lên trên, sau đó nhấc toàn bộ
+
+tấm lọc lên để tháo tấm lọc.
+
+Vệ sinh tấm lọc khí
+
+Vệ sinh bộ lọc khí 2 tuần một lần hoặc nhiều hơn
+nếu cần thiết.
+
+1
+Tháo rời bộ lọc không khí ra khỏi thiết bị.
+
+47
+BẢO TRÌ
+
+2
+Vệ sinh tấm lọc khí bằng máy hút bụi hoặc rửa
+
+3
+Tháo rời màng lọc chống dị ứng ra khỏi dàn
+
+bằng nước ấm và chất tẩy rửa nhẹ.
+
+lạnh.
+
+TIẾNG VIỆT
+
+4
+Vệ sinh các tấm lọc bằng máy hút bụi.
+
+3
+Để khô tấm lọc dưới bóng râm.
+
+• Không được rửa màng lọc chống dị ứng
+bằng nước.
+
+5
+Lắp màng lọc chống dị ứng.
+
+LƯU Ý
+
+• Không để máy điều hòa không khí hoạt động khi
+
+chưa lắp bộ lọc.
+
+6
+Lắp ráp các tấm lọc khí.
+
+7
+Kiểm tra mặt bên của nắp đậy phía trước để
+
+Vệ sinh Màng lọc chống dị ứng
+(trên một số mẫu máy)
+
+đảm bảo tấm lọc khí được lắp đúng cách.
+
+LƯU Ý
+
+• Số lượng và vị trí các bộ phận có thể khác nhau
+tùy theo mẫu máy của thiết bị.
+
+Tháo và thay tấm dẫn hướng
+gió
+
+• Các tính năng có thể thay đổi tùy theo loại mẫu
+
+máy.
+
+LƯU Ý
+
+• Số lượng và vị trí các móc có thể khác nhau tùy
+
+theo mẫu máy của thiết bị.
+
+1
+Tắt nguồn đến thiết bị.
+
+1
+Tắt nguồn đến thiết bị.
+
+2
+Tháo rời các tấm lọc khí ra khỏi dàn lạnh.
+
+48
+BẢO TRÌ
+
+2
+Kéo tấm dẫn hướng gió ở phía trước dàn lạnh
+
+2
+Vệ sinh tấm dẫn hướng gió bằng vải mềm hoặc
+
+ra.
+
+khô.
+
+3
+Gắn các móc trên tấm dẫn hướng gió vào các
+
+khe.
+
+Vệ sinh bộ tạo ion (trên một số
+mẫu máy)
+
+1
+Tắt thiết bị.
+
+2
+Nhấn giữ nút Ã trong khoảng 5 giây để mở
+
+4
+Nhấn các móc cho đến khi khớp đúng vị trí.
+
+tấm chuyển hướng gió.
+
+3
+Vệ sinh bộ tạo ion bằng tăm bông khô.
+
+Vệ sinh tấm dẫn hướng gió
+
+1
+Tháo tấm dẫn hướng gió khỏi thiết bị.
+
+a Tấm chuyển hướng gió
+
+b Bộ tạo ion
+
+4
+Nhấn giữ nút Ã trong khoảng 5 giây để đóng
+
+tấm chuyển hướng gió.
+
+49
+BẢO TRÌ
+
+LƯU Ý
+
+• Khi bạn nhấn nút t trong khi đang bật chức
+năng này thì sẽ không bật được thiết bị.
+
+- Nếu nhấn nút này t nhiều lần, bạn sẽ bật
+
+được thiết bị.
+
+TIẾNG VIỆT
+
+50
+XỬ LÝ SỰ CỐ
+
+XỬ LÝ SỰ CỐ
+
+Trước khi gọi trung tâm dịch vụ
+
+Vui lòng kiểm tra những trường hợp sau đây trước khi bạn liên hệ với trung tâm dịch vụ. Nếu sự cố vẫn tồn
+tại, hãy liên hệ với trung tâm dịch vụ tại địa phương của bạn.
+
+LƯU Ý
+
+• Tùy theo mẫu máy, một số tính năng có thể không được hỗ trợ.
+
+Chức năng tự chẩn đoán
+
+Thiết bị có chức năng tự chẩn đoán tích hợp. Nếu xảy ra lỗi, đèn của dàn lạnh sẽ nhấp nháy trong khoảng
+2 giây. Nếu xảy ra hiện tượng này, hãy liên hệ với đại lý hoặc trung tâm dịch vụ tại địa phương của bạn.
+
+Vận hành
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Thiết bị không hoạt
+động bình thường.
+Có mùi cháy khét và âm thanh lạ phát ra từ thiết bị.
+
+• Tắt thiết bị, tắt hoặc ngắt nguồn điện và liên hệ với trung tâm dịch vụ.
+
+Nước rò rỉ từ dàn lạnh, ngay cả khi mức độ ẩm thấp.
+
+• Tắt thiết bị, tắt hoặc ngắt nguồn điện và liên hệ với trung tâm dịch vụ.
+
+Dây nguồn bị hỏng hoặc đang tỏa nhiệt quá mức.
+
+• Tắt thiết bị, tắt hoặc ngắt nguồn điện và liên hệ với trung tâm dịch vụ.
+
+Công tắc điện, cầu dao (an toàn, nối đất) hoặc cầu chì không hoạt động
+đúng chức năng.
+
+• Tắt thiết bị, tắt hoặc ngắt nguồn điện và liên hệ với trung tâm dịch vụ.
+
+Thiết bị tạo một mã lỗi từ chức năng tự chẩn đoán.
+
+• Tắt thiết bị, tắt hoặc ngắt nguồn điện và liên hệ với trung tâm dịch vụ.
+
+Không thể điều chỉnh
+tốc độ quạt.
+Chế độ Vận hành nhanh được chọn.
+
+• Một số chế độ vận hành không thể điều chỉnh tốc độ quạt. Chọn chế độ vận
+hành có thể điều chỉnh tốc độ quạt.
+
+Không thể điều chỉnh
+nhiệt độ.
+Chế độ Quạt hoặc chế độ Vận hành nhanh được chọn.
+
+• Một số chế độ vận hành không thể điều chỉnh nhiệt độ. Chọn chế độ vận
+hành điều chỉnh được nhiệt độ.
+
+Thiết bị dừng lại khi
+đang vận hành.
+Thiết bị bị tắt đột ngột.
+
+• Chức năng Bộ hẹn giờ tắt có thể đã hết thời gian, làm tắt thiết bị. Hãy kiểm
+tra cài đặt bộ hẹn giờ.
+
+51
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Thiết bị dừng lại khi
+đang vận hành.
+Đã xảy ra sự cố mất điện trong quá trình vận hành.
+
+• Hãy chờ có điện lại. Nếu bạn đã bật chức năng Tự động khởi động lại,
+thiết bị của bạn sẽ khôi phục chu trình vận hành trước đó vài phút sau khi
+có điện lại.
+
+Thiết bị không hoạt
+động.
+Thiết bị đã được rút phích cắm.
+
+TIẾNG VIỆT
+
+• Kiểm tra xem đã cắm dây điện vào ổ điện chưa hoặc có bật thiết bị cắt
+mạch hay không.
+
+Cầu chì bị nổ hay bộ cấp nguồn bị khóa.
+
+• Thay cầu chì hoặc kiểm tra xem có bị ngắt cầu dao không.
+
+Đã xảy ra sự cố mất điện.
+
+• Hãy tắt thiết bị khi xảy ra sự cố mất điện.
+
+• Khi có điện lại, hãy chờ 3 phút và bật lại thiết bị.
+
+Điện áp quá cao hoặc quá thấp.
+
+• Kiểm tra xem có bị ngắt cầu dao không.
+
+Thiết bị được tắt tự động theo thời gian cài đặt sẵn.
+
+• Bật thiết bị.
+
+Lắp pin vào điều khiển từ xa không dây không đúng cách.
+
+• Đảm bảo lắp pin đúng cách vào bộ điều khiển từ xa không dây.
+
+• Nếu lắp đúng pin nhưng thiết bị vẫn không hoạt động, hãy thay pin và thử
+lại.
+
+Thiết bị không thổi ra
+khí mát.
+Không khí không lưu thông đúng cách.
+
+• Đảm bảo không có rèm cửa, tấm chắn hay đồ đạc chặn phía trước thiết bị.
+
+Tấm lọc khí bị bẩn.
+
+• Vệ sinh tấm lọc khí 2 tuần một lần.
+
+• Xem phần “Vệ sinh Tấm lọc Khí” để biết thêm thông tin.
+
+Nhiệt độ phòng quá cao.
+
+• Vào mùa hè, có thể mất một lúc để có thể làm mát hoàn toàn không khí
+trong nhà. Trong trường hợp này, hãy chọn chế độ Vận hành nhanh để
+làm mát nhanh không khí trong nhà.
+
+Không khí lạnh bị thoát ra khỏi phòng.
+
+• Đảm bảo rằng không khí lạnh không thoát ra ngoài qua các lỗ thông gió
+trong phòng.
+
+Nhiệt độ mong muốn cao hơn so với nhiệt độ hiện tại.
+
+• Cài đặt nhiệt độ mong muốn đến mức thấp hơn nhiệt độ hiện tại.
+
+Có một nguồn nhiệt ở gần.
+
+• Tránh sử dụng thiết bị tạo nhiệt như lò nướng điện hay mỏ hàn xì khi đang
+vận hành máy điều hòa không khí.
+
+52
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Thiết bị không thổi ra
+khí mát.
+Chế độ Quạt được chọn.
+
+• Ở chế độ Quạt, khí thổi ra từ thiết bị mà không làm mát hoặc sưởi ấm
+không khí trong nhà.
+
+• Chuyển chế độ vận hành sang làm mát.
+
+Nhiệt độ bên ngoài quá cao.
+
+• Hiệu quả làm mát có thể không đủ.
+
+Hiệu suất
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Chức năng Làm khô tự động+ đang được vận hành.
+
+Dàn lạnh vẫn vận hành
+ngay cả khi đã tắt thiết
+bị.
+
+• Bật chức năng Làm khô tự động+ để tiếp tục vì chức năng này sẽ làm giảm
+độ ẩm còn lại bên trong dàn lạnh. Nếu không muốn sử dụng chức năng
+này, bạn có thể tắt dàn lạnh.
+
+Cửa thông khí trên dàn
+lạnh thải ra sương.
+Không khí lạnh từ thiết bị tạo ra sương.
+
+• Khi nhiệt độ phòng giảm xuống, hiện tượng này sẽ biến mất.
+
+Nước rò rỉ từ dàn nóng.
+Trong các hoạt động sưởi, nước ngưng tụ rơi xuống từ bộ trao đổi nhiệt.
+
+• Việc này đòi hỏi phải lắp đặt ống xả bên dưới khay đế đỡ. Hãy liên hệ với
+bên lắp đặt.
+
+Có tiếng ồn hoặc rung.
+Có thể nghe thấy tiếng lách cách khi thiết bị khởi động hoặc dừng lại do
+chuyển động của van đảo.
+
+Tiếng kêu cót két: Các bộ phận nhựa của dàn lạnh kêu cót két khi co lại
+hoặc giãn ra do nhiệt độ thay đổi đột ngột.
+
+Tiếng nước chảy hoặc tiếng gió thổi: Đây là dòng môi chất làm lạnh chảy
+qua thiết bị.
+
+• Tiếng ồn là bình thường trong hoặc sau khi hoạt động. Đó không phải là
+một dấu hiệu của sự cố.
+
+Dàn lạnh phát ra mùi.
+Các mùi (chẳng hạn như khói thuốc lá) có thể được hấp thụ vào dàn lạnh
+và thải ra theo dòng khí.
+
+• Nếu không hết mùi, bạn cần rửa tấm lọc. Nếu cách này không hiệu quả,
+hãy liên hệ với trung tâm dịch vụ để vệ sinh bộ trao đổi nhiệt của bạn.
+
+Wi-Fi
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Mật khẩu Wi-Fi mà bạn đang cố gắng kết nối không chính xác.
+
+• Tìm mạng Wi-Fi được kết nối với điện thoại thông minh của bạn và xóa nó,
+sau đó đăng ký thiết bị của bạn trên LG ThinQ.
+
+Thiết bị gia đình và
+điện thoại thông minh
+của bạn không được
+kết nối với mạng Wi-Fi.
+
+53
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Dữ liệu di động cho điện thoại thông minh của bạn đang bật.
+
+• Tắt Dữ liệu di động của điện thoại thông minh của bạn và đăng ký thiết bị
+bằng mạng Wi-Fi.
+
+Thiết bị gia đình và
+điện thoại thông minh
+của bạn không được
+kết nối với mạng Wi-Fi.
+
+Tên mạng không dây (SSID) được cài đặt không chính xác.
+
+• Tên mạng không dây (SSID) phải là sự kết hợp giữa chữ cái tiếng Anh (A-Z)
+và các số (0-9). Không sử dụng ký tự đặc biệt.
+
+TIẾNG VIỆT
+
+Tần số của bộ định tuyến không phải là 2,4 GHz.
+
+• Chỉ hỗ trợ tần số của bộ định tuyến 2,4 GHz. Đặt bộ định tuyến không dây
+thành 2,4 GHz và kết nối thiết bị với bộ định tuyến không dây. Để kiểm tra
+tần số của bộ định tuyến, hãy kiểm tra với nhà cung cấp dịch vụ Internet
+hoặc nhà sản xuất bộ định tuyến.
+
+Khoảng cách giữa thiết bị và bộ định tuyến quá xa.
+
+• Nếu khoảng cách giữa thiết bị và bộ định tuyến quá xa, tín hiệu có thể rất
+yếu và kết nối có thể không được cấu hình chính xác. Hãy di chuyển vị trí
+của bộ định tuyến đến gần thiết bị hơn.
+
+Ghi nhớ
+
+Ghi nhớ

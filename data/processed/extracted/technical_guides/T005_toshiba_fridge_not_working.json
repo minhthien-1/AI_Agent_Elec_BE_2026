@@ -1,0 +1,771 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T005_toshiba_fridge_not_working.pdf",
+  "filename": "T005_toshiba_fridge_not_working.pdf",
+  "file_type": "pdf",
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:12 11/10/26\nTủ không hoạt động?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            385.1545715332031,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Trang Chủ\nKhám",
+          "bbox": [
+            524.078125,
+            41.38399887084961,
+            587.610595703125,
+            50.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "Tủ không hoạt động?",
+          "bbox": [
+            28.5,
+            112.16799926757812,
+            197.86192321777344,
+            131.2728271484375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "• Kiểm tra :",
+          "bbox": [
+            28.5,
+            154.9080047607422,
+            66.45196533203125,
+            163.39903259277344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "- Toàn bộ hệ thống điện ( Tiếp xúc điện, ổ cắm, cầu chì, đường dây điện , ổn áp hư..) ?\n- Điện áp khu vực bị trồi sụt hoặc bị cúp điện?",
+          "bbox": [
+            28.5,
+            182.0760040283203,
+            308.627685546875,
+            203.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "• Giải quyết",
+          "bbox": [
+            28.5,
+            222.9080047607422,
+            69.17195129394531,
+            231.39903259277344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "- Nên sử dụng ổ cắm riêng biệt cho tủ lạnh, không dùng chung với thiết bị điện khác\n- Chuyển sang ổ cắm khác tốt hơn\n- Có thể tủ lạnh đang trong thời gian xả tuyết, hay khi đủ độ lạnh tủ tự động ngắt",
+          "bbox": [
+            28.5,
+            250.0760040283203,
+            308.8917541503906,
+            283.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "Nội dung này có hữu ích không?",
+          "bbox": [
+            48.5,
+            350.61199951171875,
+            218.14390563964844,
+            363.3485412597656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "Có\nKhông",
+          "bbox": [
+            60.3359375,
+            378.21099853515625,
+            115.38998413085938,
+            385.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "Khám Phá",
+          "bbox": [
+            144.5,
+            475.3840026855469,
+            178.0919952392578,
+            484.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "Tủ Lạnh",
+          "bbox": [
+            260.5,
+            474.57598876953125,
+            286.7319641113281,
+            484.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "Giải Pháp Giặt Sấy",
+          "bbox": [
+            376.5,
+            474.57598876953125,
+            436.4598693847656,
+            484.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "Giải Pháp Không Khí",
+          "bbox": [
+            492.5,
+            474.57598876953125,
+            560.3079833984375,
+            484.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "Về Chúng Tôi",
+          "bbox": [
+            144.5,
+            491.21099853515625,
+            182.42593383789062,
+            498.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "Tủ Lạnh Nhiều Cửa",
+          "bbox": [
+            260.5,
+            490.5039978027344,
+            315.1908874511719,
+            498.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 16,
+          "text": "Tháp Giặt Sấy",
+          "bbox": [
+            376.5,
+            491.21099853515625,
+            416.0499267578125,
+            498.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 17,
+          "text": "Điều Hòa Không Khí",
+          "bbox": [
+            492.5,
+            491.21099853515625,
+            551.2089233398438,
+            498.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 18,
+          "text": "Cửa Hàng Gần Bạn",
+          "bbox": [
+            144.5,
+            503.5039978027344,
+            198.78492736816406,
+            511.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 19,
+          "text": "Tủ Lạnh Side By Side",
+          "bbox": [
+            260.5,
+            503.5039978027344,
+            320.1118469238281,
+            511.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 20,
+          "text": "Máy Giặt",
+          "bbox": [
+            376.5,
+            504.21099853515625,
+            402.0919494628906,
+            511.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 21,
+          "text": "Quạt Máy",
+          "bbox": [
+            492.5,
+            503.5039978027344,
+            520.6329345703125,
+            511.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 22,
+          "text": "Tin Tức",
+          "bbox": [
+            144.5,
+            517.2109985351562,
+            164.77195739746094,
+            524.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 23,
+          "text": "Tủ Lạnh Ngăn Đá Trên",
+          "bbox": [
+            260.5,
+            516.1082763671875,
+            324.24188232421875,
+            524.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 24,
+          "text": "Máy Sấy",
+          "bbox": [
+            376.5,
+            517.2109985351562,
+            400.35595703125,
+            524.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 25,
+          "text": "TSmartLife",
+          "bbox": [
+            144.5,
+            530.2109985351562,
+            175.7759552001953,
+            537.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 26,
+          "text": "Tủ Lạnh Ngăn Đá Dưới",
+          "bbox": [
+            260.5,
+            529.1082763671875,
+            325.8028869628906,
+            537.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 27,
+          "text": "Máy Giặt Sấy",
+          "bbox": [
+            376.5,
+            530.2109985351562,
+            413.66290283203125,
+            537.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 28,
+          "text": "Tháng Toshiba",
+          "bbox": [
+            144.5,
+            543.2109985351562,
+            186.66091918945312,
+            550.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 29,
+          "text": "Tủ Đông",
+          "bbox": [
+            260.5,
+            543.2109985351562,
+            285.3709411621094,
+            550.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 30,
+          "text": "Giải Pháp Nhà Bếp",
+          "bbox": [
+            144.5,
+            563.5759887695312,
+            205.98794555664062,
+            573.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 31,
+          "text": "Giải Pháp Dọn Dẹp",
+          "bbox": [
+            260.5,
+            563.5759887695312,
+            323.531982421875,
+            573.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 32,
+          "text": "Bảo Hành",
+          "bbox": [
+            376.5,
+            563.5759887695312,
+            408.7319641113281,
+            573.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 33,
+          "text": "Hỗ Trợ",
+          "bbox": [
+            492.5,
+            564.3839721679688,
+            514.052001953125,
+            573.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 34,
+          "text": "Nồi Cơm Điện",
+          "bbox": [
+            144.5,
+            579.5040283203125,
+            184.9739227294922,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 35,
+          "text": "Máy Hút Bụi",
+          "bbox": [
+            260.5,
+            580.2109985351562,
+            295.77996826171875,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 36,
+          "text": "Chính Sách Bảo Hành",
+          "bbox": [
+            376.5,
+            579.5040283203125,
+            438.8909912109375,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 37,
+          "text": "Liên Hệ",
+          "bbox": [
+            492.5,
+            580.2109985351562,
+            514.3889770507812,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 38,
+          "text": "Lò Vi Sóng",
+          "bbox": [
+            144.5,
+            593.2109985351562,
+            174.83094787597656,
+            600.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 39,
+          "text": "Địa Chỉ Bảo Hành",
+          "bbox": [
+            376.5,
+            592.5040283203125,
+            426.9630126953125,
+            600.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 40,
+          "text": "Câu Hỏi Thường Gặp",
+          "bbox": [
+            492.5,
+            592.5040283203125,
+            552.7278442382812,
+            600.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 41,
+          "text": "Máy Rửa Chén",
+          "bbox": [
+            144.5,
+            606.2109985351562,
+            186.08692932128906,
+            613.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 42,
+          "text": "Đăng Ký Bảo Hành",
+          "bbox": [
+            376.5,
+            605.1082763671875,
+            430.51898193359375,
+            613.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 43,
+          "text": "Lò Nướng/ Hấp/ Chiên",
+          "bbox": [
+            144.5,
+            618.5040283203125,
+            209.8308868408203,
+            626.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 44,
+          "text": "Kiểm Tra Kích Hoạt",
+          "bbox": [
+            376.5,
+            618.5040283203125,
+            430.8969421386719,
+            626.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 45,
+          "text": "Nồi Chiên Không Dầu",
+          "bbox": [
+            144.5,
+            632.2109985351562,
+            207.296875,
+            639.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 46,
+          "text": "Tra Cứu Bảo Hành",
+          "bbox": [
+            376.5,
+            631.5040283203125,
+            428.15301513671875,
+            639.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 47,
+          "text": "Bếp Điện Từ",
+          "bbox": [
+            144.5,
+            645.2109985351562,
+            179.24093627929688,
+            652.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 48,
+          "text": "Máy Xay Sinh Tố",
+          "bbox": [
+            144.5,
+            658.2109985351562,
+            191.2039337158203,
+            665.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 49,
+          "text": "Bình Đun Siêu Tốc",
+          "bbox": [
+            144.5,
+            671.2109985351562,
+            196.7409210205078,
+            678.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 50,
+          "text": "CÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM",
+          "bbox": [
+            28.5,
+            701.5040283203125,
+            197.93479919433594,
+            709.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 51,
+          "text": "Địa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006",
+          "bbox": [
+            28.5,
+            716.9320068359375,
+            340.75152587890625,
+            748.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 52,
+          "text": "https://www.toshiba-lifestyle.com/vn/support/faq/refrigerator/not-working\n1/2",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:12 11/10/26\nTủ không hoạt động?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            385.1545715332031,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "Thu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie",
+          "bbox": [
+            28.5,
+            39.003997802734375,
+            323.3681335449219,
+            47.25
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "https://www.toshiba-lifestyle.com/vn/support/faq/refrigerator/not-working\n2/2",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Tủ không hoạt động?",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181231+00'00'",
+    "modDate": "D:20261010181231+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "Trang Chủ\nKhám\n\nTủ không hoạt động?\n\n• Kiểm tra :\n\n- Toàn bộ hệ thống điện ( Tiếp xúc điện, ổ cắm, cầu chì, đường dây điện , ổn áp hư..) ?\n- Điện áp khu vực bị trồi sụt hoặc bị cúp điện?\n\n• Giải quyết\n\n- Nên sử dụng ổ cắm riêng biệt cho tủ lạnh, không dùng chung với thiết bị điện khác\n- Chuyển sang ổ cắm khác tốt hơn\n- Có thể tủ lạnh đang trong thời gian xả tuyết, hay khi đủ độ lạnh tủ tự động ngắt\n\nNội dung này có hữu ích không?\n\nCó\nKhông\n\nKhám Phá\n\nTủ Lạnh\n\nGiải Pháp Giặt Sấy\n\nGiải Pháp Không Khí\n\nVề Chúng Tôi\n\nTủ Lạnh Nhiều Cửa\n\nTháp Giặt Sấy\n\nĐiều Hòa Không Khí\n\nCửa Hàng Gần Bạn\n\nTủ Lạnh Side By Side\n\nMáy Giặt\n\nQuạt Máy\n\nTin Tức\n\nTủ Lạnh Ngăn Đá Trên\n\nMáy Sấy\n\nTSmartLife\n\nTủ Lạnh Ngăn Đá Dưới\n\nMáy Giặt Sấy\n\nTháng Toshiba\n\nTủ Đông\n\nGiải Pháp Nhà Bếp\n\nGiải Pháp Dọn Dẹp\n\nBảo Hành\n\nHỗ Trợ\n\nNồi Cơm Điện\n\nMáy Hút Bụi\n\nChính Sách Bảo Hành\n\nLiên Hệ\n\nLò Vi Sóng\n\nĐịa Chỉ Bảo Hành\n\nCâu Hỏi Thường Gặp\n\nMáy Rửa Chén\n\nĐăng Ký Bảo Hành\n\nLò Nướng/ Hấp/ Chiên\n\nKiểm Tra Kích Hoạt\n\nNồi Chiên Không Dầu\n\nTra Cứu Bảo Hành\n\nBếp Điện Từ\n\nMáy Xay Sinh Tố\n\nBình Đun Siêu Tốc\n\nCÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM\n\nĐịa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006\n\n1/2\n\nThu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie\n\n2/2",
+  "removed_repeated_lines": [
+    "01:12 11/10/26",
+    "Tủ không hoạt động?",
+    "https://www.toshiba-lifestyle.com/vn/support/faq/refrigerator/not-working"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 1786,
+    "cleaned_char_count": 1566,
+    "removed_char_count": 220,
+    "reduction_ratio": 0.1232,
+    "removed_repeated_line_count": 3
+  },
+  "raw_text": "01:12 11/10/26\nTủ không hoạt động?\n\nTrang Chủ\nKhám\n\nTủ không hoạt động?\n\n• Kiểm tra :\n\n- Toàn bộ hệ thống điện ( Tiếp xúc điện, ổ cắm, cầu chì, đường dây điện , ổn áp hư..) ?\n- Điện áp khu vực bị trồi sụt hoặc bị cúp điện?\n\n• Giải quyết\n\n- Nên sử dụng ổ cắm riêng biệt cho tủ lạnh, không dùng chung với thiết bị điện khác\n- Chuyển sang ổ cắm khác tốt hơn\n- Có thể tủ lạnh đang trong thời gian xả tuyết, hay khi đủ độ lạnh tủ tự động ngắt\n\nNội dung này có hữu ích không?\n\nCó\nKhông\n\nKhám Phá\n\nTủ Lạnh\n\nGiải Pháp Giặt Sấy\n\nGiải Pháp Không Khí\n\nVề Chúng Tôi\n\nTủ Lạnh Nhiều Cửa\n\nTháp Giặt Sấy\n\nĐiều Hòa Không Khí\n\nCửa Hàng Gần Bạn\n\nTủ Lạnh Side By Side\n\nMáy Giặt\n\nQuạt Máy\n\nTin Tức\n\nTủ Lạnh Ngăn Đá Trên\n\nMáy Sấy\n\nTSmartLife\n\nTủ Lạnh Ngăn Đá Dưới\n\nMáy Giặt Sấy\n\nTháng Toshiba\n\nTủ Đông\n\nGiải Pháp Nhà Bếp\n\nGiải Pháp Dọn Dẹp\n\nBảo Hành\n\nHỗ Trợ\n\nNồi Cơm Điện\n\nMáy Hút Bụi\n\nChính Sách Bảo Hành\n\nLiên Hệ\n\nLò Vi Sóng\n\nĐịa Chỉ Bảo Hành\n\nCâu Hỏi Thường Gặp\n\nMáy Rửa Chén\n\nĐăng Ký Bảo Hành\n\nLò Nướng/ Hấp/ Chiên\n\nKiểm Tra Kích Hoạt\n\nNồi Chiên Không Dầu\n\nTra Cứu Bảo Hành\n\nBếp Điện Từ\n\nMáy Xay Sinh Tố\n\nBình Đun Siêu Tốc\n\nCÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM\n\nĐịa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006\n\nhttps://www.toshiba-lifestyle.com/vn/support/faq/refrigerator/not-working\n1/2\n\n01:12 11/10/26\nTủ không hoạt động?\n\nThu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie\n\nhttps://www.toshiba-lifestyle.com/vn/support/faq/refrigerator/not-working\n2/2",
+  "char_count": 1786
+}

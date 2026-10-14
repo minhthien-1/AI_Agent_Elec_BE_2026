@@ -1,0 +1,2848 @@
+Quét mã QR để xem hướng dẫn sử dụng.
+
+HƯỚNG DẪN SỬ DỤNG
+MÁY GIẶT-MÁY SẤY
+
+Trước khi bắt đầu lắp đặt, hãy đọc kỹ những hướng dẫn này.
+Điều này sẽ đơn giản hoá quá trình lắp đặt và đảm bảo sản
+phẩm được lắp đặt đúng cách và an toàn. Để hướng dẫn này
+ở gần sản phẩm sau khi lắp đặt để sau này tham khảo.
+
+TIẾNG VIỆT
+
+FB1209D5*
+
+MFL72111230
+Rev.01_081925
+www.lg.com
+
+Bản quyền © 2025 Công ty LG Electronics Việt Nam Hải Phòng bảo lưu mọi quyền
+
+MỤC LỤC
+Hướng dẫn này có thể có các hình ảnh
+hoặc nội dung khác với kiểu máy mà bạn
+đã mua.
+
+Hướng dẫn sử dụng này có thể được thay
+đổi bởi nhà sản xuất.
+
+HƯỚNG DẪN AN TOÀN
+
+ĐỌC TOÀN BỘ HƯỚNG DẪN TRƯỚC KHI SỬ DỤNG .....................................3
+CẢNH BÁO...........................................................................................................3
+
+LẮP ĐẶT
+
+Bộ phận và thông số kỹ thuật ..........................................................................9
+Yêu cầu Không gian Lắp đặt...........................................................................12
+Khui thùng thiết bị...........................................................................................13
+Giữ thăng bằng cho Thiết bị...........................................................................14
+Kết nối Ống Cấp Nước.....................................................................................16
+Lắp đặt Ống Xả nước .......................................................................................18
+
+VẬN HÀNH
+
+Tổng quan về vận hành...................................................................................19
+Bảng Điều khiển...............................................................................................20
+Chuẩn bị mẻ giặt..............................................................................................22
+Thêm bột giặt/nước giặt và nước xả vải .......................................................23
+Bảng Chương trình ..........................................................................................25
+Chương trình sấy..............................................................................................28
+Các tùy chọn và chức năng bổ sung..............................................................30
+
+CHỨC NĂNG THÔNG MINH
+
+Ứng dụng LG ThinQ.........................................................................................32
+Smart Diagnosis ...............................................................................................32
+
+BẢO TRÌ
+
+Vệ sinh sau mỗi lần giặt ..................................................................................33
+Vệ sinh thiết bị định kỳ....................................................................................33
+
+XỬ LÝ SỰ CỐ
+
+Trước khi gọi trung tâm dịch vụ.....................................................................37
+
+3
+HƯỚNG DẪN AN TOÀN
+
+HƯỚNG DẪN AN TOÀN
+
+ĐỌC TOÀN BỘ HƯỚNG DẪN TRƯỚC KHI SỬ DỤNG
+
+TIẾNG VIỆT
+
+Các hướng dẫn an toàn sau đây nhằm mục đích ngăn chặn các rủi ro
+hoặc hư hỏng không thể lường trước từ việc vận hành thiết bị không
+an toàn hoặc không đúng cách.
+Các hướng dẫn được chia thành hai phần ‘CẢNH BÁO’ và ‘THẬN TRỌNG’
+như được mô tả bên dưới.
+
+Thông điệp về an toàn
+
+Biểu tượng này được hiển thị để cho biết các vấn đề và thao tác
+vận hành có thể gây ra rủi ro. Hãy đọc cẩn thận phần có biểu
+tượng này và thực hiện theo các hướng dẫn để tránh rủi ro.
+
+CẢNH BÁO
+Biểu tượng này cho biết nếu không thực hiện theo các hướng
+dẫn có thể gây ra thương tích nghiêm trọng hoặc tử vong.
+
+THẬN TRỌNG
+Biểu tượng này cho biết nếu không thực hiện theo các hướng
+dẫn có thể gây ra thương tích nhẹ hoặc hư hỏng sản phẩm.
+
+CẢNH BÁO
+
+CẢNH BÁO
+Để giảm rủi ro cháy, nổ, tử vong, điện giật, thương tích hoặc bỏng ở
+người khi sử dụng sản phẩm này, hãy thực hiện theo các biện pháp
+phòng ngừa cơ bản, bao gồm các điều sau:
+
+An toàn kỹ thuật
+
+• Trẻ em từ 8 tuổi trở lên hoặc người có năng lực thể chất, giác quan
+hoặc tinh thần bị suy giảm, hoặc thiếu kinh nghiệm và kiến thức có
+thể sử dụng thiết bị này nếu có sự giám sát hoặc hướng dẫn liên quan
+đến việc sử dụng thiết bị một cách an toàn và hiểu các nguy hiểm có
+liên quan. Trẻ em không được chơi đùa với thiết bị. Trẻ em không
+
+4
+HƯỚNG DẪN AN TOÀN
+
+được thực hiện việc vệ sinh và bảo trì dành cho người dùng nếu
+không có sự giám sát.
+
+• Cần giữ trẻ em dưới 3 tuổi tránh xa thiết bị nếu không giám sát được
+bé liên tục.
+
+• Nếu dây điện bị hỏng thì cần được thay thế bởi nhà sản xuất, nhân
+viên dịch vụ hoặc người đạt yêu cầu tương tự để tránh nguy hiểm.
+
+• Không được để các cửa thông gió bị thảm cản trở.
+
+• Thiết bị này chỉ được sử dụng trong sinh hoạt.
+
+• Sử dụng ống hoặc bộ ống mới được cung cấp kèm theo thiết bị. Việc
+sử dụng lại các ống cũ có thể gây ra hiện tượng rò rỉ nước và làm hỏng
+tài sản về sau.
+
+• Áp lực cấp nước phải đạt từ 50 kPa đến 800 kPa.
+
+Công suất tối đa
+
+Công suất tối đa đối trong một số chu trình giặt quần áo khô được sử
+dụng là Giặt (9 kg)/Sấy (5 kg).
+Công suất tối đa khuyến nghị cho mỗi chương trình giặt có thể khác
+nhau. Để có hiệu quả giặt tốt nhất, hãy xem Bảng Chương trình trong
+chương VẬN HÀNH để biết thêm chi tiết.
+
+An toàn kỹ thuật cho việc sử dụng máy sấy
+
+• Không sấy đồ chưa được giặt bên trong thiết bị.
+
+• Đồ giặt bị dính các chất bẩn như dầu ăn, dầu thực vật, acetone, cồn,
+xăng dầu, dầu hỏa, chất tẩy vết bẩn, nhựa thông, sáp và chất tẩy sáp
+nên được giặt sạch trong nước nóng trước pha thêm một lượng chất
+tẩy lớn hơn trước khi được sấy khô trong thiết bị.
+
+• Không bao giờ dừng lại thiết bị trước khi kết thúc của chu trình sấy
+trừ khi tất cả các đồ giặt được nhanh chóng lấy ra và trải rộng để hạ
+nhiệt.
+
+• Các món đồ mục như cao su xốp (bọt cao su), mũ tắm, vải không thấm
+nước, các đồ vật được đệm cao su và quần áo hay gối được đệm
+miếng đệm cao su bọt không nên được sấy khô trong thiết bị.
+
+5
+HƯỚNG DẪN AN TOÀN
+
+• Chất làm mềm vải, hoặc các sản phẩm tương tự, nên được sử dụng
+theo quy định của các hướng dẫn về chất làm mềm vải.
+
+• Lấy tất cả các đồ vật từ trong túi như bật lửa và diêm ra ngoài.
+
+• Thiết bị sẽ không thể sử dụng được nếu các hóa chất công nghiệp
+được sử dụng để làm sạch.
+
+TIẾNG VIỆT
+
+Lắp đặt
+
+• Thiết bị này chỉ nên được vận chuyển bởi hai hoặc nhiều người để giữ
+thiết bị một cách chắc chắn.
+
+• Không lắp đặt thiết bị ở nơi có nhiều bụi và ẩm thấp. Không lắp đặt
+hoặc bảo quản thiết bị ở bất kỳ khu vực ngoài trời hoặc ở bất kỳ chỗ
+nào chịu tác động của điều kiện thời tiết như ánh sáng mặt trời trực
+tiếp, gió, mưa hoặc nhiệt độ dưới mức đóng băng.
+
+• Đảm bảo phích cắm điện được cắm toàn bộ vào ổ cắm điện.
+
+• Không được cắm thiết bị vào ổ cắm nhiều lỗ, ổ điện đa năng, hoặc dây
+điện kéo dài.
+
+• Không sửa đổi phích cắm được cung cấp kèm theo thiết bị. Nếu phích
+cắm không vừa với ổ cắm, hãy nhờ thợ điện có đủ trình độ chuyên
+môn lắp đặt đúng loại ổ cắm.
+
+• Thiết bị này được trang bị dây điện có dây dẫn nối đất/tiếp địa (chân
+nối đất) và phích cắm nối đất. Phích cắm phải được cắm vào ổ cắm
+phù hợp, được lắp đặt và nối đất/tiếp địa theo các quy tắc và quy định
+địa phương.
+
+• Việc kết nối dây dẫn nối đất thiết bị không đúng cách có thể gây ra rủi
+ro điện giật. Xác nhận lại với thợ điện hoặc nhân viên dịch vụ có đủ
+trình độ chuyên môn nếu bạn nghi ngại không biết thiết bị có được
+nối đất đúng cách hay không.
+
+Vận hành
+
+• Đừng bao giờ cố gắng vận hành thiết bị nếu thiết bị hư hỏng, trục
+trặc, bị tháo rời từng phần, thiếu hoặc gãy các bộ phận, kể cả dây
+hoặc phích cắm bị hỏng.
+
+• Không dùng đồ vật sắc nhọn tác động vào bảng điều khiển để vận
+hành thiết bị.
+
+6
+HƯỚNG DẪN AN TOÀN
+
+• Không thử tách các tấm che chắn hoặc tháo rời thiết bị.
+
+• Không sửa chữa hoặc thay thế bất kỳ bộ phận nào của thiết bị. Mọi
+việc sửa chữa và bảo trì phải do nhân viên dịch vụ có đủ trình độ
+chuyên môn thực hiện trừ khi được khuyến nghị cụ thể trong Hướng
+dẫn sử dụng này. Chỉ sử dụng các phụ tùng thay thế chính hãng.
+
+• Không đè cửa xuống quá mạnh khi cửa thiết bị được mở.
+
+• Không đặt các loài động vật, chẳng hạn như thú cưng vào trong thiết
+bị.
+
+• Không giặt bất kỳ đồ nào được nhà sản xuất chỉ định không giặt được
+trên nhãn chăm sóc vải.
+
+• Không để vật liệu dễ cháy chẳng hạn như sợi vải, giấy, giẻ lau, hoá
+chất v.v. ở khu vực bên dưới và xung quanh thiết bị.
+
+• Không để hở cửa thiết bị. Trẻ em có thể trèo lên cửa hoặc bò vào
+trong thiết bị, gây hư hỏng hoặc thương tích.
+
+• Không bỏ thêm, giặt hoặc sấy những đồ giặt đã được rửa, giặt, ngâm
+hoặc dính các chất dễ cháy hoặc dễ nổ (chẳng hạn như sáp, chất tẩy
+sáp, dầu, sơn, xăng, chất tẩy nhờn, dung môi tẩy khô, dầu hỏa, chất
+tẩy vết bẩn, nhựa thông, dầu thực vật, dầu ăn, acetone, cồn, v.v.). Sử
+dụng không đúng cách có thể gây cháy nổ.
+
+• Không sử dụng hoặc bảo quản các chất dễ cháy hay bắt cháy (ête,
+benzen, cồn, hóa chất, khí hóa lỏng, bình xịt dễ cháy, xăng, chất pha,
+dầu, thuốc trừ sâu, chất làm sạch không khí, mỹ phẩm, v.v...) gần thiết
+bị.
+
+• Không bao giờ đưa tay vào bên trong thiết bị khi thiết bị đang hoạt
+động. Đợi cho đến khi lồng giặt hoàn toàn dừng hẳn.
+
+• Không chạm vào cửa thiết bị khi sử dụng chương trình giặt có nhiệt
+độ cao.
+
+• Nếu nước rò rỉ từ thiết bị hay bị tràn, hãy ngắt ổ cắm điện và liên hệ
+với trung tâm thông tin khách hàng LG Electronics.
+
+• Tắt vòi nước để giảm áp lực lên ống và van và giảm thiểu sự rò rỉ khi
+xảy ra vỡ hoặc nứt đường ống. Kiểm tra tình trạng các ống cấp; cần
+thay thế các ống này sau 5 năm.
+
+7
+HƯỚNG DẪN AN TOÀN
+
+• Nếu có rò rỉ khí (isobutan, propan, khí tự nhiên v.v.) trong nhà, không
+được chạm vào thiết bị hay phích cắm điện và thông gió khu vực ngay
+lập tức.
+
+• Nếu ống xả hoặc ống cấp bị đóng băng trong mùa đông, chỉ sử dụng
+thiết bị sau khi tan tuyết.
+
+TIẾNG VIỆT
+
+• Giữ tất cả các bột giặt/nước giặt, nước xả vải và chất tẩy trắng tránh
+xa trẻ em.
+
+• Không được chạm vào phích cắm hoặc các phần điều khiển thiết bị
+bằng tay ướt.
+
+• Không được gập cong dây điện quá mức hoặc đặt một vật nặng lên
+dây.
+
+• Tránh tiếp xúc với nước xả từ thiết bị trong quá trình giặt.
+
+• Đảm bảo bộ phận thoát nước đang hoạt động đúng cách. Nếu nước
+không được thoát, sàn nhà của bạn có thể bị ngập.
+
+• Khi nhiệt độ không khí cao và nhiệt độ nước thấp, sự ngưng tụ có thể
+xảy ra và do đó làm ướt sàn nhà.
+
+• Lau sạch vết bẩn hoặc bụi trên các phần tiếp xúc của phích cắm.
+
+Bảo trì
+
+• Ngắt thiết bị ra khỏi nguồn điện trước khi vệ sinh thiết bị. Việc đặt
+phần điều khiển về vị trí TẮT hoặc chờ không ngắt thiết bị này ra khỏi
+nguồn điện.
+
+• Cắm chặt phích cắm vào ổ cắm sau khi loại bỏ hết hơi ẩm và bụi bẩn.
+
+• Không phun nước vào bên trong hoặc bên ngoài thiết bị để vệ sinh
+thiết bị.
+
+• Không bao giờ rút phích cắm thiết bị bằng cách kéo dây điện. Luôn
+cầm chặt phích cắm và kéo thẳng phích cắm ra khỏi ổ cắm.
+
+• Chỉ nhân viên có trình độ của trung tâm dịch vụ LG Electronics mới
+được tháo rời, sửa chữa, hoặc thay đổi thiết bị. Liên hệ với trung tâm
+thông tin khách hàng LG Electronics nếu bạn cần di chuyển và lắp đặt
+thiết bị tại một địa điểm khác.
+
+8
+HƯỚNG DẪN AN TOÀN
+
+Tiêu hủy
+
+• Hãy rút phích cắm trước khi vứt bỏ thiết bị cũ. Cắt bỏ dây cáp ngay
+phía sau thiết bị để phòng ngừa sử dụng nhầm.
+
+• Để tất cả vật liệu đóng gói (chẳng hạn như túi nhựa và xốp) cách xa
+trẻ em. Vật liệu đóng gói có thể gây ngạt thở.
+
+• Cắt dây điện và tháo cửa trước khi thải bỏ thiết bị này để tránh nguy
+cơ trẻ hoặc động vật nhỏ bị mắc kẹt bên trong.
+
+9
+LẮP ĐẶT
+
+LẮP ĐẶT
+
+Bộ phận và thông số kỹ
+thuật
+
+LƯU Ý
+
+TIẾNG VIỆT
+
+• Hình dạng bên ngoài và các thông số kỹ thuật có thể thay đổi mà không báo trước để cải thiện chất lượng
+
+thiết bị.
+
+Mặt trước
+
+Mặt sau
+
+a Bảng Điều khiển
+
+a Phích Cắm Điện
+
+b Ngăn Kéo Bộ Phân Phối Chất Tẩy
+
+b Bu-Lông Vận Chuyển
+
+c Lồng giặt
+
+c Ống Xả
+
+d Cửa
+
+e Nắp Đậy
+
+f Ốc Xả Nước
+
+g Bộ Lọc Bơm xả
+
+h Chân Chỉnh Thăng Bằng
+
+10
+LẮP ĐẶT
+
+Thông số kỹ thuật
+
+Kiểu máy
+FB1209D5*
+
+Nguồn Điện
+220 V~, 50 Hz
+
+Trọng lượng Sản phẩm
+61 kg
+
+Kích thước (mm)
+
+W
+600
+D
+550
+D"
+1030
+
+H
+850
+D'
+590
+
+11
+LẮP ĐẶT
+
+Các phụ kiện
+
+TIẾNG VIỆT
+
+Ống cấp nước lạnh
+Miếng Lót Chống Trượt
+
+Cờ-lê
+Công-xôn Khuỷu để Cố định Ống Xả
+
+Nắp đậy Lỗ Bu-lông Vận chuyển
+
+12
+LẮP ĐẶT
+
+Yêu cầu Không gian Lắp đặt
+
+Trước khi lắp đặt thiết bị, kiểm tra các thông tin sau
+để đảm bảo rằng thiết bị được lắp đặt đúng nơi.
+
+CẢNH BÁO
+• Chỉ được dùng thiết bị này cho mục đích sinh
+hoạt trong gia đình và không nên dùng thiết bị
+này trong các trường hợp cần sự di động.
+
+Địa điểm lắp đặt
+
+Sàn Gỗ (Sàn Lửng)
+
+• Thiết bị này phải được lắp đặt trên mặt sàn chắc
+chắn để giảm thiểu rung động trong quá trình
+vắt. Sàn bê tông là tối ưu nhất vì ít khả năng gây
+rung trong suốt chu trình vắt hơn so với ván sàn
+hay bề mặt trải thảm.
+
+Khi lắp đặt thiết bị trên sàn gỗ, hãy sử dụng vòng
+đệm cao su để giảm rung động mạnh và mất thăng
+bằng. Sàn gỗ hoặc dạng lửng có thể góp phần gây
+rung mạnh, mất thăng bằng, lỗi và trục trặc.
+
+• Nếu không thể tránh bố trí thiết bị kế bên bếp ga
+hoặc bếp than hoặc củi thì phải đặt một lớp cách
+nhiệt (850 X 600 mm) phủ lá nhôm ở bên phía đối
+diện bếp ga hoặc bếp lò giữa hai thiết bị.
+
+• Đảm bảo rằng khi lắp đặt thiết bị, kỹ sư có thể dễ
+dàng tiếp cận được thiết bị trong trường hợp
+hỏng máy.
+
+• Khi lắp đặt thiết bị, hãy chỉnh cả bốn chân bằng
+cách sử dụng cờ-lê bu-lông vận chuyển đi kèm để
+đảm bảo thiết bị được vững chắc.
+
+• Đảm bảo có đủ không gian để mở hoàn toàn cửa
+thiết bị.
+
+• Để tránh rung, chúng tôi khuyến nghị đặt các
+vòng đệm cao su a có độ dày tối thiểu 15 mm ở
+mỗi chân chỉnh của thiết bị, được cố định bằng
+đinh vít vào tối thiểu hai dầm ngang.
+
+• Để đảm bảo đủ khoảng trống cho các ống cấp
+nước, ống xả và lưu thông không khí, hãy để
+khoảng trống ít nhất 20 mm ở các bên và 100
+mm ở sau thiết bị. Cần đảm bảo có thêm khoảng
+trống cho tường, cửa hay các tấm ốp sàn.
+
+• Nếu có thể thì lắp đặt thiết bị ở một trong các góc
+phòng, là nơi mà sàn vững chắc hơn.
+
+• Lắp các vòng đệm cao su để giảm rung.
+
+THẬN TRỌNG
+• Nếu thiết bị được lắp đặt trên sàn không bằng
+phẳng (ví dụ như sàn gỗ) thì việc bảo hành không
+được áp dụng đối với bất kỳ hư hỏng hay chi phí
+phát sinh do việc lắp đặt trên sàn không bằng
+phẳng.
+
+LƯU Ý
+
+• Bạn có thể mua các vòng đệm cao su (số hiệu bộ
+
+phận 4620ER4002B) tại trung tâm dịch vụ LG.
+Index
+Khoảng trống (mm)
+
+A
+100
+
+B
+5
+
+C
+20
+
+13
+LẮP ĐẶT
+
+Thông gió
+
+Khui thùng thiết bị
+
+Nhấc thiết bị khỏi bệ bọt xốp
+
+• Đảm bảo sự tuần hoàn không khí xung quanh
+thiết bị không bị cản trở bởi các loại thảm, mền,
+v.v.
+
+Sau khi tháo bỏ bìa cứng và vật liệu vận chuyển,
+nhấc thiết bị khỏi bệ bọt xốp.
+
+Nhiệt độ xung quanh
+
+TIẾNG VIỆT
+
+• Không lắp đặt thiết bị trong các phòng có nhiệt
+độ có khả năng giảm xuống mức đóng băng. Các
+ống đóng băng có thể bị bục nổ do áp suất. Độ
+tin cậy của bộ điều khiển điện tử có thể bị ảnh
+hưởng ở nhiệt độ dưới điểm đóng băng.
+
+*
+
+• Nếu thiết bị được giao trong mùa đông và nhiệt
+độ dưới nhiệt độ đóng băng, đặt thiết bị ở nhiệt
+độ phòng trong vài giờ trước khi tiến hành vận
+hành thiết bị.
+
+• Đảm bảo goòng chống a* rời ra cùng đế đỡ và
+không bị kẹt vào bên dưới đáy thiết bị.
+
+Nối Điện
+
+• Không sử dụng dây kéo dài hoặc đầu chuyển đổi
+ổ cắm điện đôi.
+
+• Nếu bạn phải đặt thiết bị nằm xuống để tháo bỏ
+đế bìa cứng b, phải luôn luôn bảo vệ phần mặt
+bên của thiết bị và đặt cẩn thận thiết bị nằm trên
+mặt bên. Không được đặt thiết bị nằm trên mặt
+trước hoặc sau.
+
+• Luôn rút phích cắm thiết bị và tắt nguồn cấp
+nước sau khi sử dụng.
+
+* Tính năng này có thể thay đổi tùy theo kiểu máy
+đã mua.
+
+• Kết nối thiết bị với ổ cắm được nối đất phù hợp
+theo các quy định đi dây hiện hành.
+
+• Thiết bị phải được bố trí sao cho có thể dễ dàng
+tiếp cận được phích cắm.
+
+Tháo rời các bộ phận lắp ráp bu-
+lông vận chuyển
+
+• Ổ cắm điện phải cách tối thiểu 1 mét mỗi bên
+tính từ vị trí của thiết bị.
+
+Để thiết bị không bị rung mạnh và vỡ, hãy tháo các
+bu-lông vận chuyển và vòng kẹp.
+
+1
+Bắt đầu từ hai bu-lông vận chuyển a bên dưới,
+
+sử dụng cờ-lê (kèm theo) để nới lỏng hoàn toàn
+tất cả các bu-lông vận chuyển bằng cách xoay
+ngược chiều kim đồng hồ.
+
+CẢNH BÁO
+• Chỉ nhân viên có đủ trình độ chuyên môn mới
+được phép sửa chữa thiết bị. Việc sửa chữa được
+thực hiện bởi những người không có kinh
+nghiệm có thể gây thương tích hoặc trục trặc
+nghiêm trọng. Hãy liên hệ nhân viên sửa chữa
+được LG ủy quyền tại địa phương.
+
+• Phích cắm phải được cắm vào ổ cắm phù hợp
+được lắp đặt và nối đất/tiếp địa theo các quy tắc
+và quy định địa phương.
+
+14
+LẮP ĐẶT
+
+2
+Tháo rời các bộ phận lắp ráp bu-lông bằng cách
+
+lắc nhẹ trong lúc kéo ra ngoài.
+
+• Không cố làm cân bằng sàn không bằng phẳng
+bằng cách đặt các miếng gỗ, bìa cứng hay vật
+liệu tương tự bên dưới thiết bị.
+
+3
+Lắp đặt các nắp che lỗ.
+
+• Đặt các nắp chụp lỗ b kèm theo trong túi
+đựng phụ kiện hoặc gắn vào phía sau.
+
+Điều chỉnh và chỉnh thăng bằng
+các chân
+
+Khi lắp đặt, thiết bị phải được căn chỉnh nằm thẳng
+và có độ thăng bằng hoàn hảo. Nếu không được
+căn chỉnh nằm thẳng và có độ thăng bằng phù hợp,
+thiết bị có thể bị hỏng hoặc có thể không hoạt động
+đúng.
+
+1
+Vặn các chân điều thăng bằng theo yêu cầu
+
+nếu sàn không bằng phẳng.
+
+• Không chèn miếng gỗ, v.v. bên dưới các
+chân.
+
+LƯU Ý
+
+• Đảm bảo rằng tất cả bốn chân đều vững
+chắc và chống trên sàn.
+
+• Giữ các bu-lông vận chuyển và vòng kẹp để dùng
+sau này.
+
+• Vận chuyển thiết bị đảm bảo không bị vỡ như
+sau:
+
+- Lắp lại các bu-lông vận chuyển.
+
+- Cố định dây điện ở phía sau thiết bị.
+
+Giữ thăng bằng cho Thiết
+bị
+
+Kiểm tra thăng bằng
+
+Khi đẩy các cạnh của tấm trên thiết bị xuống theo
+đường chéo, thiết bị không được bập bênh (kiểm
+tra cả hai chiều).
+
+• Nếu thiết bị rung lắc khi đẩy tấm trên thiết bị
+theo đường chéo, hãy điều chỉnh lại chân thiết bị.
+
+• Kiểm tra xem thiết bị đã được cân bằng hoàn
+toàn sau khi lắp đặt chưa.
+
+LƯU Ý
+
+LƯU Ý
+
+• Sàn gỗ hay sàn dạng lửng có thể góp phần gây
+rung mạnh và mất thăng bằng. Có thể cần cân
+nhắc gia cố hoặc chằng chống sàn gỗ để loại bỏ
+hoặc giảm tiếng ồn và rung quá mức.
+
+• Không lắp đặt máy giặt trên bệ, đế hay bề mặt
+được nâng lên trừ khi bệ, đế hay bề mặt đó do LG
+
+15
+LẮP ĐẶT
+
+Sử dụng Miếng lót Chống Trượt
+
+Electronics sản xuất để sử dụng kèm với mẫu
+máy.
+
+Tính năng này có thể thay đổi tùy theo kiểu máy đã
+mua.
+
+2
+Kiểm tra để đảm bảo thiết bị vẫn cân bằng
+
+tuyệt đối bằng ống ni-vô a.
+
+TIẾNG VIỆT
+
+Nếu bạn lắp đặt thiết bị trên một bề mặt trơn trượt,
+thiết bị có thể di chuyển do sự rung lắc quá mức.
+Việc chỉnh thăng bằng không đúng có thể gây trục
+trặc thông qua tiếng ồn và độ rung. Nếu xảy ra
+trường hợp này, lắp đặt các miếng lót chống trượt
+bên dưới các chân chỉnh thăng bằng và điều chỉnh
+độ thăng bằng.
+
+1
+Vệ sinh sàn để dán các miếng lót chống trượt.
+
+• Sử dụng một miếng giẻ khô để loại bỏ và lau
+sạch các vật thể lạ và hơi ẩm. Nếu vẫn còn hơi
+ẩm, các miếng lót chống trượt có thể bị
+trượt.
+
+2
+Điều chỉnh độ thăng bằng sau khi đặt thiết bị
+
+trong khu vực lắp đặt.
+
+3
+Siết chặt các chân điều thăng bằng với ốc hãm
+b bằng cách xoay ngược chiều kim đồng hồ
+với đáy thiết bị.
+
+3
+Đặt mặt dính a của miếng lót chống trượt lên
+
+sàn.
+
+• Cách hiệu quả nhất là lắp các miếng lót
+chống trượt bên dưới các chân trước. Nếu
+khó đặt các miếng lót bên dưới các chân
+trước của thiết bị, hãy đặt chúng bên dưới
+các chân sau.
+
+4
+Kiểm tra để đảm bảo tất cả các ốc hãm ở dưới
+
+đáy thiết bị được siết chặt đúng cách.
+
+LƯU Ý
+
+4
+Đặt thiết bị lên các miếng lót chống trượt.
+
+• Việc đặt và chỉnh độ thăng bằng thiết bị đúng
+cách sẽ đảm bảo máy vận hành được lâu dài,
+thường xuyên và đáng tin cậy.
+
+• Không gắn mặt dính a của miếng lót chống
+trượt vào các chân của thiết bị.
+
+• Thiết bị phải được đặt nằm ngang hoàn toàn và
+đứng vững tại chỗ trên sàn cứng và bằng phẳng.
+
+• Máy giặt không được 'Bập bênh' các góc khi có
+tải.
+
+LƯU Ý
+
+• Miếng lót chống trượt mua thêm có bán tại trung
+
+• Không để các chân thiết bị bị ướt. Không thực
+
+tâm dịch vụ LG Electronics.
+
+hiện như vậy có thể gây rung hoặc tiếng ồn.
+
+16
+LẮP ĐẶT
+
+Kết nối Ống với Vòi Nước máy
+
+Kết nối Ống Cấp Nước
+
+Lưu ý khi kết nối
+
+Kết Nối Ống Kiểu Vặn vít với Vòi nước máy có
+Ren
+Vặn đầu nối ống cấp lên vòi cấp nước.
+
+• Áp lực nước phải ở nằm trong khoảng 50 kPa
+đến 800 kPa (0,5‒8,0 kgf / cm²). Nếu áp lực nước
+lớn hơn 800 kPa, phải lắp đặt thiết bị giảm áp.
+
+• Kiểm tra định kỳ tình trạng của ống cấp nước và
+thay ống cấp nước nếu cần thiết.
+
+LƯU Ý
+
+• Không siết quá chặt ống cấp nước hay dùng các
+thiết bị cơ học để siết lên van cấp nước.
+
+• Không cần trang bị thêm bảo vệ dòng chảy
+
+ngược để nối vào đầu cấp nước.
+
+Kết nối Ống Kiểu Vặn vít với Vòi nước máy
+Không có Ren
+
+Kiểm tra Gioăng Cao su
+
+1
+Nới lỏng 4 vít cố định a.
+
+Hai gioăng cao su a được cung cấp kèm theo ống
+cấp nước. Chúng được sử dụng để ngăn rò rỉ nước.
+Hãy gắn chặt đủ mức với vòi nước máy.
+
+• Không sử dụng các thiết bị cơ học như kìm để
+siết chặt vòi cấp nước. Đảm bảo đầu cong của
+ống cấp nước được kết nối với thiết bị.
+
+2
+Tháo bỏ vành dẫn hướng b nếu vòi nước máy
+
+quá lớn để lắp với ống nối.
+
+3
+Đẩy ống nối lên trên phần đầu của vòi nước
+
+máy sao cho gioăng cao su được kết nối để
+
+17
+LẮP ĐẶT
+
+3
+Đẩy ống nối lên trên phần đầu của vòi nước
+
+đảm bảo trạng thái kín nước. Siết chặt 4 vít cố
+định.
+
+máy sao cho gioăng cao su được kết nối để
+đảm bảo trạng thái kín nước. Siết chặt 4 vít cố
+định và vành đai ống nối.
+
+TIẾNG VIỆT
+
+4
+Đẩy ống cấp c theo chiều thẳng đứng lên phía
+
+4
+Kéo vành khoá rập đầu nối f xuống, đẩy ống
+
+trên sao cho gioăng cao su bên trong ống có
+thể dính chặt hoàn toàn vào vòi nước máy rồi
+sau đó siết chặt ống bằng cách vặn ống về bên
+phải.
+
+cấp lên ống nối và nhả vành khoá rập đầu nối.
+Đảm bảo ống nối khoá vào đúng chỗ.
+
+Kết nối Ống Loại Một Chạm với Vòi nước máy
+Không có Ren
+
+1
+Vặn nới vành đai ống nối d và nới lỏng 4 vít cố
+
+LƯU Ý
+
+định.
+
+• Sau khi kết nối ống cấp với ống cấp nước máy,
+mở vòi nước máy để xả sạch các chất lạ (chất dơ,
+cát, mùn cưa, v.v.) trong các đường nước. Hứng
+nước xả vào xô và kiểm tra nhiệt độ nước.
+
+Kết nối Ống với Thiết bị
+
+2
+Tháo bỏ vành dẫn hướng e nếu vòi nước máy
+
+quá lớn để lắp với ống nối.
+
+Vặn ống cấp với van cấp nước ở phía sau thiết bị.
+
+18
+LẮP ĐẶT
+
+• Nếu ống xả quá dài, không nhét ống ngược vào
+trong thiết bị. Điều này sẽ gây tiếng ồn bất
+thường.
+
+• Không kết nối ống nước với nguồn nước nóng
+đối với các kiểu loại có một ống cấp nước. Chỉ kết
+nối với nước lạnh.
+
+• Kết nối công-xôn khuỷu trong phạm vi 10 cm
+tính từ đầu ống xả.
+
+LƯU Ý
+
+• Sau khi hoàn tất kết nối, nếu nước rò rỉ ra từ ống
+thì lặp lại các bước tương tự. Sử dụng kiểu vòi
+nước máy thông dụng nhất để cấp nguồn nước.
+Trong trường hợp vòi nước máy là đầu vuông
+hoặc quá to, tháo bỏ vành dẫn hướng trước khi
+lắp vòi nước máy vào trong ống nối.
+
+• Đảm bảo rằng ống không bị gập hoặc mắc kẹt.
+
+• Đảm bảo lắp ống xả vào phần ống không quá 15
+cm.
+
+Lắp đặt Ống Xả nước
+
+• Khi lắp đặt ống xả với bồn rửa, buộc chặt vòi
+bằng sợi dây.
+
+Lắp đặt Ống Xả nước bằng
+Công-xôn Khuỷu
+
+Ống xả không nên đặt cao hơn 100 cm so với sàn.
+Nước trong thiết bị không thể xả hoặc xả chậm.
+
+• Siết chặt ống xả đúng cách sẽ bảo vệ sàn khỏi hư
+hỏng do rò rỉ nước.
+
+19
+VẬN HÀNH
+
+VẬN HÀNH
+
+Tổng quan về vận hành
+
+Sử dụng thiết bị
+
+• Thêm lượng bột giặt/nước giặt thích hợp vào
+bộ phân phối bột giặt/nước giặt. Thêm chất
+tẩy trắng hoặc nước xả vải vào khu vực thích
+hợp của bộ phân phối nếu muốn.
+
+TIẾNG VIỆT
+
+3
+Bật thiết bị.
+
+• Nhấn nút Nguồn để bật thiết bị.
+
+Trước khi giặt lần đầu, chọn chương trình giặt Vải
+bông và thêm một nửa lượng chất tẩy. Khởi động
+thiết bị giặt không tải. Quá trình này sẽ thải bỏ chất
+cặn và nước có thể còn sót lại trong khâu sản xuất
+ra khỏi lồng giặt.
+
+1
+Phân loại quần áo và cho đồ vào máy.
+
+4
+Chọn chu trình mong muốn.
+
+• Phân loại quần áo theo loại vải, mức độ bẩn,
+màu sắc và kích thước mẻ giặt nếu cần. Mở
+cửa và cho đồ vào trong thiết bị.
+
+• Nhấn nút chu trình nhiều lần hoặc vặn núm
+chọn chu trình cho đến khi chọn được chu
+trình mong muốn.
+
+• Giờ hãy chọn nhiệt độ giặt và tốc độ vắt. Hãy
+chú ý đến nhãn chăm sóc vải của quần áo.
+
+5
+Bắt đầu chu trình.
+
+THẬN TRỌNG
+• Trước khi đóng cửa, hãy đảm bảo toàn bộ quần
+áo và đồ ở bên trong lồng giặt và không treo vào
+mép cửa cao su, chỗ quần áo và đồ bị mắc lại khi
+đóng cửa. Nếu không sẽ làm hỏng mép cửa và
+quần áo.
+
+• Nhấn nút Khởi động/Tạm dừng để bắt đầu
+chu trình. Thiết bị sẽ khuấy trộn nhanh
+không có nước để đo khối lượng mẻ giặt.
+Nếu không nhấn nút Khởi động/Tạm dừng
+trong một khoảng thời gian nhất định, thiết
+bị sẽ tắt nguồn và toàn bộ cài đặt sẽ mất.
+
+LƯU Ý
+
+• Trong trường hợp sau, cửa sẽ không mở ngay cả
+khi bạn dừng chương trình giặt hoặc tắt máy
+giặt.
+
+• Lấy các đồ vật ra khỏi vòng gioăng cửa đệm mềm
+để không làm hỏng quần áo và gioăng cửa.
+
+- Khi máy giặt bắt đầu chương trình giặt và có
+nước trong lồng giặt, cửa sẽ không mở để
+ngăn bị tràn cho đến khi máy giặt tháo hết
+nước.
+
+6
+Kết thúc chu trình.
+
+2
+Thêm các sản phẩm làm sạch hoặc chất tẩy và
+
+• Khi chu trình hoàn tất, thiết bị sẽ phát ra một
+giai điệu. Lấy ngay quần áo của bạn ra khỏi
+thiết bị để hạn chế nhăn. Kiểm tra xung
+quanh gioăng cửa khi lấy các đồ có kích
+thước nhỏ ra do có thể bị vướng lại trong
+gioăng.
+
+chất làm mềm.
+
+20
+VẬN HÀNH
+
+Bảng Điều khiển
+
+Bảng điều khiển thực tế có thể thay đổi theo mẫu máy.
+
+Các tính năng trên bảng điều khiển
+
+Mô tả
+
+a
+Nút Bật/Tắt Nguồn
+
+• Nhấn nút này để bật/tắt máy giặt.
+
+b
+Núm xoay chọn chương trình giặt
+
+• Các chương trình có sẵn theo loại quần áo.
+
+• Đèn sẽ sáng lên để biểu thị chương trình được chọn.
+
+LƯU Ý
+• Giặt+Sấy():() hiển thị công suất sấy thay đổi theo mẫu máy.
+
+c
+Nút Khởi động/Tạm dừng
+
+• Nút này dùng để khởi động hoặc tạm dừng chương trình giặt.
+
+• Nếu cần dừng tạm thời chương trình giặt, hãy nhấn nút này.
+
+d
+Các tùy chọn và chức năng bổ sung
+
+• Để sử dụng các chức năng bổ sung, nhấn giữ nút tương ứng trong 3 giây. Biểu tượng tương
+ứng sáng đèn trên màn hình.
+
+• Chức năng này cho phép bạn chọn một chương trình bổ sung và sẽ sáng đèn khi được chọn.
+
+Tùy chỉnh các nút chương trình giặt
+Sử dụng các nút này để chỉnh cài đặt nhiệt độ nước hoặc tốc độ vắt cho chương trình được chọn.
+
+• Các cài đặt hiện tại được hiển thị trên màn hình.
+
+• Nhấn nút cho tùy chọn đó để chọn các cài đặt khác.
+
+e
+Hiển thị
+
+• Màn hình hiển thị các cài đặt, thời gian còn lại ước tính, các tùy chọn và thông báo trạng thái.
+Khi bật nguồn thiết bị, các cài đặt mặc định trên màn hình sẽ sáng lên.
+
+• Khi khối lượng mẻ giặt được cảm biến tự động, màn hình trên bảng điều khiển sẽ nhấp nháy.
+
+21
+VẬN HÀNH
+
+Hiển thị thời gian và trạng thái
+
+TIẾNG VIỆT
+
+Mô tả
+
+Thời gian ước tính còn lại
+
+• Khi một chương trình giặt được chọn, thời gian mặc định cho chương trình đó được hiển thị.
+Thời gian này có thể thay đổi theo các tùy chọn.
+
+a
+
+• Nếu màn hình hiển thị --- thì thời gian sẽ hiển thị sau khi cảm biến tải đã đo được kích cỡ mẻ
+giặt. Đây là điều bình thường.
+
+• Thời gian hiển thị chỉ mang tính ước lượng. Thời gian này dựa trên điều kiện hoạt động bình
+thường. Một số nhân tố bên ngoài (khối lượng mẻ giặt, nhiệt độ phòng, nhiệt độ nước cấp
+vào, v.v...) có thể ảnh hưởng đến thời gian thực tế.
+
+b
+Ã sáng lên khi chương trình bắt đầu và cửa đã khóa.
+
+c
+@ sáng lên khi kích hoạt chức năng sấy Sấy bình thường.
+
+d
+* sáng lên khi kích hoạt chức năng sấy Nhiệt độ thấp.
+
+e
+Ø sáng lên khi tùy chọn Giũ+ được kích hoạt.
+
+f
+Ö sáng lên khi tùy chọn Giặt sơ được kích hoạt.
+
+g
+z sáng lên khi tùy chọn Hẹn giờ được kích hoạt.
+
+22
+VẬN HÀNH
+
+Chuẩn bị mẻ giặt
+
+LƯU Ý
+
+Phân loại mẻ giặt để có kết quả giặt tốt nhất, sau đó
+chuẩn bị quần áo theo các biểu tượng trên nhãn
+chăm sóc của quần áo.
+
+• Các dấu gạch ngang bên dưới biểu tượng cung
+cấp cho bạn thông tin về loại vải và mức cho
+phép tối đa về ứng suất cơ học.
+
+Phân loại quần áo
+
+• Mức độ bẩn (Nhiều, Vừa, Ít): Phân loại quần áo
+theo mức độ bẩn. Nếu có thể, không nên giặt các
+đồ bị bẩn nhiều cùng các đồ bị bẩn ít.
+
+Kiểm tra Quần áo trước khi Cho
+vào
+
+• Để giúp phân phối tải đều khi vắt, hãy kết hợp
+các đồ lớn nhỏ trong một mẻ giặt.
+
+• Màu sắc (Trắng, Sáng, Tối): Giặt riêng quần áo tối
+màu và nhuộm màu với quần áo trắng hoặc sáng
+màu. Việc giặt chung quần áo nhuộm màu và
+quần áo sáng màu có thể làm nhuộm màu hoặc
+phai quần áo sáng màu.
+
+• Không giặt các đồ nhỏ lẻ. Hãy thêm 1-2 đồ tương
+tự vào mẻ giặt để tránh mẻ giặt bị mất cân bằng.
+
+• Sợi vải (Sợi vải nhân tạo, Tổng hợp): Giặt riêng sợi
+vải nhân tạo và sợi vải tổng hợp. Sợi vải nhân tạo
+có thể làm vón xơ hoặc xơ vải tổng hợp.
+
+• Kiểm tra tất cả các túi để đảm bảo không có gì
+trong túi. Các đồ vật chẳng hạn như đinh, kẹp
+tóc, que diêm, bút, tiền xu và chìa khóa có thể
+làm hư hỏng cả thiết bị lẫn quần áo của bạn.
+
+Kiểm tra nhãn sử dụng quần áo
+
+Các biểu tượng thông tin cho bạn về hàm lượng sợi
+vải của quần áo và cách giặt.
+
+Các biểu tượng trên nhãn sử dụng
+
+Biểu
+tượng
+Kiểu giặt / Loại vải
+
+• Khi giặt quần áo có dây đai dài, hãy buộc dây lại
+hoặc dùng lưới giặt.
+
+• Giặt thường
+
+• Vải bông, vải hỗn hợp
+
+• Sử dụng lưới giặt cho những đồ nhỏ như tay áo,
+quần tất, quần bó, đồ lót và tất để tránh chúng bị
+kẹt giữa lồng giặt và gioăng cửa.
+
+• Giặt nhẹ
+
+• Vải sợi tổng hợp, vải hỗn hợp
+
+• Giặt đồ dễ hỏng đặc biệt
+
+• Đồ dễ hỏng
+
+• Cho đồ vào dưới một nửa sức chứa lưới giặt và
+giặt chung với quần áo khác. Tránh cho vào quá
+nhiều đồ vào lưới giặt hay giặt riêng vì có thể
+khiến lồng giặt bị mất cân bằng, khiến chu trình
+vắt không đủ.
+
+• Chỉ giặt tay
+
+• Lụa, len
+
+• Đóng phéc-mơ-tuya, móc cài áo và dây thắt để
+đảm bảo các đồ vật này không làm rách những
+quần áo khác.
+
+• Không giặt
+
+• Xử lý trước vết bẩn và vết màu khó sạch bằng
+cách chải một lượng nhỏ bột giặt/nước giặt đã
+pha loãng nước lên các vết màu khó sạch để giúp
+làm bong vết bẩn.
+
+23
+VẬN HÀNH
+
+LƯU Ý
+
+Thêm bột giặt/nước giặt và
+nước xả vải
+
+Liều lượng bột giặt/nước giặt
+
+• Không để bột giặt/nước giặt cô đặc lại. Làm như
+vậy có thể dẫn đến vón cục, hiệu năng xả kém
+hoặc có mùi.
+
+• Tải đầy: Dựa theo khuyến cáo của nhà sản xuất.
+
+• Tải một phần: 1/2 lượng bình thường.
+
+• Tải tối thiểu: 1/3 tải đầy.
+
+TIẾNG VIỆT
+
+• Cần sử dụng chất tẩy theo hướng dẫn của nhà
+sản xuất chất tẩy đó và chọn lựa phù hợp với loại
+vải, màu, vết bẩn của đồ giặt và nhiệt độ giặt. Chỉ
+sử dụng các chất tẩy phù hợp với máy giặt lồng
+(ngang).
+
+• Nếu xuất hiện quá nhiều bọt xà phòng thì giảm
+bớt lượng bột giặt/nước giặt.
+
+Sử dụng bộ phân phối
+
+Để cho lượng chất tẩy vào bộ phân phối:
+
+• Nếu sử dụng quá nhiều bột giặt/nước giặt thì có
+thể xuất hiện quá nhiều bọt xà phòng và điều
+này sẽ dẫn đến hiệu quả giặt kém hoặc gây tải
+nặng cho động cơ.
+
+1
+Mở ngăn cấp.
+
+• Nếu bạn muốn sử dụng nước giặt, hãy làm theo
+những chỉ dẫn do nhà sản xuất nước giặt cung
+cấp.
+
+2
+Cho chất tẩy và chất làm mềm vào các ngăn
+
+phù hợp.
+
+• Bạn có thể rót trực tiếp nước giặt vào trong ngăn
+kéo đựng bột giặt/nước giặt chính nếu bạn dự
+định bắt đầu chu trình ngay lập tức.
+
+• Không sử dụng nước giặt nếu bạn đang sử dụng
+chức năng Hẹn giờ do nước giặt s ẽ được phân
+phối ngay và có thể cô đặc trong ngăn kéo hay
+lồng giặt.
+
+• Có thể cần phải điều chỉnh cách sử dụng chất tẩy
+theo nhiệt độ nước, độ cứng nước, kích thước và
+mức độ bẩn của mẻ giặt. Để đạt hiệu quả tốt
+nhất, tránh sử dụng quá nhiều chất tẩy. Nếu
+không sẽ tạo ra quá nhiều bọt xà phòng.
+
+a Ngăn đựng chất tẩy để giặt chính
+
+• Tham khảo nhãn trên quần áo trước khi cho chất
+tẩy và chọn nhiệt độ nước.
+
+• Chất tẩy để giặt chính, nước xả, chất tẩy
+trắng và chất tẩy vết bẩn
+
+• Chỉ sử dụng các bột giặt/nước giặt phù hợp cho
+loại quần áo tương ứng:
+
+b Ngăn đựng chất tẩy để giặt sơ
+
+c Ngăn đựng nước làm mềm vải
+
+- Nước giặt thường được thiết kế cho các ứng
+dụng đặc biệt, ví dụ: vải màu, len, quần áo dễ
+hỏng hoặc tối màu.
+
+- Bột giặt phù hợp cho tất cả các loại vải.
+
+3
+Đóng nhẹ ngăn kéo bộ phân phối chất tẩy
+
+trước khi bắt đầu chu trình.
+
+- Để có kết quả giặt tốt hơn đối với quần áo màu
+trắng và màu nhạt, sử dụng bột giặt có hoạt
+tính tẩy trắng.
+
+- Bột giặt/nước giặt được xả từ bộ phân phối
+ngay lúc bắt đầu chu trình.
+
+• Đóng mạnh ngăn kéo có thể khiến chất tẩy bị
+tràn vào ngăn khác hoặc bị phân phối vào
+lồng giặt sớm hơn so với cài đặt.
+
+• Cẩn thận để không bị kẹt tay vào ngăn kéo
+khi đóng.
+
+24
+VẬN HÀNH
+
+2
+Cho quần áo vào trong lồng giặt và đóng cửa.
+
+• Một ít nước còn sót lại trong các ngăn kéo bộ
+phân phối khi kết thúc chu trình là điều bình
+thường.
+
+LƯU Ý
+
+Ngăn đựng nước xả vải
+
+• Không cho viên nén vào bộ phân phối.
+
+Ngăn này chứa nước xả vải được cấp tự động trong
+suốt chu trình giũ cuối cùng. Có thể sử dụng cả
+nước hoặc bột xả vải.
+
+Thêm Chất làm mềm Nước
+
+• Đổ nước xả vải đến vạch đổ đầy tối đa. Việc đổ
+nước xả vải vượt vạch đổ đầy tối đa có thể khiến
+nước xả vải bị phân phối quá sớm và có thể làm
+đổi màu quần áo.
+
+Có thể sử dụng chất làm mềm nước, chẳng hạn
+như chất chống cặn vôi để giảm bớt sử dụng bột
+giặt/nước giặt ở các khu vực có nước quá cứng.
+
+• Trước tiên thêm bột giặt/nước giặt, rồi đến chất
+làm mềm nước. Thêm theo lượng được ghi rõ
+trên bao bì đóng gói.
+
+LƯU Ý
+
+• Không đổ trực tiếp nước xả vải lên quần áo trong
+lồng giặt, làm như vậy sẽ khiến quần áo bị ố màu
+đậm và khó loại bỏ vết ố.
+
+• Không để nước làm mềm vải trong ngăn kéo
+chất tẩy quá 1 ngày. Nước làm mềm vải có thể cô
+đặc lại. Nước làm mềm vải có thể đọng lại trong
+bộ phân phối nếu quá đặc. Nước làm mềm vải
+cần được hòa tan nếu độ đậm đặc quá lớn để
+nước làm mềm vải có thể chảy dễ dàng.
+
+• Không mở ngăn kéo khi đang cấp nước vào
+trong khi giặt.
+
+• Không được sử dụng dung môi (ben-zen, v.v.).
+
+Thêm chất tẩy dạng viên nén
+
+Chất tẩy dạng viên nén cũng có thể được sử dụng
+khi giặt.
+
+1
+Mở cửa và cho chất tẩy dạng viên nén vào trong
+
+lồng giặt trước khi cho quần áo vào.
+
+25
+VẬN HÀNH
+
+Bảng Chương trình
+
+Chương trình Giặt
+
+Vải bông
+40 ℃ (CO (Lạnh) đến 95 ℃)
+Mẻ giặt tối đa: Định mức
+
+Mô tả
+Giặt quần áo bị bẩn bình thường bằng cách kết hợp các chuyển động lồng giặt khác
+nhau.
+
+TIẾNG VIỆT
+
+Vải bông+
+60 ℃ (CO (Lạnh) đến 60 ℃)
+Mẻ giặt tối đa: Định mức
+
+Mô tả
+Giặt quần áo bẩn bình thường bằng cách kết hợp các chuyển động lồng giặt khác nhau
+với mức tiêu thụ năng lượng thấp hơn so với chương trình Vải bông nhờ các cài đặt
+tương ứng.
+
+Đồ hỗn hợp
+40 ℃ (CO (Lạnh) đến 60 ℃)
+Mẻ giặt tối đa: 4 kg
+
+Mô tả
+Giặt đồng thời các đồ vải hỗn hợp.
+
+• Dùng cho nhiều loại vải khác nhau ngoại trừ đồ may mặc đặc biệt (lụa/đồ dễ hỏng,
+đồ thể thao, quần áo tối màu, len, chăn lông/mền).
+
+Giặt nhanh 30 phút
+20 ℃ (CO (Lạnh) đến 40 ℃)
+Mẻ giặt tối đa: 2 kg
+
+Mô tả
+Giặt các mẻ giặt nhỏ quần áo bị bẩn ít trong khoảng 30 phút.
+
+Giặt ngừa dị ứng
+60 °C
+Mẻ giặt tối đa: 4 kg
+
+Mô tả
+Giúp giảm thiểu các chất gây dị ứng bằng cách sử dụng chức năng hơi nước.
+
+• Sử dụng cho vải bông, đồ lót, vỏ gối, ga giường, đồ em bé.
+
+Giặt+Sấy
+40 ℃ (CO (Lạnh) đến 95 ℃)
+Mẻ giặt tối đa: Định mức (Sấy)
+
+Mô tả
+Giặt và sấy quần áo trong cùng một chương trình giặt.
+
+Chỉ sấy
+-
+Mẻ giặt tối đa: Định mức (Sấy)
+
+Mô tả
+Sử dụng các chương trình tự động để sấy được nhiều đồ nhất.
+
+• Đối với hầu hết các trường hợp sấy, hãy đảm bảo tất cả quần áo đều tương đồng về
+chất liệu và độ dày.
+
+Giặt tay/Đồ len
+30 ℃ (CO (Lạnh) đến 40 ℃)
+Mẻ giặt tối đa: 2 kg
+
+Mô tả
+Giặt quần áo mỏng có thể giặt tay và giặt máy như đồ len, đồ lót, đầm v.v...
+
+• Sử dụng bột giặt/nước giặt dành cho đồ len có thể giặt máy.
+
+26
+VẬN HÀNH
+
+Làm sạch lồng giặt
+-
+-
+
+Mô tả
+Chức năng này giúp làm sạch bên trong lồng thiết bị.
+
+Giũ+Vắt
+-
+Mẻ giặt tối đa: Định mức
+
+Mô tả
+Giũ và quay quần áo. Sử dụng nước xả vải nếu cần.
+
+LƯU Ý
+
+• CO (Lạnh): Nước lạnh
+
+• Chọn nhiệt độ nước phù hợp cho chương trình giặt đã chọn. Luôn làm theo nhãn chăm sóc vải hoặc
+hướng dẫn của nhà sản xuất khi giặt để tránh làm hỏng quần áo.
+
+• Chọn nhiệt độ giặt và tốc độ vắt thích hợp cho các chương trình mong muốn.
+
+• Nhiệt độ nước thực tế có thể khác với nhiệt độ được thông báo trong chu trình.
+
+• Khuyến cáo sử dụng chất tẩy trung tính.
+
+Tùy chọn Thêm
+
+LƯU Ý
+
+• Có thể chọn tùy chọn Hẹn giờ cho mọi chương trình giặt trong bảng này.
+
+Chương trình
+Sấy
+Giũ+
+Giặt sơ
+
+Vải bông
+#
+#
+#
+
+Vải bông+
+#
+#
+#
+
+Đồ hỗn hợp
+#
+#
+#
+
+Giặt nhanh 30 phút
+#
+#
+#
+
+Giặt ngừa dị ứng
+#
+#
+
+Giặt+Sấy
+#*1
+#
+#
+
+Chỉ sấy
+#*1
+
+Giặt tay/Đồ len
+#
+
+Giũ+Vắt
+#
+#
+
+*1 Tùy chọn này được tự động chèn vào chương trình và không thể bỏ chọn.
+
+27
+VẬN HÀNH
+
+Tốc độ vắt có thể chọn
+
+Tốc độ vắt
+
+Chương trình
+
+Mặc định
+Khả dụng
+
+Vải bông
+1200 vòng/phút
+Toàn bộ
+
+Vải bông+
+1200 vòng/phút
+Toàn bộ
+
+TIẾNG VIỆT
+
+Đồ hỗn hợp
+1000 vòng/phút
+Toàn bộ
+
+Giặt nhanh 30 phút
+800 vòng/phút
+Toàn bộ
+
+Giặt ngừa dị ứng
+1200 vòng/phút
+Toàn bộ
+
+Giặt+Sấy
+1200 vòng/phút
+1000 tới 1200 vòng/
+phút
+
+Chỉ sấy
+-
+-
+
+Giặt tay/Đồ len
+800 vòng/phút
+Lên tới 800 vòng/phút
+
+Giũ+Vắt
+1200 vòng/phút
+Toàn bộ
+
+LƯU Ý
+
+• Tốc độ vắt tối đa có thể thay đổi tùy theo điều kiện tải. Các giá trị trên được làm tròn đến số hàng trăm
+
+gần nhất.
+
+Để thử nghiệm theo TCVN 8526:2013
+
+• 'Vải bông + Lạnh + Vòng quay 1200 vòng/ phút’ là chế độ phù hợp được thiết kế để giảm thiểu điện năng
+tiêu thụ dành cho mẻ giặt thông thường theo khối lượng giặt.
+
+28
+VẬN HÀNH
+
+Chăn bông và chăn lông vịt
+
+Chương trình sấy
+
+Bí quyết sấy khô thông thường
+
+Kiểm tra nhãn chăm sóc vải trên chăn bông và chăn
+lông vịt trước khi sử dụng chương trình sấy. Khí
+nóng có thể khiến một số loại chăn bông và chăn
+lông vịt bị co lại.
+
+Cao su và Chất dẻo
+
+Sử dụng các chương trình tự động của bạn để sấy
+được nhiều đồ nhất. Cảm biến điện tử đo nhiệt độ
+của khí thải để tăng hoặc giảm nhiệt độ sấy giúp
+cho thời gian phản ứng nhanh hơn và kiểm soát
+nhiệt độ chặt chẽ hơn.
+
+Không sấy bất kỳ món đồ nào được làm hoặc có
+chứa cao su hoặc chất dẻo chẳng hạn như:
+
+• Vòi nước lạnh phải để lại trong suốt quá trình
+sấy.
+
+• Tạp Dề, yếm, vỏ bọc ghế
+
+• Rèm Cửa và khăn trải bàn
+
+• Quá trình tự động này của thiết bị từ giặt đến sấy
+có thể được lựa chọn dễ dàng.
+
+• Thảm Phòng Tắm
+
+Sợi thủy tinh
+
+• Đối với hầu hết các trường hợp sấy, hãy đảm bảo
+tất cả quần áo đều tương đồng về chất liệu và độ
+dày.
+
+Không sấy đồ bằng sợi thủy tinh trong thiết bị. Hạt
+thủy tinh còn sót lại trong thiết bị có thể bám vào
+quần áo và gây kích ứng da.
+
+• Không để thiết bị quá tải bằng cách nhồi quá
+nhiều đồ vào trong lồng giặt. Các đồ giặt phải
+được đảo một cách thoải mái.
+
+LƯU Ý
+
+• Nếu mở cửa và lấy đồ giặt ra trước khi thiết bị
+hoàn thành chương trình, hãy nhớ bấm nút Khởi
+động/Tạm dừng.
+
+• Khi tắt chu trình sấy của thiết bị, động cơ quạt
+sấy có thể tiếp tục hoạt động trong 60 giây.
+
+• Hãy cẩn thận khi lấy quần áo ra khỏi thiết bị vì
+quần áo hoặc thiết bị có thể nóng.
+
+• Sau khi sấy xong, ENd hiển thị trên màn hình.
+Nếu quần áo không được lấy ra khỏi lồng trong
+một thời gian, Cd sẽ xuất hiện trên màn hình và
+thiết bị lộn quần áo định kỳ khoảng 4 giờ để giảm
+nhàu. Để dừng chức năng này, hãy bấm bất kỳ
+nút nào và lấy quần áo ra khỏi lồng.
+
+• Thời gian sấy ước tính thay đổi từ thời gian sấy
+thực tế trong chu kỳ Tự động. Loại vải, kích cỡ
+của tải, và độ khô của máy ảnh hưởng đến thời
+gian sấy.
+
+Đồ len
+
+• Khi bạn chọn chỉ sấy khô, máy sẽ quay tự động
+
+để tăng hiệu quả năng lượng.
+
+Đừng sấy khô đồ len. Duỗi chúng ra theo hình dạng
+ban đầu và trải phẳng ra để làm khô.
+
+Chất liệu len và đan móc
+
+Sử dụng chương trình sấy
+
+Một số chất liệu len và đan móc có thể co lại với
+mức độ khác nhau, tùy thuộc vào chất lượng của
+chúng.
+
+Bạn có thể tùy chỉnh chương trình bằng cách sử
+dụng các chức năng sấy sau:
+
+Luôn luôn trải các món đồ này ra ngay sau khi sấy.
+
+Vải ép chết và Vải tổng hợp
+
+Ä Sấy bình thường
+Giảm thời gian sấy và tiêu thụ năng lượng trong
+suốt chương trình sấy.
+
+Không cho quá nhiều đồ vào thiết bị. Lấy vải ép chết
+ra ngay khi thiết bị dừng lại để làm giảm nhàu.
+
+• Loại vải: Vải bông hoặc các loại vải lanh như khăn
+bông, áo thun và đồ lanh.
+
+• Mẻ giặt tối đa: Định mức
+
+Đồ trẻ sơ sinh và đồ ngủ
+
+Luôn kiểm tra hướng dẫn của nhà sản xuất.
+
+Î Nhiệt độ thấp
+Phù hợp cho việc sấy nhiệt độ thấp giúp quần áo ít
+bị hư hỏng hơn.
+
+29
+VẬN HÀNH
+
+• Loại vải: Đối với vải mỏng
+
+Chỉ sử dụng chức năng sấy
+
+• Mẻ giặt tối đa: 3,5 kg
+
+1
+Chuẩn bị quần áo và cho vào lồng giặt.
+
+LƯU Ý
+
+• Với mẻ giặt có độ khô đồng nhất, toàn bộ đồ
+của mẻ giặt phải tương đồng về chất liệu và
+độ dày.
+
+TIẾNG VIỆT
+
+• Không cho quá nhiều đồ vào lồng giặt. Cần
+có đủ không gian để quần áo được đảo thoải
+mái.
+
+• Công suất giặt quần áo của máy giặt cao gấp đôi
+so với khi sấy quần áo. Nếu máy được sử dụng để
+sấy một mẻ giặt thì mẻ giặt phải nhỏ hơn so với
+hiệu quả sấy. Nếu giặt đầy tải thì hãy lấy ra một
+nửa số quần áo trước khi bắt đầu chương trình
+sấy.
+
+2
+Nhấn nút Nguồn.
+
+• Toàn bộ các chu trình sấy đều bắt đầu bằng một
+chu kỳ vắt nhanh để tách độ ẩm tối đa khỏi mẻ
+giặt trước khi sấy.
+
+• Không chọn chương trình giặt và không cho
+chất tẩy.
+
+Sử dụng chức năng giặt và sấy.
+
+3
+Nhấn nút Sấy nhiều lần trong 3 giây để thay đổi
+
+1
+Chuẩn bị quần áo và cho vào lồng giặt.
+
+giữa các lựa chọn:
+
+• Ä Sấy bình thường - Dùng để sấy thông
+thường
+
+• Với mẻ giặt có độ khô đồng nhất, toàn bộ đồ
+của mẻ giặt phải tương đồng về chất liệu và
+độ dày.
+
+• Î Nhiệt độ thấp - Dùng cho vải mỏng
+
+• Không cho quá nhiều đồ vào lồng giặt. Đồ
+phải đảm bảo đủ không gian để đảo thoải
+mái.
+
+4
+Nhấn nút Khởi động/Tạm dừng.
+
+2
+Nhấn nút Nguồn.
+
+3
+Lựa chọn một chương trình giặt.
+
+4
+Cho bột/nước giặt.
+
+5
+Nhấn nút Sấy nhiều lần trong 3 giây để thay đổi
+
+giữa các lựa chọn:
+
+• Ä Sấy bình thường - Dùng để sấy thông
+thường
+
+• Î Nhiệt độ thấp - Dùng cho vải mỏng
+
+6
+Nhấn nút Khởi động/Tạm dừng.
+
+30
+VẬN HÀNH
+
+4
+Lựa chọn một chương trình giặt.
+
+Các tùy chọn và chức năng
+bổ sung
+
+5
+Tùy chỉnh chương trình giặt (Nhiệt độ, Vắt và
+
+Bạn có thể sử dụng các tùy chọn và chức năng bổ
+sung để tùy chỉnh các chương trình.
+
+Giũ+) khi cần thiết.
+
+Tùy chỉnh chương trình giặt
+
+6
+Nhấn nút Khởi động/Tạm dừng.
+
+Mỗi chương trình có cài đặt mặc định được chọn tự
+động. Bạn cũng có thể tùy chỉnh các cài đặt này
+bằng cách dùng các nút này.
+
+Chỉ sử dụng chức năng vắt
+
+1
+Chuẩn bị quần áo và cho vào lồng giặt.
+
+Nhiệt độ
+Nút này chọn nhiệt độ giặt cho chương trình đã
+chọn.
+
+• Nhấn nút Nhiệt độ cho đến khi nhiệt độ mong
+muốn hiển thị trên màn hình.
+
+2
+Nhấn nút Nguồn.
+
+• Không chọn chương trình giặt và không cho
+chất tẩy.
+
+• Chọn nhiệt độ nước phù hợp với loại đồ mà bạn
+định giặt. Tuân theo nhãn sử dụng vải quần áo
+để đạt kết quả tốt nhất.
+
+3
+Nhấn nút Vắt.
+
+Vắt
+Có thể chọn mức cường độ vắt bằng cách nhấn nút
+này nhiều lần.
+
+• Nhấn nút Vắt để chọn tốc độ vắt.
+
+4
+Nhấn nút Khởi động/Tạm dừng.
+
+LƯU Ý
+
+LƯU Ý
+
+• Nếu chọn mức vắt O, lồng giặt sẽ quay trước khi
+
+tháo nước.
+
+• Nếu chọn một chương trình giặt, bạn sẽ không
+thể chọn chức năng chỉ vắt. Nếu điều này xảy ra,
+hãy nhấn nút Nguồn hai lần để tắt máy và bật trở
+lại.
+
+Giũ+
+Nên dùng chức năng này cho người bị dị ứng với
+nước giặt.
+
+• Nhấn giữ nút Vắt trong 3 giây để thêm lại chức
+năng giũ.
+
+Sử dụng các tùy chọn cơ bản
+
+Bạn có thể tùy chỉnh chương trình bằng cách sử
+dụng các chức tùy chọn cơ bản sau:
+
+Làm theo các bước sau để tùy chỉnh
+chương trình giặt:
+
+1
+Chuẩn bị quần áo và cho vào lồng giặt.
+
+Giặt sơ
+Tùy chọn này được khuyến nghị khi giặt đồ bị bẩn
+nhiều.
+
+1
+Nhấn nút Nguồn.
+
+2
+Nhấn nút Nguồn.
+
+2
+Lựa chọn một chương trình giặt.
+
+3
+Cho bột/nước giặt.
+
+31
+VẬN HÀNH
+
+3
+Nhấn giữ nút Nhiệt độ trong 3 giây khi cần
+
+thiết.
+
+• Khi bảng điều khiển bị khóa, chữ CL và thời gian
+còn lại sẽ hiển thị thay thế trên màn hình trong
+suốt thời gian giặt khi chức năng này được sử
+dụng.
+
+4
+Nhấn nút Khởi động/Tạm dừng.
+
+• Tắt nguồn điện sẽ không xóa trạng thái chức
+năng này. Bạn phải vô hiệu hóa chức năng này
+trước khi có thể truy cập bất kỳ chức năng nào
+khác.
+
+TIẾNG VIỆT
+
+Hẹn giờ
+Bạn có thể đặt chức năng này để thiết bị tự động
+khởi động và hoàn tất sau một khoảng thời gian
+được chỉ định.
+
+Khóa Bảng Điều khiển
+
+1
+Nhấn nút Nguồn.
+
+1
+Bật nguồn điện.
+
+2
+Lựa chọn một chương trình giặt.
+
+2
+Nhấn giữ đồng thời các nút Vắt và Nhiệt độ
+
+trong 3 giây để kích hoạt chức năng này.
+
+3
+Nhấn nút Hẹn giờ khi cần.
+
+• Một tiếng bíp phát ra và CL sẽ xuất hiện trên
+màn hình.
+
+Mở khóa Bảng Điều khiển
+
+4
+Nhấn nút Khởi động/Tạm dừng.
+
+1
+Bật nguồn điện.
+
+LƯU Ý
+
+2
+Nhấn giữ đồng thời các nút Vắt và Nhiệt độ
+
+trong 3 giây để tắt chức năng này.
+
+• Ngoại trừ đèn LED của nút Hẹn giờ, toàn bộ đèn
+LED trên bảng điều khiển sẽ tắt trong 20 phút.
+Tính năng này có thể thay đổi tùy theo kiểu máy
+được mua.
+
+• Giờ hẹn là thời điểm kết thúc chứ không phải bắt
+đầu chương trình. Thời gian hoạt động thực tế có
+thể thay đổi do nhiệt độ nước, quần áo và các yếu
+tố khác.
+
+• Để hủy chức năng, hãy nhấn nút Nguồn.
+
+• Tránh sử dụng nước giặt cho tùy chọn này.
+
+Cài đặt
+
+Khóa trẻ em
+Sử dụng tùy chọn này để vô hiệu hóa các điều
+khiển. Chức năng này có thể ngăn không cho trẻ
+em thay đổi các chu trình hoặc vận hành thiết bị.
+
+LƯU Ý
+
+• Khi đã cài đặt tình năng này, tất cả các nút đều
+được khóa lại ngoại trừ nút Nguồn.
+
+32
+CHỨC NĂNG THÔNG MINH
+
+CHỨC NĂNG THÔNG MINH
+
+Ứng dụng LG ThinQ
+
+• Khởi chạy ứng dụng LG ThinQ và chọn tính năng
+Smart Diagnosis trong menu. Thực hiện theo
+các hướng dẫn chẩn đoán bằng âm thanh được
+cung cấp trong ứng dụng LG ThinQ.
+
+Ứng dụng LG ThinQ giúp giao tiếp với thiết bị bằng
+điện thoại thông minh.
+
+1
+Nhấn nút Nguồn để bật thiết bị.
+
+Tính năng của ứng dụng LG
+ThinQ
+
+• Không bấm bất kỳ nút nào khác.
+
+2
+Đặt loa điện thoại thông minh của bạn gần nút
+
+Giao tiếp với thiết bị qua điện thoại thông minh
+bằng cách sử dụng các tính năng thông minh thuận
+tiện trong điện thoại.
+
+Nguồn.
+
+Max.
+10 mm
+
+Smart Diagnosis
+Chức năng này cung cấp thông tin hữu ích cho việc
+chẩn đoán và giải quyết các vấn đề với thiết bị dựa
+trên hình thái sử dụng.
+
+Cài đặt ứng dụng LG ThinQ
+
+3
+Nhấn giữ nút Vắt, Nhiệt độ và Hẹn giờ trong 3
+
+Tìm ứng dụng LG ThinQ trên Google Play Store
+hoặc Apple App Store trong điện thoại thông minh.
+Thực hiện theo hướng dẫn để tải về và cài đặt ứng
+dụng.
+
+giây trở lên đồng thời giữ loa điện thoại thông
+minh gần nút Nguồn cho đến khi hoàn tất
+truyền dữ liệu.
+
+Smart Diagnosis
+
+• Giữ điện thoại thông minh ở nguyên vị trí
+cho đến khi quá trình truyền dữ liệu kết thúc.
+Thời gian truyền dữ liệu còn lại sẽ được hiển
+thị.
+
+Hãy sử dụng tính năng này để giúp bạn chẩn đoán
+và khắc phục các sự cố với thiết bị của bạn.
+
+4
+Sau khi truyền dữ liệu hoàn tất, kết quả chẩn
+
+LƯU Ý
+
+đoán sẽ được hiển thị trong ứng dụng.
+
+LƯU Ý
+
+• Để đạt kết quả tốt nhất, không di chuyển điện
+
+thoại thông minh trong khi đang truyền âm.
+
+• Có thể xuất hiện các nguyên nhân không bắt
+nguồn từ LGE, dẫn đến việc tính năng này không
+hoạt động do yếu tố bên ngoài như: Wi-Fi không
+có sẵn, ngắt kết nối Wi-Fi, chính sách của kho
+ứng dụng hoặc ứng dụng không có sẵn.
+
+• Tính năng này có thể được thay đổi mà không
+thông báo trước và có thể có phiên bản khác tùy
+vào nơi bạn sử dụng.
+
+Sử dụng tính năng chẩn đoán
+bằng âm thanh để chẩn đoán
+các sự cố
+
+Thực hiện theo các hướng dẫn dưới đây để sử dụng
+phương pháp chẩn đoán âm thanh.
+
+33
+BẢO TRÌ
+
+BẢO TRÌ
+
+CẢNH BÁO
+• Rút phích cắm của thiết bị trước khi vệ sinh để tránh rủi ro điện giật. Không tuân theo cảnh báo này có
+thể dẫn đến thương tích nghiêm trọng, hỏa hoạn, điện giật hoặc tử vong.
+
+• Tuyệt đối không sử dụng hóa chất mạnh, chất tẩy rửa có tính mài mòn hoặc dung môi để vệ sinh thiết
+
+TIẾNG VIỆT
+
+bị. Các chất này có thể làm hư hỏng bề mặt sơn.
+
+Phần bên ngoài
+
+Vệ sinh sau mỗi lần giặt
+
+• Lau khô ngay lập tức mọi chỗ bị tràn.
+
+Bộ phận cần vệ sinh
+
+• Lau bằng vải ẩm, sau đó lau lại bằng vải khô để
+đảm bảo các phần nối và kẽ hở vỏ máy không bị
+ẩm.
+
+Luôn lấy đồ ra khỏi máy giặt ngay khi chu trình
+hoàn tất. Để đồ ẩm ướt trong máy giặt có thể khiến
+đồ bị nhăn, chuyển màu và có mùi.
+
+• Không ấn các vật thể sắc nhọn lên bề mặt hoặc
+màn hình.
+
+• Sau khi hoàn tất chu trình giặt, lau khô cửa và
+gioăng cửa để loại bỏ hơi ẩm.
+
+• Mở hé cửa để làm khô lồng giặt.
+
+Cửa
+
+• Lau khô thiết bị bằng vải khô để loại bỏ độ ẩm.
+
+• Rửa bằng vải ẩm ở mặt ngoài và mặt trong, sau
+đó lau khô bằng vải mềm.
+
+CẢNH BÁO
+• Không thử tách các tấm che chắn hoặc tháo rời
+thiết bị. Không dùng bất kỳ đồ vật sắc nhọn tác
+động vào bảng điều khiển để vận hành thiết bị.
+
+Vệ sinh thiết bị định kỳ
+
+Vệ sinh lồng giặt
+
+Làm sạch lồng giặt
+
+CẢNH BÁO
+• Chỉ để cửa mở để làm khô bên trong thiết bị khi
+
+Đây là chương trình giúp vệ sinh bên trong thiết bị
+bằng cách ngâm, rửa, xả và quay.
+
+trẻ em được giám sát ở nhà.
+
+Chạy chức năng này mỗi tháng một lần (hoặc
+thường xuyên hơn nếu cần thiết) để giảm tích tụ
+chất tẩy, chất làm mềm vải và các chất cặn khác.
+
+Vệ sinh Phần bên ngoài
+
+Chăm sóc thiết bị của bạn đúng cách có thể kéo dài
+tuổi thọ thiết bị.
+
+• Nếu có mùi khó chịu hay ẩm mốc trong thiết bị,
+hãy chạy chức năng này hàng tuần trong vòng
+3 tuần ngoài các khoảng thời gian được khuyến
+nghị thường xuyên.
+
+34
+BẢO TRÌ
+
+• Thông báo 1E sẽ được hiển thị trên bảng điều
+khiển khi nước không vào ngăn kéo chất tẩy.
+
+LƯU Ý
+
+• Tin nhắn tcL sẽ hiển thị để thông báo khuyến
+
+1
+Tắt điện và vòi nước máy sau đó vặn nới ống
+
+nghị sử dụng chức năng này.
+
+cấp nước.
+
+1
+Lấy hết quần áo hoặc đồ ra khỏi thiết bị và
+
+đóng cửa.
+
+2
+Mở ngăn kéo bộ phân phối và thêm bột chống
+
+cặn vôi vào ngăn giặt chính.
+
+• Có thể cho viên nén trực tiếp vào lồng giặt để
+thay thế cho bột giặt.
+
+2
+Tháo bộ lọc ống cấp nước bằng kìm nhỏ, sau đó
+
+vệ sinh bộ lọc sử dụng bàn chải lông cứng ở
+mức trung bình.
+
+3
+Đóng từ từ ngăn kéo bộ phân phối.
+
+4
+Bật nguồn, sau đó chọn Làm sạch lồng giặt.
+
+5
+Nhấn nút Khởi động/Tạm dừng để khởi động.
+
+6
+Mở cửa để làm khô hoàn toàn bên trong thiết
+
+bị.
+
+• Nếu phần bên trong thiết bị không khô hoàn
+toàn thì có thể gây mùi khó chịu hoặc ẩm
+mốc.
+
+Vệ sinh Bộ Lọc Bơm Xả và Tiến
+hành Xả Nước Khẩn Cấp
+
+CẢNH BÁO
+• Chỉ để cửa mở để làm khô bên trong thiết bị khi
+
+trẻ em được giám sát ở nhà.
+
+Bộ lọc xả thu gom chỉ và các vật thể nhỏ có thể vô
+tình sót lại trong quần áo. Đảm bảo vệ sinh bộ lọc 6
+tháng một lần để đảm bảo thiết bị vận hành trơn
+tru.
+
+Chờ nước hạ nhiệt trước khi vệ sinh bộ lọc bơm xả.
+Mở cửa trong trường hợp khẩn cấp hoặc tiến hành
+xả nước khẩn cấp.
+
+Vệ sinh Bộ lọc ống cấp nước
+
+1
+Rút phích cắm của thiết bị.
+
+Bộ lọc ống cấp nước thu gom vôi hoặc bất kỳ chất
+cặn nào có thể có trong nước được cấp đến thiết bị.
+Vệ sinh bộ lọc ống cấp nước khoảng 6 tháng một
+lần hoặc thường xuyên hơn nếu nước quá cứng
+hoặc chứa trầm tích vôi.
+
+• Khóa các vòi nước máy cấp tới thiết bị nếu không
+sử dụng thiết bị trong một khoảng thời gian nhất
+định (như nghỉ lễ), đặc biệt nếu không có đường
+thoát nước sàn (rãnh tháo) ở ngay xung quanh.
+
+35
+BẢO TRÌ
+
+2
+Mở nắp đậy và kéo ống thoát nước ra ngoài.
+
+5
+Vệ sinh bộ lọc bơm và khe hở bằng bàn chải.
+
+TIẾNG VIỆT
+
+6
+Sau khi vệ sinh bộ lọc bơm xả, hãy cẩn thận lắp
+
+lại bộ lọc, cẩn thận vặn nắp xả lại theo chiều
+kim đồng hồ để tránh bị lệch ren và rò rỉ.
+
+3
+Trước tiên, tháo ốc xả nước khỏi ống xả, sau đó
+
+7
+Lắp lại ốc vào ống xả và đặt ống vào giá đỡ. Các
+
+xả nước.
+
+giá đỡ ống theo chiều dọc và chiều ngang được
+cung cấp để bảo quản ống xả đúng cách.
+
+8
+Đóng nắp đậy.
+
+THẬN TRỌNG
+• Cẩn thận khi xả, vì nước có thể nóng.
+
+• Không ấn ống xả lại vào trong vỏ. Điều này sẽ
+làm hỏng ống.
+
+• Chạy chương trình vệ sinh lồng giặt mỗi tháng
+một lần (hoặc thường xuyên hơn nếu cần) để loại
+bỏ bột giặt/nước giặt dư thừa và các mảnh vụn
+khác.
+
+4
+Từ từ vặn bộ lọc bơm xả để xả hết nước còn lại,
+
+sau đó tiến hành loại bỏ hết mảnh vụn hoặc vật
+thể khỏi bộ lọc.
+
+Vệ sinh Ngăn kéo Bộ phân phối
+
+Chất tẩy và nước xả vải có thể tích tụ trong ngăn
+kéo bộ phân phối. Chất tẩy nước có thể lưu lại dưới
+ngăn kéo bộ phân phối và không được phân phối
+hết. Hãy tháo bộ phân phối và kiểm tra tình trạng
+tích tụ các sản phẩm làm sạch một hoặc hai lần
+một tháng.
+
+1
+Tháo rời ngăn kéo bộ phân phối bột giặt/nước
+
+giặt bằng cách kéo thẳng ngăn kéo ra ngoài
+đến khi dừng.
+
+36
+BẢO TRÌ
+
+• Sau đó kéo nhẹ ngăn kéo ra đồng thời ấn
+mạnh nút nhả ly hợp.
+
+2
+Loại bỏ tích tụ của bột giặt/nước giặt và nước
+
+xả vải.
+
+• Rửa sạch ngăn kéo và các khay lồng bằng
+nước ấm để loại bỏ tích tụ từ bột giặt/nước
+giặt và nước xả vải. Chỉ sử dụng nước để vệ
+sinh ngăn kéo bộ phân phối.
+
+3
+Để vệ sinh hốc ngăn kéo, sử dụng vải hoặc bàn
+
+chải nhỏ, không kim loại để vệ sinh hốc.
+
+• Loại bỏ tất cả chất cặn khỏi các phần bên
+trên và bên dưới hốc.
+
+4
+Lau sạch hơi ẩm bằng khăn hoặc vải khô sau
+
+khi vệ sinh.
+
+5
+Gắn lại các khay lồng vào đúng ngăn và lắp
+
+ngăn kéo bộ phân phối chất tẩy.
+
+37
+XỬ LÝ SỰ CỐ
+
+XỬ LÝ SỰ CỐ
+
+Vận hành thiết bị của bạn có thể dẫn đến lỗi và trục trặc. Các bảng sau liệt kê các nguyên nhân có thể có
+và ghi chú để giải quyết thông báo lỗi hoặc trục trặc. Chúng tôi khuyến cáo bạn nên đọc cẩn thận các bảng
+dưới đây để tiết kiệm thời gian và tiền bạc có thể phải trả cho cuộc gọi đến trung tâm dịch vụ LG Electronics.
+
+TIẾNG VIỆT
+
+Trước khi gọi trung tâm dịch vụ
+
+Thiết bị được trang bị hệ thống giám sát lỗi tự động để phát hiện và chẩn đoán các sự cố ở giai đoạn đầu.
+Nếu thiết bị không hoạt động đúng chức năng hoặc hoàn toàn không hoạt động, hãy kiểm tra các bảng
+sau đây trước khi gọi đến trung tâm dịch vụ LG Electronics.
+
+Thông báo Lỗi
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+1E
+
+Nguồn nước yếu ở vị trí đó. Nước không chảy vào thiết bị hoặc chảy vào
+chậm.
+
+LỖI ĐẦU VÀO
+
+• Kiểm tra vòi nước máy khác trong nhà.
+
+Vòi cấp nước máy không mở hoàn toàn. Nước không chảy vào thiết bị
+hoặc chảy vào chậm.
+
+• Mở hết mức vòi nước máy.
+
+(Các) Ống cấp nước bị gập.
+
+• Duỗi thẳng ống hoặc lắp lại ống cấp nước
+
+Bộ lọc của (các) ống cấp bị tắc.
+
+• Kiểm tra và vệ sinh bộ lọc van cấp nước sau khi khóa vòi nước máy và tháo
+các kết nối ống cấp nước dẫn đến máy giặt.
+
+UE
+
+Thiết bị có hệ thống phát hiện và hiệu chỉnh tình trạng mất cân bằng
+thiết bị.
+
+LỖI MẤT CÂN BẰNG
+
+• Quần áo có thể quá ướt vào cuối chu trình, sắp xếp lại mẻ giặt để giúp thiết
+bị vắt đúng. Đóng cửa và nhấn nút Khởi động/Tạm dừng. Có thể mất một
+lúc thiết bị mới bắt đầu vắt. Phải khóa cửa trước khi thiết bị có thể tiến hành
+vắt.
+
+Mẻ giặt quá ít. Nếu giặt riêng lẻ các đồ có trọng lượng nặng (ví dụ: thảm
+trong buồng tắm, áo choàng tắm, v.v.), hệ thống này có thể dừng vắt
+hoặc thậm chí dừng hẳn chu trình vắt.
+
+• Thêm 1 hoặc 2 đồ tương tự hoặc quần áo nhỏ hơn để giúp cân bằng mẻ
+giặt. Đóng cửa và nhấn nút Khởi động/Tạm dừng. Có thể mất một lúc
+trước khi thiết bị bắt đầu vắt. Cửa phải được khóa trước khi thiết bị tiến
+hành vắt.
+
+Ống xả bị gập hoặc tắc. Nước trong thiết bị không xả hoặc xả chậm.
+
+OE
+
+LỖI ĐẦU XẢ NƯỚC
+
+• Vệ sinh và làm thẳng ống xả.
+
+38
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Bộ lọc xả bị tắc.
+
+OE
+
+LỖI ĐẦU XẢ NƯỚC
+
+• Kiểm tra và vệ sinh bộ lọc xả.
+
+Cảm biến cửa bị trục trặc.
+
+dE dE1 dEz dE4
+
+LỖI CỬA
+
+• Vui lòng gọi cho trung tâm dịch vụ của LG. Bạn có thể tìm thấy số điện thoại
+trung tâm dịch vụ của LG tại địa phương trong thẻ bảo hành.
+
+Đây là lỗi điều khiển.
+
+tE
+
+LỖI ĐIỀU KHIỂN
+
+• Rút phích cắm điện và gọi cho bộ phận dịch vụ.
+
+Quá tải động cơ.
+
+LE
+
+LỖI ĐỘNG CƠ BỊ KHÓA
+
+• Cho thiết bị dừng khoảng 30 phút cho đến khi động cơ nguội mát, sau đó,
+khởi động lại chu trình.
+
+Nước đầy tràn do van nước có thể bị hỏng.
+
+FE
+
+LỖI TRÀN
+
+• Đóng vòi nước máy. Rút phích cắm thiết bị. Gọi bộ phận dịch vụ.
+
+Cảm biến mức nước bị trục trặc.
+
+PE
+
+LỖI CẢM BIẾN ÁP SUẤT
+
+• Đóng vòi nước máy. Rút phích cắm thiết bị. Gọi bộ phận dịch vụ.
+
+Cảm biến rung bị trục trặc.
+
+vs
+
+LỖI CẢM BIẾN RUNG
+
+• Gọi cho bộ phận dịch vụ.
+
+Có phải ống cấp/xả nước hoặc bơm xả nước bị đóng băng?
+
+FF
+
+LỖI ĐÓNG BĂNG
+
+• Đổ nước ấm vào lồng giặt để rã đông ống xả và bơm xả. Phủ khăn lau ướt
+và ấm lên ống cấp nước.
+
+PF
+
+Có thể đã xảy ra sự cố mất điện hoặc điện không được cung cấp đủ trong
+quá trình vận hành.
+
+MẤT ĐIỆN
+
+• Nhấn nút Khởi động/Tạm dừng để khởi động lại chu trình.
+
+Chức năng sấy không hoạt động.
+
+dHE
+
+LỖI SẤY
+
+• Gọi cho bộ phận dịch vụ.
+
+Tiếng ồn bạn có thể nghe thấy
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Tiếng ồn lạch cạch lách
+cách
+Các vật thể lạ chẳng hạn như chìa khóa, tiền xu hoặc kim băng có thể
+nằm trong lồng giặt.
+
+• Dừng thiết bị, kiểm tra xem có vật thể lạ trong lồng giặt hay không. Nếu
+vẫn còn tiếng ồn sau khi khởi động lại thiết bị, hãy gọi cho bộ phận dịch vụ.
+
+Âm thanh to
+Quần áo nặng có thể gây âm thanh lớn. Đây là điều bình thường.
+
+• Nếu vẫn tiếp tục phát âm thanh, thiết bị có thể bị mất cân bằng. Hãy dừng
+thiết bị và xếp lại quần áo.
+
+39
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Âm thanh to
+Quần áo có thể không cân.
+
+• Dừng chương trình và xếp lại quần áo sau khi cửa mở.
+
+Tiếng ồn rung
+Vật liệu đóng gói chưa được tháo ra.
+
+• Tháo bỏ vật liệu đóng gói.
+
+Quần áo có thể được bố trí không đều trong lồng giặt.
+
+TIẾNG VIỆT
+
+• Dừng chương trình và xếp lại quần áo sau khi cửa mở.
+
+Chân điều chỉnh độ cao không nằm chắc chắn và đều nhau trên mặt sàn.
+
+• Xem phần hướng dẫn Giữ thăng bằng cho thiết bị để điều chỉnh thăng
+bằng cho thiết bị.
+
+Sàn không đủ chắc chắn.
+
+• Kiểm tra xem sàn có chắc chắn và không bị võng hay không. Xem phần Yêu
+cầu không gian lắp đặt để chọn vị trí thích hợp.
+
+Vận hành
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Nước bị rò rỉ.
+Các đường ống xả trong nhà bị tắc.
+
+• Thông ống nước. Gọi thợ sửa ống nước nếu cần thiết.
+
+Rò rỉ gây ra do lắp đặt ống xả không đúng cách hoặc ống xả bị tắc.
+
+• Vệ sinh và làm thẳng ống xả. Kiểm tra và vệ sinh bộ lọc xả thường xuyên.
+
+Nắp bộ lọc bơm xả không được lắp đúng cách.
+
+• Lắp lại bộ lọc bơm xả.
+
+Thiết bị không hoạt
+động.
+Bảng điều khiển tắt nguồn do không hoạt động.
+
+• Hiện tượng này là bình thường. Nhấn nút Nguồn để bật nguồn thiết bị.
+
+Thiết bị bị rút phích cắm.
+
+• Đảm bảo dây nguồn được cắm chặt vào ổ cắm có điện.
+
+Nguồn cấp nước bị ngắt.
+
+• Vặn vòi cấp nước máy hết mức.
+
+Các mục điều khiển chưa được cài đặt đúng cách.
+
+• Đảm bảo cài đặt chương trình đúng cách. Đóng cửa và nhấn nút Khởi
+động/Tạm dừng.
+
+Cửa đang mở.
+
+• Đóng cửa và đảm bảo không có gì bị kẹt dưới cửa để tránh cửa không đóng
+được hoàn toàn.
+
+40
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Thiết bị không hoạt
+động.
+Cầu dao/cầu chì bị ngắt/cháy.
+
+• Kiểm tra cầu dao/cầu chì trong nhà. Thay thế cầu chì hoặc đặt lại cầu dao.
+Thiết bị nên được lắp trên một mạch nhánh riêng. Thiết bị sẽ tiếp tục lại
+chương trình ở phần đã dừng khi có điện trở lại.
+
+Mục điều khiển cần phải đặt lại.
+
+• Nhấn nút Nguồn, sau đó chọn lại chương trình mong muốn và nhấn nút
+Khởi động/Tạm dừng.
+
+Không nhấn Khởi động/Tạm dừng sau khi cài đặt chương trình.
+
+• Nhấn nút Nguồn, sau đó chọn lại chương trình mong muốn rồi nhấn nút
+Khởi động/Tạm dừng. Thiết bị sẽ tắt nguồn nếu không nhấn nút Khởi
+động/Tạm dừng trong một khoảng thời gian nhất định.
+
+Áp lực nước quá thấp.
+
+• Kiểm tra vòi nước máy khác trong nhà để đảm bảo rằng áp lực nước trong
+nhà đủ.
+
+Thiết bị đang đun nóng nước hoặc tạo hơi nước.
+
+• Lồng giặt có thể ngừng hoạt động tạm thời trong một số chu trình nhất
+định, trong khi nước đang được đun nóng đến nhiệt độ cài đặt.
+
+Thiết bị dừng vài phút
+và sau đó khởi động lại.
+Thiết bị bảo vệ động cơ đã được kích hoạt để ngăn động cơ nóng lên quá
+mức.
+
+• Đây là điều bình thường. Nếu thiết bị bảo vệ động cơ được kích hoạt, thiết
+bị sẽ dừng vài phút và sau đó khởi động lại.
+
+Các nút có thể không
+hoạt động đúng.
+Tùy chọn Khóa trẻ em được kích hoạt.
+
+• Tắt tùy chọn Khóa trẻ em nếu cần.
+
+Cửa không mở.
+Khi thiết bị khởi động, không thể mở cửa vì các lý do an toàn.
+
+• Đây là điều bình thường. Bạn có thể mở cửa an toàn sau khi tắt H/Ã.
+
+Thiết bị không được đổ
+đầy nước thích hợp.
+Bộ lọc cấp nước bị tắc.
+
+• Đảm bảo bộ lọc cấp nước trên van nạp không bị tắc.
+
+Ống cấp có thể bị gập.
+
+• Kiểm tra ống cấp không bị gập hoặc tắc.
+
+Nguồn cấp nước không đủ.
+
+• Đảm bảo cả vòi nước nóng và lạnh đều mở thông suốt.
+
+Ống cấp nước nóng và lạnh bị đảo ngược.
+
+• Kiểm tra các kết nối ống cấp.
+
+Thiết bị không xả được
+nước.
+Ống xả bị gập.
+
+• Đảm bảo ống xả không bị gập.
+
+Ống xả được đặt cao hơn sàn nhà trên 1 m.
+
+• Đảm bảo rằng ống xả không cao hơn 1 m so với đáy của thiết bị.
+
+41
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Sử dụng lượng quá nhiều bột giặt/nước giặt.
+
+• Làm theo những chỉ dẫn do nhà sản xuất bột giặt/nước giặt cung cấp.
+
+Bột giặt/Nước giặt
+không được phân phối
+hết hoặc không phân
+phối được.
+
+Bộ lọc bơm xả có thể bị tắc.
+
+• Vệ sinh bộ lọc xả.
+
+TIẾNG VIỆT
+
+Thời gian chu trình lâu
+hơn bình thường.
+Mẻ giặt quá ít.
+
+• Thêm đồ để thiết bị cân bằng mẻ giặt.
+
+Các đồ nặng lẫn với đồ nhẹ.
+
+• Luôn cố gắng giặt đồ có cùng trọng lượng để giúp thiết bị phân bổ đều
+trọng lượng mẻ giặt khi vắt.
+
+Mẻ giặt bị mất cân bằng.
+
+• Bố trí lại mẻ giặt bằng tay nếu đồ giặt bị quấn vào nhau.
+
+Hoãn kết thúc chu
+trình
+Phát hiện mất cân bằng hoặc chương trình loại bỏ bọt xà phòng được
+bật.
+
+• Hiện tượng này là bình thường. Thời gian còn lại hiển thị trên màn hình chỉ
+là thời lượng ước tính. Thời gian thực tế có thể khác.
+
+Hiệu suất
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Loại bỏ vết bẩn không
+hiệu quả
+Vết bẩn khó giặt từ trước.
+
+• Các đồ đã được giặt từ trước có thể có vết bẩn khó giặt. Các vết bẩn này có
+thể khó loại bỏ và có thể cần giặt tay hoặc xử lý sơ để hỗ trợ loại bỏ vết bẩn.
+
+Ố màu
+Chất tẩy trắng hoặc nước xả vải được phân phối quá sớm.
+
+• Khoang bộ phân phối quá đầy làm cho chất tẩy trắng hoặc nước xả vải
+được phân phối nhanh. Luôn luôn đong chất tẩy trắng hoặc nước xả vải để
+tránh quá đầy.
+
+• Từ từ đóng bộ phân phối chất tẩy
+
+Chất tẩy trắng hoặc nước xả vải được cho trực tiếp lên quần áo trong
+lồng giặt.
+
+• Luôn sử dụng bộ phân phối chất tẩy để đảm bảo chất tẩy hay nước xả vải
+được phân phối đúng cách và đúng lúc trong chương trình.
+
+Chưa phân loại quần áo đúng cách.
+
+• Luôn giặt riêng quần áo tối màu với quần áo trắng và sáng màu để tránh
+bị phai màu.
+
+• Không được giặt chung đồ bẩn nhiều với đồ bẩn ít.
+
+Bị nhăn
+Không lấy đồ ra khỏi thiết bị kịp thời.
+
+• Luôn lấy đồ ra khỏi thiết bị ngay khi chương trình giặt hoàn tất.
+
+42
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Bị nhăn
+Thiết bị bị quá tải.
+
+• Có thể cho đầy đồ giặt vào thiết bị nhưng không được xếp chặt ních đồ
+trong lồng giặt. Cửa thiết bị phải được đóng lại dễ dàng.
+
+Ống cấp nước nóng và lạnh bị đảo ngược.
+
+• Giũ bằng nước nóng có thể khiến quần áo bị nhăn. Kiểm tra các kết nối ống
+cấp.
+
+Tốc độ vắt có thể quá cao.
+
+• Cài đặt tốc độ vắt phù hợp với loại quần áo.
+
+Mùi
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Mùi mốc hoặc nấm mốc
+trong thiết bị
+Lồng giặt không được vệ sinh đúng cách.
+
+• Chạy chức năng Làm sạch lồng giặt thường xuyên.
+
+Mùi khó chịu có thể tỏa ra nếu ống xả không được lắp đúng cách, khiến
+nước chảy ngược (nước chảy ngược vào bên trong thiết bị).
+
+• Khi lắp đặt ống xả, đảm bảo rằng ống không bị gập hoặc bị chặn.
+
+Nếu bộ phân phối chất tẩy không được vệ sinh thường xuyên, mùi có thể
+phát ra từ nấm mốc hoặc các chất lạ.
+
+• Tháo và vệ sinh bộ phân phối chất tẩy, đặc biệt là mặt trên và mặt dưới lỗ
+bộ phân phối.
+
+Sấy
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Sự cố sấy
+Kiểm tra vòi cấp nước máy.
+
+• Không làm quá tải. Kiểm tra xem máy giặt có đang xả đúng cách để rút đủ
+nước từ mẻ giặt. Khi mẻ giặt quá ít để nhào trộn đúng cách. Bỏ thêm vài
+khăn lau.
+
+• Tắt vòi cấp nước máy.
+
+Thời gian sấy quá dài.
+Nhiệt độ môi trường thấp.
+
+• Đảm bảo nhiệt độ nằm trong phạm vi cho phép.
+
+Hiệu quả sấy quá thấp
+hoặc quá kém.
+Nước không được cấp đúng cách. Nước được dùng để tự động vệ sinh
+bộ lọc xơ vải trên lồng giặt trong quá trình sấy.
+
+• Đảm bảo rằng vòi cấp nước đang mở.
+
+Nước không được xả đúng cách.
+
+• Đảm bảo bộ lọc xả không bị tắc.
+
+43
+XỬ LÝ SỰ CỐ
+
+Triệu chứng
+Nguyên nhân có thể & giải pháp
+
+Hiệu quả sấy quá thấp
+hoặc quá kém.
+Thiết bị bị quá tải.
+
+• Kiểm tra công suất tải của chương trình được chọn. Nếu cần thiết, hãy
+thêm chương trình Time Dry.
+
+Tốc độ vắt quá thấp.
+
+• Chọn tốc độ vắt cao nhất được cho phép sử dụng trong chương trình giặt.
+
+TIẾNG VIỆT
+
+Khí nóng phát ra từ
+mặt sau của thiết bị.
+Thiết bị này tạo ra khí nóng để sấy khô quần áo.
+
+• Khí nóng này sấy khô quần áo và tỏa ra từ mặt sau của thiết bị.

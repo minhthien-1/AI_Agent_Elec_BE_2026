@@ -1,0 +1,1166 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\safety\\S004_evn_electrical_safety_away_from_home.pdf",
+  "filename": "S004_evn_electrical_safety_away_from_home.pdf",
+  "file_type": "pdf",
+  "page_count": 9,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Vi   En \n\n",
+          "bbox": [
+            115.5,
+            102.30000305175781,
+            496.0478210449219,
+            121.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "Trang chủ > An toàn điện > Sử dụng điện an toàn",
+          "bbox": [
+            112.875,
+            133.74462890625,
+            349.8576354980469,
+            145.47509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "Nghỉ lễ 2/9: Làm gì để an toàn điện khi\nvắng nhà?",
+          "bbox": [
+            130.875,
+            215.36317443847656,
+            474.8252258300781,
+            261.26153564453125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": " 29/08/2026 - 10:56 (GMT+7)",
+          "bbox": [
+            130.875,
+            274.5,
+            267.1702880859375,
+            285.566162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "Nếu có kế hoạch đi du lịch hoặc vắng nhà dài\nngày trong dịp nghỉ lễ 2/9 này, bạn nên kiểm tra\ncác thiết bị điện trong nhà trước khi khởi hành\nđể bảo đảm an toàn và tránh tiêu thụ điện không\ncần thiết.",
+          "bbox": [
+            130.875,
+            302.1708984375,
+            476.77490234375,
+            408.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "Theo ông Trần Văn Duy – Trưởng ban An toàn Tổng công ty Điện lực\nTP Hà Nội (EVNHANOI), nếu vắng nhà dài ngày, những thiết bị công\nsuất lớn và các bộ sạc cần được ngắt khỏi nguồn điện. Nếu chỉ bấm nút\ntắt hoặc tắt bằng điều khiển, một số thiết bị vẫn duy trì chế độ chờ.",
+          "bbox": [
+            112.875,
+            469.13671875,
+            499.87335205078125,
+            536.54296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "Nhóm cần ưu tiên ngắt nguồn gồm máy điều hòa nhiệt độ, máy giặt,\nmáy sấy, bình nóng lạnh, bếp điện, bếp từ và các thiết bị sinh nhiệt trong\nbếp như lò nướng, nồi cơm điện, ấm đun nước.",
+          "bbox": [
+            112.875,
+            553.13671875,
+            499.867431640625,
+            602.54296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n1/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "Nhân viên EVNHANOI hướng dẫn khách hàng lưu ý an toàn khi sử dụng thiết bị điện trong gia đình. Ảnh:",
+          "bbox": [
+            114.41015625,
+            252.031494140625,
+            498.2911682128906,
+            261.248291015625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "ĐVCC",
+          "bbox": [
+            294.6796875,
+            270.031494140625,
+            318.05194091796875,
+            279.248291015625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "Bộ sạc của điện thoại, máy tính, pin dự phòng và dụng cụ điện cần\nđược rút khỏi ổ điện. Riêng xe đạp điện, xe máy điện, quá trình sạc phải\nkết thúc trước khi gia đình rời nhà, không để phương tiện tiếp tục sạc\nkhi không có người giám sát.",
+          "bbox": [
+            112.875,
+            296.63671875,
+            499.8731689453125,
+            364.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Một số thiết bị khác như tivi, máy tính, máy in, loa và thiết bị giải trí vẫn\ncó thể tiêu thụ điện ở chế độ chờ. Nếu không cần sử dụng trong thời\ngian nhà vắng người, các thiết bị này cũng nên được ngắt nguồn.",
+          "bbox": [
+            112.875,
+            380.63671875,
+            499.8760070800781,
+            430.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "Bạn cũng nên lưu ý kiểm tra chế độ hẹn giờ, tránh để thiết bị tự động\nbật trong thời gian không có người ở nhà.",
+          "bbox": [
+            112.875,
+            446.63671875,
+            499.86181640625,
+            478.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "Với tủ lạnh, tủ đông, nếu vẫn còn thực phẩm cần bảo quản, thiết bị phải\nđược duy trì nguồn điện. Trước khi đi, gia đình nên loại bỏ thực phẩm\ndễ hỏng hoặc sắp hết hạn; kiểm tra cửa tủ đã đóng kín, dây nguồn và\nphích cắm không hư hỏng, ổ cắm không lỏng. Không nên cắm chung tủ\nlạnh với nhiều thiết bị khác trên cùng một ổ cắm.",
+          "bbox": [
+            112.875,
+            494.63671875,
+            499.87518310546875,
+            580.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "Nếu tủ không còn thực phẩm và ngắt điện hoàn toàn, bạn cần vệ sinh,\nlau khô, để cửa hé nhằm hạn chế mùi, ẩm mốc. Việc ngắt và đưa thiết bị\nvào sử dụng trở lại cần thực hiện theo hướng dẫn của nhà sản xuất đối\nvới từng loại tủ.",
+          "bbox": [
+            112.875,
+            596.63671875,
+            499.87115478515625,
+            664.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "Camera và thiết bị an ninh cần được duy trì nguồn điện nếu gia đình\nmuốn hệ thống tiếp tục hoạt động trong thời gian vắng nhà. Trường hợp\ncamera phụ thuộc vào kết nối Internet để giám sát từ xa, router cũng\ncần được duy trì. Trước khi rời nhà, nên kiểm tra hoạt động của hệ",
+          "bbox": [
+            112.875,
+            680.63671875,
+            499.87152099609375,
+            748.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n2/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "thống, thử truy cập camera bằng điện thoại nếu có nhu cầu giám sát từ\nxa; đồng thời bảo đảm thiết bị và bộ nguồn được đặt ở vị trí thông\nthoáng, không bị che phủ hoặc nằm gần nguồn nhiệt.",
+          "bbox": [
+            112.875,
+            30.38671875,
+            499.86962890625,
+            79.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "Ông Trần Văn Duy lưu ý, nếu tủ điện gia đình được phân chia và ghi rõ\ntừng mạch, có thể ngắt những mạch không sử dụng và giữ lại mạch cấp\nđiện cần thiết.",
+          "bbox": [
+            112.875,
+            96.38671875,
+            499.8730773925781,
+            145.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "Người dân không nên tự tháo nắp bảo vệ tủ điện, can thiệp đấu nối\nhoặc thử đóng, ngắt những aptomat chưa xác định rõ chức năng.",
+          "bbox": [
+            112.875,
+            162.38671875,
+            499.8692626953125,
+            193.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "Không nên duy trì cấp điện cho thiết bị có dấu hiệu bất thường trong\nthời gian nhà vắng người.",
+          "bbox": [
+            112.875,
+            210.38671875,
+            499.8655700683594,
+            241.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "Điều quan trọng không phải ngắt càng nhiều thiết bị càng tốt, mà là ngắt\nđúng thiết bị và duy trì đúng nguồn cần thiết. Một vài phút kiểm tra trước\nchuyến đi có thể giúp hạn chế những sự cố điện đáng tiếc khi nhà vắng\nngười.",
+          "bbox": [
+            112.875,
+            258.38671875,
+            499.8695983886719,
+            325.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "Minh Anh\n29/08/2026 - 10:56 (GMT+7)",
+          "bbox": [
+            124.875,
+            364.88671875,
+            487.8644714355469,
+            378.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "# EVN\n# Tập đoàn Điện lực Việt Nam\n# ngành Điện",
+          "bbox": [
+            118.875,
+            418.88671875,
+            421.9541015625,
+            432.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "# Điện lực\n# EVNHANOI\n# an toàn điện",
+          "bbox": [
+            118.875,
+            454.88671875,
+            358.34893798828125,
+            468.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 11,
+          "text": "# sử dụng điện an toàn\n# nghỉ lễ Quốc khánh 2/9",
+          "bbox": [
+            118.875,
+            490.88671875,
+            393.75970458984375,
+            504.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 12,
+          "text": "# thiết bị điện gia đình\n# aptomat\n# phòng chống cháy nổ",
+          "bbox": [
+            118.875,
+            526.88671875,
+            450.416015625,
+            540.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 13,
+          "text": "# xe điện\n# camera an ninh\n# an toàn điện khi vắng nhà",
+          "bbox": [
+            118.875,
+            562.88671875,
+            443.74053955078125,
+            576.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 14,
+          "text": "Share     ",
+          "bbox": [
+            118.875,
+            618.75,
+            281.26171875,
+            637.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 15,
+          "text": "Cùng chuyên mục",
+          "bbox": [
+            112.875,
+            718.4208984375,
+            242.89498901367188,
+            735.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 16,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n3/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "'10 không' hành trang an toàn điện cho học sinh",
+          "bbox": [
+            112.875,
+            259.4208984375,
+            456.74993896484375,
+            276.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": " 16:16, 06/10/2026",
+          "bbox": [
+            112.875,
+            289.673583984375,
+            203.93997192382812,
+            300.566162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "Cùng em học an toàn điện: Nhận biết đúng, hành\nđộng đúng",
+          "bbox": [
+            112.875,
+            583.4208984375,
+            462.9149169921875,
+            620.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": " 09:38, 04/10/2026",
+          "bbox": [
+            112.875,
+            633.75,
+            203.93997192382812,
+            644.816162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n4/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "Sạc đúng cách, giảm nguy cơ mất an toàn điện",
+          "bbox": [
+            112.875,
+            259.4208984375,
+            448.6349182128906,
+            276.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": " 17:10, 24/09/2026",
+          "bbox": [
+            112.875,
+            289.673583984375,
+            203.93997192382812,
+            300.566162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "Xe điện bị ngập nước, cần kiểm tra gì trước khi sạc?",
+          "bbox": [
+            112.875,
+            583.4208984375,
+            489.3899230957031,
+            600.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": " 09:00, 19/09/2026",
+          "bbox": [
+            112.875,
+            613.5,
+            203.93997192382812,
+            624.566162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n5/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "Điện mặt trời mái nhà sau mưa bão: Những dấu hiệu\ncần kiểm tra",
+          "bbox": [
+            112.875,
+            259.4208984375,
+            488.6698913574219,
+            296.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": " 18:00, 15/09/2026",
+          "bbox": [
+            112.875,
+            309.923583984375,
+            203.93997192382812,
+            320.816162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "Bấm để xem thêm",
+          "bbox": [
+            124.875,
+            375.24462890625,
+            210.07199096679688,
+            386.97509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "Tin mới\nXem nhiều nhất",
+          "bbox": [
+            115.875,
+            442.88671875,
+            278.87933349609375,
+            456.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "Toàn văn: Phát biểu bế\nmạc Hội nghị Trung ương\n4 của Tổng Bí thư, Chủ\ntịch nước Tô Lâm",
+          "bbox": [
+            315.375,
+            482.1708984375,
+            499.4071350097656,
+            566.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "Quy định về trách nhiệm\ncủa đảng viên đang công\ntác đối với tổ chức đảng\nvà Nhân dân nơi cư trú",
+          "bbox": [
+            315.375,
+            611.9208984375,
+            495.4198303222656,
+            696.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 9,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n6/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "EVNSPC: Đưa khoa học\ncông nghệ, chuyển đổi\nsố thành động lực phát\ntriển",
+          "bbox": [
+            315.375,
+            31.4208984375,
+            486.2698974609375,
+            115.6787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "Tiếp quản Nhà máy điện\nYên Phụ tháng 10/1954 -\nNgược miền ký ức",
+          "bbox": [
+            315.375,
+            160.4208984375,
+            487.9349365234375,
+            222.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "EVN đẩy mạnh chuyển\nđổi số, lấy khách hàng\nlàm trung tâm",
+          "bbox": [
+            315.375,
+            290.1708984375,
+            477.0899353027344,
+            351.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "Xem thêm",
+          "bbox": [
+            112.875,
+            420.173583984375,
+            157.3057403564453,
+            431.066162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n7/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "Bản quyền thuộc về Tập đoàn Điện lực Việt Nam\nĐiện thoại: 024.66946789  |  Fax: 024.66946666\nGiấy phép số: 34/GP-SVHTT do Sở Văn hoá và Thể thao Thành phố Hà Nội cấp\nngày 19/01/2026.\nThông tin trích từ trang thông tin điện tử này yêu cầu\nghi rõ từ nguồn www.evn.com.vn",
+          "bbox": [
+            112.875,
+            455.49462890625,
+            487.471923828125,
+            545.97509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "Người chịu trách nhiệm quản lý nội dung:\nÔng Ngô Sơn Hải - Phó Tổng giám đốc EVN",
+          "bbox": [
+            112.875,
+            573.99462890625,
+            320.9139404296875,
+            601.47509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 5,
+          "text": "Thực hiện: Trung tâm Truyền thông và Thông tin Điện lực\nĐịa chỉ: Số 11 Cửa Bắc, phường Ba Đình, Hà Nội.\nĐiện thoại: 024.66946731\nEmail: banbientapwebevn.eic@evn.com.vn\n           banbientapwebevn.eic@gmail.com",
+          "bbox": [
+            112.875,
+            617.49462890625,
+            380.03155517578125,
+            692.22509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 6,
+          "text": "Giới thiệu >>",
+          "bbox": [
+            118.875,
+            721.4208984375,
+            211.2449951171875,
+            738.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 7,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n8/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 9,
+          "block_index": 1,
+          "text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            435.6069641113281,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 2,
+          "text": "Văn hóa EVN >>",
+          "bbox": [
+            118.875,
+            35.1708984375,
+            233.9249725341797,
+            51.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 3,
+          "text": "EVN và Khách hàng >>",
+          "bbox": [
+            118.875,
+            65.1708984375,
+            282.2699890136719,
+            81.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 4,
+          "text": "Thông tin hữu ích >>",
+          "bbox": [
+            118.875,
+            95.1708984375,
+            268.094970703125,
+            111.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 5,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            106.3125,
+            496.0478210449219,
+            117.5625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 6,
+          "text": "  ",
+          "bbox": [
+            118.875,
+            126.0,
+            191.5546875,
+            144.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 7,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n9/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Nghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181843+00'00'",
+    "modDate": "D:20261010181843+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "Vi   En\n\n\n\nTrang chủ > An toàn điện > Sử dụng điện an toàn\n\nNghỉ lễ 2/9: Làm gì để an toàn điện khi\nvắng nhà?\n\n 29/08/2026 - 10:56 (GMT+7)\n\nNếu có kế hoạch đi du lịch hoặc vắng nhà dài\nngày trong dịp nghỉ lễ 2/9 này, bạn nên kiểm tra\ncác thiết bị điện trong nhà trước khi khởi hành\nđể bảo đảm an toàn và tránh tiêu thụ điện không\ncần thiết.\n\nTheo ông Trần Văn Duy – Trưởng ban An toàn Tổng công ty Điện lực\nTP Hà Nội (EVNHANOI), nếu vắng nhà dài ngày, những thiết bị công\nsuất lớn và các bộ sạc cần được ngắt khỏi nguồn điện. Nếu chỉ bấm nút\ntắt hoặc tắt bằng điều khiển, một số thiết bị vẫn duy trì chế độ chờ.\n\nNhóm cần ưu tiên ngắt nguồn gồm máy điều hòa nhiệt độ, máy giặt,\nmáy sấy, bình nóng lạnh, bếp điện, bếp từ và các thiết bị sinh nhiệt trong\nbếp như lò nướng, nồi cơm điện, ấm đun nước.\n\n1/9\n\nVi   En\n\n\nNhân viên EVNHANOI hướng dẫn khách hàng lưu ý an toàn khi sử dụng thiết bị điện trong gia đình. Ảnh:\n\nĐVCC\n\nBộ sạc của điện thoại, máy tính, pin dự phòng và dụng cụ điện cần\nđược rút khỏi ổ điện. Riêng xe đạp điện, xe máy điện, quá trình sạc phải\nkết thúc trước khi gia đình rời nhà, không để phương tiện tiếp tục sạc\nkhi không có người giám sát.\n\nMột số thiết bị khác như tivi, máy tính, máy in, loa và thiết bị giải trí vẫn\ncó thể tiêu thụ điện ở chế độ chờ. Nếu không cần sử dụng trong thời\ngian nhà vắng người, các thiết bị này cũng nên được ngắt nguồn.\n\nBạn cũng nên lưu ý kiểm tra chế độ hẹn giờ, tránh để thiết bị tự động\nbật trong thời gian không có người ở nhà.\n\nVới tủ lạnh, tủ đông, nếu vẫn còn thực phẩm cần bảo quản, thiết bị phải\nđược duy trì nguồn điện. Trước khi đi, gia đình nên loại bỏ thực phẩm\ndễ hỏng hoặc sắp hết hạn; kiểm tra cửa tủ đã đóng kín, dây nguồn và\nphích cắm không hư hỏng, ổ cắm không lỏng. Không nên cắm chung tủ\nlạnh với nhiều thiết bị khác trên cùng một ổ cắm.\n\nNếu tủ không còn thực phẩm và ngắt điện hoàn toàn, bạn cần vệ sinh,\nlau khô, để cửa hé nhằm hạn chế mùi, ẩm mốc. Việc ngắt và đưa thiết bị\nvào sử dụng trở lại cần thực hiện theo hướng dẫn của nhà sản xuất đối\nvới từng loại tủ.\n\nCamera và thiết bị an ninh cần được duy trì nguồn điện nếu gia đình\nmuốn hệ thống tiếp tục hoạt động trong thời gian vắng nhà. Trường hợp\ncamera phụ thuộc vào kết nối Internet để giám sát từ xa, router cũng\ncần được duy trì. Trước khi rời nhà, nên kiểm tra hoạt động của hệ\n\n2/9\n\nthống, thử truy cập camera bằng điện thoại nếu có nhu cầu giám sát từ\nxa; đồng thời bảo đảm thiết bị và bộ nguồn được đặt ở vị trí thông\nthoáng, không bị che phủ hoặc nằm gần nguồn nhiệt.\n\nVi   En\n\n\nÔng Trần Văn Duy lưu ý, nếu tủ điện gia đình được phân chia và ghi rõ\ntừng mạch, có thể ngắt những mạch không sử dụng và giữ lại mạch cấp\nđiện cần thiết.\n\nNgười dân không nên tự tháo nắp bảo vệ tủ điện, can thiệp đấu nối\nhoặc thử đóng, ngắt những aptomat chưa xác định rõ chức năng.\n\nKhông nên duy trì cấp điện cho thiết bị có dấu hiệu bất thường trong\nthời gian nhà vắng người.\n\nĐiều quan trọng không phải ngắt càng nhiều thiết bị càng tốt, mà là ngắt\nđúng thiết bị và duy trì đúng nguồn cần thiết. Một vài phút kiểm tra trước\nchuyến đi có thể giúp hạn chế những sự cố điện đáng tiếc khi nhà vắng\nngười.\n\nMinh Anh\n29/08/2026 - 10:56 (GMT+7)\n\n# EVN\n# Tập đoàn Điện lực Việt Nam\n# ngành Điện\n\n# Điện lực\n# EVNHANOI\n# an toàn điện\n\n# sử dụng điện an toàn\n# nghỉ lễ Quốc khánh 2/9\n\n# thiết bị điện gia đình\n# aptomat\n# phòng chống cháy nổ\n\n# xe điện\n# camera an ninh\n# an toàn điện khi vắng nhà\n\nShare     \n\nCùng chuyên mục\n\n3/9\n\nVi   En\n\n\n'10 không' hành trang an toàn điện cho học sinh\n\n 16:16, 06/10/2026\n\nCùng em học an toàn điện: Nhận biết đúng, hành\nđộng đúng\n\n 09:38, 04/10/2026\n\n4/9\n\nVi   En\n\n\nSạc đúng cách, giảm nguy cơ mất an toàn điện\n\n 17:10, 24/09/2026\n\nXe điện bị ngập nước, cần kiểm tra gì trước khi sạc?\n\n 09:00, 19/09/2026\n\n5/9\n\nVi   En\n\n\nĐiện mặt trời mái nhà sau mưa bão: Những dấu hiệu\ncần kiểm tra\n\n 18:00, 15/09/2026\n\nBấm để xem thêm\n\nTin mới\nXem nhiều nhất\n\nToàn văn: Phát biểu bế\nmạc Hội nghị Trung ương\n4 của Tổng Bí thư, Chủ\ntịch nước Tô Lâm\n\nQuy định về trách nhiệm\ncủa đảng viên đang công\ntác đối với tổ chức đảng\nvà Nhân dân nơi cư trú\n\n6/9\n\nEVNSPC: Đưa khoa học\ncông nghệ, chuyển đổi\nsố thành động lực phát\ntriển\n\nVi   En\n\n\nTiếp quản Nhà máy điện\nYên Phụ tháng 10/1954 -\nNgược miền ký ức\n\nEVN đẩy mạnh chuyển\nđổi số, lấy khách hàng\nlàm trung tâm\n\nXem thêm\n\n7/9\n\nVi   En\n\n\nBản quyền thuộc về Tập đoàn Điện lực Việt Nam\nĐiện thoại: 024.66946789  |  Fax: 024.66946666\nGiấy phép số: 34/GP-SVHTT do Sở Văn hoá và Thể thao Thành phố Hà Nội cấp\nngày 19/01/2026.\nThông tin trích từ trang thông tin điện tử này yêu cầu\nghi rõ từ nguồn www.evn.com.vn\n\nNgười chịu trách nhiệm quản lý nội dung:\nÔng Ngô Sơn Hải - Phó Tổng giám đốc EVN\n\nThực hiện: Trung tâm Truyền thông và Thông tin Điện lực\nĐịa chỉ: Số 11 Cửa Bắc, phường Ba Đình, Hà Nội.\nĐiện thoại: 024.66946731\nEmail: banbientapwebevn.eic@evn.com.vn\n           banbientapwebevn.eic@gmail.com\n\nGiới thiệu >>\n\n8/9\n\nVăn hóa EVN >>\n\nEVN và Khách hàng >>\n\nThông tin hữu ích >>\n\nVi   En\n\n\n  \n\n9/9",
+  "removed_repeated_lines": [
+    "01:18 11/10/26",
+    "Nghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?",
+    "https://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 6489,
+    "cleaned_char_count": 5004,
+    "removed_char_count": 1485,
+    "reduction_ratio": 0.2288,
+    "removed_repeated_line_count": 3
+  },
+  "raw_text": "01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nVi   En \n\n\n\nTrang chủ > An toàn điện > Sử dụng điện an toàn\n\nNghỉ lễ 2/9: Làm gì để an toàn điện khi\nvắng nhà?\n\n 29/08/2026 - 10:56 (GMT+7)\n\nNếu có kế hoạch đi du lịch hoặc vắng nhà dài\nngày trong dịp nghỉ lễ 2/9 này, bạn nên kiểm tra\ncác thiết bị điện trong nhà trước khi khởi hành\nđể bảo đảm an toàn và tránh tiêu thụ điện không\ncần thiết.\n\nTheo ông Trần Văn Duy – Trưởng ban An toàn Tổng công ty Điện lực\nTP Hà Nội (EVNHANOI), nếu vắng nhà dài ngày, những thiết bị công\nsuất lớn và các bộ sạc cần được ngắt khỏi nguồn điện. Nếu chỉ bấm nút\ntắt hoặc tắt bằng điều khiển, một số thiết bị vẫn duy trì chế độ chờ.\n\nNhóm cần ưu tiên ngắt nguồn gồm máy điều hòa nhiệt độ, máy giặt,\nmáy sấy, bình nóng lạnh, bếp điện, bếp từ và các thiết bị sinh nhiệt trong\nbếp như lò nướng, nồi cơm điện, ấm đun nước.\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n1/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nVi   En \n\n\nNhân viên EVNHANOI hướng dẫn khách hàng lưu ý an toàn khi sử dụng thiết bị điện trong gia đình. Ảnh:\n\nĐVCC\n\nBộ sạc của điện thoại, máy tính, pin dự phòng và dụng cụ điện cần\nđược rút khỏi ổ điện. Riêng xe đạp điện, xe máy điện, quá trình sạc phải\nkết thúc trước khi gia đình rời nhà, không để phương tiện tiếp tục sạc\nkhi không có người giám sát.\n\nMột số thiết bị khác như tivi, máy tính, máy in, loa và thiết bị giải trí vẫn\ncó thể tiêu thụ điện ở chế độ chờ. Nếu không cần sử dụng trong thời\ngian nhà vắng người, các thiết bị này cũng nên được ngắt nguồn.\n\nBạn cũng nên lưu ý kiểm tra chế độ hẹn giờ, tránh để thiết bị tự động\nbật trong thời gian không có người ở nhà.\n\nVới tủ lạnh, tủ đông, nếu vẫn còn thực phẩm cần bảo quản, thiết bị phải\nđược duy trì nguồn điện. Trước khi đi, gia đình nên loại bỏ thực phẩm\ndễ hỏng hoặc sắp hết hạn; kiểm tra cửa tủ đã đóng kín, dây nguồn và\nphích cắm không hư hỏng, ổ cắm không lỏng. Không nên cắm chung tủ\nlạnh với nhiều thiết bị khác trên cùng một ổ cắm.\n\nNếu tủ không còn thực phẩm và ngắt điện hoàn toàn, bạn cần vệ sinh,\nlau khô, để cửa hé nhằm hạn chế mùi, ẩm mốc. Việc ngắt và đưa thiết bị\nvào sử dụng trở lại cần thực hiện theo hướng dẫn của nhà sản xuất đối\nvới từng loại tủ.\n\nCamera và thiết bị an ninh cần được duy trì nguồn điện nếu gia đình\nmuốn hệ thống tiếp tục hoạt động trong thời gian vắng nhà. Trường hợp\ncamera phụ thuộc vào kết nối Internet để giám sát từ xa, router cũng\ncần được duy trì. Trước khi rời nhà, nên kiểm tra hoạt động của hệ\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n2/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nthống, thử truy cập camera bằng điện thoại nếu có nhu cầu giám sát từ\nxa; đồng thời bảo đảm thiết bị và bộ nguồn được đặt ở vị trí thông\nthoáng, không bị che phủ hoặc nằm gần nguồn nhiệt.\n\nVi   En \n\n\nÔng Trần Văn Duy lưu ý, nếu tủ điện gia đình được phân chia và ghi rõ\ntừng mạch, có thể ngắt những mạch không sử dụng và giữ lại mạch cấp\nđiện cần thiết.\n\nNgười dân không nên tự tháo nắp bảo vệ tủ điện, can thiệp đấu nối\nhoặc thử đóng, ngắt những aptomat chưa xác định rõ chức năng.\n\nKhông nên duy trì cấp điện cho thiết bị có dấu hiệu bất thường trong\nthời gian nhà vắng người.\n\nĐiều quan trọng không phải ngắt càng nhiều thiết bị càng tốt, mà là ngắt\nđúng thiết bị và duy trì đúng nguồn cần thiết. Một vài phút kiểm tra trước\nchuyến đi có thể giúp hạn chế những sự cố điện đáng tiếc khi nhà vắng\nngười.\n\nMinh Anh\n29/08/2026 - 10:56 (GMT+7)\n\n# EVN\n# Tập đoàn Điện lực Việt Nam\n# ngành Điện\n\n# Điện lực\n# EVNHANOI\n# an toàn điện\n\n# sử dụng điện an toàn\n# nghỉ lễ Quốc khánh 2/9\n\n# thiết bị điện gia đình\n# aptomat\n# phòng chống cháy nổ\n\n# xe điện\n# camera an ninh\n# an toàn điện khi vắng nhà\n\nShare     \n\nCùng chuyên mục\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n3/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nVi   En \n\n\n'10 không' hành trang an toàn điện cho học sinh\n\n 16:16, 06/10/2026\n\nCùng em học an toàn điện: Nhận biết đúng, hành\nđộng đúng\n\n 09:38, 04/10/2026\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n4/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nVi   En \n\n\nSạc đúng cách, giảm nguy cơ mất an toàn điện\n\n 17:10, 24/09/2026\n\nXe điện bị ngập nước, cần kiểm tra gì trước khi sạc?\n\n 09:00, 19/09/2026\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n5/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nVi   En \n\n\nĐiện mặt trời mái nhà sau mưa bão: Những dấu hiệu\ncần kiểm tra\n\n 18:00, 15/09/2026\n\nBấm để xem thêm\n\nTin mới\nXem nhiều nhất\n\nToàn văn: Phát biểu bế\nmạc Hội nghị Trung ương\n4 của Tổng Bí thư, Chủ\ntịch nước Tô Lâm\n\nQuy định về trách nhiệm\ncủa đảng viên đang công\ntác đối với tổ chức đảng\nvà Nhân dân nơi cư trú\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n6/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nEVNSPC: Đưa khoa học\ncông nghệ, chuyển đổi\nsố thành động lực phát\ntriển\n\nVi   En \n\n\nTiếp quản Nhà máy điện\nYên Phụ tháng 10/1954 -\nNgược miền ký ức\n\nEVN đẩy mạnh chuyển\nđổi số, lấy khách hàng\nlàm trung tâm\n\nXem thêm\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n7/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nVi   En \n\n\nBản quyền thuộc về Tập đoàn Điện lực Việt Nam\nĐiện thoại: 024.66946789  |  Fax: 024.66946666\nGiấy phép số: 34/GP-SVHTT do Sở Văn hoá và Thể thao Thành phố Hà Nội cấp\nngày 19/01/2026.\nThông tin trích từ trang thông tin điện tử này yêu cầu\nghi rõ từ nguồn www.evn.com.vn\n\nNgười chịu trách nhiệm quản lý nội dung:\nÔng Ngô Sơn Hải - Phó Tổng giám đốc EVN\n\nThực hiện: Trung tâm Truyền thông và Thông tin Điện lực\nĐịa chỉ: Số 11 Cửa Bắc, phường Ba Đình, Hà Nội.\nĐiện thoại: 024.66946731\nEmail: banbientapwebevn.eic@evn.com.vn\n           banbientapwebevn.eic@gmail.com\n\nGiới thiệu >>\n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n8/9\n\n01:18 11/10/26\nNghỉ lễ 2/9: Làm gì để an toàn điện khi vắng nhà?\n\nVăn hóa EVN >>\n\nEVN và Khách hàng >>\n\nThông tin hữu ích >>\n\nVi   En \n\n\n  \n\nhttps://www.evn.com.vn/d/vi-VN/news/Nghi-le-29-Lam-gi-de-an-toan-dien-khi-vang-nha-60-2021-509433\n9/9",
+  "char_count": 6489
+}

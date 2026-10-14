@@ -1,0 +1,4127 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T008_ariston_water_heater_maintenance.pdf",
+  "filename": "T008_ariston_water_heater_maintenance.pdf",
+  "file_type": "pdf",
+  "page_count": 15,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP\nHướng dẫn các bước bảo dưỡng bình nóng\nlạnh đúng cách",
+          "bbox": [
+            46.5,
+            153.08999633789062,
+            517.3316040039062,
+            235.90200805664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "Đã xuất bản trên",
+          "bbox": [
+            46.5,
+            568.5900268554688,
+            122.91891479492188,
+            581.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "13 Tháng 8 2026",
+          "bbox": [
+            46.5,
+            585.0900268554688,
+            125.82740783691406,
+            597.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "Bảo dưỡng bình nóng lạnh nên được thực hiện khi thiết bị có dấu hiệu như nước nóng chậm, nhiệt độ không",
+          "bbox": [
+            46.5,
+            631.5900268554688,
+            556.7364501953125,
+            644.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "ổn định, nước chảy yếu, rò rỉ nước hoặc phát ra tiếng ồn bất thường. Quy trình bảo dưỡng gồm chuẩn bị dụng",
+          "bbox": [
+            46.5,
+            648.0900268554688,
+            562.9104614257812,
+            660.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "cụ và các biện pháp an toàn, vệ sinh bên ngoài và bên trong bình, kiểm tra các bộ phận như thanh đốt, thanh",
+          "bbox": [
+            46.5,
+            664.5900268554688,
+            561.6505126953125,
+            677.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "Magie, rơ-le, giăng cao su, sau đó lắp lại và kiểm tra thiết bị trước khi đưa vào sử dụng.",
+          "bbox": [
+            46.5,
+            681.0900268554688,
+            455.5059814453125,
+            693.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "Bảo dưỡng bình nóng lạnh là một phần quan trọng của việc duy trì hiệu suất và tuổi thọ của thiết bị sau một",
+          "bbox": [
+            46.5,
+            725.3400268554688,
+            537.6370239257812,
+            738.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "khoảng thời gian sử dụng. Để thực hiện công việc này đúng cách, hãy cùng khám phá cách bảo dưỡng máy nóng",
+          "bbox": [
+            46.5,
+            741.8400268554688,
+            564.3070068359375,
+            754.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n1/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "lạnh tại nhà một cách hiệu quả.",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            189.2263641357422,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "1. Vì sao nên thực hiện bảo dưỡng bình nóng lạnh định kỳ?",
+          "bbox": [
+            46.5,
+            71.94000244140625,
+            530.3034057617188,
+            93.86399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "Bảo dưỡng máy nóng lạnh định kỳ giúp thiết bị vận hành ổn định, kéo dài tuổi thọ, đảm bảo an toàn cho người sử",
+          "bbox": [
+            46.5,
+            102.83999633789062,
+            563.2044677734375,
+            115.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "dụng và góp phần tiết kiệm điện năng. Dưới đây là những lý do nên thực hiện bảo dưỡng máy nóng lạnh theo",
+          "bbox": [
+            46.5,
+            119.33999633789062,
+            546.1734619140625,
+            132.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "định kỳ.",
+          "bbox": [
+            46.5,
+            135.83999633789062,
+            81.56996154785156,
+            148.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "Tăng tuổi thọ cho máy nóng lạnh: Sau thời gian sử dụng, cặn bẩn và khoáng chất có thể tích tụ bên trong",
+          "bbox": [
+            61.5,
+            156.08999633789062,
+            546.3380126953125,
+            168.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "bình, làm ảnh hưởng đến khả năng làm nóng và khiến một số bộ phận máy nóng lạnh nhanh xuống cấp. Bảo",
+          "bbox": [
+            61.5,
+            172.58999633789062,
+            557.70849609375,
+            185.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "dưỡng định kỳ giúp làm sạch cặn bám, phát hiện sớm các dấu hiệu hao mòn để duy trì tuổi thọ của bình nóng",
+          "bbox": [
+            61.5,
+            189.08999633789062,
+            561.43603515625,
+            201.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "lạnh",
+          "bbox": [
+            61.5,
+            205.58999633789062,
+            80.97747802734375,
+            218.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "Đảm bảo an toàn cho người sử dụng: Nếu không được vệ sinh và kiểm tra thường xuyên, bình nóng lạnh có",
+          "bbox": [
+            61.5,
+            225.83999633789062,
+            557.1135864257812,
+            238.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "thể phát sinh các sự cố như rò rỉ điện, rò nước hoặc hư hỏng linh kiện bên trong. Bảo dưỡng định kỳ giúp kiểm",
+          "bbox": [
+            61.5,
+            242.33999633789062,
+            564.4810791015625,
+            255.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "tra tình trạng thiết bị, từ đó giảm nguy cơ mất an toàn trong quá trình sử dụng",
+          "bbox": [
+            61.5,
+            258.8399963378906,
+            414.2471923828125,
+            271.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "Tiết kiệm điện năng: Lớp cặn bám trên thanh đốt sẽ làm giảm hiệu quả truyền nhiệt, khiến bình nóng lạnh cần",
+          "bbox": [
+            61.5,
+            279.0899963378906,
+            566.1062622070312,
+            291.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 17,
+          "text": "nhiều thời gian hơn để làm nóng nước. Việc vệ sinh và bảo dưỡng định kỳ giúp thiết bị gia nhiệt hiệu quả hơn,",
+          "bbox": [
+            61.5,
+            295.5899963378906,
+            562.7169189453125,
+            308.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 18,
+          "text": "góp phần hạn chế điện năng tiêu thụ không cần thiết.",
+          "bbox": [
+            61.5,
+            312.0899963378906,
+            307.02130126953125,
+            324.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 19,
+          "text": "Bảo dưỡng máy nóng lạnh định kỳ theo khuyến nghị từ nhà sản xuất giúp thiết bị hoạt động ổn định và bền bỉ",
+          "bbox": [
+            55.921875,
+            571.5900268554688,
+            556.8239135742188,
+            584.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 20,
+          "text": "hơn.",
+          "bbox": [
+            296.3671875,
+            588.0900268554688,
+            316.36968994140625,
+            600.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 21,
+          "text": "2. Khi nào cần bảo dưỡng bình nóng lạnh tại nhà?",
+          "bbox": [
+            46.5,
+            653.9400024414062,
+            456.84552001953125,
+            675.864013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 22,
+          "text": "Bạn nên bảo dưỡng máy nóng lạnh định kỳ sau mỗi 1 - 2 năm, đồng thời kiểm tra và xả cặn khoảng 6 tháng/lần",
+          "bbox": [
+            46.5,
+            684.8400268554688,
+            552.0535278320312,
+            697.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 23,
+          "text": "nếu thiết bị sử dụng thường xuyên hoặc nguồn nước có nhiều cặn. Ngoài mốc thời gian này, bạn cũng nên bảo",
+          "bbox": [
+            46.5,
+            701.3400268554688,
+            552.011474609375,
+            714.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 24,
+          "text": "dưỡng sớm khi xuất hiện các dấu hiệu như nước nóng chậm, nước không đủ nóng, khả năng điều chỉnh nhiệt độ",
+          "bbox": [
+            46.5,
+            717.8400268554688,
+            559.2039794921875,
+            730.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 25,
+          "text": "giảm, đèn báo sáng nhưng nước không nóng, rò rỉ điện hoặc lưu lượng nước yếu hơn bình thường.",
+          "bbox": [
+            46.5,
+            734.3400268554688,
+            494.5660705566406,
+            747.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 26,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n2/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "Trong quá trình bảo dưỡng, cần kiểm tra lượng cặn bám trong bình và trên thanh đốt để vệ sinh hoặc thay thế khi",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            562.6585083007812,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "cần thiết. Việc xử lý cặn bám kịp thời giúp hạn chế hao mòn các bộ phận bên trong, duy trì hiệu quả làm nóng và",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            560.91552734375,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "góp phần kéo dài tuổi thọ của bình nóng lạnh.",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            257.3818054199219,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "Xem thêm: Nguyên nhân máy nước nóng không nóng và cách khắc phục",
+          "bbox": [
+            46.5,
+            83.33999633789062,
+            380.20660400390625,
+            96.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "3. Bảo dưỡng bình nóng lạnh gồm những gì?",
+          "bbox": [
+            46.5,
+            125.19000244140625,
+            414.6175537109375,
+            147.11399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "Bảo dưỡng bình nóng lạnh bao gồm việc kiểm tra, vệ sinh và đánh giá tình trạng của các bộ phận như lòng bình,",
+          "bbox": [
+            46.5,
+            156.08999633789062,
+            559.1619873046875,
+            168.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "thanh đốt, thanh Magie, rơ-le, van áp suất, vỏ nhựa, lớp cách nhiệt, đèn hiển thị, dây nguồn điện, bộ điều khiển",
+          "bbox": [
+            46.5,
+            172.58999633789062,
+            551.8119506835938,
+            185.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 11,
+          "text": "nhiệt độ và đường dẫn nước. Dưới đây là vai trò của từng bộ phận và những hạng mục cần kiểm tra trong quá",
+          "bbox": [
+            46.5,
+            189.08999633789062,
+            545.7219848632812,
+            201.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 12,
+          "text": "trình bảo dưỡng máy nóng lạnh.",
+          "bbox": [
+            46.5,
+            205.58999633789062,
+            192.41835021972656,
+            218.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 13,
+          "text": "Lòng bình nóng lạnh: Lòng bình cần được vệ sinh để loại bỏ cặn bẩn tích tụ sau thời gian sử dụng. Việc làm",
+          "bbox": [
+            61.5,
+            225.83999633789062,
+            554.3282470703125,
+            238.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 14,
+          "text": "sạch định kỳ giúp duy trì khả năng chứa nước và hỗ trợ quá trình làm nóng ổn định.",
+          "bbox": [
+            61.5,
+            242.33999633789062,
+            440.27667236328125,
+            255.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 15,
+          "text": "Thanh đốt: Thanh đốt cần được kiểm tra để phát hiện tình trạng bám cặn hoặc hư hỏng. Nếu cặn bám quá",
+          "bbox": [
+            61.5,
+            262.5899963378906,
+            547.6273193359375,
+            275.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 16,
+          "text": "nhiều hoặc thanh đốt hoạt động kém, nên vệ sinh hoặc thay thế để duy trì hiệu quả làm nóng.",
+          "bbox": [
+            61.5,
+            279.0899963378906,
+            490.4560852050781,
+            291.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 17,
+          "text": "Thanh Magie: Thanh Magie có nhiệm vụ hạn chế ăn mòn các bộ phận kim loại bên trong bình nóng lạnh. Khi",
+          "bbox": [
+            61.5,
+            299.3399963378906,
+            559.3330078125,
+            312.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 18,
+          "text": "thanh Magie bị hao mòn quá mức, cần thay mới để tiếp tục bảo vệ lòng bình.",
+          "bbox": [
+            61.5,
+            315.8399963378906,
+            411.9371643066406,
+            328.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 19,
+          "text": "Bộ phận rơ-le: Rơ-le cần được kiểm tra để đảm bảo khả năng đóng ngắt và kiểm soát nhiệt độ hoạt động bình",
+          "bbox": [
+            61.5,
+            336.0899963378906,
+            564.8264770507812,
+            348.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 20,
+          "text": "thường. Nếu rơ-le gặp sự cố, bình nóng lạnh có thể làm nóng không ổn định hoặc hoạt động không đúng",
+          "bbox": [
+            61.5,
+            352.5899963378906,
+            541.738037109375,
+            365.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 21,
+          "text": "cách.",
+          "bbox": [
+            61.5,
+            369.0899963378906,
+            85.63948059082031,
+            381.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 22,
+          "text": "Van áp suất: Van áp suất cần được kiểm tra để đảm bảo khả năng xả áp khi áp suất trong bình tăng cao. Nếu",
+          "bbox": [
+            61.5,
+            389.3399963378906,
+            560.7731323242188,
+            402.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 23,
+          "text": "van bị kẹt hoặc hoạt động không bình thường, nên vệ sinh hoặc thay thế khi cần.",
+          "bbox": [
+            61.5,
+            405.8399963378906,
+            431.5406799316406,
+            418.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 24,
+          "text": "Vỏ nhựa: Vỏ nhựa cần được kiểm tra để phát hiện các dấu hiệu nứt, vỡ hoặc biến dạng. Bộ phận này nên",
+          "bbox": [
+            61.5,
+            426.0899963378906,
+            540.9569091796875,
+            438.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 25,
+          "text": "được vệ sinh sạch sẽ nhằm hạn chế bụi bẩn và hơi ẩm bám trên bề mặt.",
+          "bbox": [
+            61.5,
+            442.5899963378906,
+            389.7716979980469,
+            455.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 26,
+          "text": "Lớp cách nhiệt: Lớp cách nhiệt cần được kiểm tra để đảm bảo khả năng giữ nhiệt của bình nóng lạnh. Nếu lớp",
+          "bbox": [
+            61.5,
+            462.8399963378906,
+            565.38427734375,
+            475.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 27,
+          "text": "cách nhiệt bị hư hỏng, hiệu quả giữ nhiệt có thể giảm và làm tăng điện năng tiêu thụ.",
+          "bbox": [
+            61.5,
+            479.3399963378906,
+            448.6136474609375,
+            492.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 28,
+          "text": "Đèn hiển thị trạng thái khi bật và tắt: Đèn hiển thị cần hoạt động bình thường để người dùng dễ theo dõi",
+          "bbox": [
+            61.5,
+            499.5899963378906,
+            545.5398559570312,
+            512.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 29,
+          "text": "trạng thái của bình nóng lạnh. Nếu đèn không sáng hoặc hiển thị bất thường, cần kiểm tra để xác định nguyên",
+          "bbox": [
+            61.5,
+            516.0900268554688,
+            565.384033203125,
+            528.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 30,
+          "text": "nhân.",
+          "bbox": [
+            61.5,
+            532.5900268554688,
+            86.81547546386719,
+            545.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 31,
+          "text": "Dây nguồn điện: Dây nguồn điện cần được kiểm tra để phát hiện tình trạng nứt, hở hoặc lỏng đầu nối. Việc",
+          "bbox": [
+            61.5,
+            552.8400268554688,
+            551.1932373046875,
+            565.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 32,
+          "text": "đảm bảo dây nguồn còn tốt giúp bình nóng lạnh vận hành an toàn hơn.",
+          "bbox": [
+            61.5,
+            569.3400268554688,
+            386.7056884765625,
+            582.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 33,
+          "text": "Điều khiển nhiệt độ: Bộ điều khiển nhiệt độ cần được kiểm tra để đảm bảo khả năng cài đặt và duy trì mức",
+          "bbox": [
+            61.5,
+            589.5900268554688,
+            551.4490356445312,
+            602.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 34,
+          "text": "nhiệt mong muốn. Nếu điều chỉnh nhiệt độ không chính xác, nên kiểm tra hoặc thay thế bộ phận này.",
+          "bbox": [
+            61.5,
+            606.0900268554688,
+            524.1400756835938,
+            618.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 35,
+          "text": "Đường dẫn nước: Đường dẫn nước cần được kiểm tra để phát hiện cặn bẩn, rò rỉ hoặc tắc nghẽn. Việc vệ sinh",
+          "bbox": [
+            61.5,
+            626.3400268554688,
+            564.5247802734375,
+            639.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 36,
+          "text": "và xử lý kịp thời giúp nước lưu thông ổn định và hỗ trợ bình nóng lạnh hoạt động hiệu quả.",
+          "bbox": [
+            61.5,
+            642.8400268554688,
+            473.1521301269531,
+            655.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 37,
+          "text": "Xem thêm: Cách kiểm tra rơ le nhiệt bình nóng lạnh Ariston và thay mới",
+          "bbox": [
+            46.5,
+            663.0900268554688,
+            372.5731201171875,
+            675.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 38,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n3/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": "Kiểm tra và vệ sinh đầy đủ các bộ phận giúp bình nóng lạnh vận hành hiệu quả.",
+          "bbox": [
+            124.53515625,
+            257.3399963378906,
+            488.1918029785156,
+            270.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "4. Hướng dẫn cách bảo dưỡng bình nóng lạnh chi tiết",
+          "bbox": [
+            46.5,
+            323.19000244140625,
+            487.1394348144531,
+            345.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": "Để bảo dưỡng bình nóng lạnh đúng cách, bạn cần chuẩn bị đầy đủ dụng cụ và thực hiện theo đúng quy trình",
+          "bbox": [
+            46.5,
+            354.0899963378906,
+            543.5905151367188,
+            366.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "nhằm đảm bảo an toàn cũng như hiệu quả. Dưới đây là hướng dẫn chi tiết từ khâu chuẩn bị đến các bước thực",
+          "bbox": [
+            46.5,
+            370.5899963378906,
+            548.7040405273438,
+            383.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 8,
+          "text": "hiện để bạn dễ dàng theo dõi.",
+          "bbox": [
+            46.5,
+            387.0899963378906,
+            184.8898468017578,
+            399.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 9,
+          "text": "4.1 Chuẩn bị",
+          "bbox": [
+            46.5,
+            412.95001220703125,
+            128.75991821289062,
+            431.2200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 10,
+          "text": "- Về dụng cụ:",
+          "bbox": [
+            46.5,
+            440.3399963378906,
+            107.00093841552734,
+            453.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 11,
+          "text": "Tua vít.",
+          "bbox": [
+            61.5,
+            460.5899963378906,
+            93.62996673583984,
+            473.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 12,
+          "text": "Cờ lê hoặc mỏ lết.",
+          "bbox": [
+            61.5,
+            480.8399963378906,
+            144.51292419433594,
+            493.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 13,
+          "text": "Kìm.",
+          "bbox": [
+            61.5,
+            501.0899963378906,
+            81.07198333740234,
+            513.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 14,
+          "text": "Khăn mềm hoặc khăn lau.",
+          "bbox": [
+            61.5,
+            521.3400268554688,
+            179.7823944091797,
+            534.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 15,
+          "text": "Bàn chải mềm.",
+          "bbox": [
+            61.5,
+            541.5900268554688,
+            129.02545166015625,
+            554.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 16,
+          "text": "Chậu hoặc xô chứa nước.",
+          "bbox": [
+            61.5,
+            561.8400268554688,
+            177.30438232421875,
+            574.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 17,
+          "text": "Găng tay bảo hộ.",
+          "bbox": [
+            61.5,
+            582.0900268554688,
+            139.94541931152344,
+            594.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 18,
+          "text": "- Về các biện pháp an toàn trước khi thực hiện:",
+          "bbox": [
+            46.5,
+            602.3400268554688,
+            259.2613220214844,
+            615.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 19,
+          "text": "Tắt nguồn điện: Ngắt hoàn toàn nguồn điện cấp cho bình nóng lạnh trước khi bảo dưỡng để hạn chế nguy cơ",
+          "bbox": [
+            61.5,
+            622.5900268554688,
+            562.8544921875,
+            635.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 20,
+          "text": "mất an toàn trong quá trình thao tác.",
+          "bbox": [
+            61.5,
+            639.0900268554688,
+            228.14535522460938,
+            651.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 21,
+          "text": "Khóa van nước: Khóa van cấp nước vào bình và mở vòi nước nóng để xả áp suất còn lại bên trong.",
+          "bbox": [
+            61.5,
+            659.3400268554688,
+            512.6221923828125,
+            672.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 22,
+          "text": "Xả hết nước trong bình: Xả toàn bộ nước trong bình trước khi tháo các bộ phận để thuận tiện cho việc vệ sinh",
+          "bbox": [
+            61.5,
+            679.5900268554688,
+            565.6862182617188,
+            692.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 23,
+          "text": "và kiểm tra.",
+          "bbox": [
+            61.5,
+            696.0900268554688,
+            114.251953125,
+            708.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 24,
+          "text": "Chuẩn bị khu vực làm việc: Đảm bảo khu vực bảo dưỡng khô ráo, đủ ánh sáng và có không gian thao tác",
+          "bbox": [
+            61.5,
+            716.3400268554688,
+            544.628662109375,
+            729.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 25,
+          "text": "thuận tiện.",
+          "bbox": [
+            61.5,
+            732.8400268554688,
+            109.75794982910156,
+            745.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 26,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n4/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "4.2 Các bước thực hiện",
+          "bbox": [
+            46.5,
+            35.70000076293945,
+            202.57489013671875,
+            53.970001220703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "Để bảo dưỡng bình nóng lạnh đúng cách, người dùng cần thực hiện lần lượt các bước như tháo và vệ sinh bên",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            549.5335083007812,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "ngoài, vệ sinh bên trong bình, kiểm tra các bộ phận quan trọng rồi lắp lại thiết bị. Hãy tham khảo hướng dẫn chi",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            555.0880126953125,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": "tiết dưới đây để thực hiện đúng quy trình và hạn chế ảnh hưởng đến khả năng vận hành của bình nóng lạnh.",
+          "bbox": [
+            46.5,
+            96.08999633789062,
+            540.4509887695312,
+            108.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "4.2.1 Tháo, bảo dưỡng và vệ sinh bên ngoài bình nóng lạnh",
+          "bbox": [
+            46.5,
+            116.33999633789062,
+            324.8232116699219,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 8,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 9,
+          "text": "Trước khi tháo bình nóng lạnh, hãy tháo lớp vỏ ngoài và vệ sinh bề mặt bằng khăn mềm để loại bỏ bụi bẩn hoặc",
+          "bbox": [
+            46.5,
+            132.83999633789062,
+            557.4140625,
+            145.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 10,
+          "text": "hơi ẩm bám trên thiết bị. Đồng thời, quan sát tình trạng vỏ bình, các vị trí lắp ghép và dây dẫn để phát hiện dấu",
+          "bbox": [
+            46.5,
+            149.33999633789062,
+            552.3370971679688,
+            162.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 11,
+          "text": "hiệu nứt, lỏng hoặc hư hỏng nếu có. Việc vệ sinh bên ngoài giúp bình nóng lạnh sạch sẽ hơn và hỗ trợ kiểm tra",
+          "bbox": [
+            46.5,
+            165.83999633789062,
+            553.4080200195312,
+            178.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 12,
+          "text": "tổng quan trước khi bảo dưỡng các bộ phận bên trong.",
+          "bbox": [
+            46.5,
+            182.33999633789062,
+            297.5337829589844,
+            195.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 13,
+          "text": "Làm sạch và kiểm tra bên ngoài bình nóng lạnh trước khi tháo các bộ phận.",
+          "bbox": [
+            134.5078125,
+            441.8399963378906,
+            478.23553466796875,
+            454.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 14,
+          "text": "4.2.2 Tháo, bảo dưỡng và vệ sinh bên trong bình nóng lạnh",
+          "bbox": [
+            46.5,
+            486.0899963378906,
+            326.8182067871094,
+            498.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 15,
+          "text": "Sau khi xả hết nước trong bình, tiến hành tháo các bộ phận cần thiết để vệ sinh bên trong theo đúng hướng dẫn.",
+          "bbox": [
+            46.5,
+            502.5899963378906,
+            560.7265014648438,
+            515.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 16,
+          "text": "Loại bỏ cặn bẩn bám trong lòng bình và làm sạch các vị trí tiếp xúc với nước để hạn chế tình trạng đóng cặn lâu",
+          "bbox": [
+            46.5,
+            519.0900268554688,
+            555.3189697265625,
+            531.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 17,
+          "text": "ngày. Sau khi vệ sinh xong, kiểm tra lại các chi tiết bên trong trước khi chuyển sang bước bảo dưỡng từng bộ",
+          "bbox": [
+            46.5,
+            535.5900268554688,
+            542.5194702148438,
+            548.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 18,
+          "text": "phận.",
+          "bbox": [
+            46.5,
+            552.0900268554688,
+            72.03598022460938,
+            564.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 19,
+          "text": "4.2.3 Bảo dưỡng các bộ phận",
+          "bbox": [
+            46.5,
+            572.3400268554688,
+            185.57237243652344,
+            585.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 20,
+          "text": "Sau khi vệ sinh bên trong bình nóng lạnh, bạn hãy tiếp tục kiểm tra và bảo dưỡng các bộ phận quan trọng dưới",
+          "bbox": [
+            46.5,
+            588.8400268554688,
+            553.4710083007812,
+            601.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 21,
+          "text": "đây",
+          "bbox": [
+            46.5,
+            605.3400268554688,
+            63.23698425292969,
+            618.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 22,
+          "text": "Đối với rơ-le và giắc cắm chân sợi đốt: Kiểm tra tình trạng hoạt động của rơ-le và giắc cắm để bảo đảm các",
+          "bbox": [
+            61.5,
+            625.5900268554688,
+            553.8966064453125,
+            638.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 23,
+          "text": "đầu nối vẫn chắc chắn và không có dấu hiệu cháy hoặc oxy hóa. Nếu phát hiện linh kiện bị hư hỏng hoặc tiếp",
+          "bbox": [
+            61.5,
+            642.0900268554688,
+            562.4334716796875,
+            654.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 24,
+          "text": "xúc kém, nên thay thế bằng phụ kiện phù hợp. Bước kiểm tra này giúp bình nóng lạnh vận hành ổn định sau",
+          "bbox": [
+            61.5,
+            658.5900268554688,
+            554.2750244140625,
+            671.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 25,
+          "text": "khi hoàn tất bảo dưỡng.",
+          "bbox": [
+            61.5,
+            675.0900268554688,
+            170.35340881347656,
+            687.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 26,
+          "text": "Đối với giăng cao su: Kiểm tra giăng cao su để phát hiện dấu hiệu chai cứng, nứt hoặc biến dạng sau thời",
+          "bbox": [
+            61.5,
+            695.3400268554688,
+            544.9593505859375,
+            708.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 27,
+          "text": "gian sử dụng. Nếu giăng không còn đảm bảo độ kín, nên thay mới để hạn chế nguy cơ rò rỉ nước. Đồng thời,",
+          "bbox": [
+            61.5,
+            711.8400268554688,
+            556.2279663085938,
+            724.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 28,
+          "text": "vệ sinh sạch vị trí lắp giăng trước khi lắp lại nhằm tăng khả năng làm kín.",
+          "bbox": [
+            61.5,
+            728.3400268554688,
+            391.6827087402344,
+            741.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 29,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n5/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "Đối với ruột bình nóng lạnh: Ruột bình cần được kiểm tra để đánh giá tình trạng cặn bám hoặc dấu hiệu ăn",
+          "bbox": [
+            61.5,
+            30.09000015258789,
+            552.1266479492188,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "mòn sau thời gian sử dụng. Nếu có nhiều cặn, hãy vệ sinh sạch để duy trì khả năng trao đổi nhiệt của bình",
+          "bbox": [
+            61.5,
+            46.59000015258789,
+            546.3055419921875,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "nóng lạnh. Trường hợp phát hiện hư hỏng bất thường, người dùng nên liên hệ đơn vị kỹ thuật để được kiểm tra",
+          "bbox": [
+            61.5,
+            63.09000015258789,
+            565.3368530273438,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "và xử lý.",
+          "bbox": [
+            61.5,
+            79.58999633789062,
+            97.80894470214844,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "Đối với thanh đốt nóng: Sau một thời gian sử dụng, cặn bẩn thường bám vào bề mặt. Việc quan trọng là bạn",
+          "bbox": [
+            61.5,
+            99.83999633789062,
+            558.2218627929688,
+            112.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "cần cạo sạch đá vôi bám dính bằng nước tẩy cặn chuyên dụng. Nếu bạn phát hiện có dấu hiệu hỏng hóc, hãy",
+          "bbox": [
+            61.5,
+            116.33999633789062,
+            561.698486328125,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 9,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 10,
+          "text": "xem xét việc thay thế bằng linh kiện mới. Bảo dưỡng thường xuyên cho thanh đốt giúp đảm bảo an toàn cho",
+          "bbox": [
+            61.5,
+            132.83999633789062,
+            555.3145141601562,
+            145.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 11,
+          "text": "thiết bị, cũng như giúp tiết kiệm điện năng và thời gian đun nóng nước.",
+          "bbox": [
+            61.5,
+            149.33999633789062,
+            384.7421875,
+            162.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 12,
+          "text": "Đối với thanh Magie: Đóng vai trò quan trọng trong việc bảo vệ và ngăn chặn nguy cơ ăn mòn vỏ bình. Sau",
+          "bbox": [
+            61.5,
+            169.58999633789062,
+            553.855712890625,
+            182.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 13,
+          "text": "thời gian sử dụng, thanh Magie có thể bị mòn. Nếu phát hiện mức mòn từ 50% - 60% so với ban đầu, đề xuất",
+          "bbox": [
+            61.5,
+            186.08999633789062,
+            556.4169311523438,
+            198.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 14,
+          "text": "thay mới. Tránh tình trạng sử dụng thanh Magie quá cũ và mòn mọi nơi, gây phản ứng với kim loại trong bình,",
+          "bbox": [
+            61.5,
+            202.58999633789062,
+            558.0549926757812,
+            215.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 15,
+          "text": "dẫn đến tình trạng rò rỉ điện và nước. Việc lựa chọn sản phẩm chính hãng được khuyến khích để đảm bảo chất",
+          "bbox": [
+            61.5,
+            219.08999633789062,
+            566.0244750976562,
+            231.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 16,
+          "text": "lượng và hiệu suất tốt nhất.",
+          "bbox": [
+            61.5,
+            235.58999633789062,
+            185.63087463378906,
+            248.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 17,
+          "text": "Thanh Magie cần được kiểm tra và thay thế khi hao mòn để bảo vệ lòng bình.",
+          "bbox": [
+            129.4921875,
+            495.0899963378906,
+            483.2472839355469,
+            507.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 18,
+          "text": "4.3.4 Lắp lại bình nóng lạnh",
+          "bbox": [
+            46.5,
+            539.3400268554688,
+            178.10684204101562,
+            552.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 19,
+          "text": "Sau khi hoàn tất các bước vệ sinh và kiểm tra, lắp lại các bộ phận của bình nóng lạnh theo đúng vị trí ban đầu và",
+          "bbox": [
+            46.5,
+            555.8400268554688,
+            560.0859985351562,
+            568.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 20,
+          "text": "siết chặt các điểm kết nối. Mở nguồn cấp nước để kiểm tra khả năng kín nước trước khi cấp điện cho thiết bị hoạt",
+          "bbox": [
+            46.5,
+            572.3400268554688,
+            562.8580322265625,
+            585.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 21,
+          "text": "động trở lại. Cuối cùng, vận hành thử bình nóng lạnh để bảo đảm thiết bị hoạt động ổn định và không xuất hiện",
+          "bbox": [
+            46.5,
+            588.8400268554688,
+            554.8990478515625,
+            601.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 22,
+          "text": "hiện tượng bất thường.",
+          "bbox": [
+            46.5,
+            605.3400268554688,
+            150.7333984375,
+            618.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 23,
+          "text": "Xem thêm: Chi tiết cách lắp máy nước nóng an toàn và đúng kỹ thuật",
+          "bbox": [
+            46.5,
+            625.5900268554688,
+            362.21490478515625,
+            638.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 24,
+          "text": "5. Ariston hỗ trợ khách hàng bảo dưỡng bình nóng lạnh tại\nnhà chuyên nghiệp",
+          "bbox": [
+            46.5,
+            667.4400024414062,
+            531.8694458007812,
+            713.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 25,
+          "text": "Ariston là thương hiệu chuyên cung cấp các giải pháp nước nóng với nhiều năm kinh nghiệm trên thị trường. Bên",
+          "bbox": [
+            46.5,
+            722.3400268554688,
+            561.5350341796875,
+            735.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 26,
+          "text": "cạnh việc phát triển các dòng máy nước nóng, Ariston còn chú trọng xây dựng hệ thống dịch vụ hậu mãi nhằm hỗ",
+          "bbox": [
+            46.5,
+            738.8400268554688,
+            565.4830322265625,
+            751.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 27,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n6/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "trợ khách hàng trong suốt quá trình sử dụng. Nhờ đó, người dùng có thể yên tâm hơn khi cần tư vấn, bảo dưỡng",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            556.7154541015625,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "hoặc kiểm tra thiết bị.",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            145.1684112548828,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "Đội ngũ kỹ thuật viên của Ariston được đào tạo bài bản và có kinh nghiệm thực tế trong quá trình kiểm tra, bảo",
+          "bbox": [
+            46.5,
+            66.83999633789062,
+            551.9852905273438,
+            79.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "dưỡng máy nước nóng. Quy trình bảo dưỡng được thực hiện theo các bước rõ ràng nhằm giúp thiết bị vận hành",
+          "bbox": [
+            46.5,
+            83.33999633789062,
+            554.26904296875,
+            96.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "ổn định và duy trì hiệu quả sử dụng. Khách hàng có thể lựa chọn nhiều hình thức liên hệ để được hỗ trợ nhanh",
+          "bbox": [
+            46.5,
+            99.83999633789062,
+            549.4600219726562,
+            112.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 8,
+          "text": "chóng khi có nhu cầu bảo dưỡng tại nhà.",
+          "bbox": [
+            46.5,
+            116.33999633789062,
+            233.35781860351562,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 9,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 10,
+          "text": "Bạn có thể liên hệ Ariston thông qua các kênh sau:",
+          "bbox": [
+            46.5,
+            136.58999633789062,
+            279.56829833984375,
+            149.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 11,
+          "text": "Tổng đài chăm sóc khách hàng: Liên hệ để được tư vấn và hỗ trợ trong giờ làm việc từ 8:00 – 17:00 (trừ Chủ",
+          "bbox": [
+            61.5,
+            156.83999633789062,
+            556.5377807617188,
+            169.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 12,
+          "text": "nhật và ngày lễ).",
+          "bbox": [
+            61.5,
+            173.33999633789062,
+            136.29139709472656,
+            186.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 13,
+          "text": "Zalo OA Ariston: Kết nối với đội ngũ chăm sóc khách hàng để được hỗ trợ nhanh chóng và thuận tiện.",
+          "bbox": [
+            61.5,
+            193.58999633789062,
+            527.7324829101562,
+            206.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 14,
+          "text": "Đăng ký bảo hành online: Đăng ký bảo hành máy nước nóng, bình nóng lạnh Ariston trực tuyến một cách",
+          "bbox": [
+            61.5,
+            213.83999633789062,
+            545.4759521484375,
+            226.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 15,
+          "text": "nhanh gọn.",
+          "bbox": [
+            61.5,
+            230.33999633789062,
+            113.13895416259766,
+            243.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 16,
+          "text": "Bên cạnh dịch vụ bảo dưỡng, Ariston còn phát triển nhiều dòng máy nước nóng tích hợp các công nghệ an toàn",
+          "bbox": [
+            46.5,
+            250.58999633789062,
+            557.965087890625,
+            263.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 17,
+          "text": "và tiện ích nhằm đáp ứng đa dạng nhu cầu sử dụng của người dùng.",
+          "bbox": [
+            46.5,
+            267.0899963378906,
+            358.0976867675781,
+            279.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 18,
+          "text": "- Ariston Andris 3",
+          "bbox": [
+            46.5,
+            287.3399963378906,
+            125.56493377685547,
+            300.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 19,
+          "text": "Dòng máy nước nóng gián tiếp Ariston Andris 3 được trang bị nhiều công nghệ an toàn như hệ thống kiểm soát",
+          "bbox": [
+            46.5,
+            307.5899963378906,
+            555.6640625,
+            320.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 20,
+          "text": "Safety Check, vi mạch rà soát 3D, khuyến cáo nhiệt độ an toàn, hệ thống TSS cùng rơ-le TBSE hoặc TBST có độ",
+          "bbox": [
+            46.5,
+            324.0899963378906,
+            558.322021484375,
+            336.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 21,
+          "text": "chính xác cao. Bên cạnh đó, phiên bản Top Wifi tích hợp kết nối Wifi và chế độ ECO EVO giúp chủ động điều",
+          "bbox": [
+            46.5,
+            340.5899963378906,
+            542.8240966796875,
+            353.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 22,
+          "text": "khiển thiết bị, đồng thời hỗ trợ tiết kiệm điện năng lên đến 25%. Các phiên bản cao cấp còn được trang bị công",
+          "bbox": [
+            46.5,
+            357.0899963378906,
+            554.60498046875,
+            369.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 23,
+          "text": "nghệ ion Bạc Ag+ hỗ trợ kháng khuẩn nguồn nước. Sản phẩm sử dụng bình chứa tráng men Titan giữ nhiệt đến",
+          "bbox": [
+            46.5,
+            373.5899963378906,
+            553.9435424804688,
+            386.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 24,
+          "text": "48 giờ kết hợp thanh đốt bằng Đồng hoặc 100% Titan siêu bền, được bảo hành trọn đời.",
+          "bbox": [
+            46.5,
+            390.0899963378906,
+            448.2611389160156,
+            402.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 25,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n7/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "Máy nước nóng gian tiếp Ariston Andris 3 tích hợp nhiều công nghệ an toàn và tiện ích cho gia đình",
+          "bbox": [
+            78.9375,
+            474.0899963378906,
+            533.7970581054688,
+            486.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 5,
+          "text": "- Ariston Slim3",
+          "bbox": [
+            46.5,
+            518.3400268554688,
+            112.77594757080078,
+            531.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 6,
+          "text": "Dòng máy nước nóng gián tiếp Ariston Slim 3 được tích hợp các công nghệ an toàn như Safety Check, vi mạch rà",
+          "bbox": [
+            46.5,
+            538.5900268554688,
+            562.5961303710938,
+            551.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 7,
+          "text": "soát 3D, khuyến cáo nhiệt độ an toàn và hệ thống TSS. Phiên bản Top Wifi hỗ trợ làm nóng nhanh hơn 20%, kết",
+          "bbox": [
+            46.5,
+            555.0900268554688,
+            555.5289916992188,
+            567.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 8,
+          "text": "nối Wifi và chế độ ECO EVO giúp tối ưu hiệu suất, đồng thời tiết kiệm điện năng lên đến 25%. Một số phiên bản",
+          "bbox": [
+            46.5,
+            571.5900268554688,
+            555.8230590820312,
+            584.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 9,
+          "text": "Ariston Slim3 còn được trang bị công nghệ ion Bạc Ag+ hỗ trợ kháng khuẩn nguồn nước. Bình chứa Ariston Slim3",
+          "bbox": [
+            46.5,
+            588.0900268554688,
+            563.267578125,
+            600.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 10,
+          "text": "tráng men Titan giữ nhiệt HDI 48 giờ kết hợp thanh đốt bằng Đồng hoặc 100% Titan góp phần nâng cao độ bền",
+          "bbox": [
+            46.5,
+            604.5900268554688,
+            556.1065673828125,
+            617.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 11,
+          "text": "của sản phẩm.",
+          "bbox": [
+            46.5,
+            621.0900268554688,
+            112.87044525146484,
+            633.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 12,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n8/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 9,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 4,
+          "text": "Máy nước nóng gián tiếp Ariston Slim3 kết hợp công nghệ an toàn với khả năng tiết kiệm điện hiệu quả.",
+          "bbox": [
+            69.046875,
+            585.0900268554688,
+            543.6884155273438,
+            597.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 5,
+          "text": "- Ariston Aures 2.0",
+          "bbox": [
+            46.5,
+            629.3400268554688,
+            131.79141235351562,
+            642.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 6,
+          "text": "Dòng máy nước nóng trực tiếp Ariston Aures 2.0 được trang bị nhiều công nghệ an toàn như khóa nhiệt chống",
+          "bbox": [
+            46.5,
+            649.5900268554688,
+            551.4237670898438,
+            662.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 7,
+          "text": "bỏng, Residual Heat®, Safety Check và hệ thống an toàn đồng bộ TSS. Thiết bị còn sở hữu công nghệ ổn định",
+          "bbox": [
+            46.5,
+            666.0900268554688,
+            548.945556640625,
+            678.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 8,
+          "text": "nhiệt độ chống sốc nhiệt, khả năng làm nóng nhanh và tính năng ghi nhớ mức nhiệt cho từng thành viên thông",
+          "bbox": [
+            46.5,
+            682.5900268554688,
+            551.801513671875,
+            695.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 9,
+          "text": "qua bảng điều khiển cảm ứng. Bên cạnh đó, máy tích hợp chế độ ECO giúp tối ưu điện năng trong quá trình sử",
+          "bbox": [
+            46.5,
+            699.0900268554688,
+            551.9381103515625,
+            711.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 10,
+          "text": "dụng. Sản phẩm còn có bơm trợ lực vận hành êm cùng vòi sen tích hợp ion Bạc Ag+ hỗ trợ nâng cao trải nghiệm",
+          "bbox": [
+            46.5,
+            715.5900268554688,
+            559.09912109375,
+            728.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 11,
+          "text": "sử dụng.",
+          "bbox": [
+            46.5,
+            732.0900268554688,
+            85.92745971679688,
+            744.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 12,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n9/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 10,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 4,
+          "text": "Ariston Aures 2.0 mang đến trải nghiệm nước nóng nhanh cùng nhiều tính năng an toàn.",
+          "bbox": [
+            103.93359375,
+            426.0899963378906,
+            508.8027038574219,
+            438.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 5,
+          "text": ">> Tìm hiểu các dòng máy nước nóng Ariston chính hãng tại Shopee Mall và chọn sản phẩm đáp ứng nhu cầu sử",
+          "bbox": [
+            46.5,
+            470.3399963378906,
+            559.9180297851562,
+            483.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 6,
+          "text": "dụng của gia đình.",
+          "bbox": [
+            46.5,
+            486.8399963378906,
+            131.11940002441406,
+            499.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 7,
+          "text": "6. Một số lưu ý khác về cách bảo dưỡng bình nóng lạnh",
+          "bbox": [
+            46.5,
+            528.6900024414062,
+            504.0234069824219,
+            550.614013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 8,
+          "text": "Để việc bảo dưỡng máy nóng lạnh đạt hiệu quả và đảm bảo an toàn, người dùng cần lưu ý một số nguyên tắc",
+          "bbox": [
+            46.5,
+            559.5900268554688,
+            546.698486328125,
+            572.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 9,
+          "text": "trong suốt quá trình thực hiện như ngắt nguồn điện, sử dụng dụng cụ phù hợp, kiểm tra các bộ phận hao mòn và",
+          "bbox": [
+            46.5,
+            576.0900268554688,
+            560.4850463867188,
+            588.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 10,
+          "text": "thay thế khi cần thiết. Dưới đây là những lưu ý quan trọng giúp quá trình bảo dưỡng diễn ra đúng cách và hạn chế",
+          "bbox": [
+            46.5,
+            592.5900268554688,
+            564.8740234375,
+            605.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 11,
+          "text": "phát sinh sự cố.",
+          "bbox": [
+            46.5,
+            609.0900268554688,
+            118.08893585205078,
+            621.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 12,
+          "text": "Luôn ngắt hoàn toàn nguồn điện trước khi tiến hành bảo dưỡng bình nóng lạnh để đảm bảo an toàn trong quá",
+          "bbox": [
+            61.5,
+            629.3400268554688,
+            565.1320190429688,
+            642.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 13,
+          "text": "trình thao tác.",
+          "bbox": [
+            61.5,
+            645.8400268554688,
+            124.06945037841797,
+            658.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 14,
+          "text": "Không sử dụng vật dụng bằng kim loại cứng để tác động vào các bộ phận của bình nóng lạnh nhằm hạn chế",
+          "bbox": [
+            61.5,
+            666.0900268554688,
+            558.0550537109375,
+            678.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 15,
+          "text": "nguy cơ làm hư hỏng thiết bị hoặc gây mất an toàn.",
+          "bbox": [
+            61.5,
+            682.5900268554688,
+            295.9543151855469,
+            695.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 16,
+          "text": "Thay thế các linh kiện bị ăn mòn hoặc hư hỏng khi phát hiện dấu hiệu bất thường để giúp bình nóng lạnh vận",
+          "bbox": [
+            61.5,
+            702.8400268554688,
+            560.3440551757812,
+            715.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 17,
+          "text": "hành ổn định hơn sau khi bảo dưỡng.",
+          "bbox": [
+            61.5,
+            719.3400268554688,
+            232.14584350585938,
+            732.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 18,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n10/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 11,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 11,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 2,
+          "text": "Kiểm tra kỹ các khớp nối và gioăng kín sau khi lắp lại bình nóng lạnh để hạn chế nguy cơ rò rỉ nước trong quá",
+          "bbox": [
+            61.5,
+            30.09000015258789,
+            560.9373168945312,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 3,
+          "text": "trình sử dụng.",
+          "bbox": [
+            61.5,
+            46.59000015258789,
+            124.13243865966797,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 4,
+          "text": "Xả hết bọt khí trong bình trước khi cấp điện trở lại để đảm bảo bình nóng lạnh hoạt động đúng quy trình sau",
+          "bbox": [
+            61.5,
+            66.83999633789062,
+            555.0625610351562,
+            79.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 6,
+          "text": "khi hoàn tất bảo dưỡng.",
+          "bbox": [
+            61.5,
+            83.33999633789062,
+            170.35340881347656,
+            96.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 7,
+          "text": "Nếu không có đủ chuyên môn hoặc dụng cụ phù hợp, bạn nên liên hệ đơn vị kỹ thuật để được hỗ trợ bảo",
+          "bbox": [
+            61.5,
+            103.58999633789062,
+            542.9718627929688,
+            116.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 8,
+          "text": "dưỡng đúng quy trình và đảm bảo an toàn.",
+          "bbox": [
+            61.5,
+            120.08999633789062,
+            256.37982177734375,
+            132.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 9,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 10,
+          "text": "Bảo dưỡng bình nóng lạnh định kỳ giúp thiết bị vận hành ổn định, duy trì hiệu quả làm nóng và góp phần đảm",
+          "bbox": [
+            46.5,
+            140.33999633789062,
+            547.570068359375,
+            153.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 11,
+          "text": "bảo an toàn trong quá trình sử dụng. Hy vọng những hướng dẫn trên sẽ giúp bạn thực hiện bảo dưỡng đúng cách",
+          "bbox": [
+            46.5,
+            156.83999633789062,
+            564.7374877929688,
+            169.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 12,
+          "text": "hoặc chủ động lựa chọn dịch vụ phù hợp để kéo dài tuổi thọ của bình nóng lạnh.",
+          "bbox": [
+            46.5,
+            173.33999633789062,
+            415.2386474609375,
+            186.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 13,
+          "text": "Câu hỏi thường gặp",
+          "bbox": [
+            46.5,
+            239.19000244140625,
+            210.29981994628906,
+            261.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 14,
+          "text": "Dưới đây là phần giải đáp một số câu hỏi thường gặp về bảo dưỡng bình nóng lạnh để giúp bạn sử dụng và bảo",
+          "bbox": [
+            46.5,
+            270.0899963378906,
+            557.261474609375,
+            282.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 15,
+          "text": "quản thiết bị hiệu quả hơn.",
+          "bbox": [
+            46.5,
+            286.5899963378906,
+            168.9823760986328,
+            299.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 16,
+          "text": "Dấu hiệu nhận biết cần bảo dưỡng bình nóng lạnh là gì?",
+          "bbox": [
+            64.5,
+            348.0899963378906,
+            348.8816223144531,
+            360.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 17,
+          "text": "Bình nóng lạnh ít sử dụng có cần bảo dưỡng không?",
+          "bbox": [
+            64.5,
+            423.0899963378906,
+            328.73223876953125,
+            435.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 18,
+          "text": "Sau bảo dưỡng, làm thế nào kiểm tra bình nóng lạnh đã hoạt động bình thường \nchưa?",
+          "bbox": [
+            64.5,
+            497.3399963378906,
+            468.4870300292969,
+            523.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 19,
+          "text": "Bài viết liên quan",
+          "bbox": [
+            46.5,
+            565.4400024414062,
+            190.0677947998047,
+            587.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 20,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n11/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 12,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 12,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 4,
+          "text": "TIN TỨC",
+          "bbox": [
+            169.125,
+            266.3399963378906,
+            212.62646484375,
+            279.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 5,
+          "text": "ARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025",
+          "bbox": [
+            163.125,
+            291.45001220703125,
+            441.5248718261719,
+            351.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 6,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            388.5899963378906,
+            335.2464294433594,
+            401.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 7,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            669.0900268554688,
+            262.910888671875,
+            681.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 8,
+          "text": "Máy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam",
+          "bbox": [
+            163.125,
+            694.2000122070312,
+            434.204833984375,
+            733.469970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n12/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 13,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 13,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 2,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            39.84000015258789,
+            335.2464294433594,
+            52.62900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 4,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 5,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            320.3399963378906,
+            262.910888671875,
+            333.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 6,
+          "text": "Máy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng",
+          "bbox": [
+            163.125,
+            345.45001220703125,
+            435.3597717285156,
+            405.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 7,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            442.5899963378906,
+            335.2464294433594,
+            455.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 8,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            723.0900268554688,
+            262.910888671875,
+            735.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n13/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 14,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 14,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 2,
+          "text": "Dung tích máy nước nóng gián tiếp và\ncách lựa chọn",
+          "bbox": [
+            163.125,
+            29.700000762939453,
+            416.1598815917969,
+            68.97000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 4,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            105.83999633789062,
+            335.2464294433594,
+            118.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 6,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            386.3399963378906,
+            262.910888671875,
+            399.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 7,
+          "text": "Lựa chọn máy nước nóng phù hợp cho căn\nhộ",
+          "bbox": [
+            163.125,
+            411.45001220703125,
+            446.68487548828125,
+            450.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 8,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            487.5899963378906,
+            335.2464294433594,
+            500.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 9,
+          "text": "Country: Việt Nam Language: Vietnamese",
+          "bbox": [
+            207.796875,
+            641.3400268554688,
+            404.9404296875,
+            654.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 10,
+          "text": "VỀ CHÚNG TÔI",
+          "bbox": [
+            46.5,
+            698.4600219726562,
+            129.31195068359375,
+            713.0759887695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 11,
+          "text": "Thương hiệu Ariston",
+          "bbox": [
+            46.5,
+            728.3400268554688,
+            139.6559295654297,
+            741.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 14,
+          "block_index": 12,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n14/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 15,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 15,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            453.7211608886719,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 2,
+          "text": "Tập đoàn Ariston",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            124.32593536376953,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 3,
+          "text": "Tuyển Dụng",
+          "bbox": [
+            46.5,
+            57.84000015258789,
+            101.8769302368164,
+            70.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 5,
+          "text": "TẠP CHÍ",
+          "bbox": [
+            46.5,
+            92.45999908447266,
+            91.06797790527344,
+            107.07600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 6,
+          "text": "Mẹo & giải pháp",
+          "bbox": [
+            46.5,
+            122.33999633789062,
+            121.39643859863281,
+            135.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 8,
+          "text": "Tin tức",
+          "bbox": [
+            46.5,
+            150.08999633789062,
+            77.41197967529297,
+            162.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 9,
+          "text": "Ngôi nhà thư thái",
+          "bbox": [
+            46.5,
+            177.83999633789062,
+            125.01893615722656,
+            190.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 10,
+          "text": "Cuộc sống xanh",
+          "bbox": [
+            46.5,
+            205.58999633789062,
+            120.9239273071289,
+            218.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 11,
+          "text": "Từ điển",
+          "bbox": [
+            46.5,
+            233.33999633789062,
+            80.20496368408203,
+            246.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 12,
+          "text": "DỊCH VỤ KHÁCH HÀNG",
+          "bbox": [
+            46.5,
+            267.9599914550781,
+            175.5839080810547,
+            282.57598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 13,
+          "text": "Đăng kí bảo hành online",
+          "bbox": [
+            46.5,
+            297.8399963378906,
+            158.78689575195312,
+            310.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 14,
+          "text": "Hội Viên Diamond Club",
+          "bbox": [
+            46.5,
+            325.5899963378906,
+            154.2823944091797,
+            338.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 15,
+          "text": "Liên Hệ Với Chúng Tôi",
+          "bbox": [
+            46.5,
+            353.3399963378906,
+            148.4234161376953,
+            366.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 16,
+          "text": "Tải xuống tài liệu",
+          "bbox": [
+            46.5,
+            381.0899963378906,
+            123.6224136352539,
+            393.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 17,
+          "text": "SẢN PHẨM",
+          "bbox": [
+            46.5,
+            415.7099914550781,
+            107.37596130371094,
+            430.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 18,
+          "text": "Máy Nước Nóng Gián Tiếp",
+          "bbox": [
+            46.5,
+            445.5899963378906,
+            167.6173858642578,
+            458.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 19,
+          "text": "Máy Nước Nóng Trực Tiếp",
+          "bbox": [
+            46.5,
+            473.3399963378906,
+            165.98988342285156,
+            486.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 20,
+          "text": "Máy Nước Nóng Năng Lượng",
+          "bbox": [
+            46.5,
+            501.0899963378906,
+            179.7763671875,
+            513.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 21,
+          "text": "Mặt Trời",
+          "bbox": [
+            46.5,
+            517.5900268554688,
+            83.24996948242188,
+            530.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 22,
+          "text": "Máy Nước Nóng Bơm Nhiệt",
+          "bbox": [
+            46.5,
+            545.3400268554688,
+            171.86990356445312,
+            558.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 23,
+          "text": "LEGAL AREA",
+          "bbox": [
+            46.5,
+            579.9600219726562,
+            116.14794921875,
+            594.5759887695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 24,
+          "text": "Privacy Policy",
+          "bbox": [
+            46.5,
+            609.8400268554688,
+            109.3214111328125,
+            622.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 25,
+          "text": "Cookie Policy",
+          "bbox": [
+            46.5,
+            637.5900268554688,
+            109.0904312133789,
+            650.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 26,
+          "text": "©2022 Ariston Holding N.V. – Company Info",
+          "bbox": [
+            46.5,
+            702.719970703125,
+            220.3258514404297,
+            713.6820068359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 15,
+          "block_index": 27,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n15/15",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Hướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181424+00'00'",
+    "modDate": "D:20261010181424+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "MUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nHướng dẫn các bước bảo dưỡng bình nóng\nlạnh đúng cách\n\nĐã xuất bản trên\n\n13 Tháng 8 2026\n\nBảo dưỡng bình nóng lạnh nên được thực hiện khi thiết bị có dấu hiệu như nước nóng chậm, nhiệt độ không\n\nổn định, nước chảy yếu, rò rỉ nước hoặc phát ra tiếng ồn bất thường. Quy trình bảo dưỡng gồm chuẩn bị dụng\n\ncụ và các biện pháp an toàn, vệ sinh bên ngoài và bên trong bình, kiểm tra các bộ phận như thanh đốt, thanh\n\nMagie, rơ-le, giăng cao su, sau đó lắp lại và kiểm tra thiết bị trước khi đưa vào sử dụng.\n\nBảo dưỡng bình nóng lạnh là một phần quan trọng của việc duy trì hiệu suất và tuổi thọ của thiết bị sau một\n\nkhoảng thời gian sử dụng. Để thực hiện công việc này đúng cách, hãy cùng khám phá cách bảo dưỡng máy nóng\n\n1/15\n\nlạnh tại nhà một cách hiệu quả.\n\n1. Vì sao nên thực hiện bảo dưỡng bình nóng lạnh định kỳ?\n\nBảo dưỡng máy nóng lạnh định kỳ giúp thiết bị vận hành ổn định, kéo dài tuổi thọ, đảm bảo an toàn cho người sử\n\ndụng và góp phần tiết kiệm điện năng. Dưới đây là những lý do nên thực hiện bảo dưỡng máy nóng lạnh theo\n\nMUA HÀNG DỰ ÁN\n\nđịnh kỳ.\n\nTăng tuổi thọ cho máy nóng lạnh: Sau thời gian sử dụng, cặn bẩn và khoáng chất có thể tích tụ bên trong\n\nbình, làm ảnh hưởng đến khả năng làm nóng và khiến một số bộ phận máy nóng lạnh nhanh xuống cấp. Bảo\n\ndưỡng định kỳ giúp làm sạch cặn bám, phát hiện sớm các dấu hiệu hao mòn để duy trì tuổi thọ của bình nóng\n\nlạnh\n\nĐảm bảo an toàn cho người sử dụng: Nếu không được vệ sinh và kiểm tra thường xuyên, bình nóng lạnh có\n\nthể phát sinh các sự cố như rò rỉ điện, rò nước hoặc hư hỏng linh kiện bên trong. Bảo dưỡng định kỳ giúp kiểm\n\ntra tình trạng thiết bị, từ đó giảm nguy cơ mất an toàn trong quá trình sử dụng\n\nTiết kiệm điện năng: Lớp cặn bám trên thanh đốt sẽ làm giảm hiệu quả truyền nhiệt, khiến bình nóng lạnh cần\n\nnhiều thời gian hơn để làm nóng nước. Việc vệ sinh và bảo dưỡng định kỳ giúp thiết bị gia nhiệt hiệu quả hơn,\n\ngóp phần hạn chế điện năng tiêu thụ không cần thiết.\n\nBảo dưỡng máy nóng lạnh định kỳ theo khuyến nghị từ nhà sản xuất giúp thiết bị hoạt động ổn định và bền bỉ\n\nhơn.\n\n2. Khi nào cần bảo dưỡng bình nóng lạnh tại nhà?\n\nBạn nên bảo dưỡng máy nóng lạnh định kỳ sau mỗi 1 - 2 năm, đồng thời kiểm tra và xả cặn khoảng 6 tháng/lần\n\nnếu thiết bị sử dụng thường xuyên hoặc nguồn nước có nhiều cặn. Ngoài mốc thời gian này, bạn cũng nên bảo\n\ndưỡng sớm khi xuất hiện các dấu hiệu như nước nóng chậm, nước không đủ nóng, khả năng điều chỉnh nhiệt độ\n\ngiảm, đèn báo sáng nhưng nước không nóng, rò rỉ điện hoặc lưu lượng nước yếu hơn bình thường.\n\n2/15\n\nTrong quá trình bảo dưỡng, cần kiểm tra lượng cặn bám trong bình và trên thanh đốt để vệ sinh hoặc thay thế khi\n\ncần thiết. Việc xử lý cặn bám kịp thời giúp hạn chế hao mòn các bộ phận bên trong, duy trì hiệu quả làm nóng và\n\ngóp phần kéo dài tuổi thọ của bình nóng lạnh.\n\nXem thêm: Nguyên nhân máy nước nóng không nóng và cách khắc phục\n\nMUA HÀNG DỰ ÁN\n\n3. Bảo dưỡng bình nóng lạnh gồm những gì?\n\nBảo dưỡng bình nóng lạnh bao gồm việc kiểm tra, vệ sinh và đánh giá tình trạng của các bộ phận như lòng bình,\n\nthanh đốt, thanh Magie, rơ-le, van áp suất, vỏ nhựa, lớp cách nhiệt, đèn hiển thị, dây nguồn điện, bộ điều khiển\n\nnhiệt độ và đường dẫn nước. Dưới đây là vai trò của từng bộ phận và những hạng mục cần kiểm tra trong quá\n\ntrình bảo dưỡng máy nóng lạnh.\n\nLòng bình nóng lạnh: Lòng bình cần được vệ sinh để loại bỏ cặn bẩn tích tụ sau thời gian sử dụng. Việc làm\n\nsạch định kỳ giúp duy trì khả năng chứa nước và hỗ trợ quá trình làm nóng ổn định.\n\nThanh đốt: Thanh đốt cần được kiểm tra để phát hiện tình trạng bám cặn hoặc hư hỏng. Nếu cặn bám quá\n\nnhiều hoặc thanh đốt hoạt động kém, nên vệ sinh hoặc thay thế để duy trì hiệu quả làm nóng.\n\nThanh Magie: Thanh Magie có nhiệm vụ hạn chế ăn mòn các bộ phận kim loại bên trong bình nóng lạnh. Khi\n\nthanh Magie bị hao mòn quá mức, cần thay mới để tiếp tục bảo vệ lòng bình.\n\nBộ phận rơ-le: Rơ-le cần được kiểm tra để đảm bảo khả năng đóng ngắt và kiểm soát nhiệt độ hoạt động bình\n\nthường. Nếu rơ-le gặp sự cố, bình nóng lạnh có thể làm nóng không ổn định hoặc hoạt động không đúng\n\ncách.\n\nVan áp suất: Van áp suất cần được kiểm tra để đảm bảo khả năng xả áp khi áp suất trong bình tăng cao. Nếu\n\nvan bị kẹt hoặc hoạt động không bình thường, nên vệ sinh hoặc thay thế khi cần.\n\nVỏ nhựa: Vỏ nhựa cần được kiểm tra để phát hiện các dấu hiệu nứt, vỡ hoặc biến dạng. Bộ phận này nên\n\nđược vệ sinh sạch sẽ nhằm hạn chế bụi bẩn và hơi ẩm bám trên bề mặt.\n\nLớp cách nhiệt: Lớp cách nhiệt cần được kiểm tra để đảm bảo khả năng giữ nhiệt của bình nóng lạnh. Nếu lớp\n\ncách nhiệt bị hư hỏng, hiệu quả giữ nhiệt có thể giảm và làm tăng điện năng tiêu thụ.\n\nĐèn hiển thị trạng thái khi bật và tắt: Đèn hiển thị cần hoạt động bình thường để người dùng dễ theo dõi\n\ntrạng thái của bình nóng lạnh. Nếu đèn không sáng hoặc hiển thị bất thường, cần kiểm tra để xác định nguyên\n\nnhân.\n\nDây nguồn điện: Dây nguồn điện cần được kiểm tra để phát hiện tình trạng nứt, hở hoặc lỏng đầu nối. Việc\n\nđảm bảo dây nguồn còn tốt giúp bình nóng lạnh vận hành an toàn hơn.\n\nĐiều khiển nhiệt độ: Bộ điều khiển nhiệt độ cần được kiểm tra để đảm bảo khả năng cài đặt và duy trì mức\n\nnhiệt mong muốn. Nếu điều chỉnh nhiệt độ không chính xác, nên kiểm tra hoặc thay thế bộ phận này.\n\nĐường dẫn nước: Đường dẫn nước cần được kiểm tra để phát hiện cặn bẩn, rò rỉ hoặc tắc nghẽn. Việc vệ sinh\n\nvà xử lý kịp thời giúp nước lưu thông ổn định và hỗ trợ bình nóng lạnh hoạt động hiệu quả.\n\nXem thêm: Cách kiểm tra rơ le nhiệt bình nóng lạnh Ariston và thay mới\n\n3/15\n\nMUA HÀNG DỰ ÁN\n\nKiểm tra và vệ sinh đầy đủ các bộ phận giúp bình nóng lạnh vận hành hiệu quả.\n\n4. Hướng dẫn cách bảo dưỡng bình nóng lạnh chi tiết\n\nĐể bảo dưỡng bình nóng lạnh đúng cách, bạn cần chuẩn bị đầy đủ dụng cụ và thực hiện theo đúng quy trình\n\nnhằm đảm bảo an toàn cũng như hiệu quả. Dưới đây là hướng dẫn chi tiết từ khâu chuẩn bị đến các bước thực\n\nhiện để bạn dễ dàng theo dõi.\n\n4.1 Chuẩn bị\n\n- Về dụng cụ:\n\nTua vít.\n\nCờ lê hoặc mỏ lết.\n\nKìm.\n\nKhăn mềm hoặc khăn lau.\n\nBàn chải mềm.\n\nChậu hoặc xô chứa nước.\n\nGăng tay bảo hộ.\n\n- Về các biện pháp an toàn trước khi thực hiện:\n\nTắt nguồn điện: Ngắt hoàn toàn nguồn điện cấp cho bình nóng lạnh trước khi bảo dưỡng để hạn chế nguy cơ\n\nmất an toàn trong quá trình thao tác.\n\nKhóa van nước: Khóa van cấp nước vào bình và mở vòi nước nóng để xả áp suất còn lại bên trong.\n\nXả hết nước trong bình: Xả toàn bộ nước trong bình trước khi tháo các bộ phận để thuận tiện cho việc vệ sinh\n\nvà kiểm tra.\n\nChuẩn bị khu vực làm việc: Đảm bảo khu vực bảo dưỡng khô ráo, đủ ánh sáng và có không gian thao tác\n\nthuận tiện.\n\n4/15\n\n4.2 Các bước thực hiện\n\nĐể bảo dưỡng bình nóng lạnh đúng cách, người dùng cần thực hiện lần lượt các bước như tháo và vệ sinh bên\n\nngoài, vệ sinh bên trong bình, kiểm tra các bộ phận quan trọng rồi lắp lại thiết bị. Hãy tham khảo hướng dẫn chi\n\ntiết dưới đây để thực hiện đúng quy trình và hạn chế ảnh hưởng đến khả năng vận hành của bình nóng lạnh.\n\n4.2.1 Tháo, bảo dưỡng và vệ sinh bên ngoài bình nóng lạnh\n\nMUA HÀNG DỰ ÁN\n\nTrước khi tháo bình nóng lạnh, hãy tháo lớp vỏ ngoài và vệ sinh bề mặt bằng khăn mềm để loại bỏ bụi bẩn hoặc\n\nhơi ẩm bám trên thiết bị. Đồng thời, quan sát tình trạng vỏ bình, các vị trí lắp ghép và dây dẫn để phát hiện dấu\n\nhiệu nứt, lỏng hoặc hư hỏng nếu có. Việc vệ sinh bên ngoài giúp bình nóng lạnh sạch sẽ hơn và hỗ trợ kiểm tra\n\ntổng quan trước khi bảo dưỡng các bộ phận bên trong.\n\nLàm sạch và kiểm tra bên ngoài bình nóng lạnh trước khi tháo các bộ phận.\n\n4.2.2 Tháo, bảo dưỡng và vệ sinh bên trong bình nóng lạnh\n\nSau khi xả hết nước trong bình, tiến hành tháo các bộ phận cần thiết để vệ sinh bên trong theo đúng hướng dẫn.\n\nLoại bỏ cặn bẩn bám trong lòng bình và làm sạch các vị trí tiếp xúc với nước để hạn chế tình trạng đóng cặn lâu\n\nngày. Sau khi vệ sinh xong, kiểm tra lại các chi tiết bên trong trước khi chuyển sang bước bảo dưỡng từng bộ\n\nphận.\n\n4.2.3 Bảo dưỡng các bộ phận\n\nSau khi vệ sinh bên trong bình nóng lạnh, bạn hãy tiếp tục kiểm tra và bảo dưỡng các bộ phận quan trọng dưới\n\nđây\n\nĐối với rơ-le và giắc cắm chân sợi đốt: Kiểm tra tình trạng hoạt động của rơ-le và giắc cắm để bảo đảm các\n\nđầu nối vẫn chắc chắn và không có dấu hiệu cháy hoặc oxy hóa. Nếu phát hiện linh kiện bị hư hỏng hoặc tiếp\n\nxúc kém, nên thay thế bằng phụ kiện phù hợp. Bước kiểm tra này giúp bình nóng lạnh vận hành ổn định sau\n\nkhi hoàn tất bảo dưỡng.\n\nĐối với giăng cao su: Kiểm tra giăng cao su để phát hiện dấu hiệu chai cứng, nứt hoặc biến dạng sau thời\n\ngian sử dụng. Nếu giăng không còn đảm bảo độ kín, nên thay mới để hạn chế nguy cơ rò rỉ nước. Đồng thời,\n\nvệ sinh sạch vị trí lắp giăng trước khi lắp lại nhằm tăng khả năng làm kín.\n\n5/15\n\nĐối với ruột bình nóng lạnh: Ruột bình cần được kiểm tra để đánh giá tình trạng cặn bám hoặc dấu hiệu ăn\n\nmòn sau thời gian sử dụng. Nếu có nhiều cặn, hãy vệ sinh sạch để duy trì khả năng trao đổi nhiệt của bình\n\nnóng lạnh. Trường hợp phát hiện hư hỏng bất thường, người dùng nên liên hệ đơn vị kỹ thuật để được kiểm tra\n\nvà xử lý.\n\nĐối với thanh đốt nóng: Sau một thời gian sử dụng, cặn bẩn thường bám vào bề mặt. Việc quan trọng là bạn\n\ncần cạo sạch đá vôi bám dính bằng nước tẩy cặn chuyên dụng. Nếu bạn phát hiện có dấu hiệu hỏng hóc, hãy\n\nMUA HÀNG DỰ ÁN\n\nxem xét việc thay thế bằng linh kiện mới. Bảo dưỡng thường xuyên cho thanh đốt giúp đảm bảo an toàn cho\n\nthiết bị, cũng như giúp tiết kiệm điện năng và thời gian đun nóng nước.\n\nĐối với thanh Magie: Đóng vai trò quan trọng trong việc bảo vệ và ngăn chặn nguy cơ ăn mòn vỏ bình. Sau\n\nthời gian sử dụng, thanh Magie có thể bị mòn. Nếu phát hiện mức mòn từ 50% - 60% so với ban đầu, đề xuất\n\nthay mới. Tránh tình trạng sử dụng thanh Magie quá cũ và mòn mọi nơi, gây phản ứng với kim loại trong bình,\n\ndẫn đến tình trạng rò rỉ điện và nước. Việc lựa chọn sản phẩm chính hãng được khuyến khích để đảm bảo chất\n\nlượng và hiệu suất tốt nhất.\n\nThanh Magie cần được kiểm tra và thay thế khi hao mòn để bảo vệ lòng bình.\n\n4.3.4 Lắp lại bình nóng lạnh\n\nSau khi hoàn tất các bước vệ sinh và kiểm tra, lắp lại các bộ phận của bình nóng lạnh theo đúng vị trí ban đầu và\n\nsiết chặt các điểm kết nối. Mở nguồn cấp nước để kiểm tra khả năng kín nước trước khi cấp điện cho thiết bị hoạt\n\nđộng trở lại. Cuối cùng, vận hành thử bình nóng lạnh để bảo đảm thiết bị hoạt động ổn định và không xuất hiện\n\nhiện tượng bất thường.\n\nXem thêm: Chi tiết cách lắp máy nước nóng an toàn và đúng kỹ thuật\n\n5. Ariston hỗ trợ khách hàng bảo dưỡng bình nóng lạnh tại\nnhà chuyên nghiệp\n\nAriston là thương hiệu chuyên cung cấp các giải pháp nước nóng với nhiều năm kinh nghiệm trên thị trường. Bên\n\ncạnh việc phát triển các dòng máy nước nóng, Ariston còn chú trọng xây dựng hệ thống dịch vụ hậu mãi nhằm hỗ\n\n6/15\n\ntrợ khách hàng trong suốt quá trình sử dụng. Nhờ đó, người dùng có thể yên tâm hơn khi cần tư vấn, bảo dưỡng\n\nhoặc kiểm tra thiết bị.\n\nĐội ngũ kỹ thuật viên của Ariston được đào tạo bài bản và có kinh nghiệm thực tế trong quá trình kiểm tra, bảo\n\ndưỡng máy nước nóng. Quy trình bảo dưỡng được thực hiện theo các bước rõ ràng nhằm giúp thiết bị vận hành\n\nổn định và duy trì hiệu quả sử dụng. Khách hàng có thể lựa chọn nhiều hình thức liên hệ để được hỗ trợ nhanh\n\nchóng khi có nhu cầu bảo dưỡng tại nhà.\n\nMUA HÀNG DỰ ÁN\n\nBạn có thể liên hệ Ariston thông qua các kênh sau:\n\nTổng đài chăm sóc khách hàng: Liên hệ để được tư vấn và hỗ trợ trong giờ làm việc từ 8:00 – 17:00 (trừ Chủ\n\nnhật và ngày lễ).\n\nZalo OA Ariston: Kết nối với đội ngũ chăm sóc khách hàng để được hỗ trợ nhanh chóng và thuận tiện.\n\nĐăng ký bảo hành online: Đăng ký bảo hành máy nước nóng, bình nóng lạnh Ariston trực tuyến một cách\n\nnhanh gọn.\n\nBên cạnh dịch vụ bảo dưỡng, Ariston còn phát triển nhiều dòng máy nước nóng tích hợp các công nghệ an toàn\n\nvà tiện ích nhằm đáp ứng đa dạng nhu cầu sử dụng của người dùng.\n\n- Ariston Andris 3\n\nDòng máy nước nóng gián tiếp Ariston Andris 3 được trang bị nhiều công nghệ an toàn như hệ thống kiểm soát\n\nSafety Check, vi mạch rà soát 3D, khuyến cáo nhiệt độ an toàn, hệ thống TSS cùng rơ-le TBSE hoặc TBST có độ\n\nchính xác cao. Bên cạnh đó, phiên bản Top Wifi tích hợp kết nối Wifi và chế độ ECO EVO giúp chủ động điều\n\nkhiển thiết bị, đồng thời hỗ trợ tiết kiệm điện năng lên đến 25%. Các phiên bản cao cấp còn được trang bị công\n\nnghệ ion Bạc Ag+ hỗ trợ kháng khuẩn nguồn nước. Sản phẩm sử dụng bình chứa tráng men Titan giữ nhiệt đến\n\n48 giờ kết hợp thanh đốt bằng Đồng hoặc 100% Titan siêu bền, được bảo hành trọn đời.\n\n7/15\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng gian tiếp Ariston Andris 3 tích hợp nhiều công nghệ an toàn và tiện ích cho gia đình\n\n- Ariston Slim3\n\nDòng máy nước nóng gián tiếp Ariston Slim 3 được tích hợp các công nghệ an toàn như Safety Check, vi mạch rà\n\nsoát 3D, khuyến cáo nhiệt độ an toàn và hệ thống TSS. Phiên bản Top Wifi hỗ trợ làm nóng nhanh hơn 20%, kết\n\nnối Wifi và chế độ ECO EVO giúp tối ưu hiệu suất, đồng thời tiết kiệm điện năng lên đến 25%. Một số phiên bản\n\nAriston Slim3 còn được trang bị công nghệ ion Bạc Ag+ hỗ trợ kháng khuẩn nguồn nước. Bình chứa Ariston Slim3\n\ntráng men Titan giữ nhiệt HDI 48 giờ kết hợp thanh đốt bằng Đồng hoặc 100% Titan góp phần nâng cao độ bền\n\ncủa sản phẩm.\n\n8/15\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng gián tiếp Ariston Slim3 kết hợp công nghệ an toàn với khả năng tiết kiệm điện hiệu quả.\n\n- Ariston Aures 2.0\n\nDòng máy nước nóng trực tiếp Ariston Aures 2.0 được trang bị nhiều công nghệ an toàn như khóa nhiệt chống\n\nbỏng, Residual Heat®, Safety Check và hệ thống an toàn đồng bộ TSS. Thiết bị còn sở hữu công nghệ ổn định\n\nnhiệt độ chống sốc nhiệt, khả năng làm nóng nhanh và tính năng ghi nhớ mức nhiệt cho từng thành viên thông\n\nqua bảng điều khiển cảm ứng. Bên cạnh đó, máy tích hợp chế độ ECO giúp tối ưu điện năng trong quá trình sử\n\ndụng. Sản phẩm còn có bơm trợ lực vận hành êm cùng vòi sen tích hợp ion Bạc Ag+ hỗ trợ nâng cao trải nghiệm\n\nsử dụng.\n\n9/15\n\nMUA HÀNG DỰ ÁN\n\nAriston Aures 2.0 mang đến trải nghiệm nước nóng nhanh cùng nhiều tính năng an toàn.\n\n>> Tìm hiểu các dòng máy nước nóng Ariston chính hãng tại Shopee Mall và chọn sản phẩm đáp ứng nhu cầu sử\n\ndụng của gia đình.\n\n6. Một số lưu ý khác về cách bảo dưỡng bình nóng lạnh\n\nĐể việc bảo dưỡng máy nóng lạnh đạt hiệu quả và đảm bảo an toàn, người dùng cần lưu ý một số nguyên tắc\n\ntrong suốt quá trình thực hiện như ngắt nguồn điện, sử dụng dụng cụ phù hợp, kiểm tra các bộ phận hao mòn và\n\nthay thế khi cần thiết. Dưới đây là những lưu ý quan trọng giúp quá trình bảo dưỡng diễn ra đúng cách và hạn chế\n\nphát sinh sự cố.\n\nLuôn ngắt hoàn toàn nguồn điện trước khi tiến hành bảo dưỡng bình nóng lạnh để đảm bảo an toàn trong quá\n\ntrình thao tác.\n\nKhông sử dụng vật dụng bằng kim loại cứng để tác động vào các bộ phận của bình nóng lạnh nhằm hạn chế\n\nnguy cơ làm hư hỏng thiết bị hoặc gây mất an toàn.\n\nThay thế các linh kiện bị ăn mòn hoặc hư hỏng khi phát hiện dấu hiệu bất thường để giúp bình nóng lạnh vận\n\nhành ổn định hơn sau khi bảo dưỡng.\n\n10/15\n\nKiểm tra kỹ các khớp nối và gioăng kín sau khi lắp lại bình nóng lạnh để hạn chế nguy cơ rò rỉ nước trong quá\n\ntrình sử dụng.\n\nXả hết bọt khí trong bình trước khi cấp điện trở lại để đảm bảo bình nóng lạnh hoạt động đúng quy trình sau\n\nkhi hoàn tất bảo dưỡng.\n\nNếu không có đủ chuyên môn hoặc dụng cụ phù hợp, bạn nên liên hệ đơn vị kỹ thuật để được hỗ trợ bảo\n\ndưỡng đúng quy trình và đảm bảo an toàn.\n\nMUA HÀNG DỰ ÁN\n\nBảo dưỡng bình nóng lạnh định kỳ giúp thiết bị vận hành ổn định, duy trì hiệu quả làm nóng và góp phần đảm\n\nbảo an toàn trong quá trình sử dụng. Hy vọng những hướng dẫn trên sẽ giúp bạn thực hiện bảo dưỡng đúng cách\n\nhoặc chủ động lựa chọn dịch vụ phù hợp để kéo dài tuổi thọ của bình nóng lạnh.\n\nCâu hỏi thường gặp\n\nDưới đây là phần giải đáp một số câu hỏi thường gặp về bảo dưỡng bình nóng lạnh để giúp bạn sử dụng và bảo\n\nquản thiết bị hiệu quả hơn.\n\nDấu hiệu nhận biết cần bảo dưỡng bình nóng lạnh là gì?\n\nBình nóng lạnh ít sử dụng có cần bảo dưỡng không?\n\nSau bảo dưỡng, làm thế nào kiểm tra bình nóng lạnh đã hoạt động bình thường\nchưa?\n\nBài viết liên quan\n\n11/15\n\nMUA HÀNG DỰ ÁN\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\n12/15\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\n13/15\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nĐỌC THÊM\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\n14/15\n\nTập đoàn Ariston\n\nTuyển Dụng\n\nTẠP CHÍ\n\nMẹo & giải pháp\n\nMUA HÀNG DỰ ÁN\n\nTin tức\n\nNgôi nhà thư thái\n\nCuộc sống xanh\n\nTừ điển\n\nDỊCH VỤ KHÁCH HÀNG\n\nĐăng kí bảo hành online\n\nHội Viên Diamond Club\n\nLiên Hệ Với Chúng Tôi\n\nTải xuống tài liệu\n\nSẢN PHẨM\n\nMáy Nước Nóng Gián Tiếp\n\nMáy Nước Nóng Trực Tiếp\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nMáy Nước Nóng Bơm Nhiệt\n\nLEGAL AREA\n\nPrivacy Policy\n\nCookie Policy\n\n©2022 Ariston Holding N.V. – Company Info\n\n15/15",
+  "removed_repeated_lines": [
+    "01:14 11/10/26",
+    "ARISTON NET",
+    "Hướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách",
+    "TẢI TÀI LIỆU",
+    "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 20152,
+    "cleaned_char_count": 17121,
+    "removed_char_count": 3031,
+    "reduction_ratio": 0.1504,
+    "removed_repeated_line_count": 5
+  },
+  "raw_text": "01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nHướng dẫn các bước bảo dưỡng bình nóng\nlạnh đúng cách\n\nĐã xuất bản trên\n\n13 Tháng 8 2026\n\nBảo dưỡng bình nóng lạnh nên được thực hiện khi thiết bị có dấu hiệu như nước nóng chậm, nhiệt độ không\n\nổn định, nước chảy yếu, rò rỉ nước hoặc phát ra tiếng ồn bất thường. Quy trình bảo dưỡng gồm chuẩn bị dụng\n\ncụ và các biện pháp an toàn, vệ sinh bên ngoài và bên trong bình, kiểm tra các bộ phận như thanh đốt, thanh\n\nMagie, rơ-le, giăng cao su, sau đó lắp lại và kiểm tra thiết bị trước khi đưa vào sử dụng.\n\nBảo dưỡng bình nóng lạnh là một phần quan trọng của việc duy trì hiệu suất và tuổi thọ của thiết bị sau một\n\nkhoảng thời gian sử dụng. Để thực hiện công việc này đúng cách, hãy cùng khám phá cách bảo dưỡng máy nóng\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n1/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nlạnh tại nhà một cách hiệu quả.\n\nARISTON NET\nTẢI TÀI LIỆU\n\n1. Vì sao nên thực hiện bảo dưỡng bình nóng lạnh định kỳ?\n\nBảo dưỡng máy nóng lạnh định kỳ giúp thiết bị vận hành ổn định, kéo dài tuổi thọ, đảm bảo an toàn cho người sử\n\ndụng và góp phần tiết kiệm điện năng. Dưới đây là những lý do nên thực hiện bảo dưỡng máy nóng lạnh theo\n\nMUA HÀNG DỰ ÁN\n\nđịnh kỳ.\n\nTăng tuổi thọ cho máy nóng lạnh: Sau thời gian sử dụng, cặn bẩn và khoáng chất có thể tích tụ bên trong\n\nbình, làm ảnh hưởng đến khả năng làm nóng và khiến một số bộ phận máy nóng lạnh nhanh xuống cấp. Bảo\n\ndưỡng định kỳ giúp làm sạch cặn bám, phát hiện sớm các dấu hiệu hao mòn để duy trì tuổi thọ của bình nóng\n\nlạnh\n\nĐảm bảo an toàn cho người sử dụng: Nếu không được vệ sinh và kiểm tra thường xuyên, bình nóng lạnh có\n\nthể phát sinh các sự cố như rò rỉ điện, rò nước hoặc hư hỏng linh kiện bên trong. Bảo dưỡng định kỳ giúp kiểm\n\ntra tình trạng thiết bị, từ đó giảm nguy cơ mất an toàn trong quá trình sử dụng\n\nTiết kiệm điện năng: Lớp cặn bám trên thanh đốt sẽ làm giảm hiệu quả truyền nhiệt, khiến bình nóng lạnh cần\n\nnhiều thời gian hơn để làm nóng nước. Việc vệ sinh và bảo dưỡng định kỳ giúp thiết bị gia nhiệt hiệu quả hơn,\n\ngóp phần hạn chế điện năng tiêu thụ không cần thiết.\n\nBảo dưỡng máy nóng lạnh định kỳ theo khuyến nghị từ nhà sản xuất giúp thiết bị hoạt động ổn định và bền bỉ\n\nhơn.\n\n2. Khi nào cần bảo dưỡng bình nóng lạnh tại nhà?\n\nBạn nên bảo dưỡng máy nóng lạnh định kỳ sau mỗi 1 - 2 năm, đồng thời kiểm tra và xả cặn khoảng 6 tháng/lần\n\nnếu thiết bị sử dụng thường xuyên hoặc nguồn nước có nhiều cặn. Ngoài mốc thời gian này, bạn cũng nên bảo\n\ndưỡng sớm khi xuất hiện các dấu hiệu như nước nóng chậm, nước không đủ nóng, khả năng điều chỉnh nhiệt độ\n\ngiảm, đèn báo sáng nhưng nước không nóng, rò rỉ điện hoặc lưu lượng nước yếu hơn bình thường.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n2/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nTrong quá trình bảo dưỡng, cần kiểm tra lượng cặn bám trong bình và trên thanh đốt để vệ sinh hoặc thay thế khi\n\ncần thiết. Việc xử lý cặn bám kịp thời giúp hạn chế hao mòn các bộ phận bên trong, duy trì hiệu quả làm nóng và\n\ngóp phần kéo dài tuổi thọ của bình nóng lạnh.\n\nARISTON NET\nTẢI TÀI LIỆU\n\nXem thêm: Nguyên nhân máy nước nóng không nóng và cách khắc phục\n\nMUA HÀNG DỰ ÁN\n\n3. Bảo dưỡng bình nóng lạnh gồm những gì?\n\nBảo dưỡng bình nóng lạnh bao gồm việc kiểm tra, vệ sinh và đánh giá tình trạng của các bộ phận như lòng bình,\n\nthanh đốt, thanh Magie, rơ-le, van áp suất, vỏ nhựa, lớp cách nhiệt, đèn hiển thị, dây nguồn điện, bộ điều khiển\n\nnhiệt độ và đường dẫn nước. Dưới đây là vai trò của từng bộ phận và những hạng mục cần kiểm tra trong quá\n\ntrình bảo dưỡng máy nóng lạnh.\n\nLòng bình nóng lạnh: Lòng bình cần được vệ sinh để loại bỏ cặn bẩn tích tụ sau thời gian sử dụng. Việc làm\n\nsạch định kỳ giúp duy trì khả năng chứa nước và hỗ trợ quá trình làm nóng ổn định.\n\nThanh đốt: Thanh đốt cần được kiểm tra để phát hiện tình trạng bám cặn hoặc hư hỏng. Nếu cặn bám quá\n\nnhiều hoặc thanh đốt hoạt động kém, nên vệ sinh hoặc thay thế để duy trì hiệu quả làm nóng.\n\nThanh Magie: Thanh Magie có nhiệm vụ hạn chế ăn mòn các bộ phận kim loại bên trong bình nóng lạnh. Khi\n\nthanh Magie bị hao mòn quá mức, cần thay mới để tiếp tục bảo vệ lòng bình.\n\nBộ phận rơ-le: Rơ-le cần được kiểm tra để đảm bảo khả năng đóng ngắt và kiểm soát nhiệt độ hoạt động bình\n\nthường. Nếu rơ-le gặp sự cố, bình nóng lạnh có thể làm nóng không ổn định hoặc hoạt động không đúng\n\ncách.\n\nVan áp suất: Van áp suất cần được kiểm tra để đảm bảo khả năng xả áp khi áp suất trong bình tăng cao. Nếu\n\nvan bị kẹt hoặc hoạt động không bình thường, nên vệ sinh hoặc thay thế khi cần.\n\nVỏ nhựa: Vỏ nhựa cần được kiểm tra để phát hiện các dấu hiệu nứt, vỡ hoặc biến dạng. Bộ phận này nên\n\nđược vệ sinh sạch sẽ nhằm hạn chế bụi bẩn và hơi ẩm bám trên bề mặt.\n\nLớp cách nhiệt: Lớp cách nhiệt cần được kiểm tra để đảm bảo khả năng giữ nhiệt của bình nóng lạnh. Nếu lớp\n\ncách nhiệt bị hư hỏng, hiệu quả giữ nhiệt có thể giảm và làm tăng điện năng tiêu thụ.\n\nĐèn hiển thị trạng thái khi bật và tắt: Đèn hiển thị cần hoạt động bình thường để người dùng dễ theo dõi\n\ntrạng thái của bình nóng lạnh. Nếu đèn không sáng hoặc hiển thị bất thường, cần kiểm tra để xác định nguyên\n\nnhân.\n\nDây nguồn điện: Dây nguồn điện cần được kiểm tra để phát hiện tình trạng nứt, hở hoặc lỏng đầu nối. Việc\n\nđảm bảo dây nguồn còn tốt giúp bình nóng lạnh vận hành an toàn hơn.\n\nĐiều khiển nhiệt độ: Bộ điều khiển nhiệt độ cần được kiểm tra để đảm bảo khả năng cài đặt và duy trì mức\n\nnhiệt mong muốn. Nếu điều chỉnh nhiệt độ không chính xác, nên kiểm tra hoặc thay thế bộ phận này.\n\nĐường dẫn nước: Đường dẫn nước cần được kiểm tra để phát hiện cặn bẩn, rò rỉ hoặc tắc nghẽn. Việc vệ sinh\n\nvà xử lý kịp thời giúp nước lưu thông ổn định và hỗ trợ bình nóng lạnh hoạt động hiệu quả.\n\nXem thêm: Cách kiểm tra rơ le nhiệt bình nóng lạnh Ariston và thay mới\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n3/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nKiểm tra và vệ sinh đầy đủ các bộ phận giúp bình nóng lạnh vận hành hiệu quả.\n\n4. Hướng dẫn cách bảo dưỡng bình nóng lạnh chi tiết\n\nĐể bảo dưỡng bình nóng lạnh đúng cách, bạn cần chuẩn bị đầy đủ dụng cụ và thực hiện theo đúng quy trình\n\nnhằm đảm bảo an toàn cũng như hiệu quả. Dưới đây là hướng dẫn chi tiết từ khâu chuẩn bị đến các bước thực\n\nhiện để bạn dễ dàng theo dõi.\n\n4.1 Chuẩn bị\n\n- Về dụng cụ:\n\nTua vít.\n\nCờ lê hoặc mỏ lết.\n\nKìm.\n\nKhăn mềm hoặc khăn lau.\n\nBàn chải mềm.\n\nChậu hoặc xô chứa nước.\n\nGăng tay bảo hộ.\n\n- Về các biện pháp an toàn trước khi thực hiện:\n\nTắt nguồn điện: Ngắt hoàn toàn nguồn điện cấp cho bình nóng lạnh trước khi bảo dưỡng để hạn chế nguy cơ\n\nmất an toàn trong quá trình thao tác.\n\nKhóa van nước: Khóa van cấp nước vào bình và mở vòi nước nóng để xả áp suất còn lại bên trong.\n\nXả hết nước trong bình: Xả toàn bộ nước trong bình trước khi tháo các bộ phận để thuận tiện cho việc vệ sinh\n\nvà kiểm tra.\n\nChuẩn bị khu vực làm việc: Đảm bảo khu vực bảo dưỡng khô ráo, đủ ánh sáng và có không gian thao tác\n\nthuận tiện.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n4/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\n4.2 Các bước thực hiện\n\nĐể bảo dưỡng bình nóng lạnh đúng cách, người dùng cần thực hiện lần lượt các bước như tháo và vệ sinh bên\n\nARISTON NET\nTẢI TÀI LIỆU\n\nngoài, vệ sinh bên trong bình, kiểm tra các bộ phận quan trọng rồi lắp lại thiết bị. Hãy tham khảo hướng dẫn chi\n\ntiết dưới đây để thực hiện đúng quy trình và hạn chế ảnh hưởng đến khả năng vận hành của bình nóng lạnh.\n\n4.2.1 Tháo, bảo dưỡng và vệ sinh bên ngoài bình nóng lạnh\n\nMUA HÀNG DỰ ÁN\n\nTrước khi tháo bình nóng lạnh, hãy tháo lớp vỏ ngoài và vệ sinh bề mặt bằng khăn mềm để loại bỏ bụi bẩn hoặc\n\nhơi ẩm bám trên thiết bị. Đồng thời, quan sát tình trạng vỏ bình, các vị trí lắp ghép và dây dẫn để phát hiện dấu\n\nhiệu nứt, lỏng hoặc hư hỏng nếu có. Việc vệ sinh bên ngoài giúp bình nóng lạnh sạch sẽ hơn và hỗ trợ kiểm tra\n\ntổng quan trước khi bảo dưỡng các bộ phận bên trong.\n\nLàm sạch và kiểm tra bên ngoài bình nóng lạnh trước khi tháo các bộ phận.\n\n4.2.2 Tháo, bảo dưỡng và vệ sinh bên trong bình nóng lạnh\n\nSau khi xả hết nước trong bình, tiến hành tháo các bộ phận cần thiết để vệ sinh bên trong theo đúng hướng dẫn.\n\nLoại bỏ cặn bẩn bám trong lòng bình và làm sạch các vị trí tiếp xúc với nước để hạn chế tình trạng đóng cặn lâu\n\nngày. Sau khi vệ sinh xong, kiểm tra lại các chi tiết bên trong trước khi chuyển sang bước bảo dưỡng từng bộ\n\nphận.\n\n4.2.3 Bảo dưỡng các bộ phận\n\nSau khi vệ sinh bên trong bình nóng lạnh, bạn hãy tiếp tục kiểm tra và bảo dưỡng các bộ phận quan trọng dưới\n\nđây\n\nĐối với rơ-le và giắc cắm chân sợi đốt: Kiểm tra tình trạng hoạt động của rơ-le và giắc cắm để bảo đảm các\n\nđầu nối vẫn chắc chắn và không có dấu hiệu cháy hoặc oxy hóa. Nếu phát hiện linh kiện bị hư hỏng hoặc tiếp\n\nxúc kém, nên thay thế bằng phụ kiện phù hợp. Bước kiểm tra này giúp bình nóng lạnh vận hành ổn định sau\n\nkhi hoàn tất bảo dưỡng.\n\nĐối với giăng cao su: Kiểm tra giăng cao su để phát hiện dấu hiệu chai cứng, nứt hoặc biến dạng sau thời\n\ngian sử dụng. Nếu giăng không còn đảm bảo độ kín, nên thay mới để hạn chế nguy cơ rò rỉ nước. Đồng thời,\n\nvệ sinh sạch vị trí lắp giăng trước khi lắp lại nhằm tăng khả năng làm kín.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n5/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nĐối với ruột bình nóng lạnh: Ruột bình cần được kiểm tra để đánh giá tình trạng cặn bám hoặc dấu hiệu ăn\n\nmòn sau thời gian sử dụng. Nếu có nhiều cặn, hãy vệ sinh sạch để duy trì khả năng trao đổi nhiệt của bình\n\nnóng lạnh. Trường hợp phát hiện hư hỏng bất thường, người dùng nên liên hệ đơn vị kỹ thuật để được kiểm tra\n\nARISTON NET\nTẢI TÀI LIỆU\n\nvà xử lý.\n\nĐối với thanh đốt nóng: Sau một thời gian sử dụng, cặn bẩn thường bám vào bề mặt. Việc quan trọng là bạn\n\ncần cạo sạch đá vôi bám dính bằng nước tẩy cặn chuyên dụng. Nếu bạn phát hiện có dấu hiệu hỏng hóc, hãy\n\nMUA HÀNG DỰ ÁN\n\nxem xét việc thay thế bằng linh kiện mới. Bảo dưỡng thường xuyên cho thanh đốt giúp đảm bảo an toàn cho\n\nthiết bị, cũng như giúp tiết kiệm điện năng và thời gian đun nóng nước.\n\nĐối với thanh Magie: Đóng vai trò quan trọng trong việc bảo vệ và ngăn chặn nguy cơ ăn mòn vỏ bình. Sau\n\nthời gian sử dụng, thanh Magie có thể bị mòn. Nếu phát hiện mức mòn từ 50% - 60% so với ban đầu, đề xuất\n\nthay mới. Tránh tình trạng sử dụng thanh Magie quá cũ và mòn mọi nơi, gây phản ứng với kim loại trong bình,\n\ndẫn đến tình trạng rò rỉ điện và nước. Việc lựa chọn sản phẩm chính hãng được khuyến khích để đảm bảo chất\n\nlượng và hiệu suất tốt nhất.\n\nThanh Magie cần được kiểm tra và thay thế khi hao mòn để bảo vệ lòng bình.\n\n4.3.4 Lắp lại bình nóng lạnh\n\nSau khi hoàn tất các bước vệ sinh và kiểm tra, lắp lại các bộ phận của bình nóng lạnh theo đúng vị trí ban đầu và\n\nsiết chặt các điểm kết nối. Mở nguồn cấp nước để kiểm tra khả năng kín nước trước khi cấp điện cho thiết bị hoạt\n\nđộng trở lại. Cuối cùng, vận hành thử bình nóng lạnh để bảo đảm thiết bị hoạt động ổn định và không xuất hiện\n\nhiện tượng bất thường.\n\nXem thêm: Chi tiết cách lắp máy nước nóng an toàn và đúng kỹ thuật\n\n5. Ariston hỗ trợ khách hàng bảo dưỡng bình nóng lạnh tại\nnhà chuyên nghiệp\n\nAriston là thương hiệu chuyên cung cấp các giải pháp nước nóng với nhiều năm kinh nghiệm trên thị trường. Bên\n\ncạnh việc phát triển các dòng máy nước nóng, Ariston còn chú trọng xây dựng hệ thống dịch vụ hậu mãi nhằm hỗ\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n6/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\ntrợ khách hàng trong suốt quá trình sử dụng. Nhờ đó, người dùng có thể yên tâm hơn khi cần tư vấn, bảo dưỡng\n\nhoặc kiểm tra thiết bị.\n\nĐội ngũ kỹ thuật viên của Ariston được đào tạo bài bản và có kinh nghiệm thực tế trong quá trình kiểm tra, bảo\n\nARISTON NET\nTẢI TÀI LIỆU\n\ndưỡng máy nước nóng. Quy trình bảo dưỡng được thực hiện theo các bước rõ ràng nhằm giúp thiết bị vận hành\n\nổn định và duy trì hiệu quả sử dụng. Khách hàng có thể lựa chọn nhiều hình thức liên hệ để được hỗ trợ nhanh\n\nchóng khi có nhu cầu bảo dưỡng tại nhà.\n\nMUA HÀNG DỰ ÁN\n\nBạn có thể liên hệ Ariston thông qua các kênh sau:\n\nTổng đài chăm sóc khách hàng: Liên hệ để được tư vấn và hỗ trợ trong giờ làm việc từ 8:00 – 17:00 (trừ Chủ\n\nnhật và ngày lễ).\n\nZalo OA Ariston: Kết nối với đội ngũ chăm sóc khách hàng để được hỗ trợ nhanh chóng và thuận tiện.\n\nĐăng ký bảo hành online: Đăng ký bảo hành máy nước nóng, bình nóng lạnh Ariston trực tuyến một cách\n\nnhanh gọn.\n\nBên cạnh dịch vụ bảo dưỡng, Ariston còn phát triển nhiều dòng máy nước nóng tích hợp các công nghệ an toàn\n\nvà tiện ích nhằm đáp ứng đa dạng nhu cầu sử dụng của người dùng.\n\n- Ariston Andris 3\n\nDòng máy nước nóng gián tiếp Ariston Andris 3 được trang bị nhiều công nghệ an toàn như hệ thống kiểm soát\n\nSafety Check, vi mạch rà soát 3D, khuyến cáo nhiệt độ an toàn, hệ thống TSS cùng rơ-le TBSE hoặc TBST có độ\n\nchính xác cao. Bên cạnh đó, phiên bản Top Wifi tích hợp kết nối Wifi và chế độ ECO EVO giúp chủ động điều\n\nkhiển thiết bị, đồng thời hỗ trợ tiết kiệm điện năng lên đến 25%. Các phiên bản cao cấp còn được trang bị công\n\nnghệ ion Bạc Ag+ hỗ trợ kháng khuẩn nguồn nước. Sản phẩm sử dụng bình chứa tráng men Titan giữ nhiệt đến\n\n48 giờ kết hợp thanh đốt bằng Đồng hoặc 100% Titan siêu bền, được bảo hành trọn đời.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n7/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng gian tiếp Ariston Andris 3 tích hợp nhiều công nghệ an toàn và tiện ích cho gia đình\n\n- Ariston Slim3\n\nDòng máy nước nóng gián tiếp Ariston Slim 3 được tích hợp các công nghệ an toàn như Safety Check, vi mạch rà\n\nsoát 3D, khuyến cáo nhiệt độ an toàn và hệ thống TSS. Phiên bản Top Wifi hỗ trợ làm nóng nhanh hơn 20%, kết\n\nnối Wifi và chế độ ECO EVO giúp tối ưu hiệu suất, đồng thời tiết kiệm điện năng lên đến 25%. Một số phiên bản\n\nAriston Slim3 còn được trang bị công nghệ ion Bạc Ag+ hỗ trợ kháng khuẩn nguồn nước. Bình chứa Ariston Slim3\n\ntráng men Titan giữ nhiệt HDI 48 giờ kết hợp thanh đốt bằng Đồng hoặc 100% Titan góp phần nâng cao độ bền\n\ncủa sản phẩm.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n8/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng gián tiếp Ariston Slim3 kết hợp công nghệ an toàn với khả năng tiết kiệm điện hiệu quả.\n\n- Ariston Aures 2.0\n\nDòng máy nước nóng trực tiếp Ariston Aures 2.0 được trang bị nhiều công nghệ an toàn như khóa nhiệt chống\n\nbỏng, Residual Heat®, Safety Check và hệ thống an toàn đồng bộ TSS. Thiết bị còn sở hữu công nghệ ổn định\n\nnhiệt độ chống sốc nhiệt, khả năng làm nóng nhanh và tính năng ghi nhớ mức nhiệt cho từng thành viên thông\n\nqua bảng điều khiển cảm ứng. Bên cạnh đó, máy tích hợp chế độ ECO giúp tối ưu điện năng trong quá trình sử\n\ndụng. Sản phẩm còn có bơm trợ lực vận hành êm cùng vòi sen tích hợp ion Bạc Ag+ hỗ trợ nâng cao trải nghiệm\n\nsử dụng.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n9/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nAriston Aures 2.0 mang đến trải nghiệm nước nóng nhanh cùng nhiều tính năng an toàn.\n\n>> Tìm hiểu các dòng máy nước nóng Ariston chính hãng tại Shopee Mall và chọn sản phẩm đáp ứng nhu cầu sử\n\ndụng của gia đình.\n\n6. Một số lưu ý khác về cách bảo dưỡng bình nóng lạnh\n\nĐể việc bảo dưỡng máy nóng lạnh đạt hiệu quả và đảm bảo an toàn, người dùng cần lưu ý một số nguyên tắc\n\ntrong suốt quá trình thực hiện như ngắt nguồn điện, sử dụng dụng cụ phù hợp, kiểm tra các bộ phận hao mòn và\n\nthay thế khi cần thiết. Dưới đây là những lưu ý quan trọng giúp quá trình bảo dưỡng diễn ra đúng cách và hạn chế\n\nphát sinh sự cố.\n\nLuôn ngắt hoàn toàn nguồn điện trước khi tiến hành bảo dưỡng bình nóng lạnh để đảm bảo an toàn trong quá\n\ntrình thao tác.\n\nKhông sử dụng vật dụng bằng kim loại cứng để tác động vào các bộ phận của bình nóng lạnh nhằm hạn chế\n\nnguy cơ làm hư hỏng thiết bị hoặc gây mất an toàn.\n\nThay thế các linh kiện bị ăn mòn hoặc hư hỏng khi phát hiện dấu hiệu bất thường để giúp bình nóng lạnh vận\n\nhành ổn định hơn sau khi bảo dưỡng.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n10/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nKiểm tra kỹ các khớp nối và gioăng kín sau khi lắp lại bình nóng lạnh để hạn chế nguy cơ rò rỉ nước trong quá\n\ntrình sử dụng.\n\nXả hết bọt khí trong bình trước khi cấp điện trở lại để đảm bảo bình nóng lạnh hoạt động đúng quy trình sau\n\nARISTON NET\nTẢI TÀI LIỆU\n\nkhi hoàn tất bảo dưỡng.\n\nNếu không có đủ chuyên môn hoặc dụng cụ phù hợp, bạn nên liên hệ đơn vị kỹ thuật để được hỗ trợ bảo\n\ndưỡng đúng quy trình và đảm bảo an toàn.\n\nMUA HÀNG DỰ ÁN\n\nBảo dưỡng bình nóng lạnh định kỳ giúp thiết bị vận hành ổn định, duy trì hiệu quả làm nóng và góp phần đảm\n\nbảo an toàn trong quá trình sử dụng. Hy vọng những hướng dẫn trên sẽ giúp bạn thực hiện bảo dưỡng đúng cách\n\nhoặc chủ động lựa chọn dịch vụ phù hợp để kéo dài tuổi thọ của bình nóng lạnh.\n\nCâu hỏi thường gặp\n\nDưới đây là phần giải đáp một số câu hỏi thường gặp về bảo dưỡng bình nóng lạnh để giúp bạn sử dụng và bảo\n\nquản thiết bị hiệu quả hơn.\n\nDấu hiệu nhận biết cần bảo dưỡng bình nóng lạnh là gì?\n\nBình nóng lạnh ít sử dụng có cần bảo dưỡng không?\n\nSau bảo dưỡng, làm thế nào kiểm tra bình nóng lạnh đã hoạt động bình thường \nchưa?\n\nBài viết liên quan\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n11/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n12/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nĐỌC THÊM\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n13/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nARISTON NET\nTẢI TÀI LIỆU\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nĐỌC THÊM\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n14/15\n\n01:14 11/10/26\nHướng dẫn các bước bảo dưỡng bình nóng lạnh đúng cách\n\nTập đoàn Ariston\n\nTuyển Dụng\n\nARISTON NET\nTẢI TÀI LIỆU\n\nTẠP CHÍ\n\nMẹo & giải pháp\n\nMUA HÀNG DỰ ÁN\n\nTin tức\n\nNgôi nhà thư thái\n\nCuộc sống xanh\n\nTừ điển\n\nDỊCH VỤ KHÁCH HÀNG\n\nĐăng kí bảo hành online\n\nHội Viên Diamond Club\n\nLiên Hệ Với Chúng Tôi\n\nTải xuống tài liệu\n\nSẢN PHẨM\n\nMáy Nước Nóng Gián Tiếp\n\nMáy Nước Nóng Trực Tiếp\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nMáy Nước Nóng Bơm Nhiệt\n\nLEGAL AREA\n\nPrivacy Policy\n\nCookie Policy\n\n©2022 Ariston Holding N.V. – Company Info\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/huong-dan-bao-duong-binh-nong-lanh-tai-nha\n15/15",
+  "char_count": 20152
+}

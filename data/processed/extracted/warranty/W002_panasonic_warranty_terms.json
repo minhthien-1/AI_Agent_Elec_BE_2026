@@ -1,0 +1,315 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\warranty\\W002_panasonic_warranty_terms.pdf",
+  "filename": "W002_panasonic_warranty_terms.pdf",
+  "file_type": "pdf",
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:09 11/10/26\nĐIỀU KIỆN BẢO HÀNH - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            429.0574951171875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Panasonic Vietnam",
+          "bbox": [
+            37.006378173828125,
+            61.48886489868164,
+            97.8575210571289,
+            70.75741577148438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "ĐIỀU KIỆN BẢO HÀNH",
+          "bbox": [
+            212.36180114746094,
+            146.33714294433594,
+            400.3821716308594,
+            171.0532684326172
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "1. Những trường hợp không được bảo hành (sửa chữa tính phí)",
+          "bbox": [
+            42.11020278930664,
+            191.19638061523438,
+            330.3326416015625,
+            203.554443359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "• Sản phẩm hư hỏng do vận chuyển, sử dụng sai chức năng, lắp đặt không đúng theo sách hướng dẫn, nguồn điện không\nổn định, sử dụng sai điện thế, sử dụng nguồn nước yếu, dơ, phèn…(đối với máy nước nóng, máy giặt, bàn ủi hơi nước) hoặc\ncác hao mòn thông thường, bảo quản không tốt như để nước, bụi, cặn bẩn, động vật, côn trùng, vật lạ…vào máy,",
+          "bbox": [
+            42.11020278930664,
+            213.8800506591797,
+            566.8826904296875,
+            253.45851135253906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "• Sản phẩm hư do bị rơi hoặc do tác động bên ngoài, hỏa hoạn, sấm sét, lũ lụt hoặc tai nạn khác do thiên nhiên.\n• Số máy trên sản phẩm và trên phiếu bảo hành không giống nhau hoặc bị cạo sửa, xóa mất. Phiếu bảo hành không hợp lệ.",
+          "bbox": [
+            42.11020278930664,
+            254.71067810058594,
+            565.6669921875,
+            280.6789245605469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "",
+          "bbox": [
+            551.358642578125,
+            298.1521911621094,
+            564.9688720703125,
+            311.76239013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "ĐIỀU KIỆN BẢO HÀNH",
+          "bbox": [
+            42.110206604003906,
+            323.32879638671875,
+            136.12034606933594,
+            335.6868591308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "Không được đăng ký bảo hành điện tử.\n• Các bộ phận trong máy bị thay đổi hoặc máy đã bị tháo gỡ, sửa chữa ở những nơi không phải là Trung tâm Dịch vụ Khách\nhàng (TTDVKH) hoặc Trung tâm Dịch vụ Ủy quyền (TTDVUQ) của công ty TNHH Panasonic Việt Nam. Sản phẩm bị rách niêm\nphong của nhà máy sản xuất (nếu có).\n• Không bảo hành các bộ phận như vỏ máy hoặc phụ kiện như pin, ăng-ten, dây cáp nối… (sản phẩm điện tử), nắp nồi, ổ\ncắm, lưỡi xay, ly xay… (sản phẩm điện gia dụng).",
+          "bbox": [
+            42.11020278930664,
+            281.93109130859375,
+            564.8502807617188,
+            362.34014892578125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "• Sử dụng không phù hợp với hướng dẫn sử dụng và các biện pháp phòng ngừa an toàn hoặc điều kiện môi trường không\nđảm bảo so với điều kiện được chỉ định trong hướng dẫn sử dụng.",
+          "bbox": [
+            42.11020278930664,
+            363.5923156738281,
+            561.3661499023438,
+            389.5605773925781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "2. Các sản phẩm được bảo hành tại nhà",
+          "bbox": [
+            42.11020278930664,
+            399.88616943359375,
+            220.13148498535156,
+            412.2442321777344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "Vui lòng tham khảo anh mục các sản phẩm được bảo hành tại nhà và các sản phẩm không được bảo hành tại nhà (khách\nhàng mang sản phẩm đến TTDVKH hoặc TTDVUQ Panasonic để được bảo hành). TÌM HIỂU THÔNG TIN CHI TIẾT CLICK TẠI\nĐÂY",
+          "bbox": [
+            42.11020278930664,
+            422.5698547363281,
+            559.962158203125,
+            462.1483154296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "Lưu ý:\nTTDVKH Panasonic và TTDVUQ Panasonic có trách nhiệm thực hiện dịch vụ bảo hành tất cả các sản phẩm còn đủ điều kiện\nbảo hành của khách hàng, đại lý và không được thu bất kỳ chi phí nào từ dịch vụ bảo hành này.\nKhách hàng/ đại lý vui lòng liên hệ tổng đài chăm sóc khách hàng Panasonic, số điện thoại miễn phí: 18001593 để được tiếp",
+          "bbox": [
+            42.11020278930664,
+            472.47393798828125,
+            567.5939331054688,
+            525.6625366210938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "nhận và xử lý yêu cầu bảo hành.",
+          "bbox": [
+            42.11020278930664,
+            526.9147338867188,
+            179.0286865234375,
+            539.2727661132812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "ĐIỀU KIỆN BẢO HÀNH",
+          "bbox": [
+            37.006378173828125,
+            585.481689453125,
+            107.51398468017578,
+            594.750244140625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 16,
+          "text": "Facebook\nYouTube\nTikTok\nCommunity\nLinkedIn",
+          "bbox": [
+            195.64144897460938,
+            613.2692260742188,
+            406.88983154296875,
+            622.5377807617188
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 17,
+          "text": "Về Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành",
+          "bbox": [
+            69.02047729492188,
+            632.5503540039062,
+            529.547119140625,
+            641.8189086914062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 18,
+          "text": "CHÍNH SÁCH COOKIE",
+          "bbox": [
+            272.4735412597656,
+            648.4288940429688,
+            340.26593017578125,
+            657.6974487304688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 19,
+          "text": "Area/Country",
+          "bbox": [
+            291.79010009765625,
+            666.0087280273438,
+            334.5669250488281,
+            675.2772827148438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 20,
+          "text": "Copyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360",
+          "bbox": [
+            183.76797485351562,
+            681.8873291015625,
+            428.9693298339844,
+            691.1558837890625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 21,
+          "text": "https://www.panasonic.com/vn/support/warrantyterms.html\n1/1",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "ĐIỀU KIỆN BẢO HÀNH - Panasonic Việt Nam",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010180928+00'00'",
+    "modDate": "D:20261010180928+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "01:09 11/10/26\nĐIỀU KIỆN BẢO HÀNH - Panasonic Việt Nam\n\nPanasonic Vietnam\n\nĐIỀU KIỆN BẢO HÀNH\n\n1. Những trường hợp không được bảo hành (sửa chữa tính phí)\n\n• Sản phẩm hư hỏng do vận chuyển, sử dụng sai chức năng, lắp đặt không đúng theo sách hướng dẫn, nguồn điện không\nổn định, sử dụng sai điện thế, sử dụng nguồn nước yếu, dơ, phèn…(đối với máy nước nóng, máy giặt, bàn ủi hơi nước) hoặc\ncác hao mòn thông thường, bảo quản không tốt như để nước, bụi, cặn bẩn, động vật, côn trùng, vật lạ…vào máy,\n\n• Sản phẩm hư do bị rơi hoặc do tác động bên ngoài, hỏa hoạn, sấm sét, lũ lụt hoặc tai nạn khác do thiên nhiên.\n• Số máy trên sản phẩm và trên phiếu bảo hành không giống nhau hoặc bị cạo sửa, xóa mất. Phiếu bảo hành không hợp lệ.\n\n\n\nĐIỀU KIỆN BẢO HÀNH\n\nKhông được đăng ký bảo hành điện tử.\n• Các bộ phận trong máy bị thay đổi hoặc máy đã bị tháo gỡ, sửa chữa ở những nơi không phải là Trung tâm Dịch vụ Khách\nhàng (TTDVKH) hoặc Trung tâm Dịch vụ Ủy quyền (TTDVUQ) của công ty TNHH Panasonic Việt Nam. Sản phẩm bị rách niêm\nphong của nhà máy sản xuất (nếu có).\n• Không bảo hành các bộ phận như vỏ máy hoặc phụ kiện như pin, ăng-ten, dây cáp nối… (sản phẩm điện tử), nắp nồi, ổ\ncắm, lưỡi xay, ly xay… (sản phẩm điện gia dụng).\n\n• Sử dụng không phù hợp với hướng dẫn sử dụng và các biện pháp phòng ngừa an toàn hoặc điều kiện môi trường không\nđảm bảo so với điều kiện được chỉ định trong hướng dẫn sử dụng.\n\n2. Các sản phẩm được bảo hành tại nhà\n\nVui lòng tham khảo anh mục các sản phẩm được bảo hành tại nhà và các sản phẩm không được bảo hành tại nhà (khách\nhàng mang sản phẩm đến TTDVKH hoặc TTDVUQ Panasonic để được bảo hành). TÌM HIỂU THÔNG TIN CHI TIẾT CLICK TẠI\nĐÂY\n\nLưu ý:\nTTDVKH Panasonic và TTDVUQ Panasonic có trách nhiệm thực hiện dịch vụ bảo hành tất cả các sản phẩm còn đủ điều kiện\nbảo hành của khách hàng, đại lý và không được thu bất kỳ chi phí nào từ dịch vụ bảo hành này.\nKhách hàng/ đại lý vui lòng liên hệ tổng đài chăm sóc khách hàng Panasonic, số điện thoại miễn phí: 18001593 để được tiếp\n\nnhận và xử lý yêu cầu bảo hành.\n\nĐIỀU KIỆN BẢO HÀNH\n\nFacebook\nYouTube\nTikTok\nCommunity\nLinkedIn\n\nVề Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành\n\nCHÍNH SÁCH COOKIE\n\nArea/Country\n\nCopyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360\n\nhttps://www.panasonic.com/vn/support/warrantyterms.html\n1/1",
+  "removed_repeated_lines": [],
+  "cleaning_stats": {
+    "raw_char_count": 2397,
+    "cleaned_char_count": 2397,
+    "removed_char_count": 0,
+    "reduction_ratio": 0.0,
+    "removed_repeated_line_count": 0
+  },
+  "raw_text": "01:09 11/10/26\nĐIỀU KIỆN BẢO HÀNH - Panasonic Việt Nam\n\nPanasonic Vietnam\n\nĐIỀU KIỆN BẢO HÀNH\n\n1. Những trường hợp không được bảo hành (sửa chữa tính phí)\n\n• Sản phẩm hư hỏng do vận chuyển, sử dụng sai chức năng, lắp đặt không đúng theo sách hướng dẫn, nguồn điện không\nổn định, sử dụng sai điện thế, sử dụng nguồn nước yếu, dơ, phèn…(đối với máy nước nóng, máy giặt, bàn ủi hơi nước) hoặc\ncác hao mòn thông thường, bảo quản không tốt như để nước, bụi, cặn bẩn, động vật, côn trùng, vật lạ…vào máy,\n\n• Sản phẩm hư do bị rơi hoặc do tác động bên ngoài, hỏa hoạn, sấm sét, lũ lụt hoặc tai nạn khác do thiên nhiên.\n• Số máy trên sản phẩm và trên phiếu bảo hành không giống nhau hoặc bị cạo sửa, xóa mất. Phiếu bảo hành không hợp lệ.\n\n\n\nĐIỀU KIỆN BẢO HÀNH\n\nKhông được đăng ký bảo hành điện tử.\n• Các bộ phận trong máy bị thay đổi hoặc máy đã bị tháo gỡ, sửa chữa ở những nơi không phải là Trung tâm Dịch vụ Khách\nhàng (TTDVKH) hoặc Trung tâm Dịch vụ Ủy quyền (TTDVUQ) của công ty TNHH Panasonic Việt Nam. Sản phẩm bị rách niêm\nphong của nhà máy sản xuất (nếu có).\n• Không bảo hành các bộ phận như vỏ máy hoặc phụ kiện như pin, ăng-ten, dây cáp nối… (sản phẩm điện tử), nắp nồi, ổ\ncắm, lưỡi xay, ly xay… (sản phẩm điện gia dụng).\n\n• Sử dụng không phù hợp với hướng dẫn sử dụng và các biện pháp phòng ngừa an toàn hoặc điều kiện môi trường không\nđảm bảo so với điều kiện được chỉ định trong hướng dẫn sử dụng.\n\n2. Các sản phẩm được bảo hành tại nhà\n\nVui lòng tham khảo anh mục các sản phẩm được bảo hành tại nhà và các sản phẩm không được bảo hành tại nhà (khách\nhàng mang sản phẩm đến TTDVKH hoặc TTDVUQ Panasonic để được bảo hành). TÌM HIỂU THÔNG TIN CHI TIẾT CLICK TẠI\nĐÂY\n\nLưu ý:\nTTDVKH Panasonic và TTDVUQ Panasonic có trách nhiệm thực hiện dịch vụ bảo hành tất cả các sản phẩm còn đủ điều kiện\nbảo hành của khách hàng, đại lý và không được thu bất kỳ chi phí nào từ dịch vụ bảo hành này.\nKhách hàng/ đại lý vui lòng liên hệ tổng đài chăm sóc khách hàng Panasonic, số điện thoại miễn phí: 18001593 để được tiếp\n\nnhận và xử lý yêu cầu bảo hành.\n\nĐIỀU KIỆN BẢO HÀNH\n\nFacebook\nYouTube\nTikTok\nCommunity\nLinkedIn\n\nVề Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành\n\nCHÍNH SÁCH COOKIE\n\nArea/Country\n\nCopyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360\n\nhttps://www.panasonic.com/vn/support/warrantyterms.html\n1/1",
+  "char_count": 2397
+}

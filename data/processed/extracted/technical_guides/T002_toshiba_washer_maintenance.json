@@ -1,0 +1,927 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T002_toshiba_washer_maintenance.pdf",
+  "filename": "T002_toshiba_washer_maintenance.pdf",
+  "file_type": "pdf",
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:11 11/10/26\nCách bảo dưỡng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            377.2656555175781,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Trang Chủ\nKhám",
+          "bbox": [
+            524.078125,
+            41.38399887084961,
+            587.610595703125,
+            50.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "Cách bảo dưỡng",
+          "bbox": [
+            28.5,
+            109.26052856445312,
+            158.00994873046875,
+            131.2728271484375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "Việc vệ sinh đúng cách cho máy giặt sẽ kéo dài tuổi thọ của máy. Khi cần thiết, có thể lau bề mặt máy bằng chất tẩy rửa loãng trung tính - loại không ăn mòn. Nếu có nư\ngiặt, hãy dùng vải khô để lau sạch ngay. Không được dùng vật sắc nhọn để vệ sinh vỏ máy",
+          "bbox": [
+            28.5,
+            153.62376403808594,
+            583.8595581054688,
+            175.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "Vệ sinh bộ lọc đầu ống cấp nước:",
+          "bbox": [
+            28.5,
+            193.61578369140625,
+            143.75588989257812,
+            203.39903259277344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "1. Khóa vòi nước.",
+          "bbox": [
+            28.5,
+            222.0760040283203,
+            86.61195373535156,
+            231.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "2. Tháo ống cấp nước ra khỏi bộ lọc và bộ lọc ra khỏi vòi.",
+          "bbox": [
+            28.5,
+            250.0760040283203,
+            217.1558380126953,
+            259.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "3. Tháo rời và vệ sinh bộ lọc.",
+          "bbox": [
+            28.5,
+            278.8840026855469,
+            122.69190979003906,
+            287.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "4. Lắp lại bộ lọc và ống cấp nước",
+          "bbox": [
+            28.5,
+            306.07598876953125,
+            136.25990295410156,
+            315.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "Vệ sinh bộ lọc ở ngõ vào cấp nước của máy:",
+          "bbox": [
+            28.5,
+            333.61578369140625,
+            180.4038543701172,
+            343.3990478515625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "1. Xoay nút vặn để tháo ống cấp nước ra khỏi ngõ vào ở mặt sau máy.",
+          "bbox": [
+            28.5,
+            362.07598876953125,
+            260.1078186035156,
+            371.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "2. Dùng kìm mỏ dài để lấy bộ lọc ra và lắp lại sau khi vệ sinh.",
+          "bbox": [
+            28.5,
+            390.07598876953125,
+            229.2758026123047,
+            399.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "3. Dùng bàn chải để vệ sinh bộ lọc.",
+          "bbox": [
+            28.5,
+            418.07598876953125,
+            145.39588928222656,
+            427.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "4. Lắp lại ống cấp nước vào máy.",
+          "bbox": [
+            28.5,
+            446.07598876953125,
+            137.41990661621094,
+            455.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "Vệ sinh bộ lọc xơ vải bên trong máy:",
+          "bbox": [
+            28.5,
+            474.07598876953125,
+            149.81988525390625,
+            483.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 16,
+          "text": "1. Có một bộ lọc xơ vải tích hợp trong máy giặt của người dùng. Bộ lọc này có thể giúp thu gom xơ vải trong quá trình giặt.",
+          "bbox": [
+            28.5,
+            502.07598876953125,
+            435.9316711425781,
+            511.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 17,
+          "text": "2. Nên vệ sinh bộ lọc xơ vải sau khoảng 10 lần giặt.",
+          "bbox": [
+            28.5,
+            530.0759887695312,
+            197.78785705566406,
+            539.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 18,
+          "text": "3. Lấy ra và vệ sinh bộ lọc bằng nước.",
+          "bbox": [
+            28.5,
+            558.0759887695312,
+            152.91587829589844,
+            567.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 19,
+          "text": "Sau đó đặt trở lại vào máy giặt.",
+          "bbox": [
+            28.5,
+            586.0759887695312,
+            130.41189575195312,
+            595.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 20,
+          "text": "Nội dung này có hữu ích không?",
+          "bbox": [
+            48.5,
+            662.9119873046875,
+            218.14390563964844,
+            675.3485717773438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 21,
+          "text": "Có\nKhông",
+          "bbox": [
+            60.3359375,
+            690.2109985351562,
+            115.38998413085938,
+            697.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 22,
+          "text": "https://www.toshiba-lifestyle.com/vn/support/faq/washing-machine/maintenance\n1/2",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:11 11/10/26\nCách bảo dưỡng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            377.2656555175781,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "Khám Phá",
+          "bbox": [
+            144.5,
+            50.38399887084961,
+            178.0919952392578,
+            59.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "Tủ Lạnh",
+          "bbox": [
+            260.5,
+            49.57600021362305,
+            286.7319641113281,
+            59.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "Giải Pháp Giặt Sấy",
+          "bbox": [
+            376.5,
+            49.57600021362305,
+            436.4598693847656,
+            59.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "Giải Pháp Không Khí",
+          "bbox": [
+            492.5,
+            49.57600021362305,
+            560.3079833984375,
+            59.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Về Chúng Tôi",
+          "bbox": [
+            144.5,
+            66.21099853515625,
+            182.42593383789062,
+            73.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "Tủ Lạnh Nhiều Cửa",
+          "bbox": [
+            260.5,
+            65.50399780273438,
+            315.1908874511719,
+            73.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "Tháp Giặt Sấy",
+          "bbox": [
+            376.5,
+            66.21099853515625,
+            416.0499267578125,
+            73.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "Điều Hòa Không Khí",
+          "bbox": [
+            492.5,
+            66.21099853515625,
+            551.2089233398438,
+            73.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "Cửa Hàng Gần Bạn",
+          "bbox": [
+            144.5,
+            78.50399780273438,
+            198.78492736816406,
+            86.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "Tủ Lạnh Side By Side",
+          "bbox": [
+            260.5,
+            78.50399780273438,
+            320.1118469238281,
+            86.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "Máy Giặt",
+          "bbox": [
+            376.5,
+            79.21099853515625,
+            402.0919494628906,
+            86.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "Quạt Máy",
+          "bbox": [
+            492.5,
+            78.50399780273438,
+            520.6329345703125,
+            86.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "Tin Tức",
+          "bbox": [
+            144.5,
+            92.21099853515625,
+            164.77195739746094,
+            99.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "Tủ Lạnh Ngăn Đá Trên",
+          "bbox": [
+            260.5,
+            91.1082992553711,
+            324.24188232421875,
+            99.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "Máy Sấy",
+          "bbox": [
+            376.5,
+            92.21099853515625,
+            400.35595703125,
+            99.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 17,
+          "text": "TSmartLife",
+          "bbox": [
+            144.5,
+            105.21099853515625,
+            175.7759552001953,
+            112.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 18,
+          "text": "Tủ Lạnh Ngăn Đá Dưới",
+          "bbox": [
+            260.5,
+            104.1082992553711,
+            325.8028869628906,
+            112.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 19,
+          "text": "Máy Giặt Sấy",
+          "bbox": [
+            376.5,
+            105.21099853515625,
+            413.66290283203125,
+            112.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 20,
+          "text": "Tháng Toshiba",
+          "bbox": [
+            144.5,
+            118.21099853515625,
+            186.66091918945312,
+            125.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 21,
+          "text": "Tủ Đông",
+          "bbox": [
+            260.5,
+            118.21099853515625,
+            285.3709411621094,
+            125.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 22,
+          "text": "Giải Pháp Nhà Bếp",
+          "bbox": [
+            144.5,
+            138.5760040283203,
+            205.98794555664062,
+            148.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 23,
+          "text": "Giải Pháp Dọn Dẹp",
+          "bbox": [
+            260.5,
+            138.5760040283203,
+            323.531982421875,
+            148.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 24,
+          "text": "Bảo Hành",
+          "bbox": [
+            376.5,
+            138.5760040283203,
+            408.7319641113281,
+            148.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 25,
+          "text": "Hỗ Trợ",
+          "bbox": [
+            492.5,
+            139.38400268554688,
+            514.052001953125,
+            148.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 26,
+          "text": "Nồi Cơm Điện",
+          "bbox": [
+            144.5,
+            154.50399780273438,
+            184.9739227294922,
+            162.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 27,
+          "text": "Máy Hút Bụi",
+          "bbox": [
+            260.5,
+            155.21099853515625,
+            295.77996826171875,
+            162.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 28,
+          "text": "Chính Sách Bảo Hành",
+          "bbox": [
+            376.5,
+            154.50399780273438,
+            438.8909912109375,
+            162.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 29,
+          "text": "Liên Hệ",
+          "bbox": [
+            492.5,
+            155.21099853515625,
+            514.3889770507812,
+            162.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 30,
+          "text": "Lò Vi Sóng",
+          "bbox": [
+            144.5,
+            168.21099853515625,
+            174.83094787597656,
+            175.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 31,
+          "text": "Địa Chỉ Bảo Hành",
+          "bbox": [
+            376.5,
+            167.50399780273438,
+            426.9630126953125,
+            175.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 32,
+          "text": "Câu Hỏi Thường Gặp",
+          "bbox": [
+            492.5,
+            167.50399780273438,
+            552.7278442382812,
+            175.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 33,
+          "text": "Máy Rửa Chén",
+          "bbox": [
+            144.5,
+            181.21099853515625,
+            186.08692932128906,
+            188.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 34,
+          "text": "Đăng Ký Bảo Hành",
+          "bbox": [
+            376.5,
+            180.10829162597656,
+            430.51898193359375,
+            188.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 35,
+          "text": "Lò Nướng/ Hấp/ Chiên",
+          "bbox": [
+            144.5,
+            193.50399780273438,
+            209.8308868408203,
+            201.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 36,
+          "text": "Kiểm Tra Kích Hoạt",
+          "bbox": [
+            376.5,
+            193.50399780273438,
+            430.8969421386719,
+            201.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 37,
+          "text": "Nồi Chiên Không Dầu",
+          "bbox": [
+            144.5,
+            207.21099853515625,
+            207.296875,
+            214.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 38,
+          "text": "Tra Cứu Bảo Hành",
+          "bbox": [
+            376.5,
+            206.50399780273438,
+            428.15301513671875,
+            214.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 39,
+          "text": "Bếp Điện Từ",
+          "bbox": [
+            144.5,
+            220.21099853515625,
+            179.24093627929688,
+            227.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 40,
+          "text": "Máy Xay Sinh Tố",
+          "bbox": [
+            144.5,
+            233.21099853515625,
+            191.2039337158203,
+            240.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 41,
+          "text": "Bình Đun Siêu Tốc",
+          "bbox": [
+            144.5,
+            246.21099853515625,
+            196.7409210205078,
+            253.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 42,
+          "text": "CÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM",
+          "bbox": [
+            28.5,
+            276.5039978027344,
+            197.93479919433594,
+            284.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 43,
+          "text": "Địa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006",
+          "bbox": [
+            28.5,
+            291.9320068359375,
+            340.75152587890625,
+            323.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 44,
+          "text": "Thu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie",
+          "bbox": [
+            28.5,
+            345.0039978027344,
+            323.3681335449219,
+            353.25
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 45,
+          "text": "https://www.toshiba-lifestyle.com/vn/support/faq/washing-machine/maintenance\n2/2",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Cách bảo dưỡng",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181105+00'00'",
+    "modDate": "D:20261010181105+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "Trang Chủ\nKhám\n\nCách bảo dưỡng\n\nViệc vệ sinh đúng cách cho máy giặt sẽ kéo dài tuổi thọ của máy. Khi cần thiết, có thể lau bề mặt máy bằng chất tẩy rửa loãng trung tính - loại không ăn mòn. Nếu có nư\ngiặt, hãy dùng vải khô để lau sạch ngay. Không được dùng vật sắc nhọn để vệ sinh vỏ máy\n\nVệ sinh bộ lọc đầu ống cấp nước:\n\n1. Khóa vòi nước.\n\n2. Tháo ống cấp nước ra khỏi bộ lọc và bộ lọc ra khỏi vòi.\n\n3. Tháo rời và vệ sinh bộ lọc.\n\n4. Lắp lại bộ lọc và ống cấp nước\n\nVệ sinh bộ lọc ở ngõ vào cấp nước của máy:\n\n1. Xoay nút vặn để tháo ống cấp nước ra khỏi ngõ vào ở mặt sau máy.\n\n2. Dùng kìm mỏ dài để lấy bộ lọc ra và lắp lại sau khi vệ sinh.\n\n3. Dùng bàn chải để vệ sinh bộ lọc.\n\n4. Lắp lại ống cấp nước vào máy.\n\nVệ sinh bộ lọc xơ vải bên trong máy:\n\n1. Có một bộ lọc xơ vải tích hợp trong máy giặt của người dùng. Bộ lọc này có thể giúp thu gom xơ vải trong quá trình giặt.\n\n2. Nên vệ sinh bộ lọc xơ vải sau khoảng 10 lần giặt.\n\n3. Lấy ra và vệ sinh bộ lọc bằng nước.\n\nSau đó đặt trở lại vào máy giặt.\n\nNội dung này có hữu ích không?\n\nCó\nKhông\n\n1/2\n\nKhám Phá\n\nTủ Lạnh\n\nGiải Pháp Giặt Sấy\n\nGiải Pháp Không Khí\n\nVề Chúng Tôi\n\nTủ Lạnh Nhiều Cửa\n\nTháp Giặt Sấy\n\nĐiều Hòa Không Khí\n\nCửa Hàng Gần Bạn\n\nTủ Lạnh Side By Side\n\nMáy Giặt\n\nQuạt Máy\n\nTin Tức\n\nTủ Lạnh Ngăn Đá Trên\n\nMáy Sấy\n\nTSmartLife\n\nTủ Lạnh Ngăn Đá Dưới\n\nMáy Giặt Sấy\n\nTháng Toshiba\n\nTủ Đông\n\nGiải Pháp Nhà Bếp\n\nGiải Pháp Dọn Dẹp\n\nBảo Hành\n\nHỗ Trợ\n\nNồi Cơm Điện\n\nMáy Hút Bụi\n\nChính Sách Bảo Hành\n\nLiên Hệ\n\nLò Vi Sóng\n\nĐịa Chỉ Bảo Hành\n\nCâu Hỏi Thường Gặp\n\nMáy Rửa Chén\n\nĐăng Ký Bảo Hành\n\nLò Nướng/ Hấp/ Chiên\n\nKiểm Tra Kích Hoạt\n\nNồi Chiên Không Dầu\n\nTra Cứu Bảo Hành\n\nBếp Điện Từ\n\nMáy Xay Sinh Tố\n\nBình Đun Siêu Tốc\n\nCÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM\n\nĐịa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006\n\nThu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie\n\n2/2",
+  "removed_repeated_lines": [
+    "01:11 11/10/26",
+    "Cách bảo dưỡng",
+    "https://www.toshiba-lifestyle.com/vn/support/faq/washing-machine/maintenance"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 2388,
+    "cleaned_char_count": 2172,
+    "removed_char_count": 216,
+    "reduction_ratio": 0.0905,
+    "removed_repeated_line_count": 3
+  },
+  "raw_text": "01:11 11/10/26\nCách bảo dưỡng\n\nTrang Chủ\nKhám\n\nCách bảo dưỡng\n\nViệc vệ sinh đúng cách cho máy giặt sẽ kéo dài tuổi thọ của máy. Khi cần thiết, có thể lau bề mặt máy bằng chất tẩy rửa loãng trung tính - loại không ăn mòn. Nếu có nư\ngiặt, hãy dùng vải khô để lau sạch ngay. Không được dùng vật sắc nhọn để vệ sinh vỏ máy\n\nVệ sinh bộ lọc đầu ống cấp nước:\n\n1. Khóa vòi nước.\n\n2. Tháo ống cấp nước ra khỏi bộ lọc và bộ lọc ra khỏi vòi.\n\n3. Tháo rời và vệ sinh bộ lọc.\n\n4. Lắp lại bộ lọc và ống cấp nước\n\nVệ sinh bộ lọc ở ngõ vào cấp nước của máy:\n\n1. Xoay nút vặn để tháo ống cấp nước ra khỏi ngõ vào ở mặt sau máy.\n\n2. Dùng kìm mỏ dài để lấy bộ lọc ra và lắp lại sau khi vệ sinh.\n\n3. Dùng bàn chải để vệ sinh bộ lọc.\n\n4. Lắp lại ống cấp nước vào máy.\n\nVệ sinh bộ lọc xơ vải bên trong máy:\n\n1. Có một bộ lọc xơ vải tích hợp trong máy giặt của người dùng. Bộ lọc này có thể giúp thu gom xơ vải trong quá trình giặt.\n\n2. Nên vệ sinh bộ lọc xơ vải sau khoảng 10 lần giặt.\n\n3. Lấy ra và vệ sinh bộ lọc bằng nước.\n\nSau đó đặt trở lại vào máy giặt.\n\nNội dung này có hữu ích không?\n\nCó\nKhông\n\nhttps://www.toshiba-lifestyle.com/vn/support/faq/washing-machine/maintenance\n1/2\n\n01:11 11/10/26\nCách bảo dưỡng\n\nKhám Phá\n\nTủ Lạnh\n\nGiải Pháp Giặt Sấy\n\nGiải Pháp Không Khí\n\nVề Chúng Tôi\n\nTủ Lạnh Nhiều Cửa\n\nTháp Giặt Sấy\n\nĐiều Hòa Không Khí\n\nCửa Hàng Gần Bạn\n\nTủ Lạnh Side By Side\n\nMáy Giặt\n\nQuạt Máy\n\nTin Tức\n\nTủ Lạnh Ngăn Đá Trên\n\nMáy Sấy\n\nTSmartLife\n\nTủ Lạnh Ngăn Đá Dưới\n\nMáy Giặt Sấy\n\nTháng Toshiba\n\nTủ Đông\n\nGiải Pháp Nhà Bếp\n\nGiải Pháp Dọn Dẹp\n\nBảo Hành\n\nHỗ Trợ\n\nNồi Cơm Điện\n\nMáy Hút Bụi\n\nChính Sách Bảo Hành\n\nLiên Hệ\n\nLò Vi Sóng\n\nĐịa Chỉ Bảo Hành\n\nCâu Hỏi Thường Gặp\n\nMáy Rửa Chén\n\nĐăng Ký Bảo Hành\n\nLò Nướng/ Hấp/ Chiên\n\nKiểm Tra Kích Hoạt\n\nNồi Chiên Không Dầu\n\nTra Cứu Bảo Hành\n\nBếp Điện Từ\n\nMáy Xay Sinh Tố\n\nBình Đun Siêu Tốc\n\nCÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM\n\nĐịa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006\n\nThu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie\n\nhttps://www.toshiba-lifestyle.com/vn/support/faq/washing-machine/maintenance\n2/2",
+  "char_count": 2388
+}

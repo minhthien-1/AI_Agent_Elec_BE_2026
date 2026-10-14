@@ -1,0 +1,823 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T007_toshiba_ac_maintenance.pdf",
+  "filename": "T007_toshiba_ac_maintenance.pdf",
+  "file_type": "pdf",
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:13 11/10/26\nBảo dưỡng và vệ sinh máy",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            395.3382873535156,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Trang Chủ\nKhám",
+          "bbox": [
+            524.078125,
+            41.38399887084961,
+            587.610595703125,
+            50.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "Bảo dưỡng và vệ sinh máy",
+          "bbox": [
+            28.5,
+            109.26052856445312,
+            236.09390258789062,
+            131.3098602294922
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "Để bảo dưỡng và vệ sinh máy điều hòa, hãy làm theo các bước sau:",
+          "bbox": [
+            28.5,
+            154.0760040283203,
+            250.43580627441406,
+            163.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "1. Tắt nguồn điện và rút phích cắm thiết bị trước khi vệ sinh.",
+          "bbox": [
+            28.5,
+            182.0760040283203,
+            226.51580810546875,
+            191.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "2. Làm sạch các mảnh vụn xung quanh dàn nóng và thông tắc ống thoát nước.",
+          "bbox": [
+            28.5,
+            210.0760040283203,
+            289.2438049316406,
+            219.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "3. Giặt bộ lọc không khí 2 tuần một lần bằng nước, phơi khô trong bóng râm và thay thế nếu bị hư hỏng.",
+          "bbox": [
+            28.5,
+            238.0760040283203,
+            374.8037109375,
+            247.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "4. Lau nhẹ nhàng dàn lạnh bằng khăn mềm ẩm.",
+          "bbox": [
+            28.5,
+            265.623779296875,
+            187.01185607910156,
+            275.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "5. Không sử dụng xăng, chất pha loãng hoặc bột tẩy rửa. Chỉ sử dụng xà phòng (pH 7) hoặc chất tẩy rửa trung tính.",
+          "bbox": [
+            28.5,
+            293.623779296875,
+            407.66766357421875,
+            303.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "6. Tránh sử dụng nước nóng hơn 40°C.",
+          "bbox": [
+            28.5,
+            322.07598876953125,
+            155.09190368652344,
+            331.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "7. Tham khảo ý kiến các trạm bảo hành ủy quyền để thực hiện đúng và tốt nhất cho sản phẩm",
+          "bbox": [
+            28.5,
+            350.07598876953125,
+            339.52374267578125,
+            359.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "Nội dung này có hữu ích không?",
+          "bbox": [
+            48.5,
+            427.3485412597656,
+            218.14390563964844,
+            439.37322998046875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "Có\nKhông",
+          "bbox": [
+            60.3359375,
+            454.21099853515625,
+            115.38998413085938,
+            461.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "Khám Phá",
+          "bbox": [
+            144.5,
+            551.3839721679688,
+            178.0919952392578,
+            560.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "Tủ Lạnh",
+          "bbox": [
+            260.5,
+            550.5759887695312,
+            286.7319641113281,
+            560.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 16,
+          "text": "Giải Pháp Giặt Sấy",
+          "bbox": [
+            376.5,
+            550.5759887695312,
+            436.4598693847656,
+            560.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 17,
+          "text": "Giải Pháp Không Khí",
+          "bbox": [
+            492.5,
+            550.5759887695312,
+            560.3079833984375,
+            560.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 18,
+          "text": "Về Chúng Tôi",
+          "bbox": [
+            144.5,
+            567.2109985351562,
+            182.42593383789062,
+            574.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 19,
+          "text": "Tủ Lạnh Nhiều Cửa",
+          "bbox": [
+            260.5,
+            566.5040283203125,
+            315.1908874511719,
+            574.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 20,
+          "text": "Tháp Giặt Sấy",
+          "bbox": [
+            376.5,
+            567.2109985351562,
+            416.0499267578125,
+            574.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 21,
+          "text": "Điều Hòa Không Khí",
+          "bbox": [
+            492.5,
+            567.2109985351562,
+            551.2089233398438,
+            574.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 22,
+          "text": "Cửa Hàng Gần Bạn",
+          "bbox": [
+            144.5,
+            579.5040283203125,
+            198.78492736816406,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 23,
+          "text": "Tủ Lạnh Side By Side",
+          "bbox": [
+            260.5,
+            579.5040283203125,
+            320.1118469238281,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 24,
+          "text": "Máy Giặt",
+          "bbox": [
+            376.5,
+            580.2109985351562,
+            402.0919494628906,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 25,
+          "text": "Quạt Máy",
+          "bbox": [
+            492.5,
+            579.5040283203125,
+            520.6329345703125,
+            587.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 26,
+          "text": "Tin Tức",
+          "bbox": [
+            144.5,
+            593.2109985351562,
+            164.77195739746094,
+            600.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 27,
+          "text": "Tủ Lạnh Ngăn Đá Trên",
+          "bbox": [
+            260.5,
+            592.1082763671875,
+            324.24188232421875,
+            600.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 28,
+          "text": "Máy Sấy",
+          "bbox": [
+            376.5,
+            593.2109985351562,
+            400.35595703125,
+            600.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 29,
+          "text": "TSmartLife",
+          "bbox": [
+            144.5,
+            606.2109985351562,
+            175.7759552001953,
+            613.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 30,
+          "text": "Tủ Lạnh Ngăn Đá Dưới",
+          "bbox": [
+            260.5,
+            605.1082763671875,
+            325.8028869628906,
+            613.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 31,
+          "text": "Máy Giặt Sấy",
+          "bbox": [
+            376.5,
+            606.2109985351562,
+            413.66290283203125,
+            613.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 32,
+          "text": "Tháng Toshiba",
+          "bbox": [
+            144.5,
+            619.2109985351562,
+            186.66091918945312,
+            626.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 33,
+          "text": "Tủ Đông",
+          "bbox": [
+            260.5,
+            619.2109985351562,
+            285.3709411621094,
+            626.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 34,
+          "text": "Giải Pháp Nhà Bếp",
+          "bbox": [
+            144.5,
+            639.5759887695312,
+            205.98794555664062,
+            649.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 35,
+          "text": "Giải Pháp Dọn Dẹp",
+          "bbox": [
+            260.5,
+            639.5759887695312,
+            323.531982421875,
+            649.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 36,
+          "text": "Bảo Hành",
+          "bbox": [
+            376.5,
+            639.5759887695312,
+            408.7319641113281,
+            649.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 37,
+          "text": "Hỗ Trợ",
+          "bbox": [
+            492.5,
+            640.3839721679688,
+            514.052001953125,
+            649.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 38,
+          "text": "Nồi Cơm Điện",
+          "bbox": [
+            144.5,
+            655.5040283203125,
+            184.9739227294922,
+            663.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 39,
+          "text": "Máy Hút Bụi",
+          "bbox": [
+            260.5,
+            656.2109985351562,
+            295.77996826171875,
+            663.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 40,
+          "text": "Chính Sách Bảo Hành",
+          "bbox": [
+            376.5,
+            655.5040283203125,
+            438.8909912109375,
+            663.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 41,
+          "text": "Liên Hệ",
+          "bbox": [
+            492.5,
+            656.2109985351562,
+            514.3889770507812,
+            663.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 42,
+          "text": "Lò Vi Sóng",
+          "bbox": [
+            144.5,
+            669.2109985351562,
+            174.83094787597656,
+            676.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 43,
+          "text": "Địa Chỉ Bảo Hành",
+          "bbox": [
+            376.5,
+            668.5040283203125,
+            426.9630126953125,
+            676.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 44,
+          "text": "Câu Hỏi Thường Gặp",
+          "bbox": [
+            492.5,
+            668.5040283203125,
+            552.7278442382812,
+            676.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 45,
+          "text": "Máy Rửa Chén",
+          "bbox": [
+            144.5,
+            682.2109985351562,
+            186.08692932128906,
+            689.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 46,
+          "text": "Đăng Ký Bảo Hành",
+          "bbox": [
+            376.5,
+            681.1082763671875,
+            430.51898193359375,
+            689.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 47,
+          "text": "Lò Nướng/ Hấp/ Chiên",
+          "bbox": [
+            144.5,
+            694.5040283203125,
+            209.8308868408203,
+            702.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 48,
+          "text": "Kiểm Tra Kích Hoạt",
+          "bbox": [
+            376.5,
+            694.5040283203125,
+            430.8969421386719,
+            702.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 49,
+          "text": "Nồi Chiên Không Dầu",
+          "bbox": [
+            144.5,
+            708.2109985351562,
+            207.296875,
+            715.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 50,
+          "text": "Tra Cứu Bảo Hành",
+          "bbox": [
+            376.5,
+            707.5040283203125,
+            428.15301513671875,
+            715.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 51,
+          "text": "Bếp Điện Từ",
+          "bbox": [
+            144.5,
+            721.2109985351562,
+            179.24093627929688,
+            728.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 52,
+          "text": "Máy Xay Sinh Tố",
+          "bbox": [
+            144.5,
+            734.2109985351562,
+            191.2039337158203,
+            741.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 53,
+          "text": "Bình Đun Siêu Tốc",
+          "bbox": [
+            144.5,
+            747.2109985351562,
+            196.7409210205078,
+            754.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 54,
+          "text": "https://www.toshiba-lifestyle.com/vn/support/faq/air-conditioner/maintenance-cleaning\n1/2",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:13 11/10/26\nBảo dưỡng và vệ sinh máy",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            395.3382873535156,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "CÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM",
+          "bbox": [
+            28.5,
+            29.003999710083008,
+            197.93479919433594,
+            37.25
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "Địa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006",
+          "bbox": [
+            28.5,
+            44.43199920654297,
+            340.75152587890625,
+            75.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "Thu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie",
+          "bbox": [
+            28.5,
+            97.50399780273438,
+            323.3681335449219,
+            105.75
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "https://www.toshiba-lifestyle.com/vn/support/faq/air-conditioner/maintenance-cleaning\n2/2",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Bảo dưỡng và vệ sinh máy",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181319+00'00'",
+    "modDate": "D:20261010181319+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "Trang Chủ\nKhám\n\nBảo dưỡng và vệ sinh máy\n\nĐể bảo dưỡng và vệ sinh máy điều hòa, hãy làm theo các bước sau:\n\n1. Tắt nguồn điện và rút phích cắm thiết bị trước khi vệ sinh.\n\n2. Làm sạch các mảnh vụn xung quanh dàn nóng và thông tắc ống thoát nước.\n\n3. Giặt bộ lọc không khí 2 tuần một lần bằng nước, phơi khô trong bóng râm và thay thế nếu bị hư hỏng.\n\n4. Lau nhẹ nhàng dàn lạnh bằng khăn mềm ẩm.\n\n5. Không sử dụng xăng, chất pha loãng hoặc bột tẩy rửa. Chỉ sử dụng xà phòng (pH 7) hoặc chất tẩy rửa trung tính.\n\n6. Tránh sử dụng nước nóng hơn 40°C.\n\n7. Tham khảo ý kiến các trạm bảo hành ủy quyền để thực hiện đúng và tốt nhất cho sản phẩm\n\nNội dung này có hữu ích không?\n\nCó\nKhông\n\nKhám Phá\n\nTủ Lạnh\n\nGiải Pháp Giặt Sấy\n\nGiải Pháp Không Khí\n\nVề Chúng Tôi\n\nTủ Lạnh Nhiều Cửa\n\nTháp Giặt Sấy\n\nĐiều Hòa Không Khí\n\nCửa Hàng Gần Bạn\n\nTủ Lạnh Side By Side\n\nMáy Giặt\n\nQuạt Máy\n\nTin Tức\n\nTủ Lạnh Ngăn Đá Trên\n\nMáy Sấy\n\nTSmartLife\n\nTủ Lạnh Ngăn Đá Dưới\n\nMáy Giặt Sấy\n\nTháng Toshiba\n\nTủ Đông\n\nGiải Pháp Nhà Bếp\n\nGiải Pháp Dọn Dẹp\n\nBảo Hành\n\nHỗ Trợ\n\nNồi Cơm Điện\n\nMáy Hút Bụi\n\nChính Sách Bảo Hành\n\nLiên Hệ\n\nLò Vi Sóng\n\nĐịa Chỉ Bảo Hành\n\nCâu Hỏi Thường Gặp\n\nMáy Rửa Chén\n\nĐăng Ký Bảo Hành\n\nLò Nướng/ Hấp/ Chiên\n\nKiểm Tra Kích Hoạt\n\nNồi Chiên Không Dầu\n\nTra Cứu Bảo Hành\n\nBếp Điện Từ\n\nMáy Xay Sinh Tố\n\nBình Đun Siêu Tốc\n\n1/2\n\nCÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM\n\nĐịa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006\n\nThu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie\n\n2/2",
+  "removed_repeated_lines": [
+    "01:13 11/10/26",
+    "Bảo dưỡng và vệ sinh máy",
+    "https://www.toshiba-lifestyle.com/vn/support/faq/air-conditioner/maintenance-cleaning"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 2057,
+    "cleaned_char_count": 1803,
+    "removed_char_count": 254,
+    "reduction_ratio": 0.1235,
+    "removed_repeated_line_count": 3
+  },
+  "raw_text": "01:13 11/10/26\nBảo dưỡng và vệ sinh máy\n\nTrang Chủ\nKhám\n\nBảo dưỡng và vệ sinh máy\n\nĐể bảo dưỡng và vệ sinh máy điều hòa, hãy làm theo các bước sau:\n\n1. Tắt nguồn điện và rút phích cắm thiết bị trước khi vệ sinh.\n\n2. Làm sạch các mảnh vụn xung quanh dàn nóng và thông tắc ống thoát nước.\n\n3. Giặt bộ lọc không khí 2 tuần một lần bằng nước, phơi khô trong bóng râm và thay thế nếu bị hư hỏng.\n\n4. Lau nhẹ nhàng dàn lạnh bằng khăn mềm ẩm.\n\n5. Không sử dụng xăng, chất pha loãng hoặc bột tẩy rửa. Chỉ sử dụng xà phòng (pH 7) hoặc chất tẩy rửa trung tính.\n\n6. Tránh sử dụng nước nóng hơn 40°C.\n\n7. Tham khảo ý kiến các trạm bảo hành ủy quyền để thực hiện đúng và tốt nhất cho sản phẩm\n\nNội dung này có hữu ích không?\n\nCó\nKhông\n\nKhám Phá\n\nTủ Lạnh\n\nGiải Pháp Giặt Sấy\n\nGiải Pháp Không Khí\n\nVề Chúng Tôi\n\nTủ Lạnh Nhiều Cửa\n\nTháp Giặt Sấy\n\nĐiều Hòa Không Khí\n\nCửa Hàng Gần Bạn\n\nTủ Lạnh Side By Side\n\nMáy Giặt\n\nQuạt Máy\n\nTin Tức\n\nTủ Lạnh Ngăn Đá Trên\n\nMáy Sấy\n\nTSmartLife\n\nTủ Lạnh Ngăn Đá Dưới\n\nMáy Giặt Sấy\n\nTháng Toshiba\n\nTủ Đông\n\nGiải Pháp Nhà Bếp\n\nGiải Pháp Dọn Dẹp\n\nBảo Hành\n\nHỗ Trợ\n\nNồi Cơm Điện\n\nMáy Hút Bụi\n\nChính Sách Bảo Hành\n\nLiên Hệ\n\nLò Vi Sóng\n\nĐịa Chỉ Bảo Hành\n\nCâu Hỏi Thường Gặp\n\nMáy Rửa Chén\n\nĐăng Ký Bảo Hành\n\nLò Nướng/ Hấp/ Chiên\n\nKiểm Tra Kích Hoạt\n\nNồi Chiên Không Dầu\n\nTra Cứu Bảo Hành\n\nBếp Điện Từ\n\nMáy Xay Sinh Tố\n\nBình Đun Siêu Tốc\n\nhttps://www.toshiba-lifestyle.com/vn/support/faq/air-conditioner/maintenance-cleaning\n1/2\n\n01:13 11/10/26\nBảo dưỡng và vệ sinh máy\n\nCÔNG TY TNHH SẢN PHẨM TIÊU DÙNG TOSHIBA VIỆT NAM\n\nĐịa chỉ trụ sở: Số 12, Đường 15, Khu phố 13, Phường Linh Xuân, Thành phố Hồ Chí Minh.\nĐịa chỉ liên hệ: Lầu 17, P.1702, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Thành phố Hồ Chí Minh.\nĐiện thoại: (+84)-028-38.242.818 | Fax: (+84)-028-38.242.817\nGPKD số: 0300787557 do Sở Kế hoạch & Đầu tư Tp. Hồ Chí Minh cấp ngày 17/11/2006\n\nThu hồi và xử lý sản phẩm thải bỏ\nTuân thủ thông tư số 30/2011/TT-BCT\nTùy chọn Cookie\n\nhttps://www.toshiba-lifestyle.com/vn/support/faq/air-conditioner/maintenance-cleaning\n2/2",
+  "char_count": 2057
+}

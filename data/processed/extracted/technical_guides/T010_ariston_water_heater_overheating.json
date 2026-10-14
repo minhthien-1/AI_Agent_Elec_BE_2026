@@ -1,0 +1,2498 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T010_ariston_water_heater_overheating.pdf",
+  "filename": "T010_ariston_water_heater_overheating.pdf",
+  "file_type": "pdf",
+  "page_count": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP\nMáy nước nóng quá nóng: Nguyên nhân &\ncách khắc phục",
+          "bbox": [
+            46.5,
+            153.08999633789062,
+            510.8756103515625,
+            235.90200805664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "Đã xuất bản trên",
+          "bbox": [
+            46.5,
+            484.5899963378906,
+            122.91891479492188,
+            497.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "21 Tháng 8 2026",
+          "bbox": [
+            46.5,
+            501.0899963378906,
+            126.04790496826172,
+            513.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "Khi máy nước nóng quá nóng, nguyên nhân có thể do cài đặt nhiệt độ quá cao, hư hỏng thiết bị an toàn, van",
+          "bbox": [
+            46.5,
+            547.5900268554688,
+            557.7969360351562,
+            560.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "giảm áp hoặc board mạch. Để khắc phục, bạn hãy ngắt điện và liên hệ kỹ thuật viên chuyên nghiệp, không tự",
+          "bbox": [
+            46.5,
+            564.0900268554688,
+            563.272705078125,
+            576.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "ý sửa chữa để đảm bảo an toàn. Nếu sử dụng máy nước nóng Ariston, bạn có thể liên hệ dịch vụ khách hàng",
+          "bbox": [
+            46.5,
+            580.5900268554688,
+            558.1015625,
+            593.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "thông qua hotline hoặc Zalo OA – Ariston Vietnam CSKH.",
+          "bbox": [
+            46.5,
+            597.0900268554688,
+            318.8487548828125,
+            609.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "Tình trạng máy nước nóng quá nóng không chỉ gây lãng phí điện năng mà còn tiềm ẩn nguy cơ gây bỏng, đặc",
+          "bbox": [
+            46.5,
+            641.3400268554688,
+            548.4730224609375,
+            654.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "biệt khi nhà có trẻ nhỏ và người lớn tuổi. Điều này gây ra sự bất tiện cho nhiều gia đình trong sinh hoạt hàng",
+          "bbox": [
+            46.5,
+            657.8400268554688,
+            540.9655151367188,
+            670.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "ngày. Bài viết dưới đây sẽ giúp bạn hiểu rõ nguyên nhân và biết cách khắc phục an toàn, cùng tìm hiểu ngay.",
+          "bbox": [
+            46.5,
+            674.3400268554688,
+            542.8869018554688,
+            687.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "1. Nguyên nhân máy nước nóng quá nóng và cách khắc phục",
+          "bbox": [
+            46.5,
+            716.1900024414062,
+            548.6094360351562,
+            738.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n1/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "Hiện tượng máy nước nóng bị quá nóng có thể xuất phát từ nhiều nguyên nhân như cài đặt nhiệt độ quá cao, nút",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            560.8944702148438,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "chỉnh nhiệt độ bị hư, van giảm áp hư hỏng, áp lực nước quá yếu,... Dưới đây là 6 nguyên nhân chi tiết và cách xử",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            556.8519287109375,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "lý an toàn cho bạn tham khảo.",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            184.3228759765625,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "1.1. Cài đặt nhiệt độ quá cao",
+          "bbox": [
+            46.5,
+            88.94999694824219,
+            230.96986389160156,
+            107.22000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "Nguyên nhân: Nhiều người dùng có thói quen cài đặt nhiệt độ ở mức tối đa để có nước nóng nhanh, nhưng điều",
+          "bbox": [
+            46.5,
+            116.33999633789062,
+            559.9181518554688,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "này dễ dẫn đến tình trạng nước nóng hơn mức cần thiết. Đây chính là nguyên nhân trực tiếp khiến nước đầu ra",
+          "bbox": [
+            46.5,
+            132.83999633789062,
+            550.96142578125,
+            145.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "quá nóng.",
+          "bbox": [
+            46.5,
+            149.33999633789062,
+            92.5529556274414,
+            162.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "Cách khắc phục: Bạn chỉ cần điều chỉnh lại nhiệt độ trên máy về mức phù hợp với nhu cầu sử dụng, thường là",
+          "bbox": [
+            46.5,
+            169.58999633789062,
+            547.7799682617188,
+            182.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "khoảng 40 - 50 độ C. Hãy tham khảo sách hướng dẫn sử dụng để biết mức nhiệt độ an toàn do nhà sản xuất",
+          "bbox": [
+            46.5,
+            186.08999633789062,
+            542.3934936523438,
+            198.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "khuyến nghị.",
+          "bbox": [
+            46.5,
+            202.58999633789062,
+            105.41544342041016,
+            215.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "Xem thêm: Hướng dẫn cách điều chỉnh nhiệt độ bình nóng lạnh Ariston",
+          "bbox": [
+            46.5,
+            222.83999633789062,
+            371.73309326171875,
+            235.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "Máy nước nóng quá nóng do cài đặt nhiệt độ quá cao khi sử dụng.",
+          "bbox": [
+            154.58203125,
+            699.0900268554688,
+            458.1472473144531,
+            711.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n2/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "1.2. Thiết bị bảo vệ an toàn bị hư hỏng",
+          "bbox": [
+            46.5,
+            35.70000076293945,
+            300.8248596191406,
+            53.970001220703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "Nguyên nhân: Rơ-le nhiệt (thiết bị cảm biến nhiệt độ) có chức năng tự động ngắt điện khi nhiệt độ nước đạt đến",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            557.818115234375,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "mức cài đặt. Nếu bộ phận này bị hỏng, máy sẽ tiếp tục đun không ngừng, gây ra tình trạng nước nóng quá nóng.",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            559.8655395507812,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "Cách khắc phục: Khi phát hiện lỗi này, bạn cần ngắt ngay nguồn điện của máy để đảm bảo an toàn. Sau đó, hãy",
+          "bbox": [
+            46.5,
+            99.83999633789062,
+            559.6973266601562,
+            112.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "liên hệ với trung tâm bảo hành hoặc thợ sửa chữa chuyên nghiệp để kiểm tra và thay thế linh kiện.",
+          "bbox": [
+            46.5,
+            116.33999633789062,
+            494.9335632324219,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "Xem thêm: Cách kiểm tra rơ le nhiệt bình nóng lạnh Ariston và thay mới",
+          "bbox": [
+            46.5,
+            136.58999633789062,
+            372.5731201171875,
+            149.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "1.3. Nút điều chỉnh nhiệt độ không hoạt động",
+          "bbox": [
+            46.5,
+            162.4499969482422,
+            346.829833984375,
+            180.72000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 11,
+          "text": "Nguyên nhân: Nút vặn hoặc bảng điều khiển nhiệt độ có thể bị kẹt hoặc hỏng sau một thời gian dài sử dụng.",
+          "bbox": [
+            46.5,
+            189.83999633789062,
+            545.1866455078125,
+            202.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 12,
+          "text": "Điều này khiến bạn không thể giảm nhiệt độ dù đã thao tác điều chỉnh, làm cho máy luôn hoạt động ở mức nhiệt",
+          "bbox": [
+            46.5,
+            206.33999633789062,
+            561.1255493164062,
+            219.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 13,
+          "text": "cao.",
+          "bbox": [
+            46.5,
+            222.83999633789062,
+            65.57847595214844,
+            235.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 14,
+          "text": "Cách khắc phục: Nếu gặp lỗi này, bạn nên tắt nguồn điện của máy nước nóng để tránh rủi ro về điện. Vì đây là lỗi",
+          "bbox": [
+            46.5,
+            243.08999633789062,
+            566.0182495117188,
+            255.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 15,
+          "text": "liên quan đến linh kiện, bạn cần gọi kỹ thuật viên có chuyên môn đến kiểm tra và sửa chữa hoặc thay mới nút",
+          "bbox": [
+            46.5,
+            259.5899963378906,
+            545.5487670898438,
+            272.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 16,
+          "text": "điều chỉnh.",
+          "bbox": [
+            46.5,
+            276.0899963378906,
+            96.67945098876953,
+            288.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 17,
+          "text": "1.4. Van giảm áp bị hư",
+          "bbox": [
+            46.5,
+            301.95001220703125,
+            192.10488891601562,
+            320.2200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 18,
+          "text": "Nguyên nhân: Van giảm áp có tác dụng ổn định áp suất nước trong bình, ngăn áp suất tăng quá cao gây nguy",
+          "bbox": [
+            46.5,
+            329.3399963378906,
+            550.0587158203125,
+            342.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 19,
+          "text": "hiểm. Nếu van này bị hỏng hoặc kẹt, áp suất trong bình tăng lên làm nhiệt độ sôi của nước tăng theo và dẫn đến",
+          "bbox": [
+            46.5,
+            345.8399963378906,
+            560.4954833984375,
+            358.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 20,
+          "text": "quá nhiệt.",
+          "bbox": [
+            46.5,
+            362.3399963378906,
+            91.8914566040039,
+            375.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 21,
+          "text": "Cách khắc phục: Bạn cần ngắt cầu dao điện của máy nước nóng và liên hệ ngay với dịch vụ sửa chữa uy tín để",
+          "bbox": [
+            46.5,
+            382.5899963378906,
+            553.470947265625,
+            395.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 22,
+          "text": "thay thế van giảm áp mới.",
+          "bbox": [
+            46.5,
+            399.0899963378906,
+            164.07888793945312,
+            411.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 23,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n3/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": "Van giảm áp bị hư là nguyên nhân khiến máy nước nóng quá nóng.",
+          "bbox": [
+            153.328125,
+            426.0899963378906,
+            459.4133605957031,
+            438.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "1.5. Áp lực nước quá yếu",
+          "bbox": [
+            46.5,
+            475.95001220703125,
+            208.8449249267578,
+            494.2200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": "Nguyên nhân: Trường hợp máy nước nóng trực tiếp quá nóng có thể do áp lực nước quá yếu. Áp lực nước đầu",
+          "bbox": [
+            46.5,
+            503.3399963378906,
+            549.8666381835938,
+            516.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "vào yếu khiến lượng nước chảy qua bộ phận làm nóng quá ít và chậm. Điều này làm cho nước bị đun nóng lâu",
+          "bbox": [
+            46.5,
+            519.8400268554688,
+            548.987548828125,
+            532.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 8,
+          "text": "hơn, dẫn đến nhiệt độ đầu ra cao bất thường so với cài đặt.",
+          "bbox": [
+            46.5,
+            536.3400268554688,
+            316.6857604980469,
+            549.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 9,
+          "text": "Cách khắc phục: Bạn có thể kiểm tra lại hệ thống cấp nước trong nhà, vệ sinh lưới lọc tại đầu vào của máy để",
+          "bbox": [
+            46.5,
+            556.5900268554688,
+            547.4439086914062,
+            569.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 10,
+          "text": "loại bỏ cặn bẩn. Nếu tình hình không cải thiện, hãy cân nhắc lắp thêm bơm tăng áp để đảm bảo áp lực nước luôn",
+          "bbox": [
+            46.5,
+            573.0900268554688,
+            561.6820068359375,
+            585.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 11,
+          "text": "ổn định.",
+          "bbox": [
+            46.5,
+            589.5900268554688,
+            83.41796112060547,
+            602.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 12,
+          "text": "1.6. Board máy nước nóng gặp trục trặc",
+          "bbox": [
+            46.5,
+            615.4500122070312,
+            307.7397766113281,
+            633.719970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 13,
+          "text": "Nguyên nhân: Board mạch là trung tâm điều khiển mọi hoạt động của máy nước nóng, bao gồm cả việc kiểm",
+          "bbox": [
+            46.5,
+            642.8400268554688,
+            546.8036499023438,
+            655.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 14,
+          "text": "soát nhiệt độ. Nếu board mạch bị lỗi, chập chờn do ẩm ướt hoặc hỏng linh kiện có thể phát tín hiệu sai khiến",
+          "bbox": [
+            46.5,
+            659.3400268554688,
+            542.1416015625,
+            672.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 15,
+          "text": "thanh đốt đun nóng liên tục và làm cho nước bị quá nóng.",
+          "bbox": [
+            46.5,
+            675.8400268554688,
+            310.4592590332031,
+            688.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 16,
+          "text": "Cách khắc phục: Khi gặp tình trạng này, bạn cần ngắt nguồn điện và liên hệ trung tâm bảo hành hoặc đơn vị sửa",
+          "bbox": [
+            46.5,
+            696.0900268554688,
+            561.534912109375,
+            708.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 17,
+          "text": "chữa uy tín để sửa board mạch an toàn.",
+          "bbox": [
+            46.5,
+            712.5900268554688,
+            227.05780029296875,
+            725.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 18,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n4/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "2. Cách liên hệ bảo hành, sửa chữa máy nước nóng Ariston bị\nquá nóng",
+          "bbox": [
+            46.5,
+            51.69000244140625,
+            553.9014282226562,
+            97.61399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": "Khi máy nước nóng Ariston gặp sự cố quá nhiệt, tốt nhất bạn nên liên hệ với dịch vụ chăm sóc khách hàng",
+          "bbox": [
+            46.5,
+            106.58999633789062,
+            531.8748168945312,
+            119.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "Ariston để được tư vấn cách khắc phục. Bạn có thể kết nối với trung tâm dịch vụ Ariston bằng các cách sau đây:",
+          "bbox": [
+            46.5,
+            123.08999633789062,
+            556.9357299804688,
+            135.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "Gọi hotline 18001517. Tổng đài Chăm sóc Khách hàng miễn phí hoạt động từ 8:00 - 17:00, Thứ Hai - Thứ Bảy.",
+          "bbox": [
+            61.5,
+            143.33999633789062,
+            552.9835205078125,
+            156.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 8,
+          "text": "Gửi tin nhắn qua Zalo OA – Ariston Vietnam CSKH và yêu cầu bảo hành, bảo trì để được nhân viên tư vấn chi",
+          "bbox": [
+            61.5,
+            163.58999633789062,
+            558.5798950195312,
+            176.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 9,
+          "text": "tiết.",
+          "bbox": [
+            61.5,
+            180.08999633789062,
+            78.36298370361328,
+            192.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 10,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n5/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n6/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "Bạn có thể nhanh chóng liên hệ bảo hành, bảo trì máy nước nóng nhanh qua Zalo OA Ariston.",
+          "bbox": [
+            91.98046875,
+            74.33999633789062,
+            520.7684936523438,
+            87.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "Ariston có mạng lưới bảo hành rộng khắp cả nước và đội ngũ kỹ thuật viên chuyên nghiệp, đảm bảo sửa chữa các",
+          "bbox": [
+            46.5,
+            118.58999633789062,
+            565.918701171875,
+            131.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "vấn đề hư hỏng nhanh chóng và chuẩn xác. Quy trình dịch vụ của Ariston rất đơn giản giúp khách hàng tiết kiệm",
+          "bbox": [
+            46.5,
+            135.08999633789062,
+            560.3485717773438,
+            147.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "thời gian, không chờ đợi lâu.",
+          "bbox": [
+            46.5,
+            151.58999633789062,
+            175.95437622070312,
+            164.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 8,
+          "text": "3. Các lưu ý sử dụng máy nước nóng an toàn",
+          "bbox": [
+            46.5,
+            193.44000244140625,
+            414.83355712890625,
+            215.36399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 9,
+          "text": "Để phòng tránh các sự cố như máy nước nóng quá nóng, bạn chú ý kiểm tra nhiệt độ nước trước khi tắm, không",
+          "bbox": [
+            46.5,
+            224.33999633789062,
+            556.6314697265625,
+            237.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 10,
+          "text": "cài đặt nhiệt độ ở mức tối đa, bảo dưỡng máy định kỳ cũng như lắp đặt máy đúng kỹ thuật sau khi mua.",
+          "bbox": [
+            46.5,
+            240.83999633789062,
+            516.8942260742188,
+            253.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 11,
+          "text": "Kiểm tra nhiệt độ nước trước khi sử dụng: Luôn dùng tay kiểm tra nhiệt độ của nước trước khi tắm, đặc biệt là",
+          "bbox": [
+            61.5,
+            261.0899963378906,
+            565.2271118164062,
+            273.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 12,
+          "text": "khi nhà có trẻ em và người lớn tuổi. Thói quen đơn giản này giúp bạn tránh được nguy cơ bị bỏng do máy",
+          "bbox": [
+            61.5,
+            277.5899963378906,
+            542.3155517578125,
+            290.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 13,
+          "text": "nước nóng bị quá nóng.",
+          "bbox": [
+            61.5,
+            294.0899963378906,
+            170.45838928222656,
+            306.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 14,
+          "text": "Không cài đặt nhiệt độ ở mức tối đa: Chỉ nên đặt nhiệt độ ở mức vừa đủ dùng theo khuyến cáo của nhà sản",
+          "bbox": [
+            61.5,
+            314.3399963378906,
+            556.9114379882812,
+            327.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 15,
+          "text": "xuất. Việc này vừa giúp tiết kiệm điện, vừa hạn chế rủi ro máy phải hoạt động quá công suất gây quá nhiệt.",
+          "bbox": [
+            61.5,
+            330.8399963378906,
+            549.3925170898438,
+            343.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 16,
+          "text": "Lắp đặt máy đúng kỹ thuật: Việc lắp đặt cần được thực hiện bởi kỹ thuật viên chuyên môn cao, có dây tiếp",
+          "bbox": [
+            61.5,
+            351.0899963378906,
+            550.6943359375,
+            363.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 17,
+          "text": "đất và aptomat chống giật (ELCB/RCBO) để đảm bảo an toàn trong quá trình sử dụng.",
+          "bbox": [
+            61.5,
+            367.5899963378906,
+            452.4298400878906,
+            380.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 18,
+          "text": "Bảo dưỡng máy nước nóng định kỳ: Nên thực hiện bảo dưỡng, súc rửa bình chứa và kiểm tra các bộ phận an",
+          "bbox": [
+            61.5,
+            387.8399963378906,
+            561.3698120117188,
+            400.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 19,
+          "text": "toàn (rơ-le, van giảm áp) định kỳ 1 - 2 năm/lần. Việc này giúp phát hiện sớm các vấn đề và giữ cho máy hoạt",
+          "bbox": [
+            61.5,
+            404.3399963378906,
+            550.6945190429688,
+            417.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 20,
+          "text": "động ổn định, hiệu quả.",
+          "bbox": [
+            61.5,
+            420.8399963378906,
+            170.0173797607422,
+            433.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 21,
+          "text": "Tình trạng máy nước nóng quá nóng có thể do nhiều nguyên nhân từ cài đặt nhiệt độ sai đến hỏng hóc linh kiện",
+          "bbox": [
+            46.5,
+            441.0899963378906,
+            558.6895141601562,
+            453.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 22,
+          "text": "như rơ-le nhiệt hay board mạch. Để đảm bảo an toàn, bạn nên ngắt nguồn điện ngay khi phát hiện lỗi và liên hệ",
+          "bbox": [
+            46.5,
+            457.5899963378906,
+            556.9884643554688,
+            470.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 23,
+          "text": "trung tâm bảo hành/đơn vị sửa chữa chuyên nghiệp để kiểm tra, sửa chữa kịp thời nhé.",
+          "bbox": [
+            46.5,
+            474.0899963378906,
+            442.0661315917969,
+            486.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 24,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n7/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "Bạn lưu ý bảo dưỡng máy nóng lạnh định kỳ để thiết bị hoạt động ổn định và an toàn.",
+          "bbox": [
+            111.36328125,
+            543.8400268554688,
+            501.3749084472656,
+            556.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 5,
+          "text": "Câu hỏi thường gặp",
+          "bbox": [
+            46.5,
+            609.6900024414062,
+            210.29981994628906,
+            631.614013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 6,
+          "text": "Liên quan đến tình trạng máy nước nóng bị quá nóng, dưới đây có một số thắc mắc như sau:",
+          "bbox": [
+            46.5,
+            640.5900268554688,
+            467.8750915527344,
+            653.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 7,
+          "text": "Vì sao máy nước nóng trực tiếp quá nóng sau khi tắt đi và mở lại?",
+          "bbox": [
+            64.5,
+            702.0900268554688,
+            395.9636535644531,
+            714.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 8,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n8/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 9,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 2,
+          "text": "Tại sao nước nóng hơn nhiệt độ đã cài đặt?",
+          "bbox": [
+            64.5,
+            41.34000015258789,
+            282.8997497558594,
+            54.12900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 4,
+          "text": "Đèn báo lỗi có sáng khi máy nước nóng bị quá nhiệt không?",
+          "bbox": [
+            64.5,
+            116.33999633789062,
+            368.87371826171875,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 6,
+          "text": "Chi phí sửa lỗi máy nước nóng quá nóng là bao nhiêu?",
+          "bbox": [
+            64.5,
+            191.33999633789062,
+            339.6207580566406,
+            204.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 7,
+          "text": "Có nên bảo dưỡng máy nước nóng định kỳ không?",
+          "bbox": [
+            64.5,
+            266.3399963378906,
+            319.4922180175781,
+            279.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 8,
+          "text": "Bài viết liên quan",
+          "bbox": [
+            46.5,
+            323.19000244140625,
+            190.0677947998047,
+            345.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 9,
+          "text": "TIN TỨC",
+          "bbox": [
+            169.125,
+            608.3400268554688,
+            212.62646484375,
+            621.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 10,
+          "text": "ARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025",
+          "bbox": [
+            163.125,
+            633.4500122070312,
+            441.5248718261719,
+            693.719970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 11,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            730.5900268554688,
+            335.2464294433594,
+            743.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 12,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n9/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 10,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            266.3399963378906,
+            262.910888671875,
+            279.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 5,
+          "text": "Máy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam",
+          "bbox": [
+            163.125,
+            291.45001220703125,
+            434.204833984375,
+            330.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 6,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            367.5899963378906,
+            335.2464294433594,
+            380.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 7,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            648.0900268554688,
+            262.910888671875,
+            660.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 8,
+          "text": "Máy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng",
+          "bbox": [
+            163.125,
+            673.2000122070312,
+            435.3597717285156,
+            733.469970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n10/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 11,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 11,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 2,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            39.84000015258789,
+            335.2464294433594,
+            52.62900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 4,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 5,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            320.3399963378906,
+            262.910888671875,
+            333.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 6,
+          "text": "Dung tích máy nước nóng gián tiếp và\ncách lựa chọn",
+          "bbox": [
+            163.125,
+            345.45001220703125,
+            416.1598815917969,
+            384.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 7,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            421.5899963378906,
+            335.2464294433594,
+            434.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 8,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            702.0900268554688,
+            262.910888671875,
+            714.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n11/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 12,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 12,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            452.0055847167969,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 2,
+          "text": "Lựa chọn máy nước nóng phù hợp cho căn\nhộ",
+          "bbox": [
+            163.125,
+            29.700000762939453,
+            446.68487548828125,
+            68.97000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 4,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            105.83999633789062,
+            335.2464294433594,
+            118.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 6,
+          "text": "Country: Việt Nam Language: Vietnamese",
+          "bbox": [
+            207.796875,
+            259.5899963378906,
+            404.9404296875,
+            272.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 7,
+          "text": "VỀ CHÚNG TÔI",
+          "bbox": [
+            46.5,
+            316.7099914550781,
+            129.31195068359375,
+            331.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 8,
+          "text": "Thương hiệu Ariston",
+          "bbox": [
+            46.5,
+            346.5899963378906,
+            139.6559295654297,
+            359.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 9,
+          "text": "TẠP CHÍ",
+          "bbox": [
+            46.5,
+            364.7099914550781,
+            91.06797790527344,
+            379.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 10,
+          "text": "Tập đoàn Ariston",
+          "bbox": [
+            46.5,
+            374.3399963378906,
+            124.32593536376953,
+            387.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 11,
+          "text": "Mẹo & giải pháp",
+          "bbox": [
+            46.5,
+            394.5899963378906,
+            121.39643859863281,
+            407.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 12,
+          "text": "Tuyển Dụng",
+          "bbox": [
+            46.5,
+            402.0899963378906,
+            101.8769302368164,
+            414.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 13,
+          "text": "DỊCH VỤ KHÁCH HÀNG",
+          "bbox": [
+            46.5,
+            412.7099914550781,
+            175.5839080810547,
+            427.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 14,
+          "text": "Tin tức",
+          "bbox": [
+            46.5,
+            422.3399963378906,
+            77.41197967529297,
+            435.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 15,
+          "text": "Đăng kí bảo hành online",
+          "bbox": [
+            46.5,
+            442.5899963378906,
+            158.78689575195312,
+            455.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 16,
+          "text": "Ngôi nhà thư thái",
+          "bbox": [
+            46.5,
+            450.0899963378906,
+            125.01893615722656,
+            462.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 17,
+          "text": "SẢN PHẨM",
+          "bbox": [
+            46.5,
+            460.7099914550781,
+            107.37596130371094,
+            475.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 18,
+          "text": "Hội Viên Diamond Club",
+          "bbox": [
+            46.5,
+            470.3399963378906,
+            154.2823944091797,
+            483.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 19,
+          "text": "Cuộc sống xanh",
+          "bbox": [
+            46.5,
+            477.8399963378906,
+            120.9239273071289,
+            490.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 20,
+          "text": "Máy Nước Nóng Gián Tiếp",
+          "bbox": [
+            46.5,
+            490.5899963378906,
+            167.6173858642578,
+            503.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 21,
+          "text": "Liên Hệ Với Chúng Tôi",
+          "bbox": [
+            46.5,
+            498.0899963378906,
+            148.4234161376953,
+            510.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 22,
+          "text": "Từ điển",
+          "bbox": [
+            46.5,
+            505.5899963378906,
+            80.20496368408203,
+            518.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 23,
+          "text": "LEGAL AREA",
+          "bbox": [
+            46.5,
+            508.7099914550781,
+            116.14794921875,
+            523.3259887695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 24,
+          "text": "Máy Nước Nóng Trực Tiếp",
+          "bbox": [
+            46.5,
+            518.3400268554688,
+            165.98988342285156,
+            531.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 25,
+          "text": "Tải xuống tài liệu",
+          "bbox": [
+            46.5,
+            525.8400268554688,
+            123.6224136352539,
+            538.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 26,
+          "text": "Privacy Policy",
+          "bbox": [
+            46.5,
+            538.5900268554688,
+            109.3214111328125,
+            551.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 27,
+          "text": "Máy Nước Nóng Năng Lượng",
+          "bbox": [
+            46.5,
+            546.0900268554688,
+            179.7763671875,
+            558.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 28,
+          "text": "Mặt Trời",
+          "bbox": [
+            46.5,
+            562.5900268554688,
+            83.24996948242188,
+            575.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 29,
+          "text": "Cookie Policy",
+          "bbox": [
+            46.5,
+            566.3400268554688,
+            109.0904312133789,
+            579.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 30,
+          "text": "Máy Nước Nóng Bơm Nhiệt",
+          "bbox": [
+            46.5,
+            590.3400268554688,
+            171.86990356445312,
+            603.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 31,
+          "text": "©2022 Ariston Holding N.V. – Company Info",
+          "bbox": [
+            46.5,
+            655.469970703125,
+            220.3258514404297,
+            666.4320068359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 32,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n12/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Máy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181524+00'00'",
+    "modDate": "D:20261010181524+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "MUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nMáy nước nóng quá nóng: Nguyên nhân &\ncách khắc phục\n\nĐã xuất bản trên\n\n21 Tháng 8 2026\n\nKhi máy nước nóng quá nóng, nguyên nhân có thể do cài đặt nhiệt độ quá cao, hư hỏng thiết bị an toàn, van\n\ngiảm áp hoặc board mạch. Để khắc phục, bạn hãy ngắt điện và liên hệ kỹ thuật viên chuyên nghiệp, không tự\n\ný sửa chữa để đảm bảo an toàn. Nếu sử dụng máy nước nóng Ariston, bạn có thể liên hệ dịch vụ khách hàng\n\nthông qua hotline hoặc Zalo OA – Ariston Vietnam CSKH.\n\nTình trạng máy nước nóng quá nóng không chỉ gây lãng phí điện năng mà còn tiềm ẩn nguy cơ gây bỏng, đặc\n\nbiệt khi nhà có trẻ nhỏ và người lớn tuổi. Điều này gây ra sự bất tiện cho nhiều gia đình trong sinh hoạt hàng\n\nngày. Bài viết dưới đây sẽ giúp bạn hiểu rõ nguyên nhân và biết cách khắc phục an toàn, cùng tìm hiểu ngay.\n\n1. Nguyên nhân máy nước nóng quá nóng và cách khắc phục\n\n1/12\n\nHiện tượng máy nước nóng bị quá nóng có thể xuất phát từ nhiều nguyên nhân như cài đặt nhiệt độ quá cao, nút\n\nchỉnh nhiệt độ bị hư, van giảm áp hư hỏng, áp lực nước quá yếu,... Dưới đây là 6 nguyên nhân chi tiết và cách xử\n\nlý an toàn cho bạn tham khảo.\n\n1.1. Cài đặt nhiệt độ quá cao\n\nNguyên nhân: Nhiều người dùng có thói quen cài đặt nhiệt độ ở mức tối đa để có nước nóng nhanh, nhưng điều\n\nMUA HÀNG DỰ ÁN\n\nnày dễ dẫn đến tình trạng nước nóng hơn mức cần thiết. Đây chính là nguyên nhân trực tiếp khiến nước đầu ra\n\nquá nóng.\n\nCách khắc phục: Bạn chỉ cần điều chỉnh lại nhiệt độ trên máy về mức phù hợp với nhu cầu sử dụng, thường là\n\nkhoảng 40 - 50 độ C. Hãy tham khảo sách hướng dẫn sử dụng để biết mức nhiệt độ an toàn do nhà sản xuất\n\nkhuyến nghị.\n\nXem thêm: Hướng dẫn cách điều chỉnh nhiệt độ bình nóng lạnh Ariston\n\nMáy nước nóng quá nóng do cài đặt nhiệt độ quá cao khi sử dụng.\n\n2/12\n\n1.2. Thiết bị bảo vệ an toàn bị hư hỏng\n\nNguyên nhân: Rơ-le nhiệt (thiết bị cảm biến nhiệt độ) có chức năng tự động ngắt điện khi nhiệt độ nước đạt đến\n\nmức cài đặt. Nếu bộ phận này bị hỏng, máy sẽ tiếp tục đun không ngừng, gây ra tình trạng nước nóng quá nóng.\n\nCách khắc phục: Khi phát hiện lỗi này, bạn cần ngắt ngay nguồn điện của máy để đảm bảo an toàn. Sau đó, hãy\n\nliên hệ với trung tâm bảo hành hoặc thợ sửa chữa chuyên nghiệp để kiểm tra và thay thế linh kiện.\n\nMUA HÀNG DỰ ÁN\n\nXem thêm: Cách kiểm tra rơ le nhiệt bình nóng lạnh Ariston và thay mới\n\n1.3. Nút điều chỉnh nhiệt độ không hoạt động\n\nNguyên nhân: Nút vặn hoặc bảng điều khiển nhiệt độ có thể bị kẹt hoặc hỏng sau một thời gian dài sử dụng.\n\nĐiều này khiến bạn không thể giảm nhiệt độ dù đã thao tác điều chỉnh, làm cho máy luôn hoạt động ở mức nhiệt\n\ncao.\n\nCách khắc phục: Nếu gặp lỗi này, bạn nên tắt nguồn điện của máy nước nóng để tránh rủi ro về điện. Vì đây là lỗi\n\nliên quan đến linh kiện, bạn cần gọi kỹ thuật viên có chuyên môn đến kiểm tra và sửa chữa hoặc thay mới nút\n\nđiều chỉnh.\n\n1.4. Van giảm áp bị hư\n\nNguyên nhân: Van giảm áp có tác dụng ổn định áp suất nước trong bình, ngăn áp suất tăng quá cao gây nguy\n\nhiểm. Nếu van này bị hỏng hoặc kẹt, áp suất trong bình tăng lên làm nhiệt độ sôi của nước tăng theo và dẫn đến\n\nquá nhiệt.\n\nCách khắc phục: Bạn cần ngắt cầu dao điện của máy nước nóng và liên hệ ngay với dịch vụ sửa chữa uy tín để\n\nthay thế van giảm áp mới.\n\n3/12\n\nMUA HÀNG DỰ ÁN\n\nVan giảm áp bị hư là nguyên nhân khiến máy nước nóng quá nóng.\n\n1.5. Áp lực nước quá yếu\n\nNguyên nhân: Trường hợp máy nước nóng trực tiếp quá nóng có thể do áp lực nước quá yếu. Áp lực nước đầu\n\nvào yếu khiến lượng nước chảy qua bộ phận làm nóng quá ít và chậm. Điều này làm cho nước bị đun nóng lâu\n\nhơn, dẫn đến nhiệt độ đầu ra cao bất thường so với cài đặt.\n\nCách khắc phục: Bạn có thể kiểm tra lại hệ thống cấp nước trong nhà, vệ sinh lưới lọc tại đầu vào của máy để\n\nloại bỏ cặn bẩn. Nếu tình hình không cải thiện, hãy cân nhắc lắp thêm bơm tăng áp để đảm bảo áp lực nước luôn\n\nổn định.\n\n1.6. Board máy nước nóng gặp trục trặc\n\nNguyên nhân: Board mạch là trung tâm điều khiển mọi hoạt động của máy nước nóng, bao gồm cả việc kiểm\n\nsoát nhiệt độ. Nếu board mạch bị lỗi, chập chờn do ẩm ướt hoặc hỏng linh kiện có thể phát tín hiệu sai khiến\n\nthanh đốt đun nóng liên tục và làm cho nước bị quá nóng.\n\nCách khắc phục: Khi gặp tình trạng này, bạn cần ngắt nguồn điện và liên hệ trung tâm bảo hành hoặc đơn vị sửa\n\nchữa uy tín để sửa board mạch an toàn.\n\n4/12\n\n2. Cách liên hệ bảo hành, sửa chữa máy nước nóng Ariston bị\nquá nóng\n\nKhi máy nước nóng Ariston gặp sự cố quá nhiệt, tốt nhất bạn nên liên hệ với dịch vụ chăm sóc khách hàng\n\nAriston để được tư vấn cách khắc phục. Bạn có thể kết nối với trung tâm dịch vụ Ariston bằng các cách sau đây:\n\nMUA HÀNG DỰ ÁN\n\nGọi hotline 18001517. Tổng đài Chăm sóc Khách hàng miễn phí hoạt động từ 8:00 - 17:00, Thứ Hai - Thứ Bảy.\n\nGửi tin nhắn qua Zalo OA – Ariston Vietnam CSKH và yêu cầu bảo hành, bảo trì để được nhân viên tư vấn chi\n\ntiết.\n\n5/12\n\nMUA HÀNG DỰ ÁN\n\n6/12\n\nBạn có thể nhanh chóng liên hệ bảo hành, bảo trì máy nước nóng nhanh qua Zalo OA Ariston.\n\nAriston có mạng lưới bảo hành rộng khắp cả nước và đội ngũ kỹ thuật viên chuyên nghiệp, đảm bảo sửa chữa các\n\nMUA HÀNG DỰ ÁN\n\nvấn đề hư hỏng nhanh chóng và chuẩn xác. Quy trình dịch vụ của Ariston rất đơn giản giúp khách hàng tiết kiệm\n\nthời gian, không chờ đợi lâu.\n\n3. Các lưu ý sử dụng máy nước nóng an toàn\n\nĐể phòng tránh các sự cố như máy nước nóng quá nóng, bạn chú ý kiểm tra nhiệt độ nước trước khi tắm, không\n\ncài đặt nhiệt độ ở mức tối đa, bảo dưỡng máy định kỳ cũng như lắp đặt máy đúng kỹ thuật sau khi mua.\n\nKiểm tra nhiệt độ nước trước khi sử dụng: Luôn dùng tay kiểm tra nhiệt độ của nước trước khi tắm, đặc biệt là\n\nkhi nhà có trẻ em và người lớn tuổi. Thói quen đơn giản này giúp bạn tránh được nguy cơ bị bỏng do máy\n\nnước nóng bị quá nóng.\n\nKhông cài đặt nhiệt độ ở mức tối đa: Chỉ nên đặt nhiệt độ ở mức vừa đủ dùng theo khuyến cáo của nhà sản\n\nxuất. Việc này vừa giúp tiết kiệm điện, vừa hạn chế rủi ro máy phải hoạt động quá công suất gây quá nhiệt.\n\nLắp đặt máy đúng kỹ thuật: Việc lắp đặt cần được thực hiện bởi kỹ thuật viên chuyên môn cao, có dây tiếp\n\nđất và aptomat chống giật (ELCB/RCBO) để đảm bảo an toàn trong quá trình sử dụng.\n\nBảo dưỡng máy nước nóng định kỳ: Nên thực hiện bảo dưỡng, súc rửa bình chứa và kiểm tra các bộ phận an\n\ntoàn (rơ-le, van giảm áp) định kỳ 1 - 2 năm/lần. Việc này giúp phát hiện sớm các vấn đề và giữ cho máy hoạt\n\nđộng ổn định, hiệu quả.\n\nTình trạng máy nước nóng quá nóng có thể do nhiều nguyên nhân từ cài đặt nhiệt độ sai đến hỏng hóc linh kiện\n\nnhư rơ-le nhiệt hay board mạch. Để đảm bảo an toàn, bạn nên ngắt nguồn điện ngay khi phát hiện lỗi và liên hệ\n\ntrung tâm bảo hành/đơn vị sửa chữa chuyên nghiệp để kiểm tra, sửa chữa kịp thời nhé.\n\n7/12\n\nMUA HÀNG DỰ ÁN\n\nBạn lưu ý bảo dưỡng máy nóng lạnh định kỳ để thiết bị hoạt động ổn định và an toàn.\n\nCâu hỏi thường gặp\n\nLiên quan đến tình trạng máy nước nóng bị quá nóng, dưới đây có một số thắc mắc như sau:\n\nVì sao máy nước nóng trực tiếp quá nóng sau khi tắt đi và mở lại?\n\n8/12\n\nTại sao nước nóng hơn nhiệt độ đã cài đặt?\n\nĐèn báo lỗi có sáng khi máy nước nóng bị quá nhiệt không?\n\nMUA HÀNG DỰ ÁN\n\nChi phí sửa lỗi máy nước nóng quá nóng là bao nhiêu?\n\nCó nên bảo dưỡng máy nước nóng định kỳ không?\n\nBài viết liên quan\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\n9/12\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\n10/12\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\n11/12\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nTẠP CHÍ\n\nTập đoàn Ariston\n\nMẹo & giải pháp\n\nTuyển Dụng\n\nDỊCH VỤ KHÁCH HÀNG\n\nTin tức\n\nĐăng kí bảo hành online\n\nNgôi nhà thư thái\n\nSẢN PHẨM\n\nHội Viên Diamond Club\n\nCuộc sống xanh\n\nMáy Nước Nóng Gián Tiếp\n\nLiên Hệ Với Chúng Tôi\n\nTừ điển\n\nLEGAL AREA\n\nMáy Nước Nóng Trực Tiếp\n\nTải xuống tài liệu\n\nPrivacy Policy\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nCookie Policy\n\nMáy Nước Nóng Bơm Nhiệt\n\n©2022 Ariston Holding N.V. – Company Info\n\n12/12",
+  "removed_repeated_lines": [
+    "01:15 11/10/26",
+    "ARISTON NET",
+    "Máy nước nóng quá nóng: Nguyên nhân & cách khắc phục",
+    "TẢI TÀI LIỆU",
+    "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 11074,
+    "cleaned_char_count": 8278,
+    "removed_char_count": 2796,
+    "reduction_ratio": 0.2525,
+    "removed_repeated_line_count": 5
+  },
+  "raw_text": "01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nMáy nước nóng quá nóng: Nguyên nhân &\ncách khắc phục\n\nĐã xuất bản trên\n\n21 Tháng 8 2026\n\nKhi máy nước nóng quá nóng, nguyên nhân có thể do cài đặt nhiệt độ quá cao, hư hỏng thiết bị an toàn, van\n\ngiảm áp hoặc board mạch. Để khắc phục, bạn hãy ngắt điện và liên hệ kỹ thuật viên chuyên nghiệp, không tự\n\ný sửa chữa để đảm bảo an toàn. Nếu sử dụng máy nước nóng Ariston, bạn có thể liên hệ dịch vụ khách hàng\n\nthông qua hotline hoặc Zalo OA – Ariston Vietnam CSKH.\n\nTình trạng máy nước nóng quá nóng không chỉ gây lãng phí điện năng mà còn tiềm ẩn nguy cơ gây bỏng, đặc\n\nbiệt khi nhà có trẻ nhỏ và người lớn tuổi. Điều này gây ra sự bất tiện cho nhiều gia đình trong sinh hoạt hàng\n\nngày. Bài viết dưới đây sẽ giúp bạn hiểu rõ nguyên nhân và biết cách khắc phục an toàn, cùng tìm hiểu ngay.\n\n1. Nguyên nhân máy nước nóng quá nóng và cách khắc phục\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n1/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nHiện tượng máy nước nóng bị quá nóng có thể xuất phát từ nhiều nguyên nhân như cài đặt nhiệt độ quá cao, nút\n\nchỉnh nhiệt độ bị hư, van giảm áp hư hỏng, áp lực nước quá yếu,... Dưới đây là 6 nguyên nhân chi tiết và cách xử\n\nlý an toàn cho bạn tham khảo.\n\nARISTON NET\nTẢI TÀI LIỆU\n\n1.1. Cài đặt nhiệt độ quá cao\n\nNguyên nhân: Nhiều người dùng có thói quen cài đặt nhiệt độ ở mức tối đa để có nước nóng nhanh, nhưng điều\n\nMUA HÀNG DỰ ÁN\n\nnày dễ dẫn đến tình trạng nước nóng hơn mức cần thiết. Đây chính là nguyên nhân trực tiếp khiến nước đầu ra\n\nquá nóng.\n\nCách khắc phục: Bạn chỉ cần điều chỉnh lại nhiệt độ trên máy về mức phù hợp với nhu cầu sử dụng, thường là\n\nkhoảng 40 - 50 độ C. Hãy tham khảo sách hướng dẫn sử dụng để biết mức nhiệt độ an toàn do nhà sản xuất\n\nkhuyến nghị.\n\nXem thêm: Hướng dẫn cách điều chỉnh nhiệt độ bình nóng lạnh Ariston\n\nMáy nước nóng quá nóng do cài đặt nhiệt độ quá cao khi sử dụng.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n2/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\n1.2. Thiết bị bảo vệ an toàn bị hư hỏng\n\nNguyên nhân: Rơ-le nhiệt (thiết bị cảm biến nhiệt độ) có chức năng tự động ngắt điện khi nhiệt độ nước đạt đến\n\nARISTON NET\nTẢI TÀI LIỆU\n\nmức cài đặt. Nếu bộ phận này bị hỏng, máy sẽ tiếp tục đun không ngừng, gây ra tình trạng nước nóng quá nóng.\n\nCách khắc phục: Khi phát hiện lỗi này, bạn cần ngắt ngay nguồn điện của máy để đảm bảo an toàn. Sau đó, hãy\n\nliên hệ với trung tâm bảo hành hoặc thợ sửa chữa chuyên nghiệp để kiểm tra và thay thế linh kiện.\n\nMUA HÀNG DỰ ÁN\n\nXem thêm: Cách kiểm tra rơ le nhiệt bình nóng lạnh Ariston và thay mới\n\n1.3. Nút điều chỉnh nhiệt độ không hoạt động\n\nNguyên nhân: Nút vặn hoặc bảng điều khiển nhiệt độ có thể bị kẹt hoặc hỏng sau một thời gian dài sử dụng.\n\nĐiều này khiến bạn không thể giảm nhiệt độ dù đã thao tác điều chỉnh, làm cho máy luôn hoạt động ở mức nhiệt\n\ncao.\n\nCách khắc phục: Nếu gặp lỗi này, bạn nên tắt nguồn điện của máy nước nóng để tránh rủi ro về điện. Vì đây là lỗi\n\nliên quan đến linh kiện, bạn cần gọi kỹ thuật viên có chuyên môn đến kiểm tra và sửa chữa hoặc thay mới nút\n\nđiều chỉnh.\n\n1.4. Van giảm áp bị hư\n\nNguyên nhân: Van giảm áp có tác dụng ổn định áp suất nước trong bình, ngăn áp suất tăng quá cao gây nguy\n\nhiểm. Nếu van này bị hỏng hoặc kẹt, áp suất trong bình tăng lên làm nhiệt độ sôi của nước tăng theo và dẫn đến\n\nquá nhiệt.\n\nCách khắc phục: Bạn cần ngắt cầu dao điện của máy nước nóng và liên hệ ngay với dịch vụ sửa chữa uy tín để\n\nthay thế van giảm áp mới.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n3/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nVan giảm áp bị hư là nguyên nhân khiến máy nước nóng quá nóng.\n\n1.5. Áp lực nước quá yếu\n\nNguyên nhân: Trường hợp máy nước nóng trực tiếp quá nóng có thể do áp lực nước quá yếu. Áp lực nước đầu\n\nvào yếu khiến lượng nước chảy qua bộ phận làm nóng quá ít và chậm. Điều này làm cho nước bị đun nóng lâu\n\nhơn, dẫn đến nhiệt độ đầu ra cao bất thường so với cài đặt.\n\nCách khắc phục: Bạn có thể kiểm tra lại hệ thống cấp nước trong nhà, vệ sinh lưới lọc tại đầu vào của máy để\n\nloại bỏ cặn bẩn. Nếu tình hình không cải thiện, hãy cân nhắc lắp thêm bơm tăng áp để đảm bảo áp lực nước luôn\n\nổn định.\n\n1.6. Board máy nước nóng gặp trục trặc\n\nNguyên nhân: Board mạch là trung tâm điều khiển mọi hoạt động của máy nước nóng, bao gồm cả việc kiểm\n\nsoát nhiệt độ. Nếu board mạch bị lỗi, chập chờn do ẩm ướt hoặc hỏng linh kiện có thể phát tín hiệu sai khiến\n\nthanh đốt đun nóng liên tục và làm cho nước bị quá nóng.\n\nCách khắc phục: Khi gặp tình trạng này, bạn cần ngắt nguồn điện và liên hệ trung tâm bảo hành hoặc đơn vị sửa\n\nchữa uy tín để sửa board mạch an toàn.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n4/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nARISTON NET\nTẢI TÀI LIỆU\n\n2. Cách liên hệ bảo hành, sửa chữa máy nước nóng Ariston bị\nquá nóng\n\nKhi máy nước nóng Ariston gặp sự cố quá nhiệt, tốt nhất bạn nên liên hệ với dịch vụ chăm sóc khách hàng\n\nAriston để được tư vấn cách khắc phục. Bạn có thể kết nối với trung tâm dịch vụ Ariston bằng các cách sau đây:\n\nMUA HÀNG DỰ ÁN\n\nGọi hotline 18001517. Tổng đài Chăm sóc Khách hàng miễn phí hoạt động từ 8:00 - 17:00, Thứ Hai - Thứ Bảy.\n\nGửi tin nhắn qua Zalo OA – Ariston Vietnam CSKH và yêu cầu bảo hành, bảo trì để được nhân viên tư vấn chi\n\ntiết.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n5/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n6/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nBạn có thể nhanh chóng liên hệ bảo hành, bảo trì máy nước nóng nhanh qua Zalo OA Ariston.\n\nARISTON NET\nTẢI TÀI LIỆU\n\nAriston có mạng lưới bảo hành rộng khắp cả nước và đội ngũ kỹ thuật viên chuyên nghiệp, đảm bảo sửa chữa các\n\nMUA HÀNG DỰ ÁN\n\nvấn đề hư hỏng nhanh chóng và chuẩn xác. Quy trình dịch vụ của Ariston rất đơn giản giúp khách hàng tiết kiệm\n\nthời gian, không chờ đợi lâu.\n\n3. Các lưu ý sử dụng máy nước nóng an toàn\n\nĐể phòng tránh các sự cố như máy nước nóng quá nóng, bạn chú ý kiểm tra nhiệt độ nước trước khi tắm, không\n\ncài đặt nhiệt độ ở mức tối đa, bảo dưỡng máy định kỳ cũng như lắp đặt máy đúng kỹ thuật sau khi mua.\n\nKiểm tra nhiệt độ nước trước khi sử dụng: Luôn dùng tay kiểm tra nhiệt độ của nước trước khi tắm, đặc biệt là\n\nkhi nhà có trẻ em và người lớn tuổi. Thói quen đơn giản này giúp bạn tránh được nguy cơ bị bỏng do máy\n\nnước nóng bị quá nóng.\n\nKhông cài đặt nhiệt độ ở mức tối đa: Chỉ nên đặt nhiệt độ ở mức vừa đủ dùng theo khuyến cáo của nhà sản\n\nxuất. Việc này vừa giúp tiết kiệm điện, vừa hạn chế rủi ro máy phải hoạt động quá công suất gây quá nhiệt.\n\nLắp đặt máy đúng kỹ thuật: Việc lắp đặt cần được thực hiện bởi kỹ thuật viên chuyên môn cao, có dây tiếp\n\nđất và aptomat chống giật (ELCB/RCBO) để đảm bảo an toàn trong quá trình sử dụng.\n\nBảo dưỡng máy nước nóng định kỳ: Nên thực hiện bảo dưỡng, súc rửa bình chứa và kiểm tra các bộ phận an\n\ntoàn (rơ-le, van giảm áp) định kỳ 1 - 2 năm/lần. Việc này giúp phát hiện sớm các vấn đề và giữ cho máy hoạt\n\nđộng ổn định, hiệu quả.\n\nTình trạng máy nước nóng quá nóng có thể do nhiều nguyên nhân từ cài đặt nhiệt độ sai đến hỏng hóc linh kiện\n\nnhư rơ-le nhiệt hay board mạch. Để đảm bảo an toàn, bạn nên ngắt nguồn điện ngay khi phát hiện lỗi và liên hệ\n\ntrung tâm bảo hành/đơn vị sửa chữa chuyên nghiệp để kiểm tra, sửa chữa kịp thời nhé.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n7/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nBạn lưu ý bảo dưỡng máy nóng lạnh định kỳ để thiết bị hoạt động ổn định và an toàn.\n\nCâu hỏi thường gặp\n\nLiên quan đến tình trạng máy nước nóng bị quá nóng, dưới đây có một số thắc mắc như sau:\n\nVì sao máy nước nóng trực tiếp quá nóng sau khi tắt đi và mở lại?\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n8/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nTại sao nước nóng hơn nhiệt độ đã cài đặt?\n\nARISTON NET\nTẢI TÀI LIỆU\n\nĐèn báo lỗi có sáng khi máy nước nóng bị quá nhiệt không?\n\nMUA HÀNG DỰ ÁN\n\nChi phí sửa lỗi máy nước nóng quá nóng là bao nhiêu?\n\nCó nên bảo dưỡng máy nước nóng định kỳ không?\n\nBài viết liên quan\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n9/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n10/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nĐỌC THÊM\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n11/12\n\n01:15 11/10/26\nMáy nước nóng quá nóng: Nguyên nhân & cách khắc phục\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nARISTON NET\nTẢI TÀI LIỆU\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nTẠP CHÍ\n\nTập đoàn Ariston\n\nMẹo & giải pháp\n\nTuyển Dụng\n\nDỊCH VỤ KHÁCH HÀNG\n\nTin tức\n\nĐăng kí bảo hành online\n\nNgôi nhà thư thái\n\nSẢN PHẨM\n\nHội Viên Diamond Club\n\nCuộc sống xanh\n\nMáy Nước Nóng Gián Tiếp\n\nLiên Hệ Với Chúng Tôi\n\nTừ điển\n\nLEGAL AREA\n\nMáy Nước Nóng Trực Tiếp\n\nTải xuống tài liệu\n\nPrivacy Policy\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nCookie Policy\n\nMáy Nước Nóng Bơm Nhiệt\n\n©2022 Ariston Holding N.V. – Company Info\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/cach-xu-ly-may-nuoc-nong-qua-nong-cac-buoc-an-toan-va-bien-phap-phong-ngua\n12/12",
+  "char_count": 11074
+}

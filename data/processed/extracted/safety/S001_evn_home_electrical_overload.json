@@ -1,0 +1,1302 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\safety\\S001_evn_home_electrical_overload.pdf",
+  "filename": "S001_evn_home_electrical_overload.pdf",
+  "file_type": "pdf",
+  "page_count": 8,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Vi   En \n\n",
+          "bbox": [
+            115.5,
+            34.79999923706055,
+            496.0478210449219,
+            54.0
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "Trang chủ > App CSKH > APPCSKH - An toàn điện và phòng chống cháy nổ",
+          "bbox": [
+            112.875,
+            133.74462890625,
+            475.8751220703125,
+            145.47509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "Quá tải điện trong gia đình: Nhận biết\nsớm để phòng ngừa cháy nổ",
+          "bbox": [
+            130.875,
+            215.36317443847656,
+            468.453369140625,
+            261.26153564453125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": " 25/08/2026 - 16:57 (GMT+7)",
+          "bbox": [
+            130.875,
+            274.5,
+            267.1702880859375,
+            285.566162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "Aptomat thường xuyên nhảy, ổ cắm nóng bất\nthường hay xuất hiện mùi khét có thể là những\ndấu hiệu cảnh báo hệ thống điện đang quá tải\nhoặc mất an toàn. Theo chuyên gia, nhận biết\nsớm các dấu hiệu quá tải và xử lý đúng cách\ngiúp hạn chế nguy cơ chập, cháy và hư hỏng\nthiết bị.",
+          "bbox": [
+            130.875,
+            302.1708984375,
+            467.4898986816406,
+            453.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "Quá tải kéo dài tăng nguy cơ chập, cháy",
+          "bbox": [
+            112.875,
+            514.13671875,
+            342.8189697265625,
+            527.54296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "Trong sinh hoạt hằng ngày, nhất là mùa nắng nóng, nhiều gia đình có\nthói quen sử dụng đồng thời các thiết bị công suất lớn như máy điều\nhòa không khí, bình nóng lạnh, bếp từ, máy giặt,… Khi nhu cầu sử dụng\nđiện tăng cao nhưng hệ thống điện trong gia đình không được thiết kế\nhoặc nâng cấp tương ứng, nguy cơ quá tải cũng gia tăng.",
+          "bbox": [
+            112.875,
+            544.13671875,
+            499.87322998046875,
+            629.54296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "Theo TS. Phạm Thành Chung (Khoa Điện, Trường Điện – Điện tử, Đại\nhọc Bách khoa Hà Nội), quá tải là hiện tượng dòng điện chạy qua mạch\nvượt quá khả năng chịu tải an toàn của dây dẫn, ổ cắm hoặc thiết bị bảo\nvệ như aptomat, cầu chì.",
+          "bbox": [
+            112.875,
+            646.13671875,
+            499.8653869628906,
+            713.54296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n1/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            38.8125,
+            496.0478210449219,
+            50.0625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "Khi tình trạng quá tải kéo dài, dây dẫn bị quá nhiệt có thể làm nóng chảy\nlớp vỏ cách điện, dẫn đến chập mạch (ngắn mạch) và gây hỏa hoạn.\nNhiệt độ cao trong thời gian dài cũng làm lớp cách điện lão hóa, suy\ngiảm chất lượng, làm tăng nguy cơ rò rỉ điện ra vỏ thiết bị hoặc tường và\ngây nguy hiểm cho người sử dụng.",
+          "bbox": [
+            112.875,
+            30.38671875,
+            499.8731689453125,
+            115.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "Bên cạnh nguy cơ cháy, nổ và điện giật, dòng điện tăng cao, độ sụt áp\ntrên đường dây cũng tăng, làm điện áp cung cấp cho thiết bị giảm và có\nthể khiến thiết bị hoạt động không ổn định, vận hành kém hiệu quả và\nnhanh hư hỏng. Nếu không được xử lý kịp thời, sự cố quá tải còn có thể\nảnh hưởng đến đường dây âm tường và các thiết bị phụ trợ trong nhà.",
+          "bbox": [
+            112.875,
+            132.38671875,
+            499.8731689453125,
+            217.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "Cần xử lý đúng cách",
+          "bbox": [
+            112.875,
+            234.38671875,
+            230.93099975585938,
+            247.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Theo TS. Phạm Thành Chung, tình trạng quá tải và mất an toàn điện\ntrong gia đình thường xuất phát từ hai nhóm nguyên nhân chính: thói\nquen sử dụng điện và những lỗi trong thiết kế, thi công hoặc sự xuống\ncấp của hệ thống.",
+          "bbox": [
+            112.875,
+            264.38671875,
+            499.871337890625,
+            331.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "Những thói quen dùng điện chưa đúng như: sử dụng cùng lúc nhiều\nthiết bị công suất lớn, cắm quá nhiều thiết bị vào một ổ cắm hoặc ổ cắm\nnối, sử dụng thiết bị điện kém chất lượng,...",
+          "bbox": [
+            112.875,
+            348.38671875,
+            499.8730773925781,
+            397.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "Về hệ thống điện, nguy cơ có thể xuất phát từ việc dây dẫn có tiết diện\nkhông phù hợp với tải; lắp aptomat sai thông số hoặc thiếu aptomat\nchống giật; hệ thống điện cũ, dây dẫn và mối nối xuống cấp; thiếu hệ\nthống nối đất (tiếp địa); thi công không đúng kỹ thuật,...",
+          "bbox": [
+            112.875,
+            414.38671875,
+            499.86749267578125,
+            481.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "Theo TS. Phạm Thành Chung, nếu thiết bị hoạt động bất thường nhưng\nchưa có dấu hiệu nóng, cháy, khói hoặc tia lửa, người sử dụng có thể\nngắt aptomat nhánh của khu vực đó hoặc rút phích cắm thiết bị nếu đảm\nbảo điều kiện an toàn.",
+          "bbox": [
+            112.875,
+            498.38671875,
+            499.87335205078125,
+            565.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "Ngược lại, cần dừng ngay và gọi người có chuyên môn khi đã xuất hiện\nmùi khét, khói, tia lửa điện hoặc tiếng lách tách; aptomat bị nhảy và lập\ntức nhảy lại khi thử bật; ổ cắm, phích cắm, dây điện bị biến dạng hoặc\nnóng chảy; khu vực tủ điện, ổ cắm bị ngập nước hoặc tường bị ẩm ướt\nrò điện.",
+          "bbox": [
+            112.875,
+            582.38671875,
+            499.8695068359375,
+            667.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "Đối với trường hợp có người bị điện giật, phải ngắt ngay nguồn điện\ntổng từ xa hoặc dùng vật cách điện gạt nguồn điện ra, tuyệt đối không\nchạm trực tiếp vào nạn nhân.",
+          "bbox": [
+            112.875,
+            684.38671875,
+            499.86175537109375,
+            733.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n2/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            38.8125,
+            496.0478210449219,
+            50.0625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "Mức độ\nMột số dấu hiệu\nNguy cơ\nCách xử lý",
+          "bbox": [
+            122.7890625,
+            38.63671875,
+            463.0049743652344,
+            52.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "Cảnh\nbáo\nsớm",
+          "bbox": [
+            121.125,
+            101.63671875,
+            151.125,
+            151.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "Hệ \nthống\nđiện có dấu\nhiệu quá tải",
+          "bbox": [
+            292.125,
+            101.63671875,
+            358.01422119140625,
+            151.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "Đèn nhấp nháy,\nsáng \nyếu;\naptomat \nthỉnh\nthoảng nhảy",
+          "bbox": [
+            182.82421875,
+            92.63671875,
+            277.12115478515625,
+            160.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "Giảm số thiết bị sử\ndụng cùng lúc; phân\nbổ lại phụ tải sang\ncác mạch điện khác\nnếu có",
+          "bbox": [
+            373.01953125,
+            83.63671875,
+            491.621337890625,
+            169.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "Rò \nđiện\nhoặc \nquá\nnhiệt",
+          "bbox": [
+            292.125,
+            218.63671875,
+            358.0081787109375,
+            268.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "Báo\nđộng\nnguy\nhiểm",
+          "bbox": [
+            121.125,
+            209.63671875,
+            150.4530029296875,
+            277.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "Ổ \ncắm \nnóng,\nthiết bị có dấu\nhiệu rò điện ra\nvỏ, tiền điện tăng\nbất thường",
+          "bbox": [
+            182.82421875,
+            200.63671875,
+            277.1195068359375,
+            286.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 11,
+          "text": "Ngừng sử dụng thiết\nbị; \nrút \nphích \ncắm\ntrong điều kiện đảm\nbảo an toàn; kiểm tra\nhệ thống điện",
+          "bbox": [
+            373.01953125,
+            200.63671875,
+            491.6250915527344,
+            286.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 12,
+          "text": "Báo\nđộng\nkhẩn\ncấp",
+          "bbox": [
+            121.125,
+            326.63671875,
+            150.4530029296875,
+            394.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 13,
+          "text": "Chập điện,\nnguy \ncơ\ncháy nổ rất\ncao",
+          "bbox": [
+            292.125,
+            326.63671875,
+            358.0196228027344,
+            394.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 14,
+          "text": "Ngắt \naptomat; \ngiữ\nnguyên hiện trạng và\ngọi thợ điện chuyên\nnghiệp",
+          "bbox": [
+            373.01953125,
+            326.63671875,
+            491.6173095703125,
+            394.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 15,
+          "text": "Có \nmùi \nkhét,\nkhói, \ntia \nlửa,\ntiếng lách tách\nhoặc \naptomat\nnhảy liên tục",
+          "bbox": [
+            182.82421875,
+            317.63671875,
+            277.1253662109375,
+            403.04296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 16,
+          "text": "(Chuyên gia tư vấn: TS. Phạm Thành Chung, Khoa Điện, Trường Điện – Điện tử, Đại học Bách khoa Hà",
+          "bbox": [
+            116.578125,
+            431.281494140625,
+            496.1517639160156,
+            440.498291015625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 17,
+          "text": "Nội)",
+          "bbox": [
+            298.8046875,
+            449.281494140625,
+            313.9269104003906,
+            458.498291015625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 18,
+          "text": "Diệu Thảo\n25/08/2026 - 16:57 (GMT+7)",
+          "bbox": [
+            124.875,
+            498.38671875,
+            487.8644714355469,
+            511.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 19,
+          "text": "# quá tải\n# gia đình\n# cháy nổ",
+          "bbox": [
+            118.875,
+            552.38671875,
+            305.660888671875,
+            565.79296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 20,
+          "text": "Share     ",
+          "bbox": [
+            118.875,
+            608.25,
+            281.26171875,
+            626.54296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 21,
+          "text": "Cùng chuyên mục",
+          "bbox": [
+            112.875,
+            707.9208984375,
+            242.89498901367188,
+            724.6787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 22,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 23,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n3/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            38.8125,
+            496.0478210449219,
+            50.0625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "Khuyến cáo về an toàn phòng cháy, chữa cháy trong\nlắp đặt hệ thống điện mặt trời mái nhà",
+          "bbox": [
+            112.875,
+            259.4208984375,
+            489.3680725097656,
+            296.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": " 15:25, 13/08/2026",
+          "bbox": [
+            112.875,
+            309.923583984375,
+            203.93997192382812,
+            320.816162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "'5 không' để bảo đảm an toàn điện trong dịp Tết",
+          "bbox": [
+            112.875,
+            603.6708984375,
+            453.4049072265625,
+            620.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": " 09:00, 15/02/2026",
+          "bbox": [
+            112.875,
+            633.75,
+            203.93997192382812,
+            644.816162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 8,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n4/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            38.8125,
+            496.0478210449219,
+            50.0625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "Hiểm hoạ khôn lường từ hệ thống điện sau công tơ:\nKhông thể chủ quan!",
+          "bbox": [
+            112.875,
+            259.4208984375,
+            485.9698486328125,
+            296.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": " 15:57, 21/11/2025",
+          "bbox": [
+            112.875,
+            309.923583984375,
+            203.21856689453125,
+            320.816162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "Đề phòng cháy nổ khi sử dụng điện tại văn phòng",
+          "bbox": [
+            112.875,
+            603.6708984375,
+            469.6348876953125,
+            620.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": " 10:30, 06/10/2025",
+          "bbox": [
+            112.875,
+            633.75,
+            203.93997192382812,
+            644.816162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "Bấm để xem thêm",
+          "bbox": [
+            124.875,
+            699.24462890625,
+            210.07199096679688,
+            710.97509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 8,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 9,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n5/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "Tin mới\nXem nhiều nhất",
+          "bbox": [
+            115.875,
+            31.13671875,
+            278.87933349609375,
+            44.54296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            38.8125,
+            496.0478210449219,
+            50.0625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "Toàn văn: Phát biểu bế\nmạc Hội nghị Trung ương\n4 của Tổng Bí thư, Chủ\ntịch nước Tô Lâm",
+          "bbox": [
+            315.375,
+            71.9208984375,
+            499.4071350097656,
+            156.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "Quy định về trách nhiệm\ncủa đảng viên đang công\ntác đối với tổ chức đảng\nvà Nhân dân nơi cư trú",
+          "bbox": [
+            315.375,
+            200.9208984375,
+            495.4198303222656,
+            285.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "EVNSPC: Đưa khoa học\ncông nghệ, chuyển đổi\nsố thành động lực phát\ntriển",
+          "bbox": [
+            315.375,
+            330.6708984375,
+            486.2698974609375,
+            414.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "Tiếp quản Nhà máy điện\nYên Phụ tháng 10/1954 -\nNgược miền ký ức",
+          "bbox": [
+            315.375,
+            459.6708984375,
+            487.9349365234375,
+            521.4287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "EVN đẩy mạnh chuyển\nđổi số, lấy khách hàng\nlàm trung tâm",
+          "bbox": [
+            315.375,
+            589.4208984375,
+            477.0899353027344,
+            651.1787109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 9,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 10,
+          "text": "Xem thêm",
+          "bbox": [
+            112.875,
+            719.423583984375,
+            157.3057403564453,
+            730.316162109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 11,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n6/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            38.8125,
+            496.0478210449219,
+            50.0625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n7/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            466.2364807128906,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "Vi   En \n",
+          "bbox": [
+            312.7734375,
+            38.8125,
+            496.0478210449219,
+            50.0625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "Bản quyền thuộc về Tập đoàn Điện lực Việt Nam\nĐiện thoại: 024.66946789  |  Fax: 024.66946666\nGiấy phép số: 34/GP-SVHTT do Sở Văn hoá và Thể thao Thành phố Hà Nội cấp\nngày 19/01/2026.\nThông tin trích từ trang thông tin điện tử này yêu cầu\nghi rõ từ nguồn www.evn.com.vn",
+          "bbox": [
+            112.875,
+            135.24462890625,
+            487.471923828125,
+            225.72509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "Người chịu trách nhiệm quản lý nội dung:\nÔng Ngô Sơn Hải - Phó Tổng giám đốc EVN",
+          "bbox": [
+            112.875,
+            253.74462890625,
+            320.9139404296875,
+            281.22509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 5,
+          "text": "Thực hiện: Trung tâm Truyền thông và Thông tin Điện lực\nĐịa chỉ: Số 11 Cửa Bắc, phường Ba Đình, Hà Nội.\nĐiện thoại: 024.66946731\nEmail: banbientapwebevn.eic@evn.com.vn\n           banbientapwebevn.eic@gmail.com",
+          "bbox": [
+            112.875,
+            297.24462890625,
+            380.03155517578125,
+            371.97509765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 6,
+          "text": "Giới thiệu >>",
+          "bbox": [
+            118.875,
+            401.1708984375,
+            211.2449951171875,
+            417.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 7,
+          "text": "Văn hóa EVN >>",
+          "bbox": [
+            118.875,
+            431.1708984375,
+            233.9249725341797,
+            447.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 8,
+          "text": "EVN và Khách hàng >>",
+          "bbox": [
+            118.875,
+            461.1708984375,
+            282.2699890136719,
+            477.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 9,
+          "text": "Thông tin hữu ích >>",
+          "bbox": [
+            118.875,
+            491.1708984375,
+            268.094970703125,
+            507.9287109375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 10,
+          "text": "  ",
+          "bbox": [
+            118.875,
+            522.0,
+            191.5546875,
+            540.29296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 11,
+          "text": "",
+          "bbox": [
+            536.25,
+            715.5,
+            548.25,
+            727.5
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 12,
+          "text": "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n8/8",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Quá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181713+00'00'",
+    "modDate": "D:20261010181713+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "\n\nTrang chủ > App CSKH > APPCSKH - An toàn điện và phòng chống cháy nổ\n\nQuá tải điện trong gia đình: Nhận biết\nsớm để phòng ngừa cháy nổ\n\n 25/08/2026 - 16:57 (GMT+7)\n\nAptomat thường xuyên nhảy, ổ cắm nóng bất\nthường hay xuất hiện mùi khét có thể là những\ndấu hiệu cảnh báo hệ thống điện đang quá tải\nhoặc mất an toàn. Theo chuyên gia, nhận biết\nsớm các dấu hiệu quá tải và xử lý đúng cách\ngiúp hạn chế nguy cơ chập, cháy và hư hỏng\nthiết bị.\n\nQuá tải kéo dài tăng nguy cơ chập, cháy\n\nTrong sinh hoạt hằng ngày, nhất là mùa nắng nóng, nhiều gia đình có\nthói quen sử dụng đồng thời các thiết bị công suất lớn như máy điều\nhòa không khí, bình nóng lạnh, bếp từ, máy giặt,… Khi nhu cầu sử dụng\nđiện tăng cao nhưng hệ thống điện trong gia đình không được thiết kế\nhoặc nâng cấp tương ứng, nguy cơ quá tải cũng gia tăng.\n\nTheo TS. Phạm Thành Chung (Khoa Điện, Trường Điện – Điện tử, Đại\nhọc Bách khoa Hà Nội), quá tải là hiện tượng dòng điện chạy qua mạch\nvượt quá khả năng chịu tải an toàn của dây dẫn, ổ cắm hoặc thiết bị bảo\nvệ như aptomat, cầu chì.\n\n1/8\n\nKhi tình trạng quá tải kéo dài, dây dẫn bị quá nhiệt có thể làm nóng chảy\nlớp vỏ cách điện, dẫn đến chập mạch (ngắn mạch) và gây hỏa hoạn.\nNhiệt độ cao trong thời gian dài cũng làm lớp cách điện lão hóa, suy\ngiảm chất lượng, làm tăng nguy cơ rò rỉ điện ra vỏ thiết bị hoặc tường và\ngây nguy hiểm cho người sử dụng.\n\nBên cạnh nguy cơ cháy, nổ và điện giật, dòng điện tăng cao, độ sụt áp\ntrên đường dây cũng tăng, làm điện áp cung cấp cho thiết bị giảm và có\nthể khiến thiết bị hoạt động không ổn định, vận hành kém hiệu quả và\nnhanh hư hỏng. Nếu không được xử lý kịp thời, sự cố quá tải còn có thể\nảnh hưởng đến đường dây âm tường và các thiết bị phụ trợ trong nhà.\n\nCần xử lý đúng cách\n\nTheo TS. Phạm Thành Chung, tình trạng quá tải và mất an toàn điện\ntrong gia đình thường xuất phát từ hai nhóm nguyên nhân chính: thói\nquen sử dụng điện và những lỗi trong thiết kế, thi công hoặc sự xuống\ncấp của hệ thống.\n\nNhững thói quen dùng điện chưa đúng như: sử dụng cùng lúc nhiều\nthiết bị công suất lớn, cắm quá nhiều thiết bị vào một ổ cắm hoặc ổ cắm\nnối, sử dụng thiết bị điện kém chất lượng,...\n\nVề hệ thống điện, nguy cơ có thể xuất phát từ việc dây dẫn có tiết diện\nkhông phù hợp với tải; lắp aptomat sai thông số hoặc thiếu aptomat\nchống giật; hệ thống điện cũ, dây dẫn và mối nối xuống cấp; thiếu hệ\nthống nối đất (tiếp địa); thi công không đúng kỹ thuật,...\n\nTheo TS. Phạm Thành Chung, nếu thiết bị hoạt động bất thường nhưng\nchưa có dấu hiệu nóng, cháy, khói hoặc tia lửa, người sử dụng có thể\nngắt aptomat nhánh của khu vực đó hoặc rút phích cắm thiết bị nếu đảm\nbảo điều kiện an toàn.\n\nNgược lại, cần dừng ngay và gọi người có chuyên môn khi đã xuất hiện\nmùi khét, khói, tia lửa điện hoặc tiếng lách tách; aptomat bị nhảy và lập\ntức nhảy lại khi thử bật; ổ cắm, phích cắm, dây điện bị biến dạng hoặc\nnóng chảy; khu vực tủ điện, ổ cắm bị ngập nước hoặc tường bị ẩm ướt\nrò điện.\n\nĐối với trường hợp có người bị điện giật, phải ngắt ngay nguồn điện\ntổng từ xa hoặc dùng vật cách điện gạt nguồn điện ra, tuyệt đối không\nchạm trực tiếp vào nạn nhân.\n\n2/8\n\nMức độ\nMột số dấu hiệu\nNguy cơ\nCách xử lý\n\nCảnh\nbáo\nsớm\n\nHệ\nthống\nđiện có dấu\nhiệu quá tải\n\nĐèn nhấp nháy,\nsáng\nyếu;\naptomat\nthỉnh\nthoảng nhảy\n\nGiảm số thiết bị sử\ndụng cùng lúc; phân\nbổ lại phụ tải sang\ncác mạch điện khác\nnếu có\n\nRò\nđiện\nhoặc\nquá\nnhiệt\n\nBáo\nđộng\nnguy\nhiểm\n\nỔ\ncắm\nnóng,\nthiết bị có dấu\nhiệu rò điện ra\nvỏ, tiền điện tăng\nbất thường\n\nNgừng sử dụng thiết\nbị;\nrút\nphích\ncắm\ntrong điều kiện đảm\nbảo an toàn; kiểm tra\nhệ thống điện\n\nBáo\nđộng\nkhẩn\ncấp\n\nChập điện,\nnguy\ncơ\ncháy nổ rất\ncao\n\nNgắt\naptomat;\ngiữ\nnguyên hiện trạng và\ngọi thợ điện chuyên\nnghiệp\n\nCó\nmùi\nkhét,\nkhói,\ntia\nlửa,\ntiếng lách tách\nhoặc\naptomat\nnhảy liên tục\n\n(Chuyên gia tư vấn: TS. Phạm Thành Chung, Khoa Điện, Trường Điện – Điện tử, Đại học Bách khoa Hà\n\nNội)\n\nDiệu Thảo\n25/08/2026 - 16:57 (GMT+7)\n\n# quá tải\n# gia đình\n# cháy nổ\n\nShare     \n\nCùng chuyên mục\n\n3/8\n\nKhuyến cáo về an toàn phòng cháy, chữa cháy trong\nlắp đặt hệ thống điện mặt trời mái nhà\n\n 15:25, 13/08/2026\n\n'5 không' để bảo đảm an toàn điện trong dịp Tết\n\n 09:00, 15/02/2026\n\n4/8\n\nHiểm hoạ khôn lường từ hệ thống điện sau công tơ:\nKhông thể chủ quan!\n\n 15:57, 21/11/2025\n\nĐề phòng cháy nổ khi sử dụng điện tại văn phòng\n\n 10:30, 06/10/2025\n\nBấm để xem thêm\n\n5/8\n\nTin mới\nXem nhiều nhất\n\nToàn văn: Phát biểu bế\nmạc Hội nghị Trung ương\n4 của Tổng Bí thư, Chủ\ntịch nước Tô Lâm\n\nQuy định về trách nhiệm\ncủa đảng viên đang công\ntác đối với tổ chức đảng\nvà Nhân dân nơi cư trú\n\nEVNSPC: Đưa khoa học\ncông nghệ, chuyển đổi\nsố thành động lực phát\ntriển\n\nTiếp quản Nhà máy điện\nYên Phụ tháng 10/1954 -\nNgược miền ký ức\n\nEVN đẩy mạnh chuyển\nđổi số, lấy khách hàng\nlàm trung tâm\n\nXem thêm\n\n6/8\n\n7/8\n\nBản quyền thuộc về Tập đoàn Điện lực Việt Nam\nĐiện thoại: 024.66946789  |  Fax: 024.66946666\nGiấy phép số: 34/GP-SVHTT do Sở Văn hoá và Thể thao Thành phố Hà Nội cấp\nngày 19/01/2026.\nThông tin trích từ trang thông tin điện tử này yêu cầu\nghi rõ từ nguồn www.evn.com.vn\n\nNgười chịu trách nhiệm quản lý nội dung:\nÔng Ngô Sơn Hải - Phó Tổng giám đốc EVN\n\nThực hiện: Trung tâm Truyền thông và Thông tin Điện lực\nĐịa chỉ: Số 11 Cửa Bắc, phường Ba Đình, Hà Nội.\nĐiện thoại: 024.66946731\nEmail: banbientapwebevn.eic@evn.com.vn\n           banbientapwebevn.eic@gmail.com\n\nGiới thiệu >>\n\nVăn hóa EVN >>\n\nEVN và Khách hàng >>\n\nThông tin hữu ích >>\n\n  \n\n8/8",
+  "removed_repeated_lines": [
+    "01:17 11/10/26",
+    "Quá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ",
+    "Vi   En",
+    "https://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328",
+    "",
+    ""
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 7111,
+    "cleaned_char_count": 5406,
+    "removed_char_count": 1705,
+    "reduction_ratio": 0.2398,
+    "removed_repeated_line_count": 6
+  },
+  "raw_text": "01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nVi   En \n\n\n\nTrang chủ > App CSKH > APPCSKH - An toàn điện và phòng chống cháy nổ\n\nQuá tải điện trong gia đình: Nhận biết\nsớm để phòng ngừa cháy nổ\n\n 25/08/2026 - 16:57 (GMT+7)\n\nAptomat thường xuyên nhảy, ổ cắm nóng bất\nthường hay xuất hiện mùi khét có thể là những\ndấu hiệu cảnh báo hệ thống điện đang quá tải\nhoặc mất an toàn. Theo chuyên gia, nhận biết\nsớm các dấu hiệu quá tải và xử lý đúng cách\ngiúp hạn chế nguy cơ chập, cháy và hư hỏng\nthiết bị.\n\nQuá tải kéo dài tăng nguy cơ chập, cháy\n\nTrong sinh hoạt hằng ngày, nhất là mùa nắng nóng, nhiều gia đình có\nthói quen sử dụng đồng thời các thiết bị công suất lớn như máy điều\nhòa không khí, bình nóng lạnh, bếp từ, máy giặt,… Khi nhu cầu sử dụng\nđiện tăng cao nhưng hệ thống điện trong gia đình không được thiết kế\nhoặc nâng cấp tương ứng, nguy cơ quá tải cũng gia tăng.\n\nTheo TS. Phạm Thành Chung (Khoa Điện, Trường Điện – Điện tử, Đại\nhọc Bách khoa Hà Nội), quá tải là hiện tượng dòng điện chạy qua mạch\nvượt quá khả năng chịu tải an toàn của dây dẫn, ổ cắm hoặc thiết bị bảo\nvệ như aptomat, cầu chì.\n\n\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n1/8\n\n01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nVi   En \n\n\nKhi tình trạng quá tải kéo dài, dây dẫn bị quá nhiệt có thể làm nóng chảy\nlớp vỏ cách điện, dẫn đến chập mạch (ngắn mạch) và gây hỏa hoạn.\nNhiệt độ cao trong thời gian dài cũng làm lớp cách điện lão hóa, suy\ngiảm chất lượng, làm tăng nguy cơ rò rỉ điện ra vỏ thiết bị hoặc tường và\ngây nguy hiểm cho người sử dụng.\n\nBên cạnh nguy cơ cháy, nổ và điện giật, dòng điện tăng cao, độ sụt áp\ntrên đường dây cũng tăng, làm điện áp cung cấp cho thiết bị giảm và có\nthể khiến thiết bị hoạt động không ổn định, vận hành kém hiệu quả và\nnhanh hư hỏng. Nếu không được xử lý kịp thời, sự cố quá tải còn có thể\nảnh hưởng đến đường dây âm tường và các thiết bị phụ trợ trong nhà.\n\nCần xử lý đúng cách\n\nTheo TS. Phạm Thành Chung, tình trạng quá tải và mất an toàn điện\ntrong gia đình thường xuất phát từ hai nhóm nguyên nhân chính: thói\nquen sử dụng điện và những lỗi trong thiết kế, thi công hoặc sự xuống\ncấp của hệ thống.\n\nNhững thói quen dùng điện chưa đúng như: sử dụng cùng lúc nhiều\nthiết bị công suất lớn, cắm quá nhiều thiết bị vào một ổ cắm hoặc ổ cắm\nnối, sử dụng thiết bị điện kém chất lượng,...\n\nVề hệ thống điện, nguy cơ có thể xuất phát từ việc dây dẫn có tiết diện\nkhông phù hợp với tải; lắp aptomat sai thông số hoặc thiếu aptomat\nchống giật; hệ thống điện cũ, dây dẫn và mối nối xuống cấp; thiếu hệ\nthống nối đất (tiếp địa); thi công không đúng kỹ thuật,...\n\nTheo TS. Phạm Thành Chung, nếu thiết bị hoạt động bất thường nhưng\nchưa có dấu hiệu nóng, cháy, khói hoặc tia lửa, người sử dụng có thể\nngắt aptomat nhánh của khu vực đó hoặc rút phích cắm thiết bị nếu đảm\nbảo điều kiện an toàn.\n\nNgược lại, cần dừng ngay và gọi người có chuyên môn khi đã xuất hiện\nmùi khét, khói, tia lửa điện hoặc tiếng lách tách; aptomat bị nhảy và lập\ntức nhảy lại khi thử bật; ổ cắm, phích cắm, dây điện bị biến dạng hoặc\nnóng chảy; khu vực tủ điện, ổ cắm bị ngập nước hoặc tường bị ẩm ướt\nrò điện.\n\n\n\nĐối với trường hợp có người bị điện giật, phải ngắt ngay nguồn điện\ntổng từ xa hoặc dùng vật cách điện gạt nguồn điện ra, tuyệt đối không\nchạm trực tiếp vào nạn nhân.\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n2/8\n\n01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nVi   En \n\n\nMức độ\nMột số dấu hiệu\nNguy cơ\nCách xử lý\n\nCảnh\nbáo\nsớm\n\nHệ \nthống\nđiện có dấu\nhiệu quá tải\n\nĐèn nhấp nháy,\nsáng \nyếu;\naptomat \nthỉnh\nthoảng nhảy\n\nGiảm số thiết bị sử\ndụng cùng lúc; phân\nbổ lại phụ tải sang\ncác mạch điện khác\nnếu có\n\nRò \nđiện\nhoặc \nquá\nnhiệt\n\nBáo\nđộng\nnguy\nhiểm\n\nỔ \ncắm \nnóng,\nthiết bị có dấu\nhiệu rò điện ra\nvỏ, tiền điện tăng\nbất thường\n\nNgừng sử dụng thiết\nbị; \nrút \nphích \ncắm\ntrong điều kiện đảm\nbảo an toàn; kiểm tra\nhệ thống điện\n\nBáo\nđộng\nkhẩn\ncấp\n\nChập điện,\nnguy \ncơ\ncháy nổ rất\ncao\n\nNgắt \naptomat; \ngiữ\nnguyên hiện trạng và\ngọi thợ điện chuyên\nnghiệp\n\nCó \nmùi \nkhét,\nkhói, \ntia \nlửa,\ntiếng lách tách\nhoặc \naptomat\nnhảy liên tục\n\n(Chuyên gia tư vấn: TS. Phạm Thành Chung, Khoa Điện, Trường Điện – Điện tử, Đại học Bách khoa Hà\n\nNội)\n\nDiệu Thảo\n25/08/2026 - 16:57 (GMT+7)\n\n# quá tải\n# gia đình\n# cháy nổ\n\nShare     \n\nCùng chuyên mục\n\n\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n3/8\n\n01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nVi   En \n\n\nKhuyến cáo về an toàn phòng cháy, chữa cháy trong\nlắp đặt hệ thống điện mặt trời mái nhà\n\n 15:25, 13/08/2026\n\n'5 không' để bảo đảm an toàn điện trong dịp Tết\n\n 09:00, 15/02/2026\n\n\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n4/8\n\n01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nVi   En \n\n\nHiểm hoạ khôn lường từ hệ thống điện sau công tơ:\nKhông thể chủ quan!\n\n 15:57, 21/11/2025\n\nĐề phòng cháy nổ khi sử dụng điện tại văn phòng\n\n 10:30, 06/10/2025\n\nBấm để xem thêm\n\n\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n5/8\n\n01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nTin mới\nXem nhiều nhất\n\nVi   En \n\n\nToàn văn: Phát biểu bế\nmạc Hội nghị Trung ương\n4 của Tổng Bí thư, Chủ\ntịch nước Tô Lâm\n\nQuy định về trách nhiệm\ncủa đảng viên đang công\ntác đối với tổ chức đảng\nvà Nhân dân nơi cư trú\n\nEVNSPC: Đưa khoa học\ncông nghệ, chuyển đổi\nsố thành động lực phát\ntriển\n\nTiếp quản Nhà máy điện\nYên Phụ tháng 10/1954 -\nNgược miền ký ức\n\nEVN đẩy mạnh chuyển\nđổi số, lấy khách hàng\nlàm trung tâm\n\n\n\nXem thêm\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n6/8\n\n01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nVi   En \n\n\n\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n7/8\n\n01:17 11/10/26\nQuá tải điện trong gia đình: Nhận biết sớm để phòng ngừa cháy nổ\n\nVi   En \n\n\nBản quyền thuộc về Tập đoàn Điện lực Việt Nam\nĐiện thoại: 024.66946789  |  Fax: 024.66946666\nGiấy phép số: 34/GP-SVHTT do Sở Văn hoá và Thể thao Thành phố Hà Nội cấp\nngày 19/01/2026.\nThông tin trích từ trang thông tin điện tử này yêu cầu\nghi rõ từ nguồn www.evn.com.vn\n\nNgười chịu trách nhiệm quản lý nội dung:\nÔng Ngô Sơn Hải - Phó Tổng giám đốc EVN\n\nThực hiện: Trung tâm Truyền thông và Thông tin Điện lực\nĐịa chỉ: Số 11 Cửa Bắc, phường Ba Đình, Hà Nội.\nĐiện thoại: 024.66946731\nEmail: banbientapwebevn.eic@evn.com.vn\n           banbientapwebevn.eic@gmail.com\n\nGiới thiệu >>\n\nVăn hóa EVN >>\n\nEVN và Khách hàng >>\n\nThông tin hữu ích >>\n\n  \n\n\n\nhttps://www.evn.com.vn/d/vi-VN/news/Qua-tai-dien-trong-gia-dinh-Nhan-biet-som-de-phong-ngua-chay-no-60-3570-509328\n8/8",
+  "char_count": 7111
+}

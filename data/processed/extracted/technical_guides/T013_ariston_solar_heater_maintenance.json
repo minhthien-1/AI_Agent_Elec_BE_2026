@@ -1,0 +1,3028 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T013_ariston_solar_heater_maintenance.pdf",
+  "filename": "T013_ariston_solar_heater_maintenance.pdf",
+  "file_type": "pdf",
+  "page_count": 13,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP\nHướng dẫn cách bảo dưỡng bình năng lượng\nmặt trời và lưu ý",
+          "bbox": [
+            46.5,
+            153.08999633789062,
+            538.95556640625,
+            235.90200805664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "Đã xuất bản trên",
+          "bbox": [
+            46.5,
+            484.5899963378906,
+            122.91891479492188,
+            497.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "12 Tháng 8 2026",
+          "bbox": [
+            46.5,
+            501.0899963378906,
+            126.04790496826172,
+            513.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "Bảo dưỡng bình năng lượng mặt trời bao gồm các bước: tắt nguồn điện, khóa van nước, xả áp, xả nước cũ, vệ",
+          "bbox": [
+            46.5,
+            547.5900268554688,
+            560.7265014648438,
+            560.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "sinh bề mặt bên ngoài, vệ sinh ống thu nhiệt, kiểm tra van an toàn, vệ sinh bình chứa, lắp lại hệ thống, mở",
+          "bbox": [
+            46.5,
+            564.0900268554688,
+            547.3074951171875,
+            576.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "van và kiểm tra vận hành. Quy trình bảo dưỡng này nên được thực hiện định kỳ 12 - 18 tháng/lần bởi đội ngũ",
+          "bbox": [
+            46.5,
+            580.5900268554688,
+            556.6735229492188,
+            593.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "kỹ thuật chuyên nghiệp để duy trì hiệu suất vận hành ổn định và bảo vệ tuổi thọ của máy bền lâu.",
+          "bbox": [
+            46.5,
+            597.0900268554688,
+            507.52825927734375,
+            609.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "Máy nước nóng năng lượng mặt trời là giải pháp tiết kiệm năng lượng và thân thiện với môi trường đang được",
+          "bbox": [
+            46.5,
+            641.3400268554688,
+            544.0932006835938,
+            654.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "nhiều gia đình hiện đại lựa chọn. Tuy nhiên, để thiết bị duy trì khả năng làm nóng hiệu quả, vận hành ổn định và",
+          "bbox": [
+            46.5,
+            657.8400268554688,
+            555.6339721679688,
+            670.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "kéo dài tuổi thọ, việc bảo dưỡng bình năng lượng mặt trời định kỳ là vô cùng cần thiết. Bài viết dưới đây sẽ cung",
+          "bbox": [
+            46.5,
+            674.3400268554688,
+            557.2299194335938,
+            687.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "cấp thông tin hướng dẫn chi tiết quy trình bảo trì đúng cách cùng những lưu ý quan trọng giúp tối ưu hiệu suất và",
+          "bbox": [
+            46.5,
+            690.8400268554688,
+            561.6190185546875,
+            703.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "hạn chế các sự cố trong quá trình sử dụng.",
+          "bbox": [
+            46.5,
+            707.3400268554688,
+            241.61083984375,
+            720.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 16,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n1/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "1. Vì sao cần bảo trì máy nước nóng năng lượng mặt trời?",
+          "bbox": [
+            46.5,
+            51.69000244140625,
+            516.677490234375,
+            73.61399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "Bảo trì, bảo dưỡng bình năng lượng mặt trời là công việc cần thiết sau một khoảng thời gian sử dụng nhằm duy trì",
+          "bbox": [
+            46.5,
+            82.58999633789062,
+            563.9605712890625,
+            95.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "hiệu quả làm nóng, phát hiện kịp thời các sự cố linh kiện, đảm bảo an toàn vận hành và kéo dài tuổi thọ thiết bị.",
+          "bbox": [
+            46.5,
+            99.08999633789062,
+            554.9199829101562,
+            111.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Duy trì hiệu suất làm nóng nước: Sau thời gian dài sử dụng, bụi bẩn, rong rêu hay cặn bẩn sẽ tích tụ dày đặc",
+          "bbox": [
+            61.5,
+            119.33999633789062,
+            559.4957885742188,
+            132.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "trên bộ phận thu nhiệt và trong bình chứa, làm cản trở khả năng hấp thụ ánh sáng cũng như làm chậm quá",
+          "bbox": [
+            61.5,
+            135.83999633789062,
+            547.4185791015625,
+            148.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "trình làm nóng nước hơn bình thường. Việc vệ sinh và chăm sóc thiết bị định kỳ giúp loại bỏ hoàn toàn các",
+          "bbox": [
+            61.5,
+            152.33999633789062,
+            546.0010375976562,
+            165.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "mảng bám này, trả lại hiệu suất làm nóng nhanh và tối ưu của hệ thống.",
+          "bbox": [
+            61.5,
+            168.83999633789062,
+            387.5141906738281,
+            181.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "Phát hiện sớm hư hỏng: Công việc bảo dưỡng bình năng lượng mặt trời bao gồm kiểm tra toàn diện từ những",
+          "bbox": [
+            61.5,
+            189.08999633789062,
+            562.7103271484375,
+            201.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "bộ phận quan trọng đến những chi tiết nhỏ nhất trong thiết bị. Nhờ đó, các dấu hiệu rò rỉ, nứt vỡ hay xuống",
+          "bbox": [
+            61.5,
+            205.58999633789062,
+            549.896484375,
+            218.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "cấp của phụ kiện được phát hiện sớm để xử lý kịp thời trước khi sự cố trở nên nghiêm trọng.",
+          "bbox": [
+            61.5,
+            222.08999633789062,
+            480.2186584472656,
+            234.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "Kéo dài tuổi thọ thiết bị: Khi toàn bộ hệ thống được kiểm tra và bảo dưỡng định kỳ, các bộ phận sẽ duy trì",
+          "bbox": [
+            61.5,
+            242.33999633789062,
+            546.88134765625,
+            255.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "trạng thái hoạt động tốt nhất. Điều này không chỉ cải thiện hiệu suất vận hành hàng ngày mà còn làm chậm sự",
+          "bbox": [
+            61.5,
+            258.8399963378906,
+            564.6595458984375,
+            271.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "ăn mòn, bảo vệ độ bền dài lâu cho máy.",
+          "bbox": [
+            61.5,
+            275.3399963378906,
+            243.9163055419922,
+            288.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 17,
+          "text": "Đảm bảo an toàn khi vận hành: Các rủi ro tiềm ẩn trong quá trình vận hành được loại bỏ thông qua các bước",
+          "bbox": [
+            61.5,
+            295.5899963378906,
+            561.248046875,
+            308.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 18,
+          "text": "kiểm tra kỹ thuật định kỳ. Nhờ đó, người dùng có thể yên tâm khi sử dụng mà không lo ngại về các sự cố bất",
+          "bbox": [
+            61.5,
+            312.0899963378906,
+            555.4037475585938,
+            324.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 19,
+          "text": "ngờ, đảm bảo dòng nước nóng sạch và an toàn cho sức khỏe cả gia đình.",
+          "bbox": [
+            61.5,
+            328.5899963378906,
+            397.0481872558594,
+            341.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 20,
+          "text": "Tiết kiệm chi phí: Việc khắc phục sớm các hỏng hóc nhỏ giúp gia chủ tránh được các khoản chi phí sửa chữa",
+          "bbox": [
+            61.5,
+            348.8399963378906,
+            560.3482055664062,
+            361.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 21,
+          "text": "lớn hay phải thay mới linh kiện với chi phí cao về sau. Đồng thời, một hệ thống hoạt động tối ưu cũng giúp",
+          "bbox": [
+            61.5,
+            365.3399963378906,
+            545.1715087890625,
+            378.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 22,
+          "text": "giảm thiểu hao phí tài nguyên nước và điện năng bổ sung (nếu có).",
+          "bbox": [
+            61.5,
+            381.8399963378906,
+            366.5246887207031,
+            394.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 23,
+          "text": "Đáp ứng điều kiện bảo hành: Hầu hết các nhà sản xuất đều yêu cầu người dùng duy trì lịch bảo dưỡng định",
+          "bbox": [
+            61.5,
+            402.0899963378906,
+            556.16845703125,
+            414.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 24,
+          "text": "kỳ để đảm bảo thiết bị hoạt động đúng chuẩn. Điều này nhằm bảo vệ quyền lợi bảo hành chính hãng của",
+          "bbox": [
+            61.5,
+            418.5899963378906,
+            542.5150146484375,
+            431.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 25,
+          "text": "khách hàng khi máy gặp sự cố từ nhà sản xuất.",
+          "bbox": [
+            61.5,
+            435.0899963378906,
+            275.7208557128906,
+            447.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 26,
+          "text": "Xem thêm: Tuổi thọ của máy nước nóng năng lượng mặt trời là bao lâu?",
+          "bbox": [
+            46.5,
+            455.3399963378906,
+            372.4471435546875,
+            468.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 27,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n2/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "Bảo dưỡng máy nóng lạnh năng lượng mặt trời thường xuyên nhằm duy trì hiệu suất làm nóng nước ổn định và",
+          "bbox": [
+            54.31640625,
+            585.0900268554688,
+            558.4315185546875,
+            597.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "bảo vệ tuổi thọ máy.",
+          "bbox": [
+            260.07421875,
+            601.5900268554688,
+            352.6526184082031,
+            614.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "2. Làm sao để bảo dưỡng bình năng lượng mặt trời đúng cách?",
+          "bbox": [
+            46.5,
+            667.4400024414062,
+            563.8373413085938,
+            689.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "Quy trình bảo dưỡng máy nước nóng năng lượng mặt trời đúng kỹ thuật được triển khai theo các bước: tắt nguồn",
+          "bbox": [
+            46.5,
+            698.3400268554688,
+            560.3118286132812,
+            711.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "điện và nước; xả áp và xả nước nóng; vệ sinh bề mặt bên ngoài, tháo và vệ sinh ống thu nhiệt; kiểm tra van an",
+          "bbox": [
+            46.5,
+            714.8400268554688,
+            548.1474609375,
+            727.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "toàn; vệ sinh bình chứa; lắp lại hệ thống và mở van; kiểm tra vận hành.",
+          "bbox": [
+            46.5,
+            731.3400268554688,
+            367.201171875,
+            744.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n3/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "Bước 1: Tắt nguồn điện và nước",
+          "bbox": [
+            46.5,
+            35.70000076293945,
+            257.3398132324219,
+            53.970001220703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "Đảm bảo điều kiện làm việc an toàn là tiêu chí quan trọng luôn được đặt lên hàng đầu khi bảo dưỡng bình năng",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            556.3584594726562,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "lượng mặt trời. Trước khi tiến hành, bạn cần khóa nguồn cấp nước và ngắt hoàn toàn nguồn điện dẫn đến hệ",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            541.8475341796875,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": "thống (nếu có).",
+          "bbox": [
+            46.5,
+            96.08999633789062,
+            114.92842864990234,
+            108.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "Bước 2: Xả áp và xả nước nóng",
+          "bbox": [
+            46.5,
+            121.94999694824219,
+            255.6898193359375,
+            140.22000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 8,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 9,
+          "text": "Bạn tiến hành xả hết nước nóng còn tồn đọng trong bình chứa bằng cách dùng ty ren/ty liền bồn cố định rồi dùng",
+          "bbox": [
+            46.5,
+            149.33999633789062,
+            565.4094848632812,
+            162.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 10,
+          "text": "kìm mỏ quạ mở van một chiều. Việc xả sạch nước giúp quá trình bảo dưỡng diễn ra thuận lợi, đồng thời tránh làm",
+          "bbox": [
+            46.5,
+            165.83999633789062,
+            562.6900634765625,
+            178.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 11,
+          "text": "loãng dung dịch tẩy cặn chuyên dụng khi vệ sinh.",
+          "bbox": [
+            46.5,
+            182.33999633789062,
+            273.0162658691406,
+            195.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 12,
+          "text": "Bước 3: Vệ sinh bề mặt bên ngoài",
+          "bbox": [
+            46.5,
+            208.1999969482422,
+            273.52484130859375,
+            226.47000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 13,
+          "text": "Để lau chùi sạch sẽ lớp bụi bám trên bề mặt bình bảo ôn và khung chân, bạn sử dụng vòi xịt kết hợp với khăn",
+          "bbox": [
+            46.5,
+            235.58999633789062,
+            546.1945190429688,
+            248.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 14,
+          "text": "mềm lau chùi nhẹ nhàng. Đối với các ngóc ngách khó tiếp cận, bạn có thể dùng bàn chải mềm để làm sạch, tránh",
+          "bbox": [
+            46.5,
+            252.08999633789062,
+            565.6090087890625,
+            264.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 15,
+          "text": "dùng chất tẩy rửa mạnh hay lực quá lớn gây trầy xước bề mặt.",
+          "bbox": [
+            46.5,
+            268.5899963378906,
+            327.91021728515625,
+            281.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 16,
+          "text": "Bước 4: Chuẩn bị tháo ống thu nhiệt",
+          "bbox": [
+            46.5,
+            294.45001220703125,
+            291.5248107910156,
+            312.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 17,
+          "text": "Trước khi tháo ống thu nhiệt, bạn đổ một ít nước hoặc dung dịch xà phòng nhẹ vào các vị trí ron chụp của ống để",
+          "bbox": [
+            46.5,
+            321.8399963378906,
+            563.509033203125,
+            334.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 18,
+          "text": "làm mềm cao su. Thao tác này giúp giảm lực ma sát, hỗ trợ việc tháo dỡ ống trở nên dễ dàng và an toàn hơn.",
+          "bbox": [
+            46.5,
+            338.3399963378906,
+            543.8214721679688,
+            351.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 19,
+          "text": "Bước 5: Tháo và vệ sinh ống thu nhiệt",
+          "bbox": [
+            46.5,
+            364.20001220703125,
+            302.24981689453125,
+            382.4700012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 20,
+          "text": "Bạn dùng tua vít dẹp cạy nhẹ từng lớp ron chụp rồi kéo xuống mép bồn khoảng 25cm để tạo khoảng trống thao",
+          "bbox": [
+            46.5,
+            391.5899963378906,
+            559.6659545898438,
+            404.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 21,
+          "text": "tác. Tiếp tục dùng vòi nước có dòng chảy nhẹ để làm sạch khu vực tiếp giáp giữa ống thu nhiệt và bình chứa, sau",
+          "bbox": [
+            46.5,
+            408.0899963378906,
+            563.1205444335938,
+            420.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 22,
+          "text": "đó tháo từng ống nếu cần để vệ sinh thuận tiện hơn.",
+          "bbox": [
+            46.5,
+            424.5899963378906,
+            286.2778015136719,
+            437.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 23,
+          "text": "Khi tháo ống, cần thực hiện nhẹ nhàng bằng cách giữ phần giữa ống bằng tay trái, tay phải cầm phần đuôi và",
+          "bbox": [
+            46.5,
+            444.8399963378906,
+            544.5145263671875,
+            457.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 24,
+          "text": "xoay từ từ đến khi ống lỏng ra. Sau đó, đẩy nhẹ kết hợp xoay chậm để đưa ống ra ngoài, tránh dùng lực mạnh làm",
+          "bbox": [
+            46.5,
+            461.3399963378906,
+            565.7034912109375,
+            474.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 25,
+          "text": "vỡ ống hoặc làm hỏng ron cao su.",
+          "bbox": [
+            46.5,
+            477.8399963378906,
+            202.03636169433594,
+            490.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 26,
+          "text": "Bước 6: Kiểm tra van an toàn",
+          "bbox": [
+            46.5,
+            503.70001220703125,
+            242.03982543945312,
+            521.969970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 27,
+          "text": "Đây là bước quan trọng không thể bỏ qua trong quy trình bảo dưỡng bình năng lượng mặt trời vì van an toàn chịu",
+          "bbox": [
+            46.5,
+            531.0900268554688,
+            563.677001953125,
+            543.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 28,
+          "text": "trách nhiệm xả áp và bảo vệ an toàn cho toàn bộ hệ thống cũng như người sử dụng. Theo đó, bạn cần kiểm tra",
+          "bbox": [
+            46.5,
+            547.5900268554688,
+            553.0824584960938,
+            560.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 29,
+          "text": "khả năng hoạt động của van, nếu phát hiện tình trạng kẹt, rò rỉ hoặc hư hỏng thì nên thay mới bằng sản phẩm",
+          "bbox": [
+            46.5,
+            564.0900268554688,
+            547.4020385742188,
+            576.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 30,
+          "text": "chính hãng.",
+          "bbox": [
+            46.5,
+            580.5900268554688,
+            99.70345306396484,
+            593.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 31,
+          "text": "Xem thêm: Chia sẻ cách lắp van 1 chiều bình nóng lạnh chi tiết",
+          "bbox": [
+            46.5,
+            600.8400268554688,
+            331.8121337890625,
+            613.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 32,
+          "text": "Bước 7: Vệ sinh bình chứa nước (Bình bảo ôn)",
+          "bbox": [
+            46.5,
+            626.7000122070312,
+            353.03973388671875,
+            644.969970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 33,
+          "text": "Bình bảo ôn là nơi tích trữ nước nóng sinh hoạt trực tiếp cho cả gia đình, nên cần được vệ sinh kỹ ở bên trong để",
+          "bbox": [
+            46.5,
+            654.0900268554688,
+            559.9127197265625,
+            666.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 34,
+          "text": "loại bỏ cặn bẩn, rong rêu hoặc tạp chất tích tụ lâu ngày, từ đó đảm bảo nguồn nước đầu ra đạt chuẩn sạch khuẩn.",
+          "bbox": [
+            46.5,
+            670.5900268554688,
+            564.6639404296875,
+            683.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 35,
+          "text": "Bạn có thể dùng vòi nước sạch có áp lực vừa phải để xịt rửa kết hợp với dung dịch tẩy rửa chuyên dụng, có thành",
+          "bbox": [
+            46.5,
+            687.0900268554688,
+            563.1729736328125,
+            699.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 36,
+          "text": "phần lành tính để làm sạch sâu bên trong bình.",
+          "bbox": [
+            46.5,
+            703.5900268554688,
+            260.9728088378906,
+            716.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 37,
+          "text": "Bước 8: Lắp lại hệ thống và mở van",
+          "bbox": [
+            46.5,
+            729.4500122070312,
+            283.75482177734375,
+            747.719970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 38,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n4/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "Sau khi hoàn tất vệ sinh, bạn tiến hành lắp đặt cẩn thận các bộ phận vào đúng vị trí ban đầu, đặc biệt chú ý đến",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            556.6734619140625,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "ron cao su và các mối nối để tránh tình trạng rò rỉ nước. Tiếp theo, mở van cấp nước từ từ, kiểm tra lượng nước",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            548.5675048828125,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": "vào bình và đảm bảo hệ thống được lắp đặt chắc chắn trước khi đưa vào sử dụng.",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            419.5016784667969,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": "Bước 9: Kiểm tra vận hành",
+          "bbox": [
+            46.5,
+            88.94999694824219,
+            225.08985900878906,
+            107.22000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "Khi hoàn tất các bước bảo dưỡng, bạn cấp lại nguồn điện hỗ trợ (nếu có) và theo dõi toàn bộ hệ thống hoạt động",
+          "bbox": [
+            46.5,
+            116.33999633789062,
+            562.56396484375,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 8,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 9,
+          "text": "trong vài giờ. Nếu nước được nạp đầy bồn, không rò rỉ ở các khớp nối và thiết bị bắt đầu hấp thụ nhiệt làm nóng",
+          "bbox": [
+            46.5,
+            132.83999633789062,
+            557.5239868164062,
+            145.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 10,
+          "text": "bình thường thì thì có thể đưa máy vào sử dụng trở lại cũng như hoàn tất quy trình bảo dưỡng bình năng lượng",
+          "bbox": [
+            46.5,
+            149.33999633789062,
+            548.8300170898438,
+            162.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 11,
+          "text": "mặt trời định kỳ.",
+          "bbox": [
+            46.5,
+            165.83999633789062,
+            119.01293182373047,
+            178.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 12,
+          "text": "*Lưu ý: Bạn chỉ nên tự thực hiện bảo dưỡng khi đã nắm rõ cấu tạo của bình năng lượng mặt trời, bởi quy trình này",
+          "bbox": [
+            46.5,
+            186.08999633789062,
+            561.9735107421875,
+            198.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 13,
+          "text": "yêu cầu kỹ thuật cao. Nếu không có đủ kinh nghiệm chuyên môn, bạn nên liên hệ đơn vị sửa chữa uy tín để đảm",
+          "bbox": [
+            46.5,
+            202.58999633789062,
+            560.1227416992188,
+            215.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 14,
+          "text": "bảo an toàn, hạn chế rủi ro gây hư hỏng thiết bị.",
+          "bbox": [
+            46.5,
+            219.08999633789062,
+            266.0862731933594,
+            231.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 15,
+          "text": "Hướng dẫn chi tiết các bước bảo dưỡng máy nóng lạnh năng lượng mặt trời.",
+          "bbox": [
+            133.3125,
+            647.3400268554688,
+            479.43414306640625,
+            660.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 16,
+          "text": "3. Bao lâu thì cần bảo dưỡng bình năng lượng mặt trời 1 lần?",
+          "bbox": [
+            46.5,
+            713.1900024414062,
+            543.7493286132812,
+            735.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 17,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n5/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "Công việc bảo dưỡng bảo trì máy nước nóng năng lượng mặt trời nên được thực hiện định kỳ từ 12 đến 18",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            526.8220825195312,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "tháng/lần. Tùy thuộc vào môi trường lắp đặt, chất lượng nguồn nước và tần suất sử dụng, người dùng có thể điều",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            559.9599609375,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "chỉnh thời gian bảo dưỡng phù hợp để tối ưu chi phí.",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            285.7422790527344,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "Xem thêm: Top 3 phương pháp giúp tăng tuổi thọ máy nước nóng",
+          "bbox": [
+            46.5,
+            83.33999633789062,
+            345.6197204589844,
+            96.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "Máy nước nóng năng lượng mặt trời nên được bảo dưỡng bảo trì định kỳ 12 - 18 tháng mỗi lần.",
+          "bbox": [
+            92.68359375,
+            511.5899963378906,
+            520.0437622070312,
+            524.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 9,
+          "text": "4. Cần lưu ý gì khi bảo trì máy nước nóng năng lượng mặt trời?",
+          "bbox": [
+            46.5,
+            577.4400024414062,
+            562.4873657226562,
+            599.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 10,
+          "text": "Trong quá trình thực hiện bảo dưỡng bình năng lượng mặt trời, để tránh gây hư hỏng thiết bị, bạn cần sử dụng",
+          "bbox": [
+            46.5,
+            608.3400268554688,
+            547.5279541015625,
+            621.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 11,
+          "text": "dụng cụ vệ sinh phù hợp, xử lý kịp thời các dấu hiệu nứt vỡ và thao tác đúng kỹ thuật. Đặc biệt, nên cân nhắc sử",
+          "bbox": [
+            46.5,
+            624.8400268554688,
+            557.6027221679688,
+            637.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 12,
+          "text": "dụng dịch vụ bảo trì chuyên nghiệp để đảm bảo quy trình thực hiện an toàn, hiệu quả và duy trì độ bền cho hệ",
+          "bbox": [
+            46.5,
+            641.3400268554688,
+            550.646484375,
+            654.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 13,
+          "text": "thống.",
+          "bbox": [
+            46.5,
+            657.8400268554688,
+            75.6164779663086,
+            670.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 14,
+          "text": "4.1 Tuyệt đối không dùng vòi phun áp lực cao (như máy rửa xe)",
+          "bbox": [
+            46.5,
+            683.7000122070312,
+            467.5196533203125,
+            701.969970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 15,
+          "text": "Khi vệ sinh ống thu nhiệt, bạn tuyệt đối không sử dụng vòi phun nước có áp lực cao để loại bỏ các cặn bám hoặc",
+          "bbox": [
+            46.5,
+            711.0900268554688,
+            562.3330078125,
+            723.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 16,
+          "text": "vết bẩn. Bởi vì áp lực cao của nước có thể gây nứt vỡ bề mặt ống, làm giảm khả năng hấp thụ nhiệt và ảnh hưởng",
+          "bbox": [
+            46.5,
+            727.5900268554688,
+            562.8264770507812,
+            740.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 17,
+          "text": "đến hiệu suất hoạt động của thiết bị..",
+          "bbox": [
+            46.5,
+            744.0900268554688,
+            216.65231323242188,
+            756.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 18,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n6/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "4.2 Xử lý khi nứt vỡ",
+          "bbox": [
+            46.5,
+            35.70000076293945,
+            176.9549102783203,
+            53.970001220703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "Nếu trong quá trình bảo trì không may xảy ra tình trạng ống thu nhiệt bị vỡ, bạn cần thu gom các mảnh vỡ cẩn",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            548.7880249023438,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "thận và thay thế bằng ống mới có nguồn gốc rõ ràng từ đơn vị cung cấp uy tín. Việc thay thế đúng linh kiện giúp",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            558.3009643554688,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "đảm bảo khả năng vận hành ổn định và hạn chế nguy cơ rò rỉ, giảm hiệu quả làm nóng nước.",
+          "bbox": [
+            46.5,
+            96.08999633789062,
+            470.4790954589844,
+            108.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 8,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n7/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n8/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 9,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 2,
+          "text": "Kiểm tra và thay mới kịp thời nếu phát hiện ống thu nhiệt bị nứt vỡ trong quá trình bảo dưỡng.",
+          "bbox": [
+            93.03515625,
+            74.33999633789062,
+            519.7022705078125,
+            87.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 4,
+          "text": "4.3 Cân nhắc sử dụng dịch vụ chuyên nghiệp",
+          "bbox": [
+            46.5,
+            124.19999694824219,
+            351.4347839355469,
+            142.47000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 6,
+          "text": "Máy nước nóng năng lượng mặt trời có cấu tạo phức tạp, trong khi quá trình bảo dưỡng yêu cầu tháo lắp, kiểm tra",
+          "bbox": [
+            46.5,
+            151.58999633789062,
+            564.81103515625,
+            164.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 7,
+          "text": "và vệ sinh toàn diện nhiều bộ phận quan trọng. Vì vậy, bạn nên cân nhắc sử dụng dịch vụ bảo trì chuyên nghiệp",
+          "bbox": [
+            46.5,
+            168.08999633789062,
+            557.7864990234375,
+            180.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 8,
+          "text": "để được hỗ trợ thực hiện đúng kỹ thuật, đảm bảo an toàn và hạn chế các hư hỏng không mong muốn.",
+          "bbox": [
+            46.5,
+            184.58999633789062,
+            511.4659118652344,
+            197.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 9,
+          "text": "Nếu bạn đang sử dụng máy nước nóng năng lượng mặt trời của Ariston, hãng luôn sẵn sàng tiếp nhận và hỗ trợ",
+          "bbox": [
+            45.717750549316406,
+            204.83999633789062,
+            557.6184692382812,
+            217.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 10,
+          "text": "bảo dưỡng tận nhà nhanh chóng qua dịch vụ khách hàng chuyên nghiệp. Quý khách có thể liên hệ đến Hotline",
+          "bbox": [
+            45.717750549316406,
+            221.33999633789062,
+            557.261474609375,
+            234.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 11,
+          "text": "của Ariston 1800 1517 để được tư vấn và hỗ trợ kỹ thuật tận tâm, chi tiết.",
+          "bbox": [
+            45.717750549316406,
+            237.83999633789062,
+            375.95294189453125,
+            250.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 12,
+          "text": "Tóm lại, bảo dưỡng bình năng lượng mặt trời định kỳ là công việc cần thiết để duy trì hiệu suất làm nóng, kéo dài",
+          "bbox": [
+            46.5,
+            258.0899963378906,
+            559.2249145507812,
+            270.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 13,
+          "text": "tuổi thọ thiết bị và phát hiện sớm các hư hỏng tiềm ẩn trước khi phát sinh sự cố nghiêm trọng. Quy trình này bao",
+          "bbox": [
+            46.5,
+            274.5899963378906,
+            557.776123046875,
+            287.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 14,
+          "text": "gồm nhiều bước kiểm tra, vệ sinh và đánh giá toàn diện từ trong ra ngoài, đòi hỏi sự cẩn thận, tỉ mỉ cùng kiến thức",
+          "bbox": [
+            46.5,
+            291.0899963378906,
+            565.4095458984375,
+            303.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 15,
+          "text": "kỹ thuật chuyên môn cao. Vì vậy, để đảm bảo quá trình bảo dưỡng được thực hiện đúng kỹ thuật, an toàn và hạn",
+          "bbox": [
+            46.5,
+            307.5899963378906,
+            559.5400390625,
+            320.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 16,
+          "text": "chế rủi ro làm hư hỏng hệ thống, người dùng nên cân nhắc sử dụng dịch vụ bảo trì chuyên nghiệp từ các đơn vị",
+          "bbox": [
+            46.5,
+            324.0899963378906,
+            554.6050415039062,
+            336.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 17,
+          "text": "uy tín.",
+          "bbox": [
+            46.5,
+            340.5899963378906,
+            73.78946685791016,
+            353.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 18,
+          "text": "Câu hỏi thường gặp về bảo dưỡng bình năng lượng mặt trời",
+          "bbox": [
+            46.5,
+            406.44000244140625,
+            538.1154174804688,
+            428.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 19,
+          "text": "Dưới đây là giải đáp chi tiết cho những thắc mắc phổ biến nhất trong quá trình sử dụng và bảo dưỡng máy nước",
+          "bbox": [
+            46.5,
+            437.3399963378906,
+            556.0750122070312,
+            450.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 20,
+          "text": "nóng năng lượng mặt trời.",
+          "bbox": [
+            46.5,
+            453.8399963378906,
+            164.47789001464844,
+            466.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 21,
+          "text": "Vì sao trời nắng gắt nhưng nước từ máy nước nóng năng lượng mặt trời không \nnóng?",
+          "bbox": [
+            64.5,
+            514.5900268554688,
+            461.5885925292969,
+            540.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 22,
+          "text": "Ron (gioăng) cao su của máy nước nóng năng lượng mặt trời có cần thay mới \nmỗi lần bảo dưỡng không?",
+          "bbox": [
+            64.5,
+            600.0900268554688,
+            455.6980895996094,
+            626.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 23,
+          "text": "Có nên dùng hóa chất tẩy rửa mạnh trong quá trình bảo trì máy nước nóng năng \nlượng mặt trời không?",
+          "bbox": [
+            64.5,
+            685.5900268554688,
+            473.1280212402344,
+            711.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 24,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n9/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 10,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 2,
+          "text": "Bài viết liên quan",
+          "bbox": [
+            46.5,
+            29.190000534057617,
+            190.0677947998047,
+            51.11399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 4,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 5,
+          "text": "TIN TỨC",
+          "bbox": [
+            169.125,
+            314.3399963378906,
+            212.62646484375,
+            327.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 6,
+          "text": "ARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025",
+          "bbox": [
+            163.125,
+            339.45001220703125,
+            441.5248718261719,
+            399.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 7,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            436.5899963378906,
+            335.2464294433594,
+            449.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 8,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            717.0900268554688,
+            262.910888671875,
+            729.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n10/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 11,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 11,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 2,
+          "text": "Máy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam",
+          "bbox": [
+            163.125,
+            29.700000762939453,
+            434.204833984375,
+            68.97000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 4,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            105.83999633789062,
+            335.2464294433594,
+            118.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 6,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            386.3399963378906,
+            262.910888671875,
+            399.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 7,
+          "text": "Máy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng",
+          "bbox": [
+            163.125,
+            411.45001220703125,
+            435.3597717285156,
+            471.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 8,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            508.5899963378906,
+            335.2464294433594,
+            521.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n11/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 12,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 12,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            266.3399963378906,
+            262.910888671875,
+            279.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 5,
+          "text": "Dung tích máy nước nóng gián tiếp và\ncách lựa chọn",
+          "bbox": [
+            163.125,
+            291.45001220703125,
+            416.1598815917969,
+            330.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 6,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            367.5899963378906,
+            335.2464294433594,
+            380.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 7,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            648.0900268554688,
+            262.910888671875,
+            660.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 8,
+          "text": "Lựa chọn máy nước nóng phù hợp cho căn\nhộ",
+          "bbox": [
+            163.125,
+            673.2000122070312,
+            446.68487548828125,
+            712.469970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n12/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 13,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 13,
+          "block_index": 1,
+          "text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            459.00848388671875,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 2,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            39.84000015258789,
+            335.2464294433594,
+            52.62900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 4,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 5,
+          "text": "Country: Việt Nam Language: Vietnamese",
+          "bbox": [
+            207.796875,
+            193.58999633789062,
+            404.9404296875,
+            206.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 6,
+          "text": "VỀ CHÚNG TÔI",
+          "bbox": [
+            46.5,
+            250.7100067138672,
+            129.31195068359375,
+            265.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 7,
+          "text": "Thương hiệu Ariston",
+          "bbox": [
+            46.5,
+            280.5899963378906,
+            139.6559295654297,
+            293.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 8,
+          "text": "TẠP CHÍ",
+          "bbox": [
+            46.5,
+            298.7099914550781,
+            91.06797790527344,
+            313.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 9,
+          "text": "Tập đoàn Ariston",
+          "bbox": [
+            46.5,
+            308.3399963378906,
+            124.32593536376953,
+            321.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 10,
+          "text": "Mẹo & giải pháp",
+          "bbox": [
+            46.5,
+            328.5899963378906,
+            121.39643859863281,
+            341.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 11,
+          "text": "Tuyển Dụng",
+          "bbox": [
+            46.5,
+            336.0899963378906,
+            101.8769302368164,
+            348.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 12,
+          "text": "DỊCH VỤ KHÁCH HÀNG",
+          "bbox": [
+            46.5,
+            346.7099914550781,
+            175.5839080810547,
+            361.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 13,
+          "text": "Tin tức",
+          "bbox": [
+            46.5,
+            356.3399963378906,
+            77.41197967529297,
+            369.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 14,
+          "text": "Đăng kí bảo hành online",
+          "bbox": [
+            46.5,
+            376.5899963378906,
+            158.78689575195312,
+            389.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 15,
+          "text": "Ngôi nhà thư thái",
+          "bbox": [
+            46.5,
+            384.0899963378906,
+            125.01893615722656,
+            396.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 16,
+          "text": "SẢN PHẨM",
+          "bbox": [
+            46.5,
+            394.7099914550781,
+            107.37596130371094,
+            409.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 17,
+          "text": "Hội Viên Diamond Club",
+          "bbox": [
+            46.5,
+            404.3399963378906,
+            154.2823944091797,
+            417.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 18,
+          "text": "Cuộc sống xanh",
+          "bbox": [
+            46.5,
+            411.8399963378906,
+            120.9239273071289,
+            424.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 19,
+          "text": "Máy Nước Nóng Gián Tiếp",
+          "bbox": [
+            46.5,
+            424.5899963378906,
+            167.6173858642578,
+            437.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 20,
+          "text": "Liên Hệ Với Chúng Tôi",
+          "bbox": [
+            46.5,
+            432.0899963378906,
+            148.4234161376953,
+            444.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 21,
+          "text": "Từ điển",
+          "bbox": [
+            46.5,
+            439.5899963378906,
+            80.20496368408203,
+            452.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 22,
+          "text": "LEGAL AREA",
+          "bbox": [
+            46.5,
+            442.7099914550781,
+            116.14794921875,
+            457.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 23,
+          "text": "Máy Nước Nóng Trực Tiếp",
+          "bbox": [
+            46.5,
+            452.3399963378906,
+            165.98988342285156,
+            465.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 24,
+          "text": "Tải xuống tài liệu",
+          "bbox": [
+            46.5,
+            459.8399963378906,
+            123.6224136352539,
+            472.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 25,
+          "text": "Privacy Policy",
+          "bbox": [
+            46.5,
+            472.5899963378906,
+            109.3214111328125,
+            485.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 26,
+          "text": "Máy Nước Nóng Năng Lượng",
+          "bbox": [
+            46.5,
+            480.0899963378906,
+            179.7763671875,
+            492.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 27,
+          "text": "Mặt Trời",
+          "bbox": [
+            46.5,
+            496.5899963378906,
+            83.24996948242188,
+            509.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 28,
+          "text": "Cookie Policy",
+          "bbox": [
+            46.5,
+            500.3399963378906,
+            109.0904312133789,
+            513.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 29,
+          "text": "Máy Nước Nóng Bơm Nhiệt",
+          "bbox": [
+            46.5,
+            524.3400268554688,
+            171.86990356445312,
+            537.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 30,
+          "text": "©2022 Ariston Holding N.V. – Company Info",
+          "bbox": [
+            46.5,
+            589.469970703125,
+            220.3258514404297,
+            600.4320068359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 13,
+          "block_index": 31,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n13/13",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Hướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181646+00'00'",
+    "modDate": "D:20261010181646+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "MUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nHướng dẫn cách bảo dưỡng bình năng lượng\nmặt trời và lưu ý\n\nĐã xuất bản trên\n\n12 Tháng 8 2026\n\nBảo dưỡng bình năng lượng mặt trời bao gồm các bước: tắt nguồn điện, khóa van nước, xả áp, xả nước cũ, vệ\n\nsinh bề mặt bên ngoài, vệ sinh ống thu nhiệt, kiểm tra van an toàn, vệ sinh bình chứa, lắp lại hệ thống, mở\n\nvan và kiểm tra vận hành. Quy trình bảo dưỡng này nên được thực hiện định kỳ 12 - 18 tháng/lần bởi đội ngũ\n\nkỹ thuật chuyên nghiệp để duy trì hiệu suất vận hành ổn định và bảo vệ tuổi thọ của máy bền lâu.\n\nMáy nước nóng năng lượng mặt trời là giải pháp tiết kiệm năng lượng và thân thiện với môi trường đang được\n\nnhiều gia đình hiện đại lựa chọn. Tuy nhiên, để thiết bị duy trì khả năng làm nóng hiệu quả, vận hành ổn định và\n\nkéo dài tuổi thọ, việc bảo dưỡng bình năng lượng mặt trời định kỳ là vô cùng cần thiết. Bài viết dưới đây sẽ cung\n\ncấp thông tin hướng dẫn chi tiết quy trình bảo trì đúng cách cùng những lưu ý quan trọng giúp tối ưu hiệu suất và\n\nhạn chế các sự cố trong quá trình sử dụng.\n\n1/13\n\n1. Vì sao cần bảo trì máy nước nóng năng lượng mặt trời?\n\nBảo trì, bảo dưỡng bình năng lượng mặt trời là công việc cần thiết sau một khoảng thời gian sử dụng nhằm duy trì\n\nhiệu quả làm nóng, phát hiện kịp thời các sự cố linh kiện, đảm bảo an toàn vận hành và kéo dài tuổi thọ thiết bị.\n\nDuy trì hiệu suất làm nóng nước: Sau thời gian dài sử dụng, bụi bẩn, rong rêu hay cặn bẩn sẽ tích tụ dày đặc\n\nMUA HÀNG DỰ ÁN\n\ntrên bộ phận thu nhiệt và trong bình chứa, làm cản trở khả năng hấp thụ ánh sáng cũng như làm chậm quá\n\ntrình làm nóng nước hơn bình thường. Việc vệ sinh và chăm sóc thiết bị định kỳ giúp loại bỏ hoàn toàn các\n\nmảng bám này, trả lại hiệu suất làm nóng nhanh và tối ưu của hệ thống.\n\nPhát hiện sớm hư hỏng: Công việc bảo dưỡng bình năng lượng mặt trời bao gồm kiểm tra toàn diện từ những\n\nbộ phận quan trọng đến những chi tiết nhỏ nhất trong thiết bị. Nhờ đó, các dấu hiệu rò rỉ, nứt vỡ hay xuống\n\ncấp của phụ kiện được phát hiện sớm để xử lý kịp thời trước khi sự cố trở nên nghiêm trọng.\n\nKéo dài tuổi thọ thiết bị: Khi toàn bộ hệ thống được kiểm tra và bảo dưỡng định kỳ, các bộ phận sẽ duy trì\n\ntrạng thái hoạt động tốt nhất. Điều này không chỉ cải thiện hiệu suất vận hành hàng ngày mà còn làm chậm sự\n\năn mòn, bảo vệ độ bền dài lâu cho máy.\n\nĐảm bảo an toàn khi vận hành: Các rủi ro tiềm ẩn trong quá trình vận hành được loại bỏ thông qua các bước\n\nkiểm tra kỹ thuật định kỳ. Nhờ đó, người dùng có thể yên tâm khi sử dụng mà không lo ngại về các sự cố bất\n\nngờ, đảm bảo dòng nước nóng sạch và an toàn cho sức khỏe cả gia đình.\n\nTiết kiệm chi phí: Việc khắc phục sớm các hỏng hóc nhỏ giúp gia chủ tránh được các khoản chi phí sửa chữa\n\nlớn hay phải thay mới linh kiện với chi phí cao về sau. Đồng thời, một hệ thống hoạt động tối ưu cũng giúp\n\ngiảm thiểu hao phí tài nguyên nước và điện năng bổ sung (nếu có).\n\nĐáp ứng điều kiện bảo hành: Hầu hết các nhà sản xuất đều yêu cầu người dùng duy trì lịch bảo dưỡng định\n\nkỳ để đảm bảo thiết bị hoạt động đúng chuẩn. Điều này nhằm bảo vệ quyền lợi bảo hành chính hãng của\n\nkhách hàng khi máy gặp sự cố từ nhà sản xuất.\n\nXem thêm: Tuổi thọ của máy nước nóng năng lượng mặt trời là bao lâu?\n\n2/13\n\nMUA HÀNG DỰ ÁN\n\nBảo dưỡng máy nóng lạnh năng lượng mặt trời thường xuyên nhằm duy trì hiệu suất làm nóng nước ổn định và\n\nbảo vệ tuổi thọ máy.\n\n2. Làm sao để bảo dưỡng bình năng lượng mặt trời đúng cách?\n\nQuy trình bảo dưỡng máy nước nóng năng lượng mặt trời đúng kỹ thuật được triển khai theo các bước: tắt nguồn\n\nđiện và nước; xả áp và xả nước nóng; vệ sinh bề mặt bên ngoài, tháo và vệ sinh ống thu nhiệt; kiểm tra van an\n\ntoàn; vệ sinh bình chứa; lắp lại hệ thống và mở van; kiểm tra vận hành.\n\n3/13\n\nBước 1: Tắt nguồn điện và nước\n\nĐảm bảo điều kiện làm việc an toàn là tiêu chí quan trọng luôn được đặt lên hàng đầu khi bảo dưỡng bình năng\n\nlượng mặt trời. Trước khi tiến hành, bạn cần khóa nguồn cấp nước và ngắt hoàn toàn nguồn điện dẫn đến hệ\n\nthống (nếu có).\n\nBước 2: Xả áp và xả nước nóng\n\nMUA HÀNG DỰ ÁN\n\nBạn tiến hành xả hết nước nóng còn tồn đọng trong bình chứa bằng cách dùng ty ren/ty liền bồn cố định rồi dùng\n\nkìm mỏ quạ mở van một chiều. Việc xả sạch nước giúp quá trình bảo dưỡng diễn ra thuận lợi, đồng thời tránh làm\n\nloãng dung dịch tẩy cặn chuyên dụng khi vệ sinh.\n\nBước 3: Vệ sinh bề mặt bên ngoài\n\nĐể lau chùi sạch sẽ lớp bụi bám trên bề mặt bình bảo ôn và khung chân, bạn sử dụng vòi xịt kết hợp với khăn\n\nmềm lau chùi nhẹ nhàng. Đối với các ngóc ngách khó tiếp cận, bạn có thể dùng bàn chải mềm để làm sạch, tránh\n\ndùng chất tẩy rửa mạnh hay lực quá lớn gây trầy xước bề mặt.\n\nBước 4: Chuẩn bị tháo ống thu nhiệt\n\nTrước khi tháo ống thu nhiệt, bạn đổ một ít nước hoặc dung dịch xà phòng nhẹ vào các vị trí ron chụp của ống để\n\nlàm mềm cao su. Thao tác này giúp giảm lực ma sát, hỗ trợ việc tháo dỡ ống trở nên dễ dàng và an toàn hơn.\n\nBước 5: Tháo và vệ sinh ống thu nhiệt\n\nBạn dùng tua vít dẹp cạy nhẹ từng lớp ron chụp rồi kéo xuống mép bồn khoảng 25cm để tạo khoảng trống thao\n\ntác. Tiếp tục dùng vòi nước có dòng chảy nhẹ để làm sạch khu vực tiếp giáp giữa ống thu nhiệt và bình chứa, sau\n\nđó tháo từng ống nếu cần để vệ sinh thuận tiện hơn.\n\nKhi tháo ống, cần thực hiện nhẹ nhàng bằng cách giữ phần giữa ống bằng tay trái, tay phải cầm phần đuôi và\n\nxoay từ từ đến khi ống lỏng ra. Sau đó, đẩy nhẹ kết hợp xoay chậm để đưa ống ra ngoài, tránh dùng lực mạnh làm\n\nvỡ ống hoặc làm hỏng ron cao su.\n\nBước 6: Kiểm tra van an toàn\n\nĐây là bước quan trọng không thể bỏ qua trong quy trình bảo dưỡng bình năng lượng mặt trời vì van an toàn chịu\n\ntrách nhiệm xả áp và bảo vệ an toàn cho toàn bộ hệ thống cũng như người sử dụng. Theo đó, bạn cần kiểm tra\n\nkhả năng hoạt động của van, nếu phát hiện tình trạng kẹt, rò rỉ hoặc hư hỏng thì nên thay mới bằng sản phẩm\n\nchính hãng.\n\nXem thêm: Chia sẻ cách lắp van 1 chiều bình nóng lạnh chi tiết\n\nBước 7: Vệ sinh bình chứa nước (Bình bảo ôn)\n\nBình bảo ôn là nơi tích trữ nước nóng sinh hoạt trực tiếp cho cả gia đình, nên cần được vệ sinh kỹ ở bên trong để\n\nloại bỏ cặn bẩn, rong rêu hoặc tạp chất tích tụ lâu ngày, từ đó đảm bảo nguồn nước đầu ra đạt chuẩn sạch khuẩn.\n\nBạn có thể dùng vòi nước sạch có áp lực vừa phải để xịt rửa kết hợp với dung dịch tẩy rửa chuyên dụng, có thành\n\nphần lành tính để làm sạch sâu bên trong bình.\n\nBước 8: Lắp lại hệ thống và mở van\n\n4/13\n\nSau khi hoàn tất vệ sinh, bạn tiến hành lắp đặt cẩn thận các bộ phận vào đúng vị trí ban đầu, đặc biệt chú ý đến\n\nron cao su và các mối nối để tránh tình trạng rò rỉ nước. Tiếp theo, mở van cấp nước từ từ, kiểm tra lượng nước\n\nvào bình và đảm bảo hệ thống được lắp đặt chắc chắn trước khi đưa vào sử dụng.\n\nBước 9: Kiểm tra vận hành\n\nKhi hoàn tất các bước bảo dưỡng, bạn cấp lại nguồn điện hỗ trợ (nếu có) và theo dõi toàn bộ hệ thống hoạt động\n\nMUA HÀNG DỰ ÁN\n\ntrong vài giờ. Nếu nước được nạp đầy bồn, không rò rỉ ở các khớp nối và thiết bị bắt đầu hấp thụ nhiệt làm nóng\n\nbình thường thì thì có thể đưa máy vào sử dụng trở lại cũng như hoàn tất quy trình bảo dưỡng bình năng lượng\n\nmặt trời định kỳ.\n\n*Lưu ý: Bạn chỉ nên tự thực hiện bảo dưỡng khi đã nắm rõ cấu tạo của bình năng lượng mặt trời, bởi quy trình này\n\nyêu cầu kỹ thuật cao. Nếu không có đủ kinh nghiệm chuyên môn, bạn nên liên hệ đơn vị sửa chữa uy tín để đảm\n\nbảo an toàn, hạn chế rủi ro gây hư hỏng thiết bị.\n\nHướng dẫn chi tiết các bước bảo dưỡng máy nóng lạnh năng lượng mặt trời.\n\n3. Bao lâu thì cần bảo dưỡng bình năng lượng mặt trời 1 lần?\n\n5/13\n\nCông việc bảo dưỡng bảo trì máy nước nóng năng lượng mặt trời nên được thực hiện định kỳ từ 12 đến 18\n\ntháng/lần. Tùy thuộc vào môi trường lắp đặt, chất lượng nguồn nước và tần suất sử dụng, người dùng có thể điều\n\nchỉnh thời gian bảo dưỡng phù hợp để tối ưu chi phí.\n\nXem thêm: Top 3 phương pháp giúp tăng tuổi thọ máy nước nóng\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng năng lượng mặt trời nên được bảo dưỡng bảo trì định kỳ 12 - 18 tháng mỗi lần.\n\n4. Cần lưu ý gì khi bảo trì máy nước nóng năng lượng mặt trời?\n\nTrong quá trình thực hiện bảo dưỡng bình năng lượng mặt trời, để tránh gây hư hỏng thiết bị, bạn cần sử dụng\n\ndụng cụ vệ sinh phù hợp, xử lý kịp thời các dấu hiệu nứt vỡ và thao tác đúng kỹ thuật. Đặc biệt, nên cân nhắc sử\n\ndụng dịch vụ bảo trì chuyên nghiệp để đảm bảo quy trình thực hiện an toàn, hiệu quả và duy trì độ bền cho hệ\n\nthống.\n\n4.1 Tuyệt đối không dùng vòi phun áp lực cao (như máy rửa xe)\n\nKhi vệ sinh ống thu nhiệt, bạn tuyệt đối không sử dụng vòi phun nước có áp lực cao để loại bỏ các cặn bám hoặc\n\nvết bẩn. Bởi vì áp lực cao của nước có thể gây nứt vỡ bề mặt ống, làm giảm khả năng hấp thụ nhiệt và ảnh hưởng\n\nđến hiệu suất hoạt động của thiết bị..\n\n6/13\n\n4.2 Xử lý khi nứt vỡ\n\nNếu trong quá trình bảo trì không may xảy ra tình trạng ống thu nhiệt bị vỡ, bạn cần thu gom các mảnh vỡ cẩn\n\nthận và thay thế bằng ống mới có nguồn gốc rõ ràng từ đơn vị cung cấp uy tín. Việc thay thế đúng linh kiện giúp\n\nđảm bảo khả năng vận hành ổn định và hạn chế nguy cơ rò rỉ, giảm hiệu quả làm nóng nước.\n\nMUA HÀNG DỰ ÁN\n\n7/13\n\nMUA HÀNG DỰ ÁN\n\n8/13\n\nKiểm tra và thay mới kịp thời nếu phát hiện ống thu nhiệt bị nứt vỡ trong quá trình bảo dưỡng.\n\n4.3 Cân nhắc sử dụng dịch vụ chuyên nghiệp\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng năng lượng mặt trời có cấu tạo phức tạp, trong khi quá trình bảo dưỡng yêu cầu tháo lắp, kiểm tra\n\nvà vệ sinh toàn diện nhiều bộ phận quan trọng. Vì vậy, bạn nên cân nhắc sử dụng dịch vụ bảo trì chuyên nghiệp\n\nđể được hỗ trợ thực hiện đúng kỹ thuật, đảm bảo an toàn và hạn chế các hư hỏng không mong muốn.\n\nNếu bạn đang sử dụng máy nước nóng năng lượng mặt trời của Ariston, hãng luôn sẵn sàng tiếp nhận và hỗ trợ\n\nbảo dưỡng tận nhà nhanh chóng qua dịch vụ khách hàng chuyên nghiệp. Quý khách có thể liên hệ đến Hotline\n\ncủa Ariston 1800 1517 để được tư vấn và hỗ trợ kỹ thuật tận tâm, chi tiết.\n\nTóm lại, bảo dưỡng bình năng lượng mặt trời định kỳ là công việc cần thiết để duy trì hiệu suất làm nóng, kéo dài\n\ntuổi thọ thiết bị và phát hiện sớm các hư hỏng tiềm ẩn trước khi phát sinh sự cố nghiêm trọng. Quy trình này bao\n\ngồm nhiều bước kiểm tra, vệ sinh và đánh giá toàn diện từ trong ra ngoài, đòi hỏi sự cẩn thận, tỉ mỉ cùng kiến thức\n\nkỹ thuật chuyên môn cao. Vì vậy, để đảm bảo quá trình bảo dưỡng được thực hiện đúng kỹ thuật, an toàn và hạn\n\nchế rủi ro làm hư hỏng hệ thống, người dùng nên cân nhắc sử dụng dịch vụ bảo trì chuyên nghiệp từ các đơn vị\n\nuy tín.\n\nCâu hỏi thường gặp về bảo dưỡng bình năng lượng mặt trời\n\nDưới đây là giải đáp chi tiết cho những thắc mắc phổ biến nhất trong quá trình sử dụng và bảo dưỡng máy nước\n\nnóng năng lượng mặt trời.\n\nVì sao trời nắng gắt nhưng nước từ máy nước nóng năng lượng mặt trời không\nnóng?\n\nRon (gioăng) cao su của máy nước nóng năng lượng mặt trời có cần thay mới\nmỗi lần bảo dưỡng không?\n\nCó nên dùng hóa chất tẩy rửa mạnh trong quá trình bảo trì máy nước nóng năng\nlượng mặt trời không?\n\n9/13\n\nBài viết liên quan\n\nMUA HÀNG DỰ ÁN\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n10/13\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nĐỌC THÊM\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n11/13\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n12/13\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nTẠP CHÍ\n\nTập đoàn Ariston\n\nMẹo & giải pháp\n\nTuyển Dụng\n\nDỊCH VỤ KHÁCH HÀNG\n\nTin tức\n\nĐăng kí bảo hành online\n\nNgôi nhà thư thái\n\nSẢN PHẨM\n\nHội Viên Diamond Club\n\nCuộc sống xanh\n\nMáy Nước Nóng Gián Tiếp\n\nLiên Hệ Với Chúng Tôi\n\nTừ điển\n\nLEGAL AREA\n\nMáy Nước Nóng Trực Tiếp\n\nTải xuống tài liệu\n\nPrivacy Policy\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nCookie Policy\n\nMáy Nước Nóng Bơm Nhiệt\n\n©2022 Ariston Holding N.V. – Company Info\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n13/13",
+  "removed_repeated_lines": [
+    "01:16 11/10/26",
+    "ARISTON NET",
+    "Hướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý",
+    "TẢI TÀI LIỆU",
+    "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 15168,
+    "cleaned_char_count": 12547,
+    "removed_char_count": 2621,
+    "reduction_ratio": 0.1728,
+    "removed_repeated_line_count": 5
+  },
+  "raw_text": "01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nHướng dẫn cách bảo dưỡng bình năng lượng\nmặt trời và lưu ý\n\nĐã xuất bản trên\n\n12 Tháng 8 2026\n\nBảo dưỡng bình năng lượng mặt trời bao gồm các bước: tắt nguồn điện, khóa van nước, xả áp, xả nước cũ, vệ\n\nsinh bề mặt bên ngoài, vệ sinh ống thu nhiệt, kiểm tra van an toàn, vệ sinh bình chứa, lắp lại hệ thống, mở\n\nvan và kiểm tra vận hành. Quy trình bảo dưỡng này nên được thực hiện định kỳ 12 - 18 tháng/lần bởi đội ngũ\n\nkỹ thuật chuyên nghiệp để duy trì hiệu suất vận hành ổn định và bảo vệ tuổi thọ của máy bền lâu.\n\nMáy nước nóng năng lượng mặt trời là giải pháp tiết kiệm năng lượng và thân thiện với môi trường đang được\n\nnhiều gia đình hiện đại lựa chọn. Tuy nhiên, để thiết bị duy trì khả năng làm nóng hiệu quả, vận hành ổn định và\n\nkéo dài tuổi thọ, việc bảo dưỡng bình năng lượng mặt trời định kỳ là vô cùng cần thiết. Bài viết dưới đây sẽ cung\n\ncấp thông tin hướng dẫn chi tiết quy trình bảo trì đúng cách cùng những lưu ý quan trọng giúp tối ưu hiệu suất và\n\nhạn chế các sự cố trong quá trình sử dụng.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n1/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\n1. Vì sao cần bảo trì máy nước nóng năng lượng mặt trời?\n\nARISTON NET\nTẢI TÀI LIỆU\n\nBảo trì, bảo dưỡng bình năng lượng mặt trời là công việc cần thiết sau một khoảng thời gian sử dụng nhằm duy trì\n\nhiệu quả làm nóng, phát hiện kịp thời các sự cố linh kiện, đảm bảo an toàn vận hành và kéo dài tuổi thọ thiết bị.\n\nDuy trì hiệu suất làm nóng nước: Sau thời gian dài sử dụng, bụi bẩn, rong rêu hay cặn bẩn sẽ tích tụ dày đặc\n\nMUA HÀNG DỰ ÁN\n\ntrên bộ phận thu nhiệt và trong bình chứa, làm cản trở khả năng hấp thụ ánh sáng cũng như làm chậm quá\n\ntrình làm nóng nước hơn bình thường. Việc vệ sinh và chăm sóc thiết bị định kỳ giúp loại bỏ hoàn toàn các\n\nmảng bám này, trả lại hiệu suất làm nóng nhanh và tối ưu của hệ thống.\n\nPhát hiện sớm hư hỏng: Công việc bảo dưỡng bình năng lượng mặt trời bao gồm kiểm tra toàn diện từ những\n\nbộ phận quan trọng đến những chi tiết nhỏ nhất trong thiết bị. Nhờ đó, các dấu hiệu rò rỉ, nứt vỡ hay xuống\n\ncấp của phụ kiện được phát hiện sớm để xử lý kịp thời trước khi sự cố trở nên nghiêm trọng.\n\nKéo dài tuổi thọ thiết bị: Khi toàn bộ hệ thống được kiểm tra và bảo dưỡng định kỳ, các bộ phận sẽ duy trì\n\ntrạng thái hoạt động tốt nhất. Điều này không chỉ cải thiện hiệu suất vận hành hàng ngày mà còn làm chậm sự\n\năn mòn, bảo vệ độ bền dài lâu cho máy.\n\nĐảm bảo an toàn khi vận hành: Các rủi ro tiềm ẩn trong quá trình vận hành được loại bỏ thông qua các bước\n\nkiểm tra kỹ thuật định kỳ. Nhờ đó, người dùng có thể yên tâm khi sử dụng mà không lo ngại về các sự cố bất\n\nngờ, đảm bảo dòng nước nóng sạch và an toàn cho sức khỏe cả gia đình.\n\nTiết kiệm chi phí: Việc khắc phục sớm các hỏng hóc nhỏ giúp gia chủ tránh được các khoản chi phí sửa chữa\n\nlớn hay phải thay mới linh kiện với chi phí cao về sau. Đồng thời, một hệ thống hoạt động tối ưu cũng giúp\n\ngiảm thiểu hao phí tài nguyên nước và điện năng bổ sung (nếu có).\n\nĐáp ứng điều kiện bảo hành: Hầu hết các nhà sản xuất đều yêu cầu người dùng duy trì lịch bảo dưỡng định\n\nkỳ để đảm bảo thiết bị hoạt động đúng chuẩn. Điều này nhằm bảo vệ quyền lợi bảo hành chính hãng của\n\nkhách hàng khi máy gặp sự cố từ nhà sản xuất.\n\nXem thêm: Tuổi thọ của máy nước nóng năng lượng mặt trời là bao lâu?\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n2/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nBảo dưỡng máy nóng lạnh năng lượng mặt trời thường xuyên nhằm duy trì hiệu suất làm nóng nước ổn định và\n\nbảo vệ tuổi thọ máy.\n\n2. Làm sao để bảo dưỡng bình năng lượng mặt trời đúng cách?\n\nQuy trình bảo dưỡng máy nước nóng năng lượng mặt trời đúng kỹ thuật được triển khai theo các bước: tắt nguồn\n\nđiện và nước; xả áp và xả nước nóng; vệ sinh bề mặt bên ngoài, tháo và vệ sinh ống thu nhiệt; kiểm tra van an\n\ntoàn; vệ sinh bình chứa; lắp lại hệ thống và mở van; kiểm tra vận hành.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n3/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nBước 1: Tắt nguồn điện và nước\n\nĐảm bảo điều kiện làm việc an toàn là tiêu chí quan trọng luôn được đặt lên hàng đầu khi bảo dưỡng bình năng\n\nARISTON NET\nTẢI TÀI LIỆU\n\nlượng mặt trời. Trước khi tiến hành, bạn cần khóa nguồn cấp nước và ngắt hoàn toàn nguồn điện dẫn đến hệ\n\nthống (nếu có).\n\nBước 2: Xả áp và xả nước nóng\n\nMUA HÀNG DỰ ÁN\n\nBạn tiến hành xả hết nước nóng còn tồn đọng trong bình chứa bằng cách dùng ty ren/ty liền bồn cố định rồi dùng\n\nkìm mỏ quạ mở van một chiều. Việc xả sạch nước giúp quá trình bảo dưỡng diễn ra thuận lợi, đồng thời tránh làm\n\nloãng dung dịch tẩy cặn chuyên dụng khi vệ sinh.\n\nBước 3: Vệ sinh bề mặt bên ngoài\n\nĐể lau chùi sạch sẽ lớp bụi bám trên bề mặt bình bảo ôn và khung chân, bạn sử dụng vòi xịt kết hợp với khăn\n\nmềm lau chùi nhẹ nhàng. Đối với các ngóc ngách khó tiếp cận, bạn có thể dùng bàn chải mềm để làm sạch, tránh\n\ndùng chất tẩy rửa mạnh hay lực quá lớn gây trầy xước bề mặt.\n\nBước 4: Chuẩn bị tháo ống thu nhiệt\n\nTrước khi tháo ống thu nhiệt, bạn đổ một ít nước hoặc dung dịch xà phòng nhẹ vào các vị trí ron chụp của ống để\n\nlàm mềm cao su. Thao tác này giúp giảm lực ma sát, hỗ trợ việc tháo dỡ ống trở nên dễ dàng và an toàn hơn.\n\nBước 5: Tháo và vệ sinh ống thu nhiệt\n\nBạn dùng tua vít dẹp cạy nhẹ từng lớp ron chụp rồi kéo xuống mép bồn khoảng 25cm để tạo khoảng trống thao\n\ntác. Tiếp tục dùng vòi nước có dòng chảy nhẹ để làm sạch khu vực tiếp giáp giữa ống thu nhiệt và bình chứa, sau\n\nđó tháo từng ống nếu cần để vệ sinh thuận tiện hơn.\n\nKhi tháo ống, cần thực hiện nhẹ nhàng bằng cách giữ phần giữa ống bằng tay trái, tay phải cầm phần đuôi và\n\nxoay từ từ đến khi ống lỏng ra. Sau đó, đẩy nhẹ kết hợp xoay chậm để đưa ống ra ngoài, tránh dùng lực mạnh làm\n\nvỡ ống hoặc làm hỏng ron cao su.\n\nBước 6: Kiểm tra van an toàn\n\nĐây là bước quan trọng không thể bỏ qua trong quy trình bảo dưỡng bình năng lượng mặt trời vì van an toàn chịu\n\ntrách nhiệm xả áp và bảo vệ an toàn cho toàn bộ hệ thống cũng như người sử dụng. Theo đó, bạn cần kiểm tra\n\nkhả năng hoạt động của van, nếu phát hiện tình trạng kẹt, rò rỉ hoặc hư hỏng thì nên thay mới bằng sản phẩm\n\nchính hãng.\n\nXem thêm: Chia sẻ cách lắp van 1 chiều bình nóng lạnh chi tiết\n\nBước 7: Vệ sinh bình chứa nước (Bình bảo ôn)\n\nBình bảo ôn là nơi tích trữ nước nóng sinh hoạt trực tiếp cho cả gia đình, nên cần được vệ sinh kỹ ở bên trong để\n\nloại bỏ cặn bẩn, rong rêu hoặc tạp chất tích tụ lâu ngày, từ đó đảm bảo nguồn nước đầu ra đạt chuẩn sạch khuẩn.\n\nBạn có thể dùng vòi nước sạch có áp lực vừa phải để xịt rửa kết hợp với dung dịch tẩy rửa chuyên dụng, có thành\n\nphần lành tính để làm sạch sâu bên trong bình.\n\nBước 8: Lắp lại hệ thống và mở van\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n4/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nSau khi hoàn tất vệ sinh, bạn tiến hành lắp đặt cẩn thận các bộ phận vào đúng vị trí ban đầu, đặc biệt chú ý đến\n\nron cao su và các mối nối để tránh tình trạng rò rỉ nước. Tiếp theo, mở van cấp nước từ từ, kiểm tra lượng nước\n\nvào bình và đảm bảo hệ thống được lắp đặt chắc chắn trước khi đưa vào sử dụng.\n\nARISTON NET\nTẢI TÀI LIỆU\n\nBước 9: Kiểm tra vận hành\n\nKhi hoàn tất các bước bảo dưỡng, bạn cấp lại nguồn điện hỗ trợ (nếu có) và theo dõi toàn bộ hệ thống hoạt động\n\nMUA HÀNG DỰ ÁN\n\ntrong vài giờ. Nếu nước được nạp đầy bồn, không rò rỉ ở các khớp nối và thiết bị bắt đầu hấp thụ nhiệt làm nóng\n\nbình thường thì thì có thể đưa máy vào sử dụng trở lại cũng như hoàn tất quy trình bảo dưỡng bình năng lượng\n\nmặt trời định kỳ.\n\n*Lưu ý: Bạn chỉ nên tự thực hiện bảo dưỡng khi đã nắm rõ cấu tạo của bình năng lượng mặt trời, bởi quy trình này\n\nyêu cầu kỹ thuật cao. Nếu không có đủ kinh nghiệm chuyên môn, bạn nên liên hệ đơn vị sửa chữa uy tín để đảm\n\nbảo an toàn, hạn chế rủi ro gây hư hỏng thiết bị.\n\nHướng dẫn chi tiết các bước bảo dưỡng máy nóng lạnh năng lượng mặt trời.\n\n3. Bao lâu thì cần bảo dưỡng bình năng lượng mặt trời 1 lần?\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n5/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nCông việc bảo dưỡng bảo trì máy nước nóng năng lượng mặt trời nên được thực hiện định kỳ từ 12 đến 18\n\ntháng/lần. Tùy thuộc vào môi trường lắp đặt, chất lượng nguồn nước và tần suất sử dụng, người dùng có thể điều\n\nchỉnh thời gian bảo dưỡng phù hợp để tối ưu chi phí.\n\nARISTON NET\nTẢI TÀI LIỆU\n\nXem thêm: Top 3 phương pháp giúp tăng tuổi thọ máy nước nóng\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng năng lượng mặt trời nên được bảo dưỡng bảo trì định kỳ 12 - 18 tháng mỗi lần.\n\n4. Cần lưu ý gì khi bảo trì máy nước nóng năng lượng mặt trời?\n\nTrong quá trình thực hiện bảo dưỡng bình năng lượng mặt trời, để tránh gây hư hỏng thiết bị, bạn cần sử dụng\n\ndụng cụ vệ sinh phù hợp, xử lý kịp thời các dấu hiệu nứt vỡ và thao tác đúng kỹ thuật. Đặc biệt, nên cân nhắc sử\n\ndụng dịch vụ bảo trì chuyên nghiệp để đảm bảo quy trình thực hiện an toàn, hiệu quả và duy trì độ bền cho hệ\n\nthống.\n\n4.1 Tuyệt đối không dùng vòi phun áp lực cao (như máy rửa xe)\n\nKhi vệ sinh ống thu nhiệt, bạn tuyệt đối không sử dụng vòi phun nước có áp lực cao để loại bỏ các cặn bám hoặc\n\nvết bẩn. Bởi vì áp lực cao của nước có thể gây nứt vỡ bề mặt ống, làm giảm khả năng hấp thụ nhiệt và ảnh hưởng\n\nđến hiệu suất hoạt động của thiết bị..\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n6/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\n4.2 Xử lý khi nứt vỡ\n\nNếu trong quá trình bảo trì không may xảy ra tình trạng ống thu nhiệt bị vỡ, bạn cần thu gom các mảnh vỡ cẩn\n\nARISTON NET\nTẢI TÀI LIỆU\n\nthận và thay thế bằng ống mới có nguồn gốc rõ ràng từ đơn vị cung cấp uy tín. Việc thay thế đúng linh kiện giúp\n\nđảm bảo khả năng vận hành ổn định và hạn chế nguy cơ rò rỉ, giảm hiệu quả làm nóng nước.\n\nMUA HÀNG DỰ ÁN\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n7/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n8/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nKiểm tra và thay mới kịp thời nếu phát hiện ống thu nhiệt bị nứt vỡ trong quá trình bảo dưỡng.\n\nARISTON NET\nTẢI TÀI LIỆU\n\n4.3 Cân nhắc sử dụng dịch vụ chuyên nghiệp\n\nMUA HÀNG DỰ ÁN\n\nMáy nước nóng năng lượng mặt trời có cấu tạo phức tạp, trong khi quá trình bảo dưỡng yêu cầu tháo lắp, kiểm tra\n\nvà vệ sinh toàn diện nhiều bộ phận quan trọng. Vì vậy, bạn nên cân nhắc sử dụng dịch vụ bảo trì chuyên nghiệp\n\nđể được hỗ trợ thực hiện đúng kỹ thuật, đảm bảo an toàn và hạn chế các hư hỏng không mong muốn.\n\nNếu bạn đang sử dụng máy nước nóng năng lượng mặt trời của Ariston, hãng luôn sẵn sàng tiếp nhận và hỗ trợ\n\nbảo dưỡng tận nhà nhanh chóng qua dịch vụ khách hàng chuyên nghiệp. Quý khách có thể liên hệ đến Hotline\n\ncủa Ariston 1800 1517 để được tư vấn và hỗ trợ kỹ thuật tận tâm, chi tiết.\n\nTóm lại, bảo dưỡng bình năng lượng mặt trời định kỳ là công việc cần thiết để duy trì hiệu suất làm nóng, kéo dài\n\ntuổi thọ thiết bị và phát hiện sớm các hư hỏng tiềm ẩn trước khi phát sinh sự cố nghiêm trọng. Quy trình này bao\n\ngồm nhiều bước kiểm tra, vệ sinh và đánh giá toàn diện từ trong ra ngoài, đòi hỏi sự cẩn thận, tỉ mỉ cùng kiến thức\n\nkỹ thuật chuyên môn cao. Vì vậy, để đảm bảo quá trình bảo dưỡng được thực hiện đúng kỹ thuật, an toàn và hạn\n\nchế rủi ro làm hư hỏng hệ thống, người dùng nên cân nhắc sử dụng dịch vụ bảo trì chuyên nghiệp từ các đơn vị\n\nuy tín.\n\nCâu hỏi thường gặp về bảo dưỡng bình năng lượng mặt trời\n\nDưới đây là giải đáp chi tiết cho những thắc mắc phổ biến nhất trong quá trình sử dụng và bảo dưỡng máy nước\n\nnóng năng lượng mặt trời.\n\nVì sao trời nắng gắt nhưng nước từ máy nước nóng năng lượng mặt trời không \nnóng?\n\nRon (gioăng) cao su của máy nước nóng năng lượng mặt trời có cần thay mới \nmỗi lần bảo dưỡng không?\n\nCó nên dùng hóa chất tẩy rửa mạnh trong quá trình bảo trì máy nước nóng năng \nlượng mặt trời không?\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong-…\n9/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nBài viết liên quan\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n10/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nARISTON NET\nTẢI TÀI LIỆU\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nĐỌC THÊM\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n11/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n12/13\n\n01:16 11/10/26\nHướng dẫn cách bảo dưỡng bình năng lượng mặt trời và lưu ý\n\nĐỌC THÊM\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nTẠP CHÍ\n\nTập đoàn Ariston\n\nMẹo & giải pháp\n\nTuyển Dụng\n\nDỊCH VỤ KHÁCH HÀNG\n\nTin tức\n\nĐăng kí bảo hành online\n\nNgôi nhà thư thái\n\nSẢN PHẨM\n\nHội Viên Diamond Club\n\nCuộc sống xanh\n\nMáy Nước Nóng Gián Tiếp\n\nLiên Hệ Với Chúng Tôi\n\nTừ điển\n\nLEGAL AREA\n\nMáy Nước Nóng Trực Tiếp\n\nTải xuống tài liệu\n\nPrivacy Policy\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nCookie Policy\n\nMáy Nước Nóng Bơm Nhiệt\n\n©2022 Ariston Holding N.V. – Company Info\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/bao-tri-may-nuoc-nong-nang-luong-mat-troi-huong-dan-huu-ich-de-duy-tri-he-thong…\n13/13",
+  "char_count": 15168
+}

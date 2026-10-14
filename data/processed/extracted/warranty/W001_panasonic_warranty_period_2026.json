@@ -1,0 +1,4699 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\warranty\\W001_panasonic_warranty_period_2026.pdf",
+  "filename": "W001_panasonic_warranty_period_2026.pdf",
+  "file_type": "pdf",
+  "page_count": 10,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Panasonic Vietnam",
+          "bbox": [
+            37.006378173828125,
+            61.48886489868164,
+            97.8575210571289,
+            70.75741577148438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "CHÍNH SÁCH BẢO HÀNH SẢN PHẨM",
+          "bbox": [
+            191.74269104003906,
+            95.0448226928711,
+            421.0065002441406,
+            113.58192443847656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "PRODUCT WARRANTY POLICY",
+          "bbox": [
+            210.65599060058594,
+            124.53360748291016,
+            404.71697998046875,
+            143.07070922851562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "Áp dụng từ 28/7/2026 đến 31/3/2027",
+          "bbox": [
+            227.6555633544922,
+            153.768310546875,
+            385.0800476074219,
+            166.12637329101562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "Apply from 28th July 2026 to 31st March 2027",
+          "bbox": [
+            211.7148895263672,
+            166.6997528076172,
+            402.78118896484375,
+            179.73658752441406
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "1. Thời hạn bảo hành sản phẩm:\nProduct warranty period\nTất cả sản phẩm mang nhãn hiệu Panasonic được Công ty TNHH Panasonic Việt Nam (Panasonic Việt Nam) phân phối và/ hoặc",
+          "bbox": [
+            36.34174728393555,
+            190.06219482421875,
+            575.4254760742188,
+            229.64065551757812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "chịu trách nhiệm bảo hành chính thức tại thị trường Việt Nam được bảo hành theo quy định sau:\nAll Panasonic branded products distributed and/or officially warrantied by Panasonic Vietnam Co., Ltd (Panasonic Vietnam) in\nthe Vietnamese market, are covered by the warranty according to the following regulations:",
+          "bbox": [
+            36.34174728393555,
+            230.89280700683594,
+            570.700439453125,
+            270.4712829589844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "SẢN PHẨM",
+          "bbox": [
+            115.98277282714844,
+            299.51092529296875,
+            164.43505859375,
+            311.8689880371094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "XUẤT XỨ",
+          "bbox": [
+            267.92791748046875,
+            299.51092529296875,
+            308.7948303222656,
+            311.8689880371094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "PRODUCTS",
+          "bbox": [
+            115.92953491210938,
+            313.1211242675781,
+            166.25550842285156,
+            325.47918701171875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "ORIGIN",
+          "bbox": [
+            271.50762939453125,
+            313.1211242675781,
+            306.9803771972656,
+            325.47918701171875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "SẢN PHẨM ĐÃ ĐƯỢC KÍCH\nHOẠT BẢO HÀNH ĐIỆN TỬ",
+          "bbox": [
+            336.71441650390625,
+            299.51092529296875,
+            455.504150390625,
+            325.47918701171875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 14,
+          "text": "SẢN PHẨM CHƯA\nKHBHĐT HOẶC KHÔNG",
+          "bbox": [
+            470.3531494140625,
+            299.51092529296875,
+            573.3822631835938,
+            325.47918701171875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 15,
+          "text": "(KHBHĐT)* HOẶC CÓ HÓA",
+          "bbox": [
+            338.4068298339844,
+            326.7313232421875,
+            453.8211975097656,
+            339.0893859863281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 16,
+          "text": "CÓ HÓA ĐƠN MUA",
+          "bbox": [
+            480.2152099609375,
+            326.7313232421875,
+            563.5186767578125,
+            339.0893859863281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 17,
+          "text": "HÀNG\nTHE PRODUCT HAS NOT",
+          "bbox": [
+            469.9986267089844,
+            340.341552734375,
+            575.4911499023438,
+            366.309814453125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 18,
+          "text": "BEEN ACTIVATED FOR",
+          "bbox": [
+            475.4657287597656,
+            367.56195068359375,
+            570.0247802734375,
+            379.9200134277344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 19,
+          "text": "ĐƠN MUA HÀNG**\nTHE PRODUCT HAS BEEN\nACTIVATED FOR ELECTRONIC\nWARRANTY (EWR) * OR HAS A",
+          "bbox": [
+            332.7269592285156,
+            340.341552734375,
+            461.2570495605469,
+            393.53021240234375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 20,
+          "text": "PURCHASE INVOICE**",
+          "bbox": [
+            348.10931396484375,
+            394.7823486328125,
+            443.4468078613281,
+            407.1404113769531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 21,
+          "text": "EWR OR HAS NOT A\nPURCHASE INVOICE",
+          "bbox": [
+            478.8682861328125,
+            381.1721496582031,
+            566.6314086914062,
+            407.1404113769531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 22,
+          "text": "Nhật Bản",
+          "bbox": [
+            268.45074462890625,
+            436.1800537109375,
+            308.2741394042969,
+            448.5381164550781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 23,
+          "text": "Japan",
+          "bbox": [
+            275.7785339355469,
+            449.7902526855469,
+            302.713134765625,
+            462.1483154296875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 24,
+          "text": "- Gia dụng Gia đình/ Home Appliances:\nTủ lạnh, Máy giặt, Máy hút bụi.\nFridge, Washer, Vacuum Cleaner",
+          "bbox": [
+            36.34174728393555,
+            436.1800537109375,
+            210.12799072265625,
+            475.7585144042969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 25,
+          "text": "Bảo hành 36 tháng kể từ\nngày mua trong KHBHĐT\nhoặc ngày mua trên hóa đơn",
+          "bbox": [
+            333.3118591308594,
+            436.1800537109375,
+            456.284423828125,
+            475.7585144042969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 26,
+          "text": "Bảo hành 39 tháng kể từ\nngày sản xuất (xuất\nphiếu).",
+          "bbox": [
+            467.99615478515625,
+            436.1800537109375,
+            575.0140991210938,
+            475.7585144042969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 27,
+          "text": "- Gia dụng Nhà bếp/ Kitchen appliances:\nBếp điện từ, Nồi cơm điện\nInduction Heating Cooktop, Rice Cooker\n- Sức khỏe và Làm đẹp/ Health and Beauty:",
+          "bbox": [
+            36.34174728393555,
+            477.01068115234375,
+            231.05137634277344,
+            530.1992797851562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 28,
+          "text": "mua hàng và không quá 72\ntháng kể từ ngày sản xuất\n(xuất phiếu).\n36 months warranty for",
+          "bbox": [
+            332.647216796875,
+            477.01068115234375,
+            449.66717529296875,
+            530.1992797851562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 29,
+          "text": "39 months warranty for\nproducts since\nproduction date (issue\ndate).",
+          "bbox": [
+            467.3315124511719,
+            477.01068115234375,
+            573.2687377929688,
+            530.1992797851562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 30,
+          "text": "Máy tạo nước kiềm, Máy lọc nước tại vòi, Máy",
+          "bbox": [
+            37.006378173828125,
+            531.4514770507812,
+            230.25289916992188,
+            543.8095092773438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 31,
+          "text": "products from purchasing",
+          "bbox": [
+            332.647216796875,
+            531.4514770507812,
+            446.5963134765625,
+            543.8095092773438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 32,
+          "text": "cạo râu, Tông đơ cắt tóc.\nAlkaline Ionizer, Water Purifier, Shaver,",
+          "bbox": [
+            36.34174728393555,
+            545.0617065429688,
+            201.08395385742188,
+            571.0299072265625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 33,
+          "text": "date of online warranty\nregistration or on financial",
+          "bbox": [
+            332.647216796875,
+            545.0617065429688,
+            448.6378173828125,
+            571.0299072265625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 34,
+          "text": "Professional Hair Clipper",
+          "bbox": [
+            36.34174728393555,
+            572.2821044921875,
+            144.83763122558594,
+            584.64013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 35,
+          "text": "invoice but not exceeding 72\nmonths since production",
+          "bbox": [
+            332.647216796875,
+            572.2821044921875,
+            457.50604248046875,
+            598.2503051757812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 36,
+          "text": "date (issue date).",
+          "bbox": [
+            332.647216796875,
+            599.5025024414062,
+            408.2155456542969,
+            611.8605346679688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 37,
+          "text": "- Gia dụng Gia đình/ Home Appliances:",
+          "bbox": [
+            37.006378173828125,
+            640.9002075195312,
+            210.12799072265625,
+            653.2582397460938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 38,
+          "text": "Việt Nam",
+          "bbox": [
+            268.85833740234375,
+            640.9002075195312,
+            307.8651428222656,
+            653.2582397460938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 39,
+          "text": "Bảo hành 24 tháng kể từ",
+          "bbox": [
+            333.3118591308594,
+            640.9002075195312,
+            440.32977294921875,
+            653.2582397460938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 40,
+          "text": "Bảo hành 27 tháng kể từ",
+          "bbox": [
+            467.99615478515625,
+            640.9002075195312,
+            575.0140991210938,
+            653.2582397460938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 41,
+          "text": "Vietnam",
+          "bbox": [
+            270.0190124511719,
+            654.5104370117188,
+            308.46783447265625,
+            666.8684692382812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 42,
+          "text": "Tủ lạnh, Máy giặt/ Fridge, Washer\n- Các giải pháp không khí/ Air solutions:",
+          "bbox": [
+            37.006378173828125,
+            654.5104370117188,
+            216.44309997558594,
+            680.4786376953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 43,
+          "text": "ngày mua trong KHBHĐT\nhoặc ngày mua trên hóa đơn",
+          "bbox": [
+            333.3118591308594,
+            654.5104370117188,
+            456.284423828125,
+            680.4786376953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 44,
+          "text": "ngày sản xuất (xuất\nphiếu).",
+          "bbox": [
+            467.99615478515625,
+            654.5104370117188,
+            551.29052734375,
+            680.4786376953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 45,
+          "text": "Quạt trần, Quạt thông gió âm trần có nối ống,\nQuạt thông gió loại gắn tường.",
+          "bbox": [
+            37.006378173828125,
+            681.7308349609375,
+            233.16543579101562,
+            707.6990356445312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 46,
+          "text": "mua hàng và không quá 60\ntháng kể từ ngày sản xuất",
+          "bbox": [
+            333.3118591308594,
+            681.7308349609375,
+            449.66717529296875,
+            707.6990356445312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 47,
+          "text": "27 months warranty for\nproducts since",
+          "bbox": [
+            467.3315124511719,
+            681.7308349609375,
+            573.2687377929688,
+            707.6990356445312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 48,
+          "text": "Ceiling Fan, Ceiling Ventilating Fan, Wall\nVentilating Fan",
+          "bbox": [
+            36.34174728393555,
+            708.9512329101562,
+            208.896240234375,
+            734.91943359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 49,
+          "text": "(xuất phiếu).\n24 months warranty for",
+          "bbox": [
+            332.647216796875,
+            708.9512329101562,
+            438.58447265625,
+            734.91943359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 50,
+          "text": "production date (issue\ndate).",
+          "bbox": [
+            467.3315124511719,
+            708.9512329101562,
+            565.5744018554688,
+            734.91943359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 51,
+          "text": "products from purchasing",
+          "bbox": [
+            332.647216796875,
+            736.171630859375,
+            446.5963134765625,
+            748.5296630859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 52,
+          "text": "date of online warranty",
+          "bbox": [
+            332.647216796875,
+            749.7818603515625,
+            435.12744140625,
+            762.139892578125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 53,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n1/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "registration or on financial\ninvoice but not exceeding 60",
+          "bbox": [
+            332.647216796875,
+            29.008102416992188,
+            457.50604248046875,
+            54.97633743286133
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "- Gia dụng Gia đình/ Home Appliances:",
+          "bbox": [
+            37.006378173828125,
+            43.18534851074219,
+            210.12799072265625,
+            55.54341506958008
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "Các nước khác",
+          "bbox": [
+            262.16839599609375,
+            43.18534851074219,
+            323.6320495605469,
+            55.54341506958008
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "Tủ lạnh, Máy giặt, Máy sấy quần áo, Tủ chăm",
+          "bbox": [
+            37.006378173828125,
+            56.79557800292969,
+            227.7305145263672,
+            69.15364074707031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Other countries",
+          "bbox": [
+            259.35955810546875,
+            56.79557800292969,
+            326.4396057128906,
+            69.15364074707031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "months since production\ndate (issue date).",
+          "bbox": [
+            332.647216796875,
+            56.22850036621094,
+            444.0165710449219,
+            82.19673156738281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "sóc quần áo.\nFridge, Washer, Tumble Dryer, Clothing Care",
+          "bbox": [
+            36.34174728393555,
+            70.40580749511719,
+            225.9271240234375,
+            96.37403869628906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "Machine\n- Tivi và thiết bị Âm thanh/ Television and",
+          "bbox": [
+            36.34174728393555,
+            97.62620544433594,
+            223.99220275878906,
+            123.59443664550781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "audio devices:\nTivi/ TV",
+          "bbox": [
+            37.006378173828125,
+            124.84660339355469,
+            100.91075134277344,
+            150.81483459472656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "- Điều hòa & Các giải pháp không khí:",
+          "bbox": [
+            37.006378173828125,
+            179.85447692871094,
+            204.92889404296875,
+            192.21253967285156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "Các nước khác",
+          "bbox": [
+            257.6316833496094,
+            179.85447692871094,
+            319.0953063964844,
+            192.21253967285156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "Bảo hành 12 tháng kể từ",
+          "bbox": [
+            333.3118591308594,
+            179.85447692871094,
+            440.32977294921875,
+            192.21253967285156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "Bảo hành 15 tháng kể từ",
+          "bbox": [
+            467.99615478515625,
+            179.85447692871094,
+            575.0140991210938,
+            192.21253967285156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "Air conditioning & Air solutions:",
+          "bbox": [
+            36.34174728393555,
+            193.46470642089844,
+            183.70834350585938,
+            205.82276916503906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "Other countries",
+          "bbox": [
+            254.15817260742188,
+            193.46470642089844,
+            324.3277587890625,
+            205.82276916503906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 17,
+          "text": "ngày mua trong KHBHĐT",
+          "bbox": [
+            333.3118591308594,
+            193.46470642089844,
+            440.6236877441406,
+            205.82276916503906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 18,
+          "text": "ngày sản xuất (xuất",
+          "bbox": [
+            467.99615478515625,
+            193.46470642089844,
+            551.29052734375,
+            205.82276916503906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 19,
+          "text": "Điều hòa không khí cục bộ treo tường.\nConsumer Air- conditioner (RAC)",
+          "bbox": [
+            36.34174728393555,
+            207.07493591308594,
+            200.7550506591797,
+            233.0431671142578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 20,
+          "text": "hoặc ngày mua trên hóa đơn\nmua hàng và không quá 48",
+          "bbox": [
+            333.3118591308594,
+            207.07493591308594,
+            456.284423828125,
+            233.0431671142578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 21,
+          "text": "phiếu)***.\n15 months warranty for",
+          "bbox": [
+            467.3315124511719,
+            207.07493591308594,
+            573.2687377929688,
+            233.0431671142578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 22,
+          "text": "Điều hòa không khí cục bộ thương mại (bao\ngồm cassette, âm trần nối ống, áp trần, tủ",
+          "bbox": [
+            37.006378173828125,
+            234.2953338623047,
+            223.6383514404297,
+            260.2635803222656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 23,
+          "text": "tháng kể từ ngày sản xuất\n(xuất phiếu)***.",
+          "bbox": [
+            333.3118591308594,
+            234.2953338623047,
+            446.27056884765625,
+            260.2635803222656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 24,
+          "text": "products since\nproduction date (issue",
+          "bbox": [
+            467.3315124511719,
+            234.2953338623047,
+            565.5744018554688,
+            260.2635803222656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 25,
+          "text": "đứng).",
+          "bbox": [
+            37.006378173828125,
+            261.5157470703125,
+            65.0615234375,
+            273.8738098144531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 26,
+          "text": "12 months warranty for",
+          "bbox": [
+            332.647216796875,
+            261.5157470703125,
+            438.58447265625,
+            273.8738098144531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 27,
+          "text": "date)***.",
+          "bbox": [
+            467.3315124511719,
+            261.5157470703125,
+            509.63653564453125,
+            273.8738098144531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 28,
+          "text": "Air- conditioner (PAC) (includes Cassette, Duct\nType model, Ceiling, Floor Standing Type)",
+          "bbox": [
+            36.34174728393555,
+            275.1259765625,
+            233.43084716796875,
+            301.0942077636719
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 29,
+          "text": "products from purchasing\ndate of online warranty",
+          "bbox": [
+            332.647216796875,
+            275.1259765625,
+            446.5963134765625,
+            301.0942077636719
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 30,
+          "text": "Điều hòa không khí Multi Split (bao gồm\ncassette, âm trần nối ống, treo tường).",
+          "bbox": [
+            37.006378173828125,
+            302.34637451171875,
+            208.06826782226562,
+            328.3146057128906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 31,
+          "text": "registration or on financial\ninvoice but not exceeding 48",
+          "bbox": [
+            332.647216796875,
+            302.34637451171875,
+            457.50604248046875,
+            328.3146057128906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 32,
+          "text": "Multi-split (includes Cassette, Duct Type model,",
+          "bbox": [
+            36.34174728393555,
+            329.5667724609375,
+            240.0726318359375,
+            341.9248352050781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 33,
+          "text": "months since production",
+          "bbox": [
+            332.647216796875,
+            329.5667724609375,
+            444.014404296875,
+            341.9248352050781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 34,
+          "text": "date (issue date)***.",
+          "bbox": [
+            332.647216796875,
+            343.177001953125,
+            423.2139587402344,
+            355.5350646972656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 35,
+          "text": "Wall Mounted Type).\nMáy lọc không khí, Quạt trần, Quạt điện, Quạt",
+          "bbox": [
+            36.34174728393555,
+            343.177001953125,
+            232.79345703125,
+            369.1451721191406
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 36,
+          "text": "hút, Máy hút ẩm…",
+          "bbox": [
+            37.006378173828125,
+            370.3973388671875,
+            114.19429016113281,
+            382.7554016113281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 37,
+          "text": "Air Purifier, Ceiling Fan, Electric Fan, Industrial",
+          "bbox": [
+            36.34174728393555,
+            384.007568359375,
+            234.29283142089844,
+            396.3656311035156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 38,
+          "text": "Ventilating Fan, Dehumidifier…",
+          "bbox": [
+            36.34174728393555,
+            397.6177978515625,
+            169.5809326171875,
+            409.9758605957031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 39,
+          "text": "- Gia dụng Gia đình/ Home Appliances:\nMáy bơm, Máy nước nóng trực tiếp, Bình nước",
+          "bbox": [
+            37.006378173828125,
+            411.22802734375,
+            235.1707305908203,
+            437.1961975097656
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 40,
+          "text": "nóng dự trữ, Nắp bồn cầu điện tử/cơ, Máy hút",
+          "bbox": [
+            37.006378173828125,
+            438.4483642578125,
+            233.3288116455078,
+            450.8064270019531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 41,
+          "text": "bụi, Bàn ủi…",
+          "bbox": [
+            37.006378173828125,
+            452.05859375,
+            89.40560150146484,
+            464.4166564941406
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 42,
+          "text": "Water Pump, Electric Home Shower, Storage",
+          "bbox": [
+            36.34174728393555,
+            465.6688232421875,
+            226.671142578125,
+            478.0268859863281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 43,
+          "text": "Water Heater, Toilet Seat, Vacuum Cleaner, E-\niron…",
+          "bbox": [
+            36.34174728393555,
+            479.279052734375,
+            229.1028289794922,
+            505.2472229003906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 44,
+          "text": "- Gia dụng Nhà bếp/ Kitchen appliances:",
+          "bbox": [
+            37.006378173828125,
+            506.4993896484375,
+            217.46841430664062,
+            518.857421875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 45,
+          "text": "Bếp từ, Máy rửa bát, Lò vi sóng, Nồi cơm điện,",
+          "bbox": [
+            37.006378173828125,
+            520.109619140625,
+            233.19268798828125,
+            532.4676513671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 46,
+          "text": "Máy xay, Máy ép, Bình thủy điện…",
+          "bbox": [
+            37.006378173828125,
+            533.7198486328125,
+            181.18360900878906,
+            546.077880859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 47,
+          "text": "Induction Heating Cooktop, Dishwasher,\nMicrowave Oven, Rice Cooker, Blender, Electric",
+          "bbox": [
+            36.34174728393555,
+            547.330078125,
+            235.65386962890625,
+            573.2982177734375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 48,
+          "text": "Thermopot, Electric Kettle…",
+          "bbox": [
+            36.34174728393555,
+            574.5504150390625,
+            156.9143829345703,
+            586.908447265625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 49,
+          "text": "- Sức khỏe và Làm đẹp/ Health and Beauty:",
+          "bbox": [
+            37.006378173828125,
+            588.16064453125,
+            231.05137634277344,
+            600.5186767578125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 50,
+          "text": "Máy lọc nước, máy lọc nước RO, Máy sấy tóc,\nMáy cạo râu, Sản phẩm chăm sóc mặt, Sản",
+          "bbox": [
+            37.006378173828125,
+            601.7708740234375,
+            226.88665771484375,
+            627.739013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 51,
+          "text": "phẩm chăm sóc răng miệng…",
+          "bbox": [
+            37.006378173828125,
+            628.9912109375,
+            163.26356506347656,
+            641.3492431640625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 52,
+          "text": "Water Purifier, RO Water Purifier, Hair Dryer,",
+          "bbox": [
+            36.34174728393555,
+            642.6014404296875,
+            225.0196990966797,
+            654.95947265625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 53,
+          "text": "Shaver, Facial care products, Oral care",
+          "bbox": [
+            36.34174728393555,
+            656.211669921875,
+            199.8590545654297,
+            668.5697021484375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 54,
+          "text": "products…",
+          "bbox": [
+            36.34174728393555,
+            669.8218994140625,
+            86.76748657226562,
+            682.179931640625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 55,
+          "text": "Những sản phẩm không có trong danh sách trên đề nghị khách hàng liên hệ Panasonic Việt Nam để được thông báo chính\nthức về chính sách bảo hành.",
+          "bbox": [
+            37.006378173828125,
+            706.682861328125,
+            558.9116821289062,
+            732.6510009765625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 56,
+          "text": "Products not listed above are advised to contact Panasonic Vietnam for official information regarding the warranty policy.",
+          "bbox": [
+            36.34174728393555,
+            733.9031982421875,
+            555.5113525390625,
+            746.26123046875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 57,
+          "text": "- Đối với sản phẩm thuộc dự án: Bảo hành theo Điều khoản bảo hành trong hợp đồng mua bán sản phẩm với Panasonic Việt",
+          "bbox": [
+            37.006378173828125,
+            747.513427734375,
+            572.8439331054688,
+            759.8714599609375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 58,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n2/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "Nam.\nFor project-based products: Warranty follows the terms of the sales contract signed with Panasonic Vietnam.",
+          "bbox": [
+            36.34174728393555,
+            29.008102416992188,
+            500.3084411621094,
+            54.97627639770508
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "- Đối với một số linh kiện đặc biệt lắp sẵn trong sản phẩm bởi nhà sản xuất: Áp dụng thời bảo hành đặc biệt với các điều",
+          "bbox": [
+            37.006378173828125,
+            56.22843933105469,
+            565.844482421875,
+            68.58650207519531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "kiện như sau:",
+          "bbox": [
+            37.006378173828125,
+            69.83866882324219,
+            94.44136047363281,
+            82.19673156738281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "For certain special parts pre-installed in products by the manufacturer shall be applied the special warranty period with the\nfollowing conditions:",
+          "bbox": [
+            36.34174728393555,
+            83.44889831542969,
+            561.826416015625,
+            109.41706848144531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "LINH KIỆN LẮP SẴN ĐẶC BIỆT",
+          "bbox": [
+            58.440673828125,
+            138.4567108154297,
+            189.66107177734375,
+            150.8147735595703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "SẢN PHẨM ĐÃ ĐƯỢC KHBHĐT",
+          "bbox": [
+            237.28726196289062,
+            138.4567108154297,
+            371.77410888671875,
+            150.8147735595703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "SẢN PHẨM CHƯA KHBHĐT",
+          "bbox": [
+            427.7680969238281,
+            138.4567108154297,
+            545.9227294921875,
+            150.8147735595703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "SPECIAL PRE-INSTALLED PARTS",
+          "bbox": [
+            57.61655044555664,
+            152.0669403076172,
+            192.2440643310547,
+            164.4250030517578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "THE PRODUCT HAS BEEN ACTIVATED",
+          "bbox": [
+            226.2023162841797,
+            152.0669403076172,
+            384.6114196777344,
+            164.4250030517578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 11,
+          "text": "THE PRODUCT HAS NOT BEEN ACTIVATED",
+          "bbox": [
+            397.9691162109375,
+            152.0669403076172,
+            577.4920654296875,
+            164.4250030517578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 12,
+          "text": "FOR EWR",
+          "bbox": [
+            284.4001159667969,
+            165.6771697998047,
+            326.4148254394531,
+            178.0352325439453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 13,
+          "text": "FOR EWR",
+          "bbox": [
+            466.7201232910156,
+            165.6771697998047,
+            508.73480224609375,
+            178.0352325439453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 14,
+          "text": "MÁY NÉN của Điều hòa không khí cục",
+          "bbox": [
+            37.006378173828125,
+            207.0748748779297,
+            205.8090362548828,
+            219.4329376220703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 15,
+          "text": "Bảo hành 12 năm kể từ ngày sản xuất",
+          "bbox": [
+            220.17703247070312,
+            207.0748748779297,
+            382.26007080078125,
+            219.4329376220703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 16,
+          "text": "Bảo hành theo thời hạn bảo hành của",
+          "bbox": [
+            397.9603271484375,
+            207.0748748779297,
+            558.5968017578125,
+            219.4329376220703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 17,
+          "text": "bộ treo tường",
+          "bbox": [
+            37.006378173828125,
+            220.6851043701172,
+            100.6385498046875,
+            233.0431671142578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 18,
+          "text": "khối ngoài trời",
+          "bbox": [
+            220.17703247070312,
+            220.6851043701172,
+            282.2394714355469,
+            233.0431671142578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 19,
+          "text": "sản phẩm",
+          "bbox": [
+            397.9603271484375,
+            220.6851043701172,
+            440.1247253417969,
+            233.0431671142578
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 20,
+          "text": "Compressor of Consumer Air-\nconditioner (RAC)",
+          "bbox": [
+            36.34174728393555,
+            234.2953338623047,
+            165.9606475830078,
+            260.2635192871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 21,
+          "text": "12-Year Warranty for Compressor from\nproduction date (issue date) of outdoor",
+          "bbox": [
+            219.5124053955078,
+            234.2953338623047,
+            389.9074401855469,
+            260.2635192871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 22,
+          "text": "Warranty based on the product’s\nwarranty period",
+          "bbox": [
+            397.2956848144531,
+            234.2953338623047,
+            539.1910400390625,
+            260.2635192871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 23,
+          "text": "unit",
+          "bbox": [
+            219.5124053955078,
+            261.51568603515625,
+            239.43319702148438,
+            273.8737487792969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 24,
+          "text": "MÁY NÉN của Điều hòa không khí cục",
+          "bbox": [
+            37.006378173828125,
+            302.91339111328125,
+            205.8090362548828,
+            315.2714538574219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 25,
+          "text": "Bảo hành 5 năm kể từ ngày sản xuất",
+          "bbox": [
+            220.17703247070312,
+            302.91339111328125,
+            377.067626953125,
+            315.2714538574219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 26,
+          "text": "Bảo hành theo thời hạn bảo hành của",
+          "bbox": [
+            397.9603271484375,
+            302.91339111328125,
+            558.5968017578125,
+            315.2714538574219
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 27,
+          "text": "bộ thương mại (bao gồm cassette, âm",
+          "bbox": [
+            37.006378173828125,
+            316.52362060546875,
+            203.7076873779297,
+            328.8816833496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 28,
+          "text": "khối ngoài trời",
+          "bbox": [
+            220.17703247070312,
+            316.52362060546875,
+            282.2394714355469,
+            328.8816833496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 29,
+          "text": "sản phẩm",
+          "bbox": [
+            397.9603271484375,
+            316.52362060546875,
+            440.1247253417969,
+            328.8816833496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 30,
+          "text": "trần nối ống, áp trần, tủ đứng), Điều",
+          "bbox": [
+            37.006378173828125,
+            330.13385009765625,
+            192.35435485839844,
+            342.4919128417969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 31,
+          "text": "5-Year Warranty for Compressor from",
+          "bbox": [
+            219.5124053955078,
+            330.13385009765625,
+            382.9661865234375,
+            342.4919128417969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 32,
+          "text": "Warranty based on the product’s",
+          "bbox": [
+            397.2956848144531,
+            330.13385009765625,
+            539.1910400390625,
+            342.4919128417969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 33,
+          "text": "warranty period",
+          "bbox": [
+            397.2956848144531,
+            343.74407958984375,
+            468.7355651855469,
+            356.1021423339844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 34,
+          "text": "hòa không khí Multi Split (bao gồm\ncassette, âm trần nối ống, treo tường).",
+          "bbox": [
+            37.006378173828125,
+            343.74407958984375,
+            203.4861602783203,
+            369.7122497558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 35,
+          "text": "production date (issue date) of outdoor\nunit",
+          "bbox": [
+            219.5124053955078,
+            343.74407958984375,
+            389.9074401855469,
+            369.7122497558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 36,
+          "text": "Compressor of Commercial Air",
+          "bbox": [
+            36.34174728393555,
+            370.96441650390625,
+            169.90760803222656,
+            383.3224792480469
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 37,
+          "text": "Conditioners (including Cassette,",
+          "bbox": [
+            36.34174728393555,
+            384.57464599609375,
+            179.64337158203125,
+            396.9327087402344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 38,
+          "text": "Ducted, Ceiling-suspended, and Floor-\nStanding units) and Multi-Split Air",
+          "bbox": [
+            36.34174728393555,
+            398.18487548828125,
+            201.77357482910156,
+            424.1530456542969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 39,
+          "text": "Conditioners (including Cassette,",
+          "bbox": [
+            36.34174728393555,
+            425.40521240234375,
+            179.64337158203125,
+            437.7632751464844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 40,
+          "text": "Ducted, and Wall-Mounted units).",
+          "bbox": [
+            36.34174728393555,
+            439.01544189453125,
+            181.9661865234375,
+            451.3735046386719
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 41,
+          "text": "MÁY NÉN của Tủ lạnh",
+          "bbox": [
+            37.006378173828125,
+            480.41314697265625,
+            133.70225524902344,
+            492.7712097167969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 42,
+          "text": "Bảo hành 12 năm kể từ ngày sản xuất",
+          "bbox": [
+            220.17703247070312,
+            480.41314697265625,
+            382.26007080078125,
+            492.7712097167969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 43,
+          "text": "Bảo hành theo thời hạn bảo hành của",
+          "bbox": [
+            397.9603271484375,
+            480.41314697265625,
+            558.5968017578125,
+            492.7712097167969
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 44,
+          "text": "Compressor of Fridge",
+          "bbox": [
+            36.34174728393555,
+            494.02337646484375,
+            131.7355499267578,
+            506.3814392089844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 45,
+          "text": "sản phẩm",
+          "bbox": [
+            220.17703247070312,
+            494.02337646484375,
+            262.3414001464844,
+            506.3814392089844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 46,
+          "text": "sản phẩm",
+          "bbox": [
+            397.9603271484375,
+            494.02337646484375,
+            440.1247253417969,
+            506.3814392089844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 47,
+          "text": "12-Year Warranty for Compressor from\nproduction date (issue date)",
+          "bbox": [
+            219.5124053955078,
+            507.63360595703125,
+            388.15618896484375,
+            533.6017456054688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 48,
+          "text": "Warranty based on the product’s\nwarranty period",
+          "bbox": [
+            397.2956848144531,
+            507.63360595703125,
+            539.1910400390625,
+            533.6017456054688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 49,
+          "text": "ĐỘNG CƠ GIẶT của Máy giặt",
+          "bbox": [
+            37.006378173828125,
+            562.6414184570312,
+            164.79701232910156,
+            574.9994506835938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 50,
+          "text": "Bảo hành 12 năm kể từ ngày sản xuất",
+          "bbox": [
+            220.17703247070312,
+            562.6414184570312,
+            382.26007080078125,
+            574.9994506835938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 51,
+          "text": "Bảo hành theo thời hạn bảo hành của",
+          "bbox": [
+            397.9603271484375,
+            562.6414184570312,
+            558.5968017578125,
+            574.9994506835938
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 52,
+          "text": "Washing Motor of Washer",
+          "bbox": [
+            36.34174728393555,
+            576.2516479492188,
+            150.34521484375,
+            588.6096801757812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 53,
+          "text": "sản phẩm",
+          "bbox": [
+            220.17703247070312,
+            576.2516479492188,
+            262.3414001464844,
+            588.6096801757812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 54,
+          "text": "sản phẩm",
+          "bbox": [
+            397.9603271484375,
+            576.2516479492188,
+            440.1247253417969,
+            588.6096801757812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 55,
+          "text": "12-Year Warranty for Washing Motor\nfrom production date (issue date)",
+          "bbox": [
+            219.5124053955078,
+            589.8618774414062,
+            378.6563415527344,
+            615.8300170898438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 56,
+          "text": "Warranty based on the product’s\nwarranty period",
+          "bbox": [
+            397.2956848144531,
+            589.8618774414062,
+            539.1910400390625,
+            615.8300170898438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 57,
+          "text": "BÌNH CHỨA của Bình nước nóng gián",
+          "bbox": [
+            37.006378173828125,
+            644.8696899414062,
+            205.92701721191406,
+            657.2277221679688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 58,
+          "text": "Bảo hành 12 năm kể từ ngày sản xuất",
+          "bbox": [
+            220.17703247070312,
+            644.8696899414062,
+            382.26007080078125,
+            657.2277221679688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 59,
+          "text": "Bảo hành 5 năm kể từ ngày sản xuất",
+          "bbox": [
+            397.9603271484375,
+            644.8696899414062,
+            554.8508911132812,
+            657.2277221679688
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 60,
+          "text": "tiếp.\nSTORAGE TANK of Storage Heater Water",
+          "bbox": [
+            36.34174728393555,
+            658.4800415039062,
+            210.0576629638672,
+            684.4481811523438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 61,
+          "text": "sản phẩm\n12-Year Warranty for Storage Tank",
+          "bbox": [
+            219.5124053955078,
+            658.4800415039062,
+            368.5575866699219,
+            684.4481811523438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 62,
+          "text": "(xuất phiếu)\n5-Year Warranty for Storage Tank from",
+          "bbox": [
+            397.2956848144531,
+            658.4800415039062,
+            564.1701049804688,
+            684.4481811523438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 63,
+          "text": "from production date (issue date)",
+          "bbox": [
+            219.5124053955078,
+            685.7005004882812,
+            364.919189453125,
+            698.0585327148438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 64,
+          "text": "production date (issue date)",
+          "bbox": [
+            397.2956848144531,
+            685.7005004882812,
+            519.6830444335938,
+            698.0585327148438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 65,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n3/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "BƠM TĂNG ÁP của Máy nước nóng\ntrực tiếp",
+          "bbox": [
+            37.006378173828125,
+            43.18522644042969,
+            192.98826599121094,
+            69.15339660644531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "Bảo hành 5 năm kể từ ngày sản xuất sản phẩm\n5-Year Warranty from production date (issue date)",
+          "bbox": [
+            219.5124053955078,
+            43.18522644042969,
+            435.6466369628906,
+            69.15339660644531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": "BOOSTER PUMP of Home Shower",
+          "bbox": [
+            37.006378173828125,
+            70.40568542480469,
+            179.3871307373047,
+            82.76374816894531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "ĐỘNG CƠ của Quạt Trần DC sản xuất\ntại Việt Nam",
+          "bbox": [
+            37.006378173828125,
+            111.80339050292969,
+            202.8057098388672,
+            137.7715606689453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": "Bảo hành 5 năm kể từ ngày sản xuất (xuất phiếu) với sản phẩm được mua từ ngày\n1/10/2025",
+          "bbox": [
+            220.17703247070312,
+            111.80339050292969,
+            570.2506103515625,
+            137.7715606689453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "MOTOR of DC Ceiling Fans made in\nVietnam",
+          "bbox": [
+            36.34174728393555,
+            139.0238494873047,
+            188.2269287109375,
+            164.9920196533203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 8,
+          "text": "5-Year Warranty from production date (issue date) for products purchased from\nOctober 1st, 2025",
+          "bbox": [
+            219.5124053955078,
+            139.0238494873047,
+            560.75146484375,
+            164.9920196533203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 9,
+          "text": "- Đối với linh kiện thay thế (khi sản phẩm hỏng hóc mà phải thay thế linh kiện): Áp dụng thời hạn bảo hành như sau:\nFor replacement part (when the product malfunctions and the part need to be replaced): shall be applied warranty period as\nbelow:",
+          "bbox": [
+            36.34174728393555,
+            189.4950408935547,
+            567.089111328125,
+            229.0733184814453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 10,
+          "text": "+ Nếu sản phẩm còn trong phạm vi bảo hành - In-warranty product:\nLinh kiện thay thế trong thời gian bảo hành của sản phẩm sẽ được bảo hành theo thời hạn còn lại của sản phẩm.",
+          "bbox": [
+            36.34174728393555,
+            230.3256072998047,
+            516.2846069335938,
+            256.2937927246094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 11,
+          "text": "The warranty period for replaced spare parts shall follow the remaining warranty period of the original product.\n+ Nếu sản phẩm ngoài phạm vi bảo hành (sửa chữa có thu phí) - Out-of-warranty product (Repair with Fee/RWF):\nLinh kiện thay thế trong dịch vụ sửa chữa có thu phí thực hiện bởi Trung Tâm Dịch Vụ Khách Hàng (TTDVKH) Panasonic Việt",
+          "bbox": [
+            36.34174728393555,
+            257.54608154296875,
+            559.7373046875,
+            297.1243591308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 12,
+          "text": "Nam sẽ được bảo hành 03 (ba) tháng kể từ ngày thay thế.\nReplacement parts used in paid repair services performed by the Panasonic Service Center Vietnam will be warranted for 03",
+          "bbox": [
+            36.34174728393555,
+            298.37664794921875,
+            565.72802734375,
+            324.3448181152344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 13,
+          "text": "(three) months from the date of replacement.",
+          "bbox": [
+            36.34174728393555,
+            325.59710693359375,
+            232.94085693359375,
+            337.9551696777344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 14,
+          "text": "Giải thích các chú thích /Remarks explanation:\n(*) Điều kiện khi KHBHĐT:",
+          "bbox": [
+            37.006378173828125,
+            348.28070068359375,
+            242.75961303710938,
+            374.2488708496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 15,
+          "text": "Conditions for EWR\n- Ngày KHBHĐT và ngày mua trong KHBHĐT phải trong vòng 3 tháng kể từ ngày phát hành hóa đơn mua hàng và trước ngày\ngửi yêu cầu bảo hành tới Panasonic Việt Nam.",
+          "bbox": [
+            36.34174728393555,
+            375.50115966796875,
+            568.5386352539062,
+            415.0794372558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 16,
+          "text": "The EWR date and the purchase date recorded in the system of EWR must be within 3 months of the invoice date and prior to\nthe date the warranty claim is submitted to Panasonic Vietnam.",
+          "bbox": [
+            36.34174728393555,
+            416.33172607421875,
+            571.0723266601562,
+            442.2998962402344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 17,
+          "text": "(**) Hóa đơn mua hàng cần đáp ứng các điều kiện sau:\nThe purchase invoice must meet the following conditions\n- Hóa đơn mua hàng là hóa đơn điện tử hợp lệ được xuất cho người tiêu dùng theo quy định của nhà nước, trong đó có thể",
+          "bbox": [
+            36.34174728393555,
+            452.62567138671875,
+            559.6919555664062,
+            492.2039489746094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 18,
+          "text": "hiện rõ ràng và đầy đủ: Thông tin người bán, thông tin người mua, thông tin sản phẩm và ngày xuất hóa đơn.\nThe purchase invoice must be a valid electronic invoice issued to the consumer in accordance with government regulations. It",
+          "bbox": [
+            36.34174728393555,
+            493.45623779296875,
+            573.05029296875,
+            519.4243774414062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 19,
+          "text": "must clearly and fully display such as seller information, buyer information, product details, and the date of issuance.\n- Panasonic Việt Nam có thể đề nghị khách hàng xuất trình hóa đơn mua hàng trong những trường hợp cần xác minh thêm\nthông tin.",
+          "bbox": [
+            36.34174728393555,
+            520.6766967773438,
+            561.2890014648438,
+            560.2549438476562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 20,
+          "text": "Panasonic Vietnam may request that customers present their purchase invoice in cases where further information verification\nis required",
+          "bbox": [
+            36.34174728393555,
+            561.5072631835938,
+            574.2479858398438,
+            587.4754028320312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 21,
+          "text": "(***) Ngày sản xuất (xuất phiếu) của Điều hòa không khí được quy định như sau:",
+          "bbox": [
+            37.006378173828125,
+            597.8009643554688,
+            401.93182373046875,
+            610.1589965820312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 22,
+          "text": "The Production Date (Issue Date) for Air Conditioners is determined as follows\n- Điều hòa không khí cục bộ treo tường/ Consumer Air- conditioner (RAC):",
+          "bbox": [
+            36.34174728393555,
+            611.4113159179688,
+            371.1931457519531,
+            637.3794555664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 23,
+          "text": "o Kiểu máy CU/CS-***AKH-8, CU/CS-***BKH-8, CU/CS-***CKH-8D: là ngày sản xuất (xuất phiếu) của khối trong nhà.\nModels CU/CS-***AKH-8, CU/CS-*BKH-8, CU/CS-***CKH-8D: Based on the production date (issue date) of the indoor unit.\no Kiểu máy CU/CS-***UKH-8, CU/CS-***WKH-8, CU/CS-***XKH-8/8B, CU/CS-***ZKH-8: là ngày sản xuất (xuất phiếu) của",
+          "bbox": [
+            59.02541732788086,
+            647.7052612304688,
+            575.5638427734375,
+            687.2835083007812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 24,
+          "text": "khối ngoài trời.\nModels CU/CS-***UKH-8, CU/CS-***WKH-8, CU/CS-***XKH-8/8B, CU/CS-*ZKH-8: Based on the production date (issue",
+          "bbox": [
+            59.02541732788086,
+            688.5358276367188,
+            557.3716430664062,
+            714.5039672851562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 25,
+          "text": "date) of the outdoor unit",
+          "bbox": [
+            59.02541732788086,
+            715.7562866210938,
+            167.45777893066406,
+            728.1143188476562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 26,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n4/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "- Điều hòa không khí cục bộ thương mại (bao gồm cassette, âm trần nối ống, áp trần, tủ đứng): là ngày sản xuất (xuất\nphiếu) của khối trong nhà.",
+          "bbox": [
+            36.34174728393555,
+            29.007980346679688,
+            549.6118774414062,
+            54.97615432739258
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "Commercial Air Conditioners (Including Cassette, Ducted, Ceiling-suspended, and Floor-Standing units): Based on the\nproduction date (issue date) of the indoor unit.",
+          "bbox": [
+            36.34174728393555,
+            56.22843933105469,
+            537.6456909179688,
+            82.19660949707031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": "- Điều hòa không khí Multi Split (bao gồm cassette, âm trần nối ống, treo tường): là ngày sản xuất (xuất phiếu) của khối\nngoài trời.\nMulti-Split Air Conditioners (including Cassette, Ducted, and Wall-Mounted units): Based on the production date (issue date) of",
+          "bbox": [
+            36.34174728393555,
+            92.52238464355469,
+            575.2097778320312,
+            132.1006622314453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "the outdoor unit.",
+          "bbox": [
+            36.34174728393555,
+            133.3529510498047,
+            112.09149169921875,
+            145.7110137939453
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": "2. Danh mục sản phẩm được bảo hành tại nhà (công trình):\nProduct categories eligible for in-home/on-site warranty service",
+          "bbox": [
+            36.34174728393555,
+            156.0365447998047,
+            310.33746337890625,
+            182.0047149658203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "STT\nNo.",
+          "bbox": [
+            51.325374603271484,
+            206.5077362060547,
+            69.23184967041016,
+            232.4759063720703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 8,
+          "text": "Sản phẩm\nProduct categories",
+          "bbox": [
+            292.55206298828125,
+            206.5077362060547,
+            375.8236999511719,
+            232.4759063720703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 9,
+          "text": "1\nTủ lạnh, tủ đông, tủ mát, tủ rượu",
+          "bbox": [
+            56.81028747558594,
+            261.51556396484375,
+            230.82003784179688,
+            273.8736267089844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 10,
+          "text": "Fridge, Chest Freezer, Cold Chain, Wine Cellar",
+          "bbox": [
+            90.21546173095703,
+            275.12591552734375,
+            285.4082946777344,
+            287.4839782714844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 11,
+          "text": "2\nMáy giặt, Máy sấy quần áo, Tủ chăm sóc quần áo\nWasher, Tumble Dryer, Clothing Care Machine",
+          "bbox": [
+            56.81028747558594,
+            316.52362060546875,
+            298.88916015625,
+            342.4917907714844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 13,
+          "text": "3\nĐiều hòa không khí\nAir-conditioner",
+          "bbox": [
+            56.81028747558594,
+            398.75189208984375,
+            173.75706481933594,
+            424.7200622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 14,
+          "text": "4\nTivi (LCD/LED/OLED)",
+          "bbox": [
+            56.81028747558594,
+            453.75970458984375,
+            176.63336181640625,
+            466.1177673339844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 16,
+          "text": "5\nBếp từ\nInduction Heating Cooktop",
+          "bbox": [
+            56.81028747558594,
+            508.76776123046875,
+            208.6014404296875,
+            534.7359008789062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 17,
+          "text": "6\nBình nước nóng gián tiếp, Máy nước nóng trực tiếp\nStorage Water Heater, Electric Home Shower",
+          "bbox": [
+            56.81028747558594,
+            563.7755737304688,
+            308.588623046875,
+            589.7437133789062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 19,
+          "text": "7\nMáy bơm",
+          "bbox": [
+            56.81028747558594,
+            646.0038452148438,
+            130.83963012695312,
+            658.3618774414062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 20,
+          "text": "Water Pump",
+          "bbox": [
+            90.21546173095703,
+            659.6141967773438,
+            146.3121337890625,
+            671.9722290039062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 21,
+          "text": "STT",
+          "bbox": [
+            51.555824279785156,
+            710.6522827148438,
+            67.24385070800781,
+            723.0103149414062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 22,
+          "text": "Sản phẩm",
+          "bbox": [
+            310.8585510253906,
+            710.6522827148438,
+            355.7540588378906,
+            723.0103149414062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 23,
+          "text": "No.",
+          "bbox": [
+            51.325374603271484,
+            724.2626342773438,
+            69.23184967041016,
+            736.6206665039062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 24,
+          "text": "Product categories",
+          "bbox": [
+            292.55206298828125,
+            724.2626342773438,
+            375.8236999511719,
+            736.6206665039062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 25,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n5/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "8\nKhóa điện tử",
+          "bbox": [
+            56.81028747558594,
+            43.18522644042969,
+            145.4569549560547,
+            55.54329299926758
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "Elock",
+          "bbox": [
+            90.21546173095703,
+            56.79557800292969,
+            115.3807144165039,
+            69.15364074707031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "9\nQuạt trần, Quạt thông gió âm trần có nối ống, Quạt hút công nghiệp, Quạt thu hồi nhiệt ERV\nCeiling Fan, Ceiling Ventilating Fan, Industrial Ventilating Fan, Energy recovery ventilator",
+          "bbox": [
+            56.81028747558594,
+            98.19328308105469,
+            484.1872253417969,
+            124.16145324707031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "10\nMáy tạo nước kiềm\nAlkaline Ionizer",
+          "bbox": [
+            54.21406936645508,
+            153.2010955810547,
+            172.21458435058594,
+            179.1692657470703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "11\nMáy lọc nước, Máy lọc nước tại vòi, Máy lọc nước RO",
+          "bbox": [
+            54.21406936645508,
+            208.2089080810547,
+            312.97113037109375,
+            220.5669708251953
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "Water Purifier, RO Water Purifier",
+          "bbox": [
+            90.21546173095703,
+            221.8192596435547,
+            230.4502716064453,
+            234.1773223876953
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "12\nMáy rửa bát\nDishwasher",
+          "bbox": [
+            54.21406936645508,
+            263.21697998046875,
+            143.26344299316406,
+            289.1851501464844
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 9,
+          "text": "13\nLò vi sóng công nghiệp, Lò nướng âm tủ: NE-1753YYE, HL-CK632BYUE, HL-CX672BYUE",
+          "bbox": [
+            54.21406936645508,
+            318.22479248046875,
+            455.5424499511719,
+            330.5828552246094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 10,
+          "text": "Commercial Microwave Oven, Built-In Convection Steam Oven",
+          "bbox": [
+            90.21546173095703,
+            331.83514404296875,
+            357.12481689453125,
+            344.1932067871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 11,
+          "text": "14\nNắp bồn cầu điện tử\nElectric Toilet Seat",
+          "bbox": [
+            54.21406936645508,
+            373.23284912109375,
+            177.66773986816406,
+            399.2010192871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 12,
+          "text": "Những sản phẩm không có trong danh sách trên đề nghị khách hàng liên hệ Panasonic Việt Nam để được thông báo chính\nthức về chính sách bảo hành tại nhà/công trình.",
+          "bbox": [
+            37.006378173828125,
+            423.70404052734375,
+            558.9116821289062,
+            449.6719665527344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 13,
+          "text": "For products not included in the above list, customers are requested to contact Panasonic Vietnam for official notification",
+          "bbox": [
+            36.34174728393555,
+            450.92425537109375,
+            554.3045654296875,
+            463.2823181152344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 14,
+          "text": "regarding the in-home/on-site warranty policy.",
+          "bbox": [
+            36.34174728393555,
+            464.53460693359375,
+            237.8768310546875,
+            476.8926696777344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 15,
+          "text": "Trong một số trường hợp sản phẩm lắp đặt tại vị trí khó tiếp cận, Panasonic Việt Nam có thể yêu cầu khách hàng hỗ trợ cung",
+          "bbox": [
+            37.006378173828125,
+            487.21820068359375,
+            567.0596923828125,
+            499.5762634277344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 16,
+          "text": "cấp các thiết bị/phương tiện phù hợp để kỹ thuật viên tiếp cận sản phẩm một cách an toàn.\nIn certain cases where the product is installed in a difficult-to-access location, Panasonic Vietnam may request the customer to",
+          "bbox": [
+            36.34174728393555,
+            500.82855224609375,
+            576.6251831054688,
+            526.7964477539062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 17,
+          "text": "provide suitable equipment or facilities to ensure technicians can access the product safely.",
+          "bbox": [
+            36.34174728393555,
+            528.0487670898438,
+            427.1582336425781,
+            540.4067993164062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 18,
+          "text": "Đối với các sản phẩm không áp dụng bảo hành tại nhà (công trình), khách hàng vui lòng chuyển sản phẩm đến TTDVKH",
+          "bbox": [
+            37.006378173828125,
+            550.7323608398438,
+            544.8569946289062,
+            563.0903930664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 19,
+          "text": "Panasonic Việt Nam hoặc Trung Tâm Dịch Vụ Ủy Quyền (TTDVUQ) Panasonic Việt Nam để được bảo hành.",
+          "bbox": [
+            37.006378173828125,
+            564.3427124023438,
+            484.3823547363281,
+            576.7007446289062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 20,
+          "text": "For products not eligible for in-home/on-site warranty service, customers are kindly requested to bring the product to the\nPanasonic Customer Service Center or Panasonic Authorized Service Center (ASC) for warranty support.",
+          "bbox": [
+            36.34174728393555,
+            577.9530639648438,
+            556.0465698242188,
+            603.9209594726562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 21,
+          "text": "* Một số trường hợp sau đây không áp dụng bảo hành tại nhà (công trình):\nThe following cases are not eligible for in-home/on-site warranty service",
+          "bbox": [
+            36.34174728393555,
+            614.2470092773438,
+            375.5462341308594,
+            640.2149047851562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 22,
+          "text": "- Sản phẩm được lắp đặt và sử dụng ngoài lãnh thổ Việt Nam.",
+          "bbox": [
+            37.006378173828125,
+            641.4672241210938,
+            298.4127502441406,
+            653.8252563476562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 23,
+          "text": "Products installed and used outside the territory of Vietnam\n- Sản phẩm được lắp đặt và sử dụng tại vị trí khó tiếp cận hoặc không an toàn cho kỹ thuật viên khi tiếp cận.",
+          "bbox": [
+            36.34174728393555,
+            655.0775756835938,
+            494.72607421875,
+            681.0454711914062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 24,
+          "text": "Products installed in difficult-to-access locations or locations that are unsafe for technicians to access",
+          "bbox": [
+            36.34174728393555,
+            682.2977905273438,
+            468.6965026855469,
+            694.6558227539062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 25,
+          "text": "- Sản phẩm được lắp đặt và sử dụng trên các phương tiện, địa điểm mà không thể tiếp cận được bằng các phương tiện giao\nthông công cộng thông dụng.",
+          "bbox": [
+            37.006378173828125,
+            695.9081420898438,
+            561.6156616210938,
+            721.8760375976562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 26,
+          "text": "Products installed on vehicles or at locations that cannot be reached by common public transportation",
+          "bbox": [
+            36.34174728393555,
+            723.1283569335938,
+            474.4037170410156,
+            735.4863891601562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 27,
+          "text": "- Sản phẩm được lắp đặt tại địa điểm mà chính quyền sở tại quy định là nơi giới hạn hoặc cấm tiếp cận.",
+          "bbox": [
+            37.006378173828125,
+            736.7387084960938,
+            473.1766662597656,
+            749.0967407226562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 28,
+          "text": "Products installed at locations designated by local authorities as restricted or prohibited areas",
+          "bbox": [
+            36.34174728393555,
+            750.3490600585938,
+            438.7904357910156,
+            762.7070922851562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 29,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n6/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "- Sản phẩm được lắp đặt tại địa điểm không đủ điều kiện để thực hiện dịch vụ như: không cung cấp được nguồn điện, nguồn\nnước, kích thước lỗ thăm trần, không gian thao tác kiểm tra/sửa chữa… theo tiêu chuẩn của sản phẩm.",
+          "bbox": [
+            37.006378173828125,
+            29.007980346679688,
+            566.6151733398438,
+            54.97591018676758
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "The product is installed in a location that does not provide the necessary conditions for service performance, such as electrical",
+          "bbox": [
+            36.34174728393555,
+            56.22819519042969,
+            575.5908203125,
+            68.58625793457031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "power, water supply, ceiling inspection openings of adequate dimensions, and sufficient workspace for inspection or repair, as\nrequired by the product's technical and service standards.",
+          "bbox": [
+            36.34174728393555,
+            69.83854675292969,
+            574.4567260742188,
+            95.80647277832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "- Khu vực làm việc không đảm bảo an toàn sức khỏe, tinh thần và tính mạng của kỹ thuật viên.",
+          "bbox": [
+            36.34174728393555,
+            97.05876159667969,
+            439.9065246582031,
+            109.41682434082031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "Workspaces that do not ensure the health, mental well-being, or physical safety of the technicians.",
+          "bbox": [
+            36.34174728393555,
+            110.66911315917969,
+            457.7720642089844,
+            123.02717590332031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "3. Trường hợp ngoài phạm vi bảo hành (áp dụng dịch vụ có thu phí):",
+          "bbox": [
+            37.006378173828125,
+            133.3527069091797,
+            343.3989562988281,
+            145.7107696533203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 8,
+          "text": "Cases outside the warranty scope - chargeable services shall apply",
+          "bbox": [
+            36.34174728393555,
+            146.9630584716797,
+            321.4615478515625,
+            159.3211212158203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 9,
+          "text": "3.1 Sản phẩm hư hỏng hoặc phát sinh các hiện tượng bất thường do vận chuyển, lắp đặt, sử dụng không đúng theo sách",
+          "bbox": [
+            37.006378173828125,
+            169.6466522216797,
+            551.2719116210938,
+            182.0047149658203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 10,
+          "text": "hướng dẫn, nguồn điện không ổn định, sử dụng sai điện thế, sử dụng nguồn nước yếu, dơ, phèn, nhiễm mặn…hoặc các hao\nmòn thông thường (ví dụ như trầy, xước, vết cắt, rỉ sét, ăn mòn, xói mòn, vết lõm, hư hỏng dần dần...), bảo quản không tốt, bị",
+          "bbox": [
+            37.006378173828125,
+            183.2570037841797,
+            570.462158203125,
+            209.2249298095703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 11,
+          "text": "tác động bởi các yếu tố như kết cấu công trình, nhiệt độ, độ ẩm, nước, bụi, cặn bẩn, động vật, côn trùng, vật lạ… hoặc hư hỏng",
+          "bbox": [
+            37.006378173828125,
+            210.4772186279297,
+            574.6906127929688,
+            222.8352813720703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 12,
+          "text": "gây ra do sử dụng các hóa chất tẩy rửa.\nProduct damage or abnormalities resulting from improper transportation, installation, or usage not in accordance with the",
+          "bbox": [
+            36.34174728393555,
+            224.0875701904297,
+            561.6087036132812,
+            250.0554962158203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 13,
+          "text": "instruction manual; unstable power supply, incorrect voltage, usage of weak, dirty, alum-contaminated, saline water sources,",
+          "bbox": [
+            36.34174728393555,
+            251.3077850341797,
+            570.1558837890625,
+            263.6658630371094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 14,
+          "text": "etc or normal wear and tear (e.g., scratches, scuffs, cuts, rust, corrosion, erosion, dents, gradual deterioration, etc.); improper\nstorage; impacts from structural building elements, temperature, humidity, water, dust, debris, animals, insects, foreign",
+          "bbox": [
+            36.34174728393555,
+            264.91815185546875,
+            572.0068359375,
+            290.8860778808594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 15,
+          "text": "objects, etc or damage caused by the use of cleaning chemicals.",
+          "bbox": [
+            36.34174728393555,
+            292.13836669921875,
+            311.199462890625,
+            304.4964294433594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 16,
+          "text": "3.2 Sản phẩm hư hỏng do bị rơi hoặc do tác động bên ngoài, hỏa hoạn, sấm sét, lũ lụt hoặc tai nạn khác do thiên\nnhiên.Damage resulting from drops or external impacts, fire, lightning, floods, or other natural disasters and accidents.",
+          "bbox": [
+            37.006378173828125,
+            305.74871826171875,
+            546.6859741210938,
+            331.7166442871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 17,
+          "text": "3.3 Số máy trên sản phẩm và trên phiếu bảo hành không giống nhau hoặc bị cạo sửa, xóa mất. Phiếu bảo hành không hợp lệ.",
+          "bbox": [
+            37.006378173828125,
+            332.96893310546875,
+            569.9631958007812,
+            345.3269958496094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 18,
+          "text": "Mismatched serial numbers between the product and the warranty card, or if the serial number has been altered or erased.",
+          "bbox": [
+            36.34174728393555,
+            346.57928466796875,
+            564.8569946289062,
+            358.9373474121094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 19,
+          "text": "Invalid warranty cards.\n3.4 Các bộ phận trong máy bị thay đổi hoặc máy đã bị tháo gỡ, sửa chữa ở những nơi không phải là TTDVKH Panasonic Việt",
+          "bbox": [
+            36.34174728393555,
+            360.18963623046875,
+            560.74462890625,
+            386.1575622558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 20,
+          "text": "Nam hoặc TTDVUQ Panasonic Việt Nam. Sản phẩm bị rách niêm phong của nhà sản xuất (nếu có).",
+          "bbox": [
+            37.006378173828125,
+            387.40985107421875,
+            452.2078552246094,
+            399.7679138183594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 21,
+          "text": "Internal components have been modified, or the unit has been disassembled or repaired by unauthorized parties other than\nPanasonic Customer Service Center or ASC. The manufacturer’s factory seal (if any) is broken.",
+          "bbox": [
+            36.34174728393555,
+            401.02020263671875,
+            568.7586059570312,
+            426.9881286621094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 22,
+          "text": "3.5 Các bộ phận dễ hư hỏng và tiêu hao như pin, lưỡi xay, ly xay, đế cối xay, màng lọc, lưới lọc, lõi lọc, túi bụi, lưỡi dao cạo…",
+          "bbox": [
+            37.006378173828125,
+            428.24041748046875,
+            559.6194458007812,
+            440.5984802246094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 23,
+          "text": "Perishable or consumable parts, such as batteries, grinding blades, blending jars, jar bases, filters, filter meshes, filter\ncartridges, dust bags, shaver blades, etc.",
+          "bbox": [
+            36.34174728393555,
+            441.85076904296875,
+            540.08642578125,
+            467.8186950683594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 24,
+          "text": "3.6 Máy giặt và Máy sấy quần áo gia dụng lắp đặt tại cửa hàng giặt là, khách sạn, nhà nghỉ, bệnh viện, trường học, nhà hàng,",
+          "bbox": [
+            37.006378173828125,
+            469.07098388671875,
+            567.5224609375,
+            481.4290466308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 25,
+          "text": "ký túc xá..., hoặc sử dụng vào các hoạt động kinh doanh thương mại.",
+          "bbox": [
+            37.006378173828125,
+            482.68133544921875,
+            330.00653076171875,
+            495.0393981933594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 26,
+          "text": "Household washing machines and clothes dryers installed in laundromats, hotels, motels, hospitals, schools, restaurants,\ndormitories, etc; or used for commercial business purposes.",
+          "bbox": [
+            36.34174728393555,
+            496.29168701171875,
+            554.5948486328125,
+            522.2595825195312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 27,
+          "text": "3.7 Sản phẩm Gia dụng Gia đình (Tủ lạnh), Gia dụng Nhà bếp (Lò vi sóng, Lò hấp, Lò nướng, Máy rửa bát, Máy xay, Máy ép, Nồi",
+          "bbox": [
+            37.006378173828125,
+            523.5119018554688,
+            574.1279296875,
+            535.8699340820312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 28,
+          "text": "chiên không dầu, Máy đánh trứng…), Sức khỏe và Làm đẹp (Máy sấy tóc, Máy tạo kiểu tóc, Tông đơ…) sử dụng vào các hoạt\nđộng kinh doanh thương mại.",
+          "bbox": [
+            37.006378173828125,
+            537.1222534179688,
+            558.8482666015625,
+            563.0901489257812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 29,
+          "text": "Home Appliances (Fridge), Kitchen Appliances (Microwave Oven, Convection Steam Oven, Toaster Oven, Dishwasher, Blender,",
+          "bbox": [
+            36.34174728393555,
+            564.3424682617188,
+            569.5026245117188,
+            576.7005004882812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 30,
+          "text": "Juicer, Air fryer, Hand Mixer, etc), and Health & Beauty products (Hair dryer, Hair styles, Trimmers, etc) used for commercial\nbusiness purposes.",
+          "bbox": [
+            36.34174728393555,
+            577.9528198242188,
+            556.7362060546875,
+            603.9207153320312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 31,
+          "text": "Các trường hợp sản phẩm hết hạn bảo hành hoặc không đủ điều kiện bảo hành, Panasonic Việt Nam sẽ cung cấp dịch vụ sửa\nchữa có tính phí tại nhà hoặc tại TTDVUQ tùy theo danh mục sản phẩm.",
+          "bbox": [
+            37.006378173828125,
+            614.2467651367188,
+            568.9923095703125,
+            640.2146606445312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 32,
+          "text": "For products that are out of warranty or not eligible for warranty service, Panasonic Vietnam will provide chargeable repair",
+          "bbox": [
+            36.34174728393555,
+            641.4669799804688,
+            560.719482421875,
+            653.8250122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 33,
+          "text": "services either on-site or at an ASC, subject to the applicable product category.",
+          "bbox": [
+            36.34174728393555,
+            655.0773315429688,
+            372.88079833984375,
+            667.4353637695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 34,
+          "text": "4. Tiếp nhận bảo hành và thực hiện bảo hành/ Warranty Receipt and Fulfillment",
+          "bbox": [
+            37.006378173828125,
+            677.7609252929688,
+            388.56951904296875,
+            690.1189575195312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 35,
+          "text": "Sản phẩm đáp ứng đầy đủ điều kiện và thuộc phạm vi bảo hành sẽ được Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt\nNam bảo hành theo một trong các phương thức bảo hành sau:",
+          "bbox": [
+            37.006378173828125,
+            691.3712768554688,
+            570.1990966796875,
+            717.3391723632812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 36,
+          "text": "Products that fully meet the warranty conditions and fall within the warranty scope shall be covered by Panasonic Vietnam",
+          "bbox": [
+            36.34174728393555,
+            718.5914916992188,
+            558.832275390625,
+            730.9495239257812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 37,
+          "text": "and/or ASC through one of the following methods:\n(a) Kiểm tra, cân chỉnh, khắc phục lỗi của sản phẩm; thay thế linh kiện, phụ kiện của sản phẩm; hoặc",
+          "bbox": [
+            36.34174728393555,
+            732.2018432617188,
+            461.53533935546875,
+            758.1697387695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 38,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n7/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "Checking, adjusting, repairing product defects; replacing product’s spare parts and accessories; or\n(b) Đổi sản phẩm bằng một sản phẩm mới tương đương và thu hồi sản phẩm hư hỏng, phù hợp với quy định của Luật áp",
+          "bbox": [
+            36.34174728393555,
+            29.007980346679688,
+            550.6549682617188,
+            54.97591018676758
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "dụng; hoặc thu hồi Sản phẩm và hoàn tiền giá trị hiện tại của sản phẩm ở thời điểm yêu cầu/khiếu nại bảo hành được đưa ra",
+          "bbox": [
+            37.006378173828125,
+            56.22819519042969,
+            565.9799194335938,
+            68.58625793457031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "với Panasonic Việt Nam trong các trường hợp sau:\nExchanging the Product for an equivalent new product and recovering the defective product, in accordance with the provisions",
+          "bbox": [
+            36.34174728393555,
+            69.83854675292969,
+            577.7957153320312,
+            95.80647277832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 5,
+          "text": "of Applicable Law; or recovering the Product and refunding its current value at the time the warranty request/claim is",
+          "bbox": [
+            36.34174728393555,
+            97.05876159667969,
+            537.4006958007812,
+            109.41682434082031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 6,
+          "text": "submitted to Panasonic Vietnam in the following cases:",
+          "bbox": [
+            36.34174728393555,
+            110.66911315917969,
+            273.9892272949219,
+            123.02717590332031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 7,
+          "text": "o Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt Nam không thể sửa chữa khắc phục lỗi hoặc không cung cấp",
+          "bbox": [
+            59.69004821777344,
+            133.3527069091797,
+            552.6329345703125,
+            145.7107696533203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 8,
+          "text": "được linh kiện/ phụ kiện thay thế.\nPanasonic Vietnam and/or ASC are unable to repair the defect or cannot provide replacement spare parts/accessories.",
+          "bbox": [
+            59.02541732788086,
+            146.9630584716797,
+            564.1856079101562,
+            172.9309844970703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 9,
+          "text": "o Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt Nam đã thực hiện bảo hành sản phẩm hoặc linh kiện của sản",
+          "bbox": [
+            59.69004821777344,
+            174.1832733154297,
+            553.1138916015625,
+            186.5413360595703
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 10,
+          "text": "phẩm từ 03 (ba) lần trở lên đối với cùng một lỗi kỹ thuật trong thời hạn bảo hành mà vẫn không khắc phục được lỗi đó.\nPanasonic Vietnam and/or ASC have performed warranty services on the Product or its spare parts/accessories 03 (three)",
+          "bbox": [
+            59.02541732788086,
+            187.7936248779297,
+            576.4982299804688,
+            213.7615509033203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 11,
+          "text": "times or more for the same technical defect within the Warranty Period but still failed to rectify said defect.",
+          "bbox": [
+            59.02541732788086,
+            215.0138397216797,
+            515.642578125,
+            227.3719024658203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 12,
+          "text": "Trong trường hợp hoàn trả giá trị sản phẩm, Khách hàng có trách nhiệm cung cấp hóa đơn mua hàng hợp lệ để làm căn",
+          "bbox": [
+            59.69004821777344,
+            237.6974334716797,
+            569.554931640625,
+            250.0554962158203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 13,
+          "text": "cứ xác nhận thông tin và hoàn tất các thủ tục liên quan.",
+          "bbox": [
+            59.69004821777344,
+            251.3077850341797,
+            295.7995910644531,
+            263.6658630371094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 14,
+          "text": "Refunds: In the event of a refund of the Product's value, the Customer shall be responsible for providing a valid purchase\ninvoice to serve as a basis for information verification and completion of relevant procedures.",
+          "bbox": [
+            59.02541732788086,
+            264.91815185546875,
+            575.6000366210938,
+            290.8860778808594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 15,
+          "text": "Đối với việc đổi hoặc thu hồi sản phẩm theo quy định tại Mục này, quyền sở hữu đối với sản phẩm được đổi hoặc thu hồi\nsẽ mặc nhiên chuyển giao sang cho Panasonic Việt Nam (hoặc bên được Panasonic Việt Nam chỉ định) kể từ thời điểm",
+          "bbox": [
+            59.69004821777344,
+            301.21209716796875,
+            570.0357055664062,
+            327.1800231933594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 16,
+          "text": "việc đổi trả hoặc thu hồi hoàn tất, trừ trường hợp Panasonic Việt Nam có quyết định khác.",
+          "bbox": [
+            59.69004821777344,
+            328.43231201171875,
+            441.52838134765625,
+            340.7903747558594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 17,
+          "text": "Transfer of Ownership: For any Product exchange or recovery as prescribed in this Section, the ownership of the replaced\nor recovered Product shall be automatically transferred to Panasonic Vietnam (or a party designated by Panasonic",
+          "bbox": [
+            59.02541732788086,
+            342.04266357421875,
+            576.6343383789062,
+            368.0105895996094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 18,
+          "text": "Vietnam) from the moment the exchange or recovery is completed, unless otherwise decided by Panasonic Vietnam.",
+          "bbox": [
+            59.02541732788086,
+            369.26287841796875,
+            556.2009887695312,
+            381.6209411621094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 19,
+          "text": "Thời hạn bảo hành của sản phẩm đổi mới sẽ được tính lại từ đầu theo chính sách của sản phẩm mới.",
+          "bbox": [
+            59.69004821777344,
+            391.94647216796875,
+            486.414794921875,
+            404.3045349121094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 20,
+          "text": "The warranty period for the replacement product starts anew according to the new product's policy.",
+          "bbox": [
+            59.02541732788086,
+            405.55682373046875,
+            486.1719665527344,
+            417.9148864746094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 21,
+          "text": "Panasonic Việt Nam chỉ chịu trách nhiệm đối với các hư hỏng của sản phẩm thuộc phạm vi bảo hành theo điều kiện và chính",
+          "bbox": [
+            37.006378173828125,
+            428.24041748046875,
+            564.9909057617188,
+            440.5984802246094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 22,
+          "text": "sách bảo hành hiện hành. Mọi hư hỏng, suy giảm hiệu suất hoặc gián đoạn hoạt động của sản phẩm phát sinh từ các nguyên",
+          "bbox": [
+            37.006378173828125,
+            441.85076904296875,
+            570.0176391601562,
+            454.2088317871094
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 23,
+          "text": "nhân không phải do khiếm khuyết nội tại của sản phẩm, bao gồm nhưng không giới hạn ở các yếu tố bên ngoài bởi lắp đặt, sử\ndụng, bảo quản hoặc vận hành không phù hợp, sẽ không thuộc phạm vi trách nhiệm bảo hành của Panasonic Việt Nam.",
+          "bbox": [
+            37.006378173828125,
+            455.46112060546875,
+            574.79931640625,
+            481.4290466308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 24,
+          "text": "Panasonic Vietnam shall only be held liable for product damages that fall within the scope of warranty in accordance with the",
+          "bbox": [
+            36.34174728393555,
+            482.68133544921875,
+            571.4262084960938,
+            495.0393981933594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 25,
+          "text": "current warranty terms and policies. Any damage, performance degradation, or operational interruption arising from causes\nother than the inherent defects of the product, including but not limited to external factors such as improper installation, use,",
+          "bbox": [
+            36.34174728393555,
+            496.29168701171875,
+            573.8396606445312,
+            522.2595825195312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 26,
+          "text": "storage, or operation shall be excluded from Panasonic Vietnam's warranty liability.",
+          "bbox": [
+            36.34174728393555,
+            523.5119018554688,
+            393.2144775390625,
+            535.8699340820312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 27,
+          "text": "Những nội dung chưa được đề cập tại Chính sách này sẽ áp dụng theo quy định pháp luật hiện hành.",
+          "bbox": [
+            37.006378173828125,
+            546.1954956054688,
+            466.8614807128906,
+            558.5535278320312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 28,
+          "text": "Any matters not addressed in this Policy shall be governed by the applicable laws and regulations in force.",
+          "bbox": [
+            36.34174728393555,
+            559.8058471679688,
+            489.8739929199219,
+            572.1638793945312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 29,
+          "text": "Để được tư vấn, báo giá dịch vụ hoặc hỗ trợ tiếp nhận và xử lý yêu cầu bảo hành, Quý khách vui lòng liên hệ Panasonic Việt",
+          "bbox": [
+            37.006378173828125,
+            582.4894409179688,
+            559.6012573242188,
+            594.8474731445312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 30,
+          "text": "Nam qua các kênh sau:\nFor service consultation, repair quotations, or assistance with warranty claims, please contact Panasonic Vietnam through the",
+          "bbox": [
+            36.34174728393555,
+            596.0997924804688,
+            573.2136840820312,
+            622.0676879882812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 31,
+          "text": "following channels:",
+          "bbox": [
+            36.34174728393555,
+            623.3200073242188,
+            121.55512237548828,
+            635.6780395507812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 32,
+          "text": "√ Tổng đài miễn cước/ Toll-free Number. 18001593",
+          "bbox": [
+            48.34821319580078,
+            646.0036010742188,
+            262.3085632324219,
+            658.3616333007812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 33,
+          "text": "√ Zalo: Dịch vụ khách hàng Panasonic",
+          "bbox": [
+            48.34821319580078,
+            659.6139526367188,
+            216.23455810546875,
+            671.9719848632812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 34,
+          "text": "√ Email: customer@vn.panasonic.com",
+          "bbox": [
+            48.34821319580078,
+            673.2243041992188,
+            209.27761840820312,
+            685.5823364257812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 35,
+          "text": "CÔNG TY TNHH PANASONIC VIỆT NAM",
+          "bbox": [
+            403.7464294433594,
+            695.9078979492188,
+            575.7429809570312,
+            708.2659301757812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 36,
+          "text": "PANASONIC VIETNAM CO., LTD",
+          "bbox": [
+            437.4440002441406,
+            709.5182495117188,
+            578.15966796875,
+            721.8762817382812
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 37,
+          "text": "Ông/ Mr. Nguyễn Hoàng Kim\nTrưởng phòng cấp cao Phòng dịch vụ khách hàng",
+          "bbox": [
+            364.54620361328125,
+            732.2018432617188,
+            575.7401123046875,
+            758.1697387695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 38,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n8/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 9,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 2,
+          "text": "General Manager of Customer Service Department",
+          "bbox": [
+            358.7688903808594,
+            29.007980346679688,
+            578.16064453125,
+            41.36604690551758
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 3,
+          "text": "Tải xuống",
+          "bbox": [
+            37.006378173828125,
+            51.53524398803711,
+            89.4056167602539,
+            66.98282623291016
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 4,
+          "text": "THOI HAN BAO HANH SAN PHAM_nam tai chinh 2026_colour print",
+          "bbox": [
+            37.006378173828125,
+            370.4753112792969,
+            282.9176025390625,
+            381.2886047363281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 5,
+          "text": "Thời hạn bảo hành sản phẩm (áp dụng từ ngày 1_1_2025)",
+          "bbox": [
+            310.9117126464844,
+            370.4753112792969,
+            524.7085571289062,
+            381.2886047363281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 6,
+          "text": "thoi-han-bao-hanh-san-pham_nam-tai-chinh-2026_colour-print\n(PDF / 3.5MB)",
+          "bbox": [
+            37.006378173828125,
+            386.9211120605469,
+            270.6275634765625,
+            409.6430969238281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 7,
+          "text": "Thoi-han-bao-hanh-san-pham-ap-dụng-tu-ngay-1_1_2025\n(PDF / 1.7MB)",
+          "bbox": [
+            310.9117126464844,
+            386.9211120605469,
+            524.3353271484375,
+            409.6430969238281
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 8,
+          "text": "THỜI HẠN BẢO HÀNH ÁP DỤNG CHO SẢN PHẨM MUA TRƯỚC 1.1.2025",
+          "bbox": [
+            37.006378173828125,
+            689.1808471679688,
+            300.3285217285156,
+            699.9942016601562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 9,
+          "text": "online_sda",
+          "bbox": [
+            310.9117126464844,
+            689.1808471679688,
+            350.76690673828125,
+            699.9942016601562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 10,
+          "text": "THỜI-HẠN-BẢO-HÀNH-ÁP-DỤNG-CHO-SẢN-PHẨM-MUA-TRƯỚC-\n1.1.2025",
+          "bbox": [
+            37.006378173828125,
+            705.6266479492188,
+            273.9224853515625,
+            728.3486938476562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 11,
+          "text": "ONLINE_SDA\n(PDF / 6.6MB)",
+          "bbox": [
+            310.9117126464844,
+            705.6266479492188,
+            361.04827880859375,
+            728.3486938476562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 12,
+          "text": "(PDF / 2.0MB)",
+          "bbox": [
+            37.006378173828125,
+            729.4445190429688,
+            87.1429214477539,
+            740.2578735351562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 13,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n9/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 10,
+          "block_index": 1,
+          "text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            456.1917419433594,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 2,
+          "text": "Thời hạn bảo hành sản phẩm_áp dụng từ 28_7_2026\n(PDF / 3.6MB)",
+          "bbox": [
+            37.006378173828125,
+            298.4548034667969,
+            231.68539428710938,
+            321.1767883300781
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 3,
+          "text": "Thời hạn bảo hành sản phẩm",
+          "bbox": [
+            37.006378173828125,
+            358.077880859375,
+            130.42669677734375,
+            367.346435546875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 4,
+          "text": "Facebook\nYouTube\nTikTok\nCommunity\nLinkedIn",
+          "bbox": [
+            195.64144897460938,
+            385.864990234375,
+            406.88983154296875,
+            395.133544921875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 5,
+          "text": "Về Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành",
+          "bbox": [
+            69.02047729492188,
+            405.146240234375,
+            529.547119140625,
+            414.414794921875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 6,
+          "text": "CHÍNH SÁCH COOKIE",
+          "bbox": [
+            272.4735412597656,
+            421.024658203125,
+            340.26593017578125,
+            430.293212890625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 7,
+          "text": "Area/Country",
+          "bbox": [
+            291.79010009765625,
+            438.604736328125,
+            334.5669250488281,
+            447.873291015625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 8,
+          "text": "Copyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360",
+          "bbox": [
+            183.76797485351562,
+            454.483154296875,
+            428.9693298339844,
+            463.751708984375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 9,
+          "text": "https://www.panasonic.com/vn/support/product-warranty-period.html\n10/10",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Chế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010180732+00'00'",
+    "modDate": "D:20261010180732+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "Panasonic Vietnam\n\nCHÍNH SÁCH BẢO HÀNH SẢN PHẨM\n\nPRODUCT WARRANTY POLICY\n\nÁp dụng từ 28/7/2026 đến 31/3/2027\n\nApply from 28th July 2026 to 31st March 2027\n\n1. Thời hạn bảo hành sản phẩm:\nProduct warranty period\nTất cả sản phẩm mang nhãn hiệu Panasonic được Công ty TNHH Panasonic Việt Nam (Panasonic Việt Nam) phân phối và/ hoặc\n\nchịu trách nhiệm bảo hành chính thức tại thị trường Việt Nam được bảo hành theo quy định sau:\nAll Panasonic branded products distributed and/or officially warrantied by Panasonic Vietnam Co., Ltd (Panasonic Vietnam) in\nthe Vietnamese market, are covered by the warranty according to the following regulations:\n\nSẢN PHẨM\n\nXUẤT XỨ\n\nPRODUCTS\n\nORIGIN\n\nSẢN PHẨM ĐÃ ĐƯỢC KÍCH\nHOẠT BẢO HÀNH ĐIỆN TỬ\n\nSẢN PHẨM CHƯA\nKHBHĐT HOẶC KHÔNG\n\n(KHBHĐT)* HOẶC CÓ HÓA\n\nCÓ HÓA ĐƠN MUA\n\nHÀNG\nTHE PRODUCT HAS NOT\n\nBEEN ACTIVATED FOR\n\nĐƠN MUA HÀNG**\nTHE PRODUCT HAS BEEN\nACTIVATED FOR ELECTRONIC\nWARRANTY (EWR) * OR HAS A\n\nPURCHASE INVOICE**\n\nEWR OR HAS NOT A\nPURCHASE INVOICE\n\nNhật Bản\n\nJapan\n\n- Gia dụng Gia đình/ Home Appliances:\nTủ lạnh, Máy giặt, Máy hút bụi.\nFridge, Washer, Vacuum Cleaner\n\nBảo hành 36 tháng kể từ\nngày mua trong KHBHĐT\nhoặc ngày mua trên hóa đơn\n\nBảo hành 39 tháng kể từ\nngày sản xuất (xuất\nphiếu).\n\n- Gia dụng Nhà bếp/ Kitchen appliances:\nBếp điện từ, Nồi cơm điện\nInduction Heating Cooktop, Rice Cooker\n- Sức khỏe và Làm đẹp/ Health and Beauty:\n\nmua hàng và không quá 72\ntháng kể từ ngày sản xuất\n(xuất phiếu).\n36 months warranty for\n\n39 months warranty for\nproducts since\nproduction date (issue\ndate).\n\nMáy tạo nước kiềm, Máy lọc nước tại vòi, Máy\n\nproducts from purchasing\n\ncạo râu, Tông đơ cắt tóc.\nAlkaline Ionizer, Water Purifier, Shaver,\n\ndate of online warranty\nregistration or on financial\n\nProfessional Hair Clipper\n\ninvoice but not exceeding 72\nmonths since production\n\ndate (issue date).\n\n- Gia dụng Gia đình/ Home Appliances:\n\nViệt Nam\n\nBảo hành 24 tháng kể từ\n\nBảo hành 27 tháng kể từ\n\nVietnam\n\nTủ lạnh, Máy giặt/ Fridge, Washer\n- Các giải pháp không khí/ Air solutions:\n\nngày mua trong KHBHĐT\nhoặc ngày mua trên hóa đơn\n\nngày sản xuất (xuất\nphiếu).\n\nQuạt trần, Quạt thông gió âm trần có nối ống,\nQuạt thông gió loại gắn tường.\n\nmua hàng và không quá 60\ntháng kể từ ngày sản xuất\n\n27 months warranty for\nproducts since\n\nCeiling Fan, Ceiling Ventilating Fan, Wall\nVentilating Fan\n\n(xuất phiếu).\n24 months warranty for\n\nproduction date (issue\ndate).\n\nproducts from purchasing\n\ndate of online warranty\n\n1/10\n\nregistration or on financial\ninvoice but not exceeding 60\n\n- Gia dụng Gia đình/ Home Appliances:\n\nCác nước khác\n\nTủ lạnh, Máy giặt, Máy sấy quần áo, Tủ chăm\n\nOther countries\n\nmonths since production\ndate (issue date).\n\nsóc quần áo.\nFridge, Washer, Tumble Dryer, Clothing Care\n\nMachine\n- Tivi và thiết bị Âm thanh/ Television and\n\naudio devices:\nTivi/ TV\n\n- Điều hòa & Các giải pháp không khí:\n\nCác nước khác\n\nBảo hành 12 tháng kể từ\n\nBảo hành 15 tháng kể từ\n\nAir conditioning & Air solutions:\n\nOther countries\n\nngày mua trong KHBHĐT\n\nngày sản xuất (xuất\n\nĐiều hòa không khí cục bộ treo tường.\nConsumer Air- conditioner (RAC)\n\nhoặc ngày mua trên hóa đơn\nmua hàng và không quá 48\n\nphiếu)***.\n15 months warranty for\n\nĐiều hòa không khí cục bộ thương mại (bao\ngồm cassette, âm trần nối ống, áp trần, tủ\n\ntháng kể từ ngày sản xuất\n(xuất phiếu)***.\n\nproducts since\nproduction date (issue\n\nđứng).\n\n12 months warranty for\n\ndate)***.\n\nAir- conditioner (PAC) (includes Cassette, Duct\nType model, Ceiling, Floor Standing Type)\n\nproducts from purchasing\ndate of online warranty\n\nĐiều hòa không khí Multi Split (bao gồm\ncassette, âm trần nối ống, treo tường).\n\nregistration or on financial\ninvoice but not exceeding 48\n\nMulti-split (includes Cassette, Duct Type model,\n\nmonths since production\n\ndate (issue date)***.\n\nWall Mounted Type).\nMáy lọc không khí, Quạt trần, Quạt điện, Quạt\n\nhút, Máy hút ẩm…\n\nAir Purifier, Ceiling Fan, Electric Fan, Industrial\n\nVentilating Fan, Dehumidifier…\n\n- Gia dụng Gia đình/ Home Appliances:\nMáy bơm, Máy nước nóng trực tiếp, Bình nước\n\nnóng dự trữ, Nắp bồn cầu điện tử/cơ, Máy hút\n\nbụi, Bàn ủi…\n\nWater Pump, Electric Home Shower, Storage\n\nWater Heater, Toilet Seat, Vacuum Cleaner, E-\niron…\n\n- Gia dụng Nhà bếp/ Kitchen appliances:\n\nBếp từ, Máy rửa bát, Lò vi sóng, Nồi cơm điện,\n\nMáy xay, Máy ép, Bình thủy điện…\n\nInduction Heating Cooktop, Dishwasher,\nMicrowave Oven, Rice Cooker, Blender, Electric\n\nThermopot, Electric Kettle…\n\n- Sức khỏe và Làm đẹp/ Health and Beauty:\n\nMáy lọc nước, máy lọc nước RO, Máy sấy tóc,\nMáy cạo râu, Sản phẩm chăm sóc mặt, Sản\n\nphẩm chăm sóc răng miệng…\n\nWater Purifier, RO Water Purifier, Hair Dryer,\n\nShaver, Facial care products, Oral care\n\nproducts…\n\nNhững sản phẩm không có trong danh sách trên đề nghị khách hàng liên hệ Panasonic Việt Nam để được thông báo chính\nthức về chính sách bảo hành.\n\nProducts not listed above are advised to contact Panasonic Vietnam for official information regarding the warranty policy.\n\n- Đối với sản phẩm thuộc dự án: Bảo hành theo Điều khoản bảo hành trong hợp đồng mua bán sản phẩm với Panasonic Việt\n\n2/10\n\nNam.\nFor project-based products: Warranty follows the terms of the sales contract signed with Panasonic Vietnam.\n\n- Đối với một số linh kiện đặc biệt lắp sẵn trong sản phẩm bởi nhà sản xuất: Áp dụng thời bảo hành đặc biệt với các điều\n\nkiện như sau:\n\nFor certain special parts pre-installed in products by the manufacturer shall be applied the special warranty period with the\nfollowing conditions:\n\nLINH KIỆN LẮP SẴN ĐẶC BIỆT\n\nSẢN PHẨM ĐÃ ĐƯỢC KHBHĐT\n\nSẢN PHẨM CHƯA KHBHĐT\n\nSPECIAL PRE-INSTALLED PARTS\n\nTHE PRODUCT HAS BEEN ACTIVATED\n\nTHE PRODUCT HAS NOT BEEN ACTIVATED\n\nFOR EWR\n\nFOR EWR\n\nMÁY NÉN của Điều hòa không khí cục\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nbộ treo tường\n\nkhối ngoài trời\n\nsản phẩm\n\nCompressor of Consumer Air-\nconditioner (RAC)\n\n12-Year Warranty for Compressor from\nproduction date (issue date) of outdoor\n\nWarranty based on the product’s\nwarranty period\n\nunit\n\nMÁY NÉN của Điều hòa không khí cục\n\nBảo hành 5 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nbộ thương mại (bao gồm cassette, âm\n\nkhối ngoài trời\n\nsản phẩm\n\ntrần nối ống, áp trần, tủ đứng), Điều\n\n5-Year Warranty for Compressor from\n\nWarranty based on the product’s\n\nwarranty period\n\nhòa không khí Multi Split (bao gồm\ncassette, âm trần nối ống, treo tường).\n\nproduction date (issue date) of outdoor\nunit\n\nCompressor of Commercial Air\n\nConditioners (including Cassette,\n\nDucted, Ceiling-suspended, and Floor-\nStanding units) and Multi-Split Air\n\nConditioners (including Cassette,\n\nDucted, and Wall-Mounted units).\n\nMÁY NÉN của Tủ lạnh\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nCompressor of Fridge\n\nsản phẩm\n\nsản phẩm\n\n12-Year Warranty for Compressor from\nproduction date (issue date)\n\nWarranty based on the product’s\nwarranty period\n\nĐỘNG CƠ GIẶT của Máy giặt\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nWashing Motor of Washer\n\nsản phẩm\n\nsản phẩm\n\n12-Year Warranty for Washing Motor\nfrom production date (issue date)\n\nWarranty based on the product’s\nwarranty period\n\nBÌNH CHỨA của Bình nước nóng gián\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành 5 năm kể từ ngày sản xuất\n\ntiếp.\nSTORAGE TANK of Storage Heater Water\n\nsản phẩm\n12-Year Warranty for Storage Tank\n\n(xuất phiếu)\n5-Year Warranty for Storage Tank from\n\nfrom production date (issue date)\n\nproduction date (issue date)\n\n3/10\n\nBƠM TĂNG ÁP của Máy nước nóng\ntrực tiếp\n\nBảo hành 5 năm kể từ ngày sản xuất sản phẩm\n5-Year Warranty from production date (issue date)\n\nBOOSTER PUMP of Home Shower\n\nĐỘNG CƠ của Quạt Trần DC sản xuất\ntại Việt Nam\n\nBảo hành 5 năm kể từ ngày sản xuất (xuất phiếu) với sản phẩm được mua từ ngày\n1/10/2025\n\nMOTOR of DC Ceiling Fans made in\nVietnam\n\n5-Year Warranty from production date (issue date) for products purchased from\nOctober 1st, 2025\n\n- Đối với linh kiện thay thế (khi sản phẩm hỏng hóc mà phải thay thế linh kiện): Áp dụng thời hạn bảo hành như sau:\nFor replacement part (when the product malfunctions and the part need to be replaced): shall be applied warranty period as\nbelow:\n\n+ Nếu sản phẩm còn trong phạm vi bảo hành - In-warranty product:\nLinh kiện thay thế trong thời gian bảo hành của sản phẩm sẽ được bảo hành theo thời hạn còn lại của sản phẩm.\n\nThe warranty period for replaced spare parts shall follow the remaining warranty period of the original product.\n+ Nếu sản phẩm ngoài phạm vi bảo hành (sửa chữa có thu phí) - Out-of-warranty product (Repair with Fee/RWF):\nLinh kiện thay thế trong dịch vụ sửa chữa có thu phí thực hiện bởi Trung Tâm Dịch Vụ Khách Hàng (TTDVKH) Panasonic Việt\n\nNam sẽ được bảo hành 03 (ba) tháng kể từ ngày thay thế.\nReplacement parts used in paid repair services performed by the Panasonic Service Center Vietnam will be warranted for 03\n\n(three) months from the date of replacement.\n\nGiải thích các chú thích /Remarks explanation:\n(*) Điều kiện khi KHBHĐT:\n\nConditions for EWR\n- Ngày KHBHĐT và ngày mua trong KHBHĐT phải trong vòng 3 tháng kể từ ngày phát hành hóa đơn mua hàng và trước ngày\ngửi yêu cầu bảo hành tới Panasonic Việt Nam.\n\nThe EWR date and the purchase date recorded in the system of EWR must be within 3 months of the invoice date and prior to\nthe date the warranty claim is submitted to Panasonic Vietnam.\n\n(**) Hóa đơn mua hàng cần đáp ứng các điều kiện sau:\nThe purchase invoice must meet the following conditions\n- Hóa đơn mua hàng là hóa đơn điện tử hợp lệ được xuất cho người tiêu dùng theo quy định của nhà nước, trong đó có thể\n\nhiện rõ ràng và đầy đủ: Thông tin người bán, thông tin người mua, thông tin sản phẩm và ngày xuất hóa đơn.\nThe purchase invoice must be a valid electronic invoice issued to the consumer in accordance with government regulations. It\n\nmust clearly and fully display such as seller information, buyer information, product details, and the date of issuance.\n- Panasonic Việt Nam có thể đề nghị khách hàng xuất trình hóa đơn mua hàng trong những trường hợp cần xác minh thêm\nthông tin.\n\nPanasonic Vietnam may request that customers present their purchase invoice in cases where further information verification\nis required\n\n(***) Ngày sản xuất (xuất phiếu) của Điều hòa không khí được quy định như sau:\n\nThe Production Date (Issue Date) for Air Conditioners is determined as follows\n- Điều hòa không khí cục bộ treo tường/ Consumer Air- conditioner (RAC):\n\no Kiểu máy CU/CS-***AKH-8, CU/CS-***BKH-8, CU/CS-***CKH-8D: là ngày sản xuất (xuất phiếu) của khối trong nhà.\nModels CU/CS-***AKH-8, CU/CS-*BKH-8, CU/CS-***CKH-8D: Based on the production date (issue date) of the indoor unit.\no Kiểu máy CU/CS-***UKH-8, CU/CS-***WKH-8, CU/CS-***XKH-8/8B, CU/CS-***ZKH-8: là ngày sản xuất (xuất phiếu) của\n\nkhối ngoài trời.\nModels CU/CS-***UKH-8, CU/CS-***WKH-8, CU/CS-***XKH-8/8B, CU/CS-*ZKH-8: Based on the production date (issue\n\ndate) of the outdoor unit\n\n4/10\n\n- Điều hòa không khí cục bộ thương mại (bao gồm cassette, âm trần nối ống, áp trần, tủ đứng): là ngày sản xuất (xuất\nphiếu) của khối trong nhà.\n\nCommercial Air Conditioners (Including Cassette, Ducted, Ceiling-suspended, and Floor-Standing units): Based on the\nproduction date (issue date) of the indoor unit.\n\n- Điều hòa không khí Multi Split (bao gồm cassette, âm trần nối ống, treo tường): là ngày sản xuất (xuất phiếu) của khối\nngoài trời.\nMulti-Split Air Conditioners (including Cassette, Ducted, and Wall-Mounted units): Based on the production date (issue date) of\n\nthe outdoor unit.\n\n2. Danh mục sản phẩm được bảo hành tại nhà (công trình):\nProduct categories eligible for in-home/on-site warranty service\n\nSTT\nNo.\n\nSản phẩm\nProduct categories\n\n1\nTủ lạnh, tủ đông, tủ mát, tủ rượu\n\nFridge, Chest Freezer, Cold Chain, Wine Cellar\n\n2\nMáy giặt, Máy sấy quần áo, Tủ chăm sóc quần áo\nWasher, Tumble Dryer, Clothing Care Machine\n\n3\nĐiều hòa không khí\nAir-conditioner\n\n4\nTivi (LCD/LED/OLED)\n\n5\nBếp từ\nInduction Heating Cooktop\n\n6\nBình nước nóng gián tiếp, Máy nước nóng trực tiếp\nStorage Water Heater, Electric Home Shower\n\n7\nMáy bơm\n\nWater Pump\n\nSTT\n\nSản phẩm\n\nNo.\n\nProduct categories\n\n5/10\n\n8\nKhóa điện tử\n\nElock\n\n9\nQuạt trần, Quạt thông gió âm trần có nối ống, Quạt hút công nghiệp, Quạt thu hồi nhiệt ERV\nCeiling Fan, Ceiling Ventilating Fan, Industrial Ventilating Fan, Energy recovery ventilator\n\n10\nMáy tạo nước kiềm\nAlkaline Ionizer\n\n11\nMáy lọc nước, Máy lọc nước tại vòi, Máy lọc nước RO\n\nWater Purifier, RO Water Purifier\n\n12\nMáy rửa bát\nDishwasher\n\n13\nLò vi sóng công nghiệp, Lò nướng âm tủ: NE-1753YYE, HL-CK632BYUE, HL-CX672BYUE\n\nCommercial Microwave Oven, Built-In Convection Steam Oven\n\n14\nNắp bồn cầu điện tử\nElectric Toilet Seat\n\nNhững sản phẩm không có trong danh sách trên đề nghị khách hàng liên hệ Panasonic Việt Nam để được thông báo chính\nthức về chính sách bảo hành tại nhà/công trình.\n\nFor products not included in the above list, customers are requested to contact Panasonic Vietnam for official notification\n\nregarding the in-home/on-site warranty policy.\n\nTrong một số trường hợp sản phẩm lắp đặt tại vị trí khó tiếp cận, Panasonic Việt Nam có thể yêu cầu khách hàng hỗ trợ cung\n\ncấp các thiết bị/phương tiện phù hợp để kỹ thuật viên tiếp cận sản phẩm một cách an toàn.\nIn certain cases where the product is installed in a difficult-to-access location, Panasonic Vietnam may request the customer to\n\nprovide suitable equipment or facilities to ensure technicians can access the product safely.\n\nĐối với các sản phẩm không áp dụng bảo hành tại nhà (công trình), khách hàng vui lòng chuyển sản phẩm đến TTDVKH\n\nPanasonic Việt Nam hoặc Trung Tâm Dịch Vụ Ủy Quyền (TTDVUQ) Panasonic Việt Nam để được bảo hành.\n\nFor products not eligible for in-home/on-site warranty service, customers are kindly requested to bring the product to the\nPanasonic Customer Service Center or Panasonic Authorized Service Center (ASC) for warranty support.\n\n* Một số trường hợp sau đây không áp dụng bảo hành tại nhà (công trình):\nThe following cases are not eligible for in-home/on-site warranty service\n\n- Sản phẩm được lắp đặt và sử dụng ngoài lãnh thổ Việt Nam.\n\nProducts installed and used outside the territory of Vietnam\n- Sản phẩm được lắp đặt và sử dụng tại vị trí khó tiếp cận hoặc không an toàn cho kỹ thuật viên khi tiếp cận.\n\nProducts installed in difficult-to-access locations or locations that are unsafe for technicians to access\n\n- Sản phẩm được lắp đặt và sử dụng trên các phương tiện, địa điểm mà không thể tiếp cận được bằng các phương tiện giao\nthông công cộng thông dụng.\n\nProducts installed on vehicles or at locations that cannot be reached by common public transportation\n\n- Sản phẩm được lắp đặt tại địa điểm mà chính quyền sở tại quy định là nơi giới hạn hoặc cấm tiếp cận.\n\nProducts installed at locations designated by local authorities as restricted or prohibited areas\n\n6/10\n\n- Sản phẩm được lắp đặt tại địa điểm không đủ điều kiện để thực hiện dịch vụ như: không cung cấp được nguồn điện, nguồn\nnước, kích thước lỗ thăm trần, không gian thao tác kiểm tra/sửa chữa… theo tiêu chuẩn của sản phẩm.\n\nThe product is installed in a location that does not provide the necessary conditions for service performance, such as electrical\n\npower, water supply, ceiling inspection openings of adequate dimensions, and sufficient workspace for inspection or repair, as\nrequired by the product's technical and service standards.\n\n- Khu vực làm việc không đảm bảo an toàn sức khỏe, tinh thần và tính mạng của kỹ thuật viên.\n\nWorkspaces that do not ensure the health, mental well-being, or physical safety of the technicians.\n\n3. Trường hợp ngoài phạm vi bảo hành (áp dụng dịch vụ có thu phí):\n\nCases outside the warranty scope - chargeable services shall apply\n\n3.1 Sản phẩm hư hỏng hoặc phát sinh các hiện tượng bất thường do vận chuyển, lắp đặt, sử dụng không đúng theo sách\n\nhướng dẫn, nguồn điện không ổn định, sử dụng sai điện thế, sử dụng nguồn nước yếu, dơ, phèn, nhiễm mặn…hoặc các hao\nmòn thông thường (ví dụ như trầy, xước, vết cắt, rỉ sét, ăn mòn, xói mòn, vết lõm, hư hỏng dần dần...), bảo quản không tốt, bị\n\ntác động bởi các yếu tố như kết cấu công trình, nhiệt độ, độ ẩm, nước, bụi, cặn bẩn, động vật, côn trùng, vật lạ… hoặc hư hỏng\n\ngây ra do sử dụng các hóa chất tẩy rửa.\nProduct damage or abnormalities resulting from improper transportation, installation, or usage not in accordance with the\n\ninstruction manual; unstable power supply, incorrect voltage, usage of weak, dirty, alum-contaminated, saline water sources,\n\netc or normal wear and tear (e.g., scratches, scuffs, cuts, rust, corrosion, erosion, dents, gradual deterioration, etc.); improper\nstorage; impacts from structural building elements, temperature, humidity, water, dust, debris, animals, insects, foreign\n\nobjects, etc or damage caused by the use of cleaning chemicals.\n\n3.2 Sản phẩm hư hỏng do bị rơi hoặc do tác động bên ngoài, hỏa hoạn, sấm sét, lũ lụt hoặc tai nạn khác do thiên\nnhiên.Damage resulting from drops or external impacts, fire, lightning, floods, or other natural disasters and accidents.\n\n3.3 Số máy trên sản phẩm và trên phiếu bảo hành không giống nhau hoặc bị cạo sửa, xóa mất. Phiếu bảo hành không hợp lệ.\n\nMismatched serial numbers between the product and the warranty card, or if the serial number has been altered or erased.\n\nInvalid warranty cards.\n3.4 Các bộ phận trong máy bị thay đổi hoặc máy đã bị tháo gỡ, sửa chữa ở những nơi không phải là TTDVKH Panasonic Việt\n\nNam hoặc TTDVUQ Panasonic Việt Nam. Sản phẩm bị rách niêm phong của nhà sản xuất (nếu có).\n\nInternal components have been modified, or the unit has been disassembled or repaired by unauthorized parties other than\nPanasonic Customer Service Center or ASC. The manufacturer’s factory seal (if any) is broken.\n\n3.5 Các bộ phận dễ hư hỏng và tiêu hao như pin, lưỡi xay, ly xay, đế cối xay, màng lọc, lưới lọc, lõi lọc, túi bụi, lưỡi dao cạo…\n\nPerishable or consumable parts, such as batteries, grinding blades, blending jars, jar bases, filters, filter meshes, filter\ncartridges, dust bags, shaver blades, etc.\n\n3.6 Máy giặt và Máy sấy quần áo gia dụng lắp đặt tại cửa hàng giặt là, khách sạn, nhà nghỉ, bệnh viện, trường học, nhà hàng,\n\nký túc xá..., hoặc sử dụng vào các hoạt động kinh doanh thương mại.\n\nHousehold washing machines and clothes dryers installed in laundromats, hotels, motels, hospitals, schools, restaurants,\ndormitories, etc; or used for commercial business purposes.\n\n3.7 Sản phẩm Gia dụng Gia đình (Tủ lạnh), Gia dụng Nhà bếp (Lò vi sóng, Lò hấp, Lò nướng, Máy rửa bát, Máy xay, Máy ép, Nồi\n\nchiên không dầu, Máy đánh trứng…), Sức khỏe và Làm đẹp (Máy sấy tóc, Máy tạo kiểu tóc, Tông đơ…) sử dụng vào các hoạt\nđộng kinh doanh thương mại.\n\nHome Appliances (Fridge), Kitchen Appliances (Microwave Oven, Convection Steam Oven, Toaster Oven, Dishwasher, Blender,\n\nJuicer, Air fryer, Hand Mixer, etc), and Health & Beauty products (Hair dryer, Hair styles, Trimmers, etc) used for commercial\nbusiness purposes.\n\nCác trường hợp sản phẩm hết hạn bảo hành hoặc không đủ điều kiện bảo hành, Panasonic Việt Nam sẽ cung cấp dịch vụ sửa\nchữa có tính phí tại nhà hoặc tại TTDVUQ tùy theo danh mục sản phẩm.\n\nFor products that are out of warranty or not eligible for warranty service, Panasonic Vietnam will provide chargeable repair\n\nservices either on-site or at an ASC, subject to the applicable product category.\n\n4. Tiếp nhận bảo hành và thực hiện bảo hành/ Warranty Receipt and Fulfillment\n\nSản phẩm đáp ứng đầy đủ điều kiện và thuộc phạm vi bảo hành sẽ được Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt\nNam bảo hành theo một trong các phương thức bảo hành sau:\n\nProducts that fully meet the warranty conditions and fall within the warranty scope shall be covered by Panasonic Vietnam\n\nand/or ASC through one of the following methods:\n(a) Kiểm tra, cân chỉnh, khắc phục lỗi của sản phẩm; thay thế linh kiện, phụ kiện của sản phẩm; hoặc\n\n7/10\n\nChecking, adjusting, repairing product defects; replacing product’s spare parts and accessories; or\n(b) Đổi sản phẩm bằng một sản phẩm mới tương đương và thu hồi sản phẩm hư hỏng, phù hợp với quy định của Luật áp\n\ndụng; hoặc thu hồi Sản phẩm và hoàn tiền giá trị hiện tại của sản phẩm ở thời điểm yêu cầu/khiếu nại bảo hành được đưa ra\n\nvới Panasonic Việt Nam trong các trường hợp sau:\nExchanging the Product for an equivalent new product and recovering the defective product, in accordance with the provisions\n\nof Applicable Law; or recovering the Product and refunding its current value at the time the warranty request/claim is\n\nsubmitted to Panasonic Vietnam in the following cases:\n\no Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt Nam không thể sửa chữa khắc phục lỗi hoặc không cung cấp\n\nđược linh kiện/ phụ kiện thay thế.\nPanasonic Vietnam and/or ASC are unable to repair the defect or cannot provide replacement spare parts/accessories.\n\no Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt Nam đã thực hiện bảo hành sản phẩm hoặc linh kiện của sản\n\nphẩm từ 03 (ba) lần trở lên đối với cùng một lỗi kỹ thuật trong thời hạn bảo hành mà vẫn không khắc phục được lỗi đó.\nPanasonic Vietnam and/or ASC have performed warranty services on the Product or its spare parts/accessories 03 (three)\n\ntimes or more for the same technical defect within the Warranty Period but still failed to rectify said defect.\n\nTrong trường hợp hoàn trả giá trị sản phẩm, Khách hàng có trách nhiệm cung cấp hóa đơn mua hàng hợp lệ để làm căn\n\ncứ xác nhận thông tin và hoàn tất các thủ tục liên quan.\n\nRefunds: In the event of a refund of the Product's value, the Customer shall be responsible for providing a valid purchase\ninvoice to serve as a basis for information verification and completion of relevant procedures.\n\nĐối với việc đổi hoặc thu hồi sản phẩm theo quy định tại Mục này, quyền sở hữu đối với sản phẩm được đổi hoặc thu hồi\nsẽ mặc nhiên chuyển giao sang cho Panasonic Việt Nam (hoặc bên được Panasonic Việt Nam chỉ định) kể từ thời điểm\n\nviệc đổi trả hoặc thu hồi hoàn tất, trừ trường hợp Panasonic Việt Nam có quyết định khác.\n\nTransfer of Ownership: For any Product exchange or recovery as prescribed in this Section, the ownership of the replaced\nor recovered Product shall be automatically transferred to Panasonic Vietnam (or a party designated by Panasonic\n\nVietnam) from the moment the exchange or recovery is completed, unless otherwise decided by Panasonic Vietnam.\n\nThời hạn bảo hành của sản phẩm đổi mới sẽ được tính lại từ đầu theo chính sách của sản phẩm mới.\n\nThe warranty period for the replacement product starts anew according to the new product's policy.\n\nPanasonic Việt Nam chỉ chịu trách nhiệm đối với các hư hỏng của sản phẩm thuộc phạm vi bảo hành theo điều kiện và chính\n\nsách bảo hành hiện hành. Mọi hư hỏng, suy giảm hiệu suất hoặc gián đoạn hoạt động của sản phẩm phát sinh từ các nguyên\n\nnhân không phải do khiếm khuyết nội tại của sản phẩm, bao gồm nhưng không giới hạn ở các yếu tố bên ngoài bởi lắp đặt, sử\ndụng, bảo quản hoặc vận hành không phù hợp, sẽ không thuộc phạm vi trách nhiệm bảo hành của Panasonic Việt Nam.\n\nPanasonic Vietnam shall only be held liable for product damages that fall within the scope of warranty in accordance with the\n\ncurrent warranty terms and policies. Any damage, performance degradation, or operational interruption arising from causes\nother than the inherent defects of the product, including but not limited to external factors such as improper installation, use,\n\nstorage, or operation shall be excluded from Panasonic Vietnam's warranty liability.\n\nNhững nội dung chưa được đề cập tại Chính sách này sẽ áp dụng theo quy định pháp luật hiện hành.\n\nAny matters not addressed in this Policy shall be governed by the applicable laws and regulations in force.\n\nĐể được tư vấn, báo giá dịch vụ hoặc hỗ trợ tiếp nhận và xử lý yêu cầu bảo hành, Quý khách vui lòng liên hệ Panasonic Việt\n\nNam qua các kênh sau:\nFor service consultation, repair quotations, or assistance with warranty claims, please contact Panasonic Vietnam through the\n\nfollowing channels:\n\n√ Tổng đài miễn cước/ Toll-free Number. 18001593\n\n√ Zalo: Dịch vụ khách hàng Panasonic\n\n√ Email: customer@vn.panasonic.com\n\nCÔNG TY TNHH PANASONIC VIỆT NAM\n\nPANASONIC VIETNAM CO., LTD\n\nÔng/ Mr. Nguyễn Hoàng Kim\nTrưởng phòng cấp cao Phòng dịch vụ khách hàng\n\n8/10\n\nGeneral Manager of Customer Service Department\n\nTải xuống\n\nTHOI HAN BAO HANH SAN PHAM_nam tai chinh 2026_colour print\n\nThời hạn bảo hành sản phẩm (áp dụng từ ngày 1_1_2025)\n\nthoi-han-bao-hanh-san-pham_nam-tai-chinh-2026_colour-print\n(PDF / 3.5MB)\n\nThoi-han-bao-hanh-san-pham-ap-dụng-tu-ngay-1_1_2025\n(PDF / 1.7MB)\n\nTHỜI HẠN BẢO HÀNH ÁP DỤNG CHO SẢN PHẨM MUA TRƯỚC 1.1.2025\n\nonline_sda\n\nTHỜI-HẠN-BẢO-HÀNH-ÁP-DỤNG-CHO-SẢN-PHẨM-MUA-TRƯỚC-\n1.1.2025\n\nONLINE_SDA\n(PDF / 6.6MB)\n\n(PDF / 2.0MB)\n\n9/10\n\nThời hạn bảo hành sản phẩm_áp dụng từ 28_7_2026\n(PDF / 3.6MB)\n\nThời hạn bảo hành sản phẩm\n\nFacebook\nYouTube\nTikTok\nCommunity\nLinkedIn\n\nVề Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành\n\nCHÍNH SÁCH COOKIE\n\nArea/Country\n\nCopyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360\n\n10/10",
+  "removed_repeated_lines": [
+    "01:07 11/10/26",
+    "Chế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam",
+    "https://www.panasonic.com/vn/support/product-warranty-period.html"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 26468,
+    "cleaned_char_count": 25088,
+    "removed_char_count": 1380,
+    "reduction_ratio": 0.0521,
+    "removed_repeated_line_count": 3
+  },
+  "raw_text": "01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\nPanasonic Vietnam\n\nCHÍNH SÁCH BẢO HÀNH SẢN PHẨM\n\nPRODUCT WARRANTY POLICY\n\nÁp dụng từ 28/7/2026 đến 31/3/2027\n\nApply from 28th July 2026 to 31st March 2027\n\n1. Thời hạn bảo hành sản phẩm:\nProduct warranty period\nTất cả sản phẩm mang nhãn hiệu Panasonic được Công ty TNHH Panasonic Việt Nam (Panasonic Việt Nam) phân phối và/ hoặc\n\nchịu trách nhiệm bảo hành chính thức tại thị trường Việt Nam được bảo hành theo quy định sau:\nAll Panasonic branded products distributed and/or officially warrantied by Panasonic Vietnam Co., Ltd (Panasonic Vietnam) in\nthe Vietnamese market, are covered by the warranty according to the following regulations:\n\nSẢN PHẨM\n\nXUẤT XỨ\n\nPRODUCTS\n\nORIGIN\n\nSẢN PHẨM ĐÃ ĐƯỢC KÍCH\nHOẠT BẢO HÀNH ĐIỆN TỬ\n\nSẢN PHẨM CHƯA\nKHBHĐT HOẶC KHÔNG\n\n(KHBHĐT)* HOẶC CÓ HÓA\n\nCÓ HÓA ĐƠN MUA\n\nHÀNG\nTHE PRODUCT HAS NOT\n\nBEEN ACTIVATED FOR\n\nĐƠN MUA HÀNG**\nTHE PRODUCT HAS BEEN\nACTIVATED FOR ELECTRONIC\nWARRANTY (EWR) * OR HAS A\n\nPURCHASE INVOICE**\n\nEWR OR HAS NOT A\nPURCHASE INVOICE\n\nNhật Bản\n\nJapan\n\n- Gia dụng Gia đình/ Home Appliances:\nTủ lạnh, Máy giặt, Máy hút bụi.\nFridge, Washer, Vacuum Cleaner\n\nBảo hành 36 tháng kể từ\nngày mua trong KHBHĐT\nhoặc ngày mua trên hóa đơn\n\nBảo hành 39 tháng kể từ\nngày sản xuất (xuất\nphiếu).\n\n- Gia dụng Nhà bếp/ Kitchen appliances:\nBếp điện từ, Nồi cơm điện\nInduction Heating Cooktop, Rice Cooker\n- Sức khỏe và Làm đẹp/ Health and Beauty:\n\nmua hàng và không quá 72\ntháng kể từ ngày sản xuất\n(xuất phiếu).\n36 months warranty for\n\n39 months warranty for\nproducts since\nproduction date (issue\ndate).\n\nMáy tạo nước kiềm, Máy lọc nước tại vòi, Máy\n\nproducts from purchasing\n\ncạo râu, Tông đơ cắt tóc.\nAlkaline Ionizer, Water Purifier, Shaver,\n\ndate of online warranty\nregistration or on financial\n\nProfessional Hair Clipper\n\ninvoice but not exceeding 72\nmonths since production\n\ndate (issue date).\n\n- Gia dụng Gia đình/ Home Appliances:\n\nViệt Nam\n\nBảo hành 24 tháng kể từ\n\nBảo hành 27 tháng kể từ\n\nVietnam\n\nTủ lạnh, Máy giặt/ Fridge, Washer\n- Các giải pháp không khí/ Air solutions:\n\nngày mua trong KHBHĐT\nhoặc ngày mua trên hóa đơn\n\nngày sản xuất (xuất\nphiếu).\n\nQuạt trần, Quạt thông gió âm trần có nối ống,\nQuạt thông gió loại gắn tường.\n\nmua hàng và không quá 60\ntháng kể từ ngày sản xuất\n\n27 months warranty for\nproducts since\n\nCeiling Fan, Ceiling Ventilating Fan, Wall\nVentilating Fan\n\n(xuất phiếu).\n24 months warranty for\n\nproduction date (issue\ndate).\n\nproducts from purchasing\n\ndate of online warranty\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n1/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\nregistration or on financial\ninvoice but not exceeding 60\n\n- Gia dụng Gia đình/ Home Appliances:\n\nCác nước khác\n\nTủ lạnh, Máy giặt, Máy sấy quần áo, Tủ chăm\n\nOther countries\n\nmonths since production\ndate (issue date).\n\nsóc quần áo.\nFridge, Washer, Tumble Dryer, Clothing Care\n\nMachine\n- Tivi và thiết bị Âm thanh/ Television and\n\naudio devices:\nTivi/ TV\n\n- Điều hòa & Các giải pháp không khí:\n\nCác nước khác\n\nBảo hành 12 tháng kể từ\n\nBảo hành 15 tháng kể từ\n\nAir conditioning & Air solutions:\n\nOther countries\n\nngày mua trong KHBHĐT\n\nngày sản xuất (xuất\n\nĐiều hòa không khí cục bộ treo tường.\nConsumer Air- conditioner (RAC)\n\nhoặc ngày mua trên hóa đơn\nmua hàng và không quá 48\n\nphiếu)***.\n15 months warranty for\n\nĐiều hòa không khí cục bộ thương mại (bao\ngồm cassette, âm trần nối ống, áp trần, tủ\n\ntháng kể từ ngày sản xuất\n(xuất phiếu)***.\n\nproducts since\nproduction date (issue\n\nđứng).\n\n12 months warranty for\n\ndate)***.\n\nAir- conditioner (PAC) (includes Cassette, Duct\nType model, Ceiling, Floor Standing Type)\n\nproducts from purchasing\ndate of online warranty\n\nĐiều hòa không khí Multi Split (bao gồm\ncassette, âm trần nối ống, treo tường).\n\nregistration or on financial\ninvoice but not exceeding 48\n\nMulti-split (includes Cassette, Duct Type model,\n\nmonths since production\n\ndate (issue date)***.\n\nWall Mounted Type).\nMáy lọc không khí, Quạt trần, Quạt điện, Quạt\n\nhút, Máy hút ẩm…\n\nAir Purifier, Ceiling Fan, Electric Fan, Industrial\n\nVentilating Fan, Dehumidifier…\n\n- Gia dụng Gia đình/ Home Appliances:\nMáy bơm, Máy nước nóng trực tiếp, Bình nước\n\nnóng dự trữ, Nắp bồn cầu điện tử/cơ, Máy hút\n\nbụi, Bàn ủi…\n\nWater Pump, Electric Home Shower, Storage\n\nWater Heater, Toilet Seat, Vacuum Cleaner, E-\niron…\n\n- Gia dụng Nhà bếp/ Kitchen appliances:\n\nBếp từ, Máy rửa bát, Lò vi sóng, Nồi cơm điện,\n\nMáy xay, Máy ép, Bình thủy điện…\n\nInduction Heating Cooktop, Dishwasher,\nMicrowave Oven, Rice Cooker, Blender, Electric\n\nThermopot, Electric Kettle…\n\n- Sức khỏe và Làm đẹp/ Health and Beauty:\n\nMáy lọc nước, máy lọc nước RO, Máy sấy tóc,\nMáy cạo râu, Sản phẩm chăm sóc mặt, Sản\n\nphẩm chăm sóc răng miệng…\n\nWater Purifier, RO Water Purifier, Hair Dryer,\n\nShaver, Facial care products, Oral care\n\nproducts…\n\nNhững sản phẩm không có trong danh sách trên đề nghị khách hàng liên hệ Panasonic Việt Nam để được thông báo chính\nthức về chính sách bảo hành.\n\nProducts not listed above are advised to contact Panasonic Vietnam for official information regarding the warranty policy.\n\n- Đối với sản phẩm thuộc dự án: Bảo hành theo Điều khoản bảo hành trong hợp đồng mua bán sản phẩm với Panasonic Việt\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n2/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\nNam.\nFor project-based products: Warranty follows the terms of the sales contract signed with Panasonic Vietnam.\n\n- Đối với một số linh kiện đặc biệt lắp sẵn trong sản phẩm bởi nhà sản xuất: Áp dụng thời bảo hành đặc biệt với các điều\n\nkiện như sau:\n\nFor certain special parts pre-installed in products by the manufacturer shall be applied the special warranty period with the\nfollowing conditions:\n\nLINH KIỆN LẮP SẴN ĐẶC BIỆT\n\nSẢN PHẨM ĐÃ ĐƯỢC KHBHĐT\n\nSẢN PHẨM CHƯA KHBHĐT\n\nSPECIAL PRE-INSTALLED PARTS\n\nTHE PRODUCT HAS BEEN ACTIVATED\n\nTHE PRODUCT HAS NOT BEEN ACTIVATED\n\nFOR EWR\n\nFOR EWR\n\nMÁY NÉN của Điều hòa không khí cục\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nbộ treo tường\n\nkhối ngoài trời\n\nsản phẩm\n\nCompressor of Consumer Air-\nconditioner (RAC)\n\n12-Year Warranty for Compressor from\nproduction date (issue date) of outdoor\n\nWarranty based on the product’s\nwarranty period\n\nunit\n\nMÁY NÉN của Điều hòa không khí cục\n\nBảo hành 5 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nbộ thương mại (bao gồm cassette, âm\n\nkhối ngoài trời\n\nsản phẩm\n\ntrần nối ống, áp trần, tủ đứng), Điều\n\n5-Year Warranty for Compressor from\n\nWarranty based on the product’s\n\nwarranty period\n\nhòa không khí Multi Split (bao gồm\ncassette, âm trần nối ống, treo tường).\n\nproduction date (issue date) of outdoor\nunit\n\nCompressor of Commercial Air\n\nConditioners (including Cassette,\n\nDucted, Ceiling-suspended, and Floor-\nStanding units) and Multi-Split Air\n\nConditioners (including Cassette,\n\nDucted, and Wall-Mounted units).\n\nMÁY NÉN của Tủ lạnh\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nCompressor of Fridge\n\nsản phẩm\n\nsản phẩm\n\n12-Year Warranty for Compressor from\nproduction date (issue date)\n\nWarranty based on the product’s\nwarranty period\n\nĐỘNG CƠ GIẶT của Máy giặt\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành theo thời hạn bảo hành của\n\nWashing Motor of Washer\n\nsản phẩm\n\nsản phẩm\n\n12-Year Warranty for Washing Motor\nfrom production date (issue date)\n\nWarranty based on the product’s\nwarranty period\n\nBÌNH CHỨA của Bình nước nóng gián\n\nBảo hành 12 năm kể từ ngày sản xuất\n\nBảo hành 5 năm kể từ ngày sản xuất\n\ntiếp.\nSTORAGE TANK of Storage Heater Water\n\nsản phẩm\n12-Year Warranty for Storage Tank\n\n(xuất phiếu)\n5-Year Warranty for Storage Tank from\n\nfrom production date (issue date)\n\nproduction date (issue date)\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n3/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\nBƠM TĂNG ÁP của Máy nước nóng\ntrực tiếp\n\nBảo hành 5 năm kể từ ngày sản xuất sản phẩm\n5-Year Warranty from production date (issue date)\n\nBOOSTER PUMP of Home Shower\n\nĐỘNG CƠ của Quạt Trần DC sản xuất\ntại Việt Nam\n\nBảo hành 5 năm kể từ ngày sản xuất (xuất phiếu) với sản phẩm được mua từ ngày\n1/10/2025\n\nMOTOR of DC Ceiling Fans made in\nVietnam\n\n5-Year Warranty from production date (issue date) for products purchased from\nOctober 1st, 2025\n\n- Đối với linh kiện thay thế (khi sản phẩm hỏng hóc mà phải thay thế linh kiện): Áp dụng thời hạn bảo hành như sau:\nFor replacement part (when the product malfunctions and the part need to be replaced): shall be applied warranty period as\nbelow:\n\n+ Nếu sản phẩm còn trong phạm vi bảo hành - In-warranty product:\nLinh kiện thay thế trong thời gian bảo hành của sản phẩm sẽ được bảo hành theo thời hạn còn lại của sản phẩm.\n\nThe warranty period for replaced spare parts shall follow the remaining warranty period of the original product.\n+ Nếu sản phẩm ngoài phạm vi bảo hành (sửa chữa có thu phí) - Out-of-warranty product (Repair with Fee/RWF):\nLinh kiện thay thế trong dịch vụ sửa chữa có thu phí thực hiện bởi Trung Tâm Dịch Vụ Khách Hàng (TTDVKH) Panasonic Việt\n\nNam sẽ được bảo hành 03 (ba) tháng kể từ ngày thay thế.\nReplacement parts used in paid repair services performed by the Panasonic Service Center Vietnam will be warranted for 03\n\n(three) months from the date of replacement.\n\nGiải thích các chú thích /Remarks explanation:\n(*) Điều kiện khi KHBHĐT:\n\nConditions for EWR\n- Ngày KHBHĐT và ngày mua trong KHBHĐT phải trong vòng 3 tháng kể từ ngày phát hành hóa đơn mua hàng và trước ngày\ngửi yêu cầu bảo hành tới Panasonic Việt Nam.\n\nThe EWR date and the purchase date recorded in the system of EWR must be within 3 months of the invoice date and prior to\nthe date the warranty claim is submitted to Panasonic Vietnam.\n\n(**) Hóa đơn mua hàng cần đáp ứng các điều kiện sau:\nThe purchase invoice must meet the following conditions\n- Hóa đơn mua hàng là hóa đơn điện tử hợp lệ được xuất cho người tiêu dùng theo quy định của nhà nước, trong đó có thể\n\nhiện rõ ràng và đầy đủ: Thông tin người bán, thông tin người mua, thông tin sản phẩm và ngày xuất hóa đơn.\nThe purchase invoice must be a valid electronic invoice issued to the consumer in accordance with government regulations. It\n\nmust clearly and fully display such as seller information, buyer information, product details, and the date of issuance.\n- Panasonic Việt Nam có thể đề nghị khách hàng xuất trình hóa đơn mua hàng trong những trường hợp cần xác minh thêm\nthông tin.\n\nPanasonic Vietnam may request that customers present their purchase invoice in cases where further information verification\nis required\n\n(***) Ngày sản xuất (xuất phiếu) của Điều hòa không khí được quy định như sau:\n\nThe Production Date (Issue Date) for Air Conditioners is determined as follows\n- Điều hòa không khí cục bộ treo tường/ Consumer Air- conditioner (RAC):\n\no Kiểu máy CU/CS-***AKH-8, CU/CS-***BKH-8, CU/CS-***CKH-8D: là ngày sản xuất (xuất phiếu) của khối trong nhà.\nModels CU/CS-***AKH-8, CU/CS-*BKH-8, CU/CS-***CKH-8D: Based on the production date (issue date) of the indoor unit.\no Kiểu máy CU/CS-***UKH-8, CU/CS-***WKH-8, CU/CS-***XKH-8/8B, CU/CS-***ZKH-8: là ngày sản xuất (xuất phiếu) của\n\nkhối ngoài trời.\nModels CU/CS-***UKH-8, CU/CS-***WKH-8, CU/CS-***XKH-8/8B, CU/CS-*ZKH-8: Based on the production date (issue\n\ndate) of the outdoor unit\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n4/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\n- Điều hòa không khí cục bộ thương mại (bao gồm cassette, âm trần nối ống, áp trần, tủ đứng): là ngày sản xuất (xuất\nphiếu) của khối trong nhà.\n\nCommercial Air Conditioners (Including Cassette, Ducted, Ceiling-suspended, and Floor-Standing units): Based on the\nproduction date (issue date) of the indoor unit.\n\n- Điều hòa không khí Multi Split (bao gồm cassette, âm trần nối ống, treo tường): là ngày sản xuất (xuất phiếu) của khối\nngoài trời.\nMulti-Split Air Conditioners (including Cassette, Ducted, and Wall-Mounted units): Based on the production date (issue date) of\n\nthe outdoor unit.\n\n2. Danh mục sản phẩm được bảo hành tại nhà (công trình):\nProduct categories eligible for in-home/on-site warranty service\n\nSTT\nNo.\n\nSản phẩm\nProduct categories\n\n1\nTủ lạnh, tủ đông, tủ mát, tủ rượu\n\nFridge, Chest Freezer, Cold Chain, Wine Cellar\n\n2\nMáy giặt, Máy sấy quần áo, Tủ chăm sóc quần áo\nWasher, Tumble Dryer, Clothing Care Machine\n\n3\nĐiều hòa không khí\nAir-conditioner\n\n4\nTivi (LCD/LED/OLED)\n\n5\nBếp từ\nInduction Heating Cooktop\n\n6\nBình nước nóng gián tiếp, Máy nước nóng trực tiếp\nStorage Water Heater, Electric Home Shower\n\n7\nMáy bơm\n\nWater Pump\n\nSTT\n\nSản phẩm\n\nNo.\n\nProduct categories\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n5/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\n8\nKhóa điện tử\n\nElock\n\n9\nQuạt trần, Quạt thông gió âm trần có nối ống, Quạt hút công nghiệp, Quạt thu hồi nhiệt ERV\nCeiling Fan, Ceiling Ventilating Fan, Industrial Ventilating Fan, Energy recovery ventilator\n\n10\nMáy tạo nước kiềm\nAlkaline Ionizer\n\n11\nMáy lọc nước, Máy lọc nước tại vòi, Máy lọc nước RO\n\nWater Purifier, RO Water Purifier\n\n12\nMáy rửa bát\nDishwasher\n\n13\nLò vi sóng công nghiệp, Lò nướng âm tủ: NE-1753YYE, HL-CK632BYUE, HL-CX672BYUE\n\nCommercial Microwave Oven, Built-In Convection Steam Oven\n\n14\nNắp bồn cầu điện tử\nElectric Toilet Seat\n\nNhững sản phẩm không có trong danh sách trên đề nghị khách hàng liên hệ Panasonic Việt Nam để được thông báo chính\nthức về chính sách bảo hành tại nhà/công trình.\n\nFor products not included in the above list, customers are requested to contact Panasonic Vietnam for official notification\n\nregarding the in-home/on-site warranty policy.\n\nTrong một số trường hợp sản phẩm lắp đặt tại vị trí khó tiếp cận, Panasonic Việt Nam có thể yêu cầu khách hàng hỗ trợ cung\n\ncấp các thiết bị/phương tiện phù hợp để kỹ thuật viên tiếp cận sản phẩm một cách an toàn.\nIn certain cases where the product is installed in a difficult-to-access location, Panasonic Vietnam may request the customer to\n\nprovide suitable equipment or facilities to ensure technicians can access the product safely.\n\nĐối với các sản phẩm không áp dụng bảo hành tại nhà (công trình), khách hàng vui lòng chuyển sản phẩm đến TTDVKH\n\nPanasonic Việt Nam hoặc Trung Tâm Dịch Vụ Ủy Quyền (TTDVUQ) Panasonic Việt Nam để được bảo hành.\n\nFor products not eligible for in-home/on-site warranty service, customers are kindly requested to bring the product to the\nPanasonic Customer Service Center or Panasonic Authorized Service Center (ASC) for warranty support.\n\n* Một số trường hợp sau đây không áp dụng bảo hành tại nhà (công trình):\nThe following cases are not eligible for in-home/on-site warranty service\n\n- Sản phẩm được lắp đặt và sử dụng ngoài lãnh thổ Việt Nam.\n\nProducts installed and used outside the territory of Vietnam\n- Sản phẩm được lắp đặt và sử dụng tại vị trí khó tiếp cận hoặc không an toàn cho kỹ thuật viên khi tiếp cận.\n\nProducts installed in difficult-to-access locations or locations that are unsafe for technicians to access\n\n- Sản phẩm được lắp đặt và sử dụng trên các phương tiện, địa điểm mà không thể tiếp cận được bằng các phương tiện giao\nthông công cộng thông dụng.\n\nProducts installed on vehicles or at locations that cannot be reached by common public transportation\n\n- Sản phẩm được lắp đặt tại địa điểm mà chính quyền sở tại quy định là nơi giới hạn hoặc cấm tiếp cận.\n\nProducts installed at locations designated by local authorities as restricted or prohibited areas\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n6/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\n- Sản phẩm được lắp đặt tại địa điểm không đủ điều kiện để thực hiện dịch vụ như: không cung cấp được nguồn điện, nguồn\nnước, kích thước lỗ thăm trần, không gian thao tác kiểm tra/sửa chữa… theo tiêu chuẩn của sản phẩm.\n\nThe product is installed in a location that does not provide the necessary conditions for service performance, such as electrical\n\npower, water supply, ceiling inspection openings of adequate dimensions, and sufficient workspace for inspection or repair, as\nrequired by the product's technical and service standards.\n\n- Khu vực làm việc không đảm bảo an toàn sức khỏe, tinh thần và tính mạng của kỹ thuật viên.\n\nWorkspaces that do not ensure the health, mental well-being, or physical safety of the technicians.\n\n3. Trường hợp ngoài phạm vi bảo hành (áp dụng dịch vụ có thu phí):\n\nCases outside the warranty scope - chargeable services shall apply\n\n3.1 Sản phẩm hư hỏng hoặc phát sinh các hiện tượng bất thường do vận chuyển, lắp đặt, sử dụng không đúng theo sách\n\nhướng dẫn, nguồn điện không ổn định, sử dụng sai điện thế, sử dụng nguồn nước yếu, dơ, phèn, nhiễm mặn…hoặc các hao\nmòn thông thường (ví dụ như trầy, xước, vết cắt, rỉ sét, ăn mòn, xói mòn, vết lõm, hư hỏng dần dần...), bảo quản không tốt, bị\n\ntác động bởi các yếu tố như kết cấu công trình, nhiệt độ, độ ẩm, nước, bụi, cặn bẩn, động vật, côn trùng, vật lạ… hoặc hư hỏng\n\ngây ra do sử dụng các hóa chất tẩy rửa.\nProduct damage or abnormalities resulting from improper transportation, installation, or usage not in accordance with the\n\ninstruction manual; unstable power supply, incorrect voltage, usage of weak, dirty, alum-contaminated, saline water sources,\n\netc or normal wear and tear (e.g., scratches, scuffs, cuts, rust, corrosion, erosion, dents, gradual deterioration, etc.); improper\nstorage; impacts from structural building elements, temperature, humidity, water, dust, debris, animals, insects, foreign\n\nobjects, etc or damage caused by the use of cleaning chemicals.\n\n3.2 Sản phẩm hư hỏng do bị rơi hoặc do tác động bên ngoài, hỏa hoạn, sấm sét, lũ lụt hoặc tai nạn khác do thiên\nnhiên.Damage resulting from drops or external impacts, fire, lightning, floods, or other natural disasters and accidents.\n\n3.3 Số máy trên sản phẩm và trên phiếu bảo hành không giống nhau hoặc bị cạo sửa, xóa mất. Phiếu bảo hành không hợp lệ.\n\nMismatched serial numbers between the product and the warranty card, or if the serial number has been altered or erased.\n\nInvalid warranty cards.\n3.4 Các bộ phận trong máy bị thay đổi hoặc máy đã bị tháo gỡ, sửa chữa ở những nơi không phải là TTDVKH Panasonic Việt\n\nNam hoặc TTDVUQ Panasonic Việt Nam. Sản phẩm bị rách niêm phong của nhà sản xuất (nếu có).\n\nInternal components have been modified, or the unit has been disassembled or repaired by unauthorized parties other than\nPanasonic Customer Service Center or ASC. The manufacturer’s factory seal (if any) is broken.\n\n3.5 Các bộ phận dễ hư hỏng và tiêu hao như pin, lưỡi xay, ly xay, đế cối xay, màng lọc, lưới lọc, lõi lọc, túi bụi, lưỡi dao cạo…\n\nPerishable or consumable parts, such as batteries, grinding blades, blending jars, jar bases, filters, filter meshes, filter\ncartridges, dust bags, shaver blades, etc.\n\n3.6 Máy giặt và Máy sấy quần áo gia dụng lắp đặt tại cửa hàng giặt là, khách sạn, nhà nghỉ, bệnh viện, trường học, nhà hàng,\n\nký túc xá..., hoặc sử dụng vào các hoạt động kinh doanh thương mại.\n\nHousehold washing machines and clothes dryers installed in laundromats, hotels, motels, hospitals, schools, restaurants,\ndormitories, etc; or used for commercial business purposes.\n\n3.7 Sản phẩm Gia dụng Gia đình (Tủ lạnh), Gia dụng Nhà bếp (Lò vi sóng, Lò hấp, Lò nướng, Máy rửa bát, Máy xay, Máy ép, Nồi\n\nchiên không dầu, Máy đánh trứng…), Sức khỏe và Làm đẹp (Máy sấy tóc, Máy tạo kiểu tóc, Tông đơ…) sử dụng vào các hoạt\nđộng kinh doanh thương mại.\n\nHome Appliances (Fridge), Kitchen Appliances (Microwave Oven, Convection Steam Oven, Toaster Oven, Dishwasher, Blender,\n\nJuicer, Air fryer, Hand Mixer, etc), and Health & Beauty products (Hair dryer, Hair styles, Trimmers, etc) used for commercial\nbusiness purposes.\n\nCác trường hợp sản phẩm hết hạn bảo hành hoặc không đủ điều kiện bảo hành, Panasonic Việt Nam sẽ cung cấp dịch vụ sửa\nchữa có tính phí tại nhà hoặc tại TTDVUQ tùy theo danh mục sản phẩm.\n\nFor products that are out of warranty or not eligible for warranty service, Panasonic Vietnam will provide chargeable repair\n\nservices either on-site or at an ASC, subject to the applicable product category.\n\n4. Tiếp nhận bảo hành và thực hiện bảo hành/ Warranty Receipt and Fulfillment\n\nSản phẩm đáp ứng đầy đủ điều kiện và thuộc phạm vi bảo hành sẽ được Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt\nNam bảo hành theo một trong các phương thức bảo hành sau:\n\nProducts that fully meet the warranty conditions and fall within the warranty scope shall be covered by Panasonic Vietnam\n\nand/or ASC through one of the following methods:\n(a) Kiểm tra, cân chỉnh, khắc phục lỗi của sản phẩm; thay thế linh kiện, phụ kiện của sản phẩm; hoặc\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n7/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\nChecking, adjusting, repairing product defects; replacing product’s spare parts and accessories; or\n(b) Đổi sản phẩm bằng một sản phẩm mới tương đương và thu hồi sản phẩm hư hỏng, phù hợp với quy định của Luật áp\n\ndụng; hoặc thu hồi Sản phẩm và hoàn tiền giá trị hiện tại của sản phẩm ở thời điểm yêu cầu/khiếu nại bảo hành được đưa ra\n\nvới Panasonic Việt Nam trong các trường hợp sau:\nExchanging the Product for an equivalent new product and recovering the defective product, in accordance with the provisions\n\nof Applicable Law; or recovering the Product and refunding its current value at the time the warranty request/claim is\n\nsubmitted to Panasonic Vietnam in the following cases:\n\no Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt Nam không thể sửa chữa khắc phục lỗi hoặc không cung cấp\n\nđược linh kiện/ phụ kiện thay thế.\nPanasonic Vietnam and/or ASC are unable to repair the defect or cannot provide replacement spare parts/accessories.\n\no Panasonic Việt Nam và/hoặc TTDVUQ Panasonic Việt Nam đã thực hiện bảo hành sản phẩm hoặc linh kiện của sản\n\nphẩm từ 03 (ba) lần trở lên đối với cùng một lỗi kỹ thuật trong thời hạn bảo hành mà vẫn không khắc phục được lỗi đó.\nPanasonic Vietnam and/or ASC have performed warranty services on the Product or its spare parts/accessories 03 (three)\n\ntimes or more for the same technical defect within the Warranty Period but still failed to rectify said defect.\n\nTrong trường hợp hoàn trả giá trị sản phẩm, Khách hàng có trách nhiệm cung cấp hóa đơn mua hàng hợp lệ để làm căn\n\ncứ xác nhận thông tin và hoàn tất các thủ tục liên quan.\n\nRefunds: In the event of a refund of the Product's value, the Customer shall be responsible for providing a valid purchase\ninvoice to serve as a basis for information verification and completion of relevant procedures.\n\nĐối với việc đổi hoặc thu hồi sản phẩm theo quy định tại Mục này, quyền sở hữu đối với sản phẩm được đổi hoặc thu hồi\nsẽ mặc nhiên chuyển giao sang cho Panasonic Việt Nam (hoặc bên được Panasonic Việt Nam chỉ định) kể từ thời điểm\n\nviệc đổi trả hoặc thu hồi hoàn tất, trừ trường hợp Panasonic Việt Nam có quyết định khác.\n\nTransfer of Ownership: For any Product exchange or recovery as prescribed in this Section, the ownership of the replaced\nor recovered Product shall be automatically transferred to Panasonic Vietnam (or a party designated by Panasonic\n\nVietnam) from the moment the exchange or recovery is completed, unless otherwise decided by Panasonic Vietnam.\n\nThời hạn bảo hành của sản phẩm đổi mới sẽ được tính lại từ đầu theo chính sách của sản phẩm mới.\n\nThe warranty period for the replacement product starts anew according to the new product's policy.\n\nPanasonic Việt Nam chỉ chịu trách nhiệm đối với các hư hỏng của sản phẩm thuộc phạm vi bảo hành theo điều kiện và chính\n\nsách bảo hành hiện hành. Mọi hư hỏng, suy giảm hiệu suất hoặc gián đoạn hoạt động của sản phẩm phát sinh từ các nguyên\n\nnhân không phải do khiếm khuyết nội tại của sản phẩm, bao gồm nhưng không giới hạn ở các yếu tố bên ngoài bởi lắp đặt, sử\ndụng, bảo quản hoặc vận hành không phù hợp, sẽ không thuộc phạm vi trách nhiệm bảo hành của Panasonic Việt Nam.\n\nPanasonic Vietnam shall only be held liable for product damages that fall within the scope of warranty in accordance with the\n\ncurrent warranty terms and policies. Any damage, performance degradation, or operational interruption arising from causes\nother than the inherent defects of the product, including but not limited to external factors such as improper installation, use,\n\nstorage, or operation shall be excluded from Panasonic Vietnam's warranty liability.\n\nNhững nội dung chưa được đề cập tại Chính sách này sẽ áp dụng theo quy định pháp luật hiện hành.\n\nAny matters not addressed in this Policy shall be governed by the applicable laws and regulations in force.\n\nĐể được tư vấn, báo giá dịch vụ hoặc hỗ trợ tiếp nhận và xử lý yêu cầu bảo hành, Quý khách vui lòng liên hệ Panasonic Việt\n\nNam qua các kênh sau:\nFor service consultation, repair quotations, or assistance with warranty claims, please contact Panasonic Vietnam through the\n\nfollowing channels:\n\n√ Tổng đài miễn cước/ Toll-free Number. 18001593\n\n√ Zalo: Dịch vụ khách hàng Panasonic\n\n√ Email: customer@vn.panasonic.com\n\nCÔNG TY TNHH PANASONIC VIỆT NAM\n\nPANASONIC VIETNAM CO., LTD\n\nÔng/ Mr. Nguyễn Hoàng Kim\nTrưởng phòng cấp cao Phòng dịch vụ khách hàng\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n8/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\nGeneral Manager of Customer Service Department\n\nTải xuống\n\nTHOI HAN BAO HANH SAN PHAM_nam tai chinh 2026_colour print\n\nThời hạn bảo hành sản phẩm (áp dụng từ ngày 1_1_2025)\n\nthoi-han-bao-hanh-san-pham_nam-tai-chinh-2026_colour-print\n(PDF / 3.5MB)\n\nThoi-han-bao-hanh-san-pham-ap-dụng-tu-ngay-1_1_2025\n(PDF / 1.7MB)\n\nTHỜI HẠN BẢO HÀNH ÁP DỤNG CHO SẢN PHẨM MUA TRƯỚC 1.1.2025\n\nonline_sda\n\nTHỜI-HẠN-BẢO-HÀNH-ÁP-DỤNG-CHO-SẢN-PHẨM-MUA-TRƯỚC-\n1.1.2025\n\nONLINE_SDA\n(PDF / 6.6MB)\n\n(PDF / 2.0MB)\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n9/10\n\n01:07 11/10/26\nChế độ bảo hành sản phẩm Panasonic - Panasonic Việt Nam\n\nThời hạn bảo hành sản phẩm_áp dụng từ 28_7_2026\n(PDF / 3.6MB)\n\nThời hạn bảo hành sản phẩm\n\nFacebook\nYouTube\nTikTok\nCommunity\nLinkedIn\n\nVề Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành\n\nCHÍNH SÁCH COOKIE\n\nArea/Country\n\nCopyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360\n\nhttps://www.panasonic.com/vn/support/product-warranty-period.html\n10/10",
+  "char_count": 26468
+}

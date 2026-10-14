@@ -1,0 +1,2784 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T009_ariston_water_heater_not_heating.pdf",
+  "filename": "T009_ariston_water_heater_not_heating.pdf",
+  "file_type": "pdf",
+  "page_count": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP\nCách sửa bình nóng lạnh không nóng hiệu\nquả, an toàn",
+          "bbox": [
+            46.5,
+            153.08999633789062,
+            514.1395874023438,
+            235.90200805664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "Đã xuất bản trên",
+          "bbox": [
+            46.5,
+            568.5900268554688,
+            122.91891479492188,
+            581.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "21 Tháng 8 2026",
+          "bbox": [
+            46.5,
+            585.0900268554688,
+            126.04790496826172,
+            597.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "Cách sửa bình nóng lạnh không nóng có nhiều cách dựa trên tình trạng của máy, gồm kiểm tra và thay thế",
+          "bbox": [
+            46.5,
+            631.5900268554688,
+            548.7354736328125,
+            644.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "thanh đốt nóng, nút điều chỉnh nhiệt độ, kiểm tra nguồn điện, bật lại ELCB khi bị ngắt, sửa chữa bo mạch, vệ",
+          "bbox": [
+            46.5,
+            648.0900268554688,
+            558.66845703125,
+            660.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "sinh cặn bẩn trong bình và lắp đặt lại máy đúng kỹ thuật. Người dùng nên ưu tiên liên hệ kỹ thuật viên chuyên",
+          "bbox": [
+            46.5,
+            664.5900268554688,
+            565.4724731445312,
+            677.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "nghiệp để xử lý an toàn, đảm bảo máy nước nóng hoạt động ổn định và hạn chế phát sinh sự cố.",
+          "bbox": [
+            46.5,
+            681.0900268554688,
+            500.9290466308594,
+            693.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "Bình nóng lạnh không nóng là sự cố thường gặp, ảnh hưởng đến nhu cầu sinh hoạt hằng ngày và có thể xuất",
+          "bbox": [
+            46.5,
+            725.3400268554688,
+            543.7269897460938,
+            738.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "phát từ nhiều nguyên nhân như lỗi nguồn điện, hỏng thanh đốt, rơ-le nhiệt gặp vấn đề hoặc thiết bị bị bám cặn.",
+          "bbox": [
+            46.5,
+            741.8400268554688,
+            553.9749755859375,
+            754.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n1/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "Bài viết dưới đây sẽ cung cấp thông tin về cách sửa bình nóng lạnh không nóng an toàn, giúp người dùng nhận",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            553.7860107421875,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "biết nguyên nhân, lựa chọn phương án xử lý phù hợp.",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            290.0682678222656,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "1. Chia sẻ 8 cách sửa máy nước nóng không nóng hiệu quả",
+          "bbox": [
+            46.5,
+            88.44000244140625,
+            532.3914184570312,
+            110.36399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Để sửa máy nước nóng không nóng, người dùng cần kiểm tra và xử lý các nguyên nhân liên quan đến thanh đốt,",
+          "bbox": [
+            46.5,
+            119.33999633789062,
+            559.98095703125,
+            132.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "nguồn điện, hệ thống chống giật ELCB, bo mạch điều khiển hoặc tình trạng cặn bẩn bên trong thiết bị. Dưới đây",
+          "bbox": [
+            46.5,
+            135.83999633789062,
+            557.7969970703125,
+            148.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "là các cách sửa bình nóng lạnh không nóng an toàn và hiệu quả.",
+          "bbox": [
+            46.5,
+            152.33999633789062,
+            341.1507263183594,
+            165.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "1.1. Kiểm tra, thay thế thanh đốt nóng",
+          "bbox": [
+            46.5,
+            178.1999969482422,
+            291.74981689453125,
+            196.47000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "Khi thanh đốt bị hỏng, đứt mạch, giảm khả năng truyền nhiệt hoặc bị bao phủ bởi lớp cặn khoáng, thiết bị có thể",
+          "bbox": [
+            46.5,
+            205.58999633789062,
+            558.5950317382812,
+            218.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "vẫn nhận điện nhưng không tạo ra nước nóng. Trong trường hợp này, kỹ thuật viên cần kiểm tra tình trạng linh",
+          "bbox": [
+            46.5,
+            222.08999633789062,
+            547.207763671875,
+            234.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "kiện để xác định khả năng sửa chữa hoặc thay thế phù hợp. Ngoài ra, việc bảo dưỡng định kỳ cũng giúp phát",
+          "bbox": [
+            46.5,
+            238.58999633789062,
+            544.9135131835938,
+            251.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "hiện sớm dấu hiệu xuống cấp của thanh đốt, hạn chế tình trạng sửa máy nước nóng không nóng do lỗi bộ phận",
+          "bbox": [
+            46.5,
+            255.08999633789062,
+            555.30859375,
+            267.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "làm nóng.",
+          "bbox": [
+            46.5,
+            271.5899963378906,
+            91.60796356201172,
+            284.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n2/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "Kiểm tra và thay thế thanh đốt nóng là giải pháp thường được áp dụng khi máy nước nóng không nóng do lỗi bộ",
+          "bbox": [
+            50.3671875,
+            30.09000015258789,
+            562.3782348632812,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "phận làm nóng.",
+          "bbox": [
+            270.90234375,
+            46.59000015258789,
+            341.8403015136719,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "1.2. Kiểm tra, thay mới nút điều chỉnh nhiệt độ",
+          "bbox": [
+            46.5,
+            96.44999694824219,
+            351.0597839355469,
+            114.72000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "Sau thời gian dài sử dụng, bộ phận nút điều chỉnh nhiệt có thể bị hao mòn, giảm khả năng tiếp xúc hoặc gặp lỗi",
+          "bbox": [
+            46.5,
+            123.83999633789062,
+            555.3925170898438,
+            136.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "khiến thiết bị không nhận đúng mức nhiệt được cài đặt. Đây là một trong các nguyên nhân khiến máy nước nóng",
+          "bbox": [
+            46.5,
+            140.33999633789062,
+            560.7265014648438,
+            153.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "không nóng dù đèn báo vẫn hoạt động bình thường. Khi phát hiện lỗi liên quan đến nút điều chỉnh nhiệt độ,",
+          "bbox": [
+            46.5,
+            156.83999633789062,
+            538.6344604492188,
+            169.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "người dùng nên liên hệ kỹ thuật viên để được kiểm tra và thay thế linh kiện phù hợp, đảm bảo thiết bị hoạt động",
+          "bbox": [
+            46.5,
+            173.33999633789062,
+            558.2327270507812,
+            186.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 11,
+          "text": "ổn định.",
+          "bbox": [
+            46.5,
+            189.83999633789062,
+            83.41796112060547,
+            202.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 12,
+          "text": "1.3. Điều chỉnh nhiệt độ và lượng nước phù hợp",
+          "bbox": [
+            46.5,
+            215.6999969482422,
+            360.1798400878906,
+            233.97000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 13,
+          "text": "Đối với máy nước nóng trực tiếp, áp lực nước đầu vào và lưu lượng nước đi qua thiết bị có thể ảnh hưởng trực tiếp",
+          "bbox": [
+            46.5,
+            243.08999633789062,
+            563.42138671875,
+            255.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 14,
+          "text": "đến khả năng làm nóng. Khi lượng nước chảy quá mạnh, thanh đốt có thể không đủ thời gian truyền nhiệt để đưa",
+          "bbox": [
+            46.5,
+            259.5899963378906,
+            562.7634887695312,
+            272.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 15,
+          "text": "nước đạt đến mức nhiệt mong muốn. Vì vậy, bạn nên lựa chọn thiết bị có công suất phù hợp với nhu cầu sử dụng",
+          "bbox": [
+            46.5,
+            276.0899963378906,
+            561.37744140625,
+            288.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 16,
+          "text": "và đảm bảo hệ thống cấp nước vận hành đúng tiêu chuẩn. Như vậy, bạn có thể hạn chế tình trạng máy hoạt động",
+          "bbox": [
+            46.5,
+            292.5899963378906,
+            564.17041015625,
+            305.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 17,
+          "text": "quá tải, đồng thời duy trì hiệu quả làm nóng trong quá trình sử dụng.",
+          "bbox": [
+            46.5,
+            309.0899963378906,
+            358.2342224121094,
+            321.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 18,
+          "text": "1.4. Ngắt và kiểm tra nguồn cấp điện, dây dẫn điện",
+          "bbox": [
+            46.5,
+            334.95001220703125,
+            383.8048095703125,
+            353.2200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 19,
+          "text": "Các sự cố như dây dẫn bị hư hỏng, phích cắm lỏng, nguồn điện chập chờn hoặc kết nối điện không ổn định đều",
+          "bbox": [
+            46.5,
+            362.3399963378906,
+            557.4820556640625,
+            375.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 20,
+          "text": "có thể khiến thiết bị không hoạt động và không tạo ra nước nóng. Khi gặp tình trạng này, hệ thống điện cấp cho",
+          "bbox": [
+            46.5,
+            378.8399963378906,
+            557.6290283203125,
+            391.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 21,
+          "text": "máy cần được kiểm tra để xác định nguyên nhân cụ thể. Người dùng nên ưu tiên liên hệ đơn vị kỹ thuật nếu phát",
+          "bbox": [
+            46.5,
+            395.3399963378906,
+            560.5006713867188,
+            408.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 22,
+          "text": "hiện bất thường, bởi việc tự ý tháo sửa các bộ phận điện bên trong có thể gây mất an toàn.",
+          "bbox": [
+            46.5,
+            411.8399963378906,
+            461.02911376953125,
+            424.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 23,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n3/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": "Kiểm tra nguồn cấp điện, dây dẫn và các kết nối giúp xác định nguyên nhân khiến máy nước nóng không nóng.",
+          "bbox": [
+            51.83203125,
+            516.0900268554688,
+            560.9135131835938,
+            528.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "1.5. Bật lại công tắc ELCB nếu bị ngắt",
+          "bbox": [
+            46.5,
+            565.9500122070312,
+            294.37481689453125,
+            584.219970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": "Khi ELCB bị kích hoạt, máy có thể dừng hoạt động và không làm nóng nước dù các bộ phận khác vẫn còn nguyên",
+          "bbox": [
+            46.5,
+            593.3400268554688,
+            566.2180786132812,
+            606.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "vẹn. Tình trạng này cần được kiểm tra để xác định nguyên nhân khiến ELCB ngắt, chẳng hạn như rò điện hoặc lỗi",
+          "bbox": [
+            46.5,
+            609.8400268554688,
+            563.0469360351562,
+            622.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 8,
+          "text": "linh kiện bên trong. Nếu thiết bị thường xuyên gặp hiện tượng này, người dùng nên liên hệ trung tâm bảo hành",
+          "bbox": [
+            46.5,
+            626.3400268554688,
+            551.0139770507812,
+            639.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 9,
+          "text": "hoặc đơn vị sửa chữa để được hỗ trợ xử lý.",
+          "bbox": [
+            46.5,
+            642.8400268554688,
+            239.5843048095703,
+            655.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 10,
+          "text": "1.6. Sửa chữa hoặc thay thế bo mạch",
+          "bbox": [
+            46.5,
+            668.7000122070312,
+            290.1297912597656,
+            686.969970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 11,
+          "text": "Nếu bo mạch bị lỗi do sử dụng lâu ngày, ảnh hưởng từ nguồn điện không ổn định hoặc thiết bị hoạt động quá tải,",
+          "bbox": [
+            46.5,
+            696.0900268554688,
+            563.0679931640625,
+            708.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 12,
+          "text": "máy có thể xuất hiện tình trạng không làm nóng dù vẫn có dấu hiệu đang được cấp điện. Đây là lỗi liên quan đến",
+          "bbox": [
+            46.5,
+            712.5900268554688,
+            562.6270141601562,
+            725.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 13,
+          "text": "hệ thống điện tử phức tạp nên cần được kiểm tra bởi kỹ thuật viên có chuyên môn. Tùy mức độ hư hỏng, bo mạch",
+          "bbox": [
+            46.5,
+            729.0900268554688,
+            564.8687744140625,
+            741.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 14,
+          "text": "có thể được sửa chữa hoặc thay thế để khôi phục khả năng vận hành.",
+          "bbox": [
+            46.5,
+            745.5900268554688,
+            364.8387145996094,
+            758.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 15,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n4/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "1.7. Vệ sinh tẩy cặn trong máy nóng lạnh",
+          "bbox": [
+            46.5,
+            35.70000076293945,
+            312.3898010253906,
+            53.970001220703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "Trong quá trình sử dụng, các khoáng chất và tạp chất trong nguồn nước có thể tích tụ bên trong bình chứa hoặc",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            556.799560546875,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "bám vào thanh đốt. Lớp cặn này làm giảm khả năng truyền nhiệt, khiến máy mất nhiều thời gian làm nóng hoặc",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            553.6390380859375,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": "không cung cấp đủ nước nóng theo nhu cầu. Vì vậy, bạn cần vệ sinh và bảo dưỡng định kỳ máy nước nóng để",
+          "bbox": [
+            46.5,
+            96.08999633789062,
+            549.2919311523438,
+            108.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "loại bỏ cặn bẩn, duy trì hiệu suất hoạt động và kéo dài tuổi thọ thiết bị. Tần suất vệ sinh phụ thuộc vào chất lượng",
+          "bbox": [
+            46.5,
+            112.58999633789062,
+            564.4329223632812,
+            125.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 8,
+          "text": "nguồn nước, tần suất sử dụng cũng như điều kiện vận hành thực tế của từng gia đình.",
+          "bbox": [
+            46.5,
+            129.08999633789062,
+            436.6481018066406,
+            141.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 9,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 10,
+          "text": "Vệ sinh bình chứa và loại bỏ cặn bám giúp duy trì khả năng truyền nhiệt, hỗ trợ máy nước nóng hoạt động hiệu",
+          "bbox": [
+            53.51953125,
+            685.5900268554688,
+            559.2095947265625,
+            698.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 11,
+          "text": "quả hơn.",
+          "bbox": [
+            286.34765625,
+            702.0900268554688,
+            326.3841247558594,
+            714.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 12,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n5/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "1.8. Lắp đặt lại máy nước nóng đúng cách",
+          "bbox": [
+            46.5,
+            35.70000076293945,
+            321.8998107910156,
+            53.970001220703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "Các yếu tố như vị trí lắp đặt, kết nối nguồn điện, đường nước cấp hoặc thông số kỹ thuật không phù hợp đều có",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            557.0777587890625,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "thể làm giảm hiệu quả hoạt động của máy. Do đó, việc lắp đặt cần tuân thủ hướng dẫn từ nhà sản xuất và được",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            552.5889892578125,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "thực hiện bởi người có chuyên môn. Lắp đặt đúng giúp hạn chế lỗi phát sinh, đồng thời đảm bảo thiết bị hoạt",
+          "bbox": [
+            46.5,
+            96.08999633789062,
+            543.2335815429688,
+            108.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "động ổn định và an toàn trong thời gian dài.",
+          "bbox": [
+            46.5,
+            112.58999633789062,
+            246.64028930664062,
+            125.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 9,
+          "text": "2. Các nguyên nhân máy nước nóng không nóng",
+          "bbox": [
+            46.5,
+            154.44000244140625,
+            448.7635498046875,
+            176.36399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 10,
+          "text": "Máy nước nóng không nóng có thể xuất phát từ nhiều lỗi khác nhau liên quan đến nguồn điện, linh kiện làm nóng",
+          "bbox": [
+            46.5,
+            185.33999633789062,
+            565.229248046875,
+            198.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 11,
+          "text": "hoặc quá trình lắp đặt, sử dụng thiết bị. Một số nguyên nhân phổ biến giúp bạn xác định được cách sửa máy nước",
+          "bbox": [
+            46.5,
+            201.83999633789062,
+            565.5249633789062,
+            214.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 12,
+          "text": "nóng không nóng phù hợp gồm:",
+          "bbox": [
+            46.5,
+            218.33999633789062,
+            194.59190368652344,
+            231.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 13,
+          "text": "Máy nước nóng bị mất nguồn điện, nguồn cấp điện không ổn định hoặc dây dẫn gặp sự cố.",
+          "bbox": [
+            61.5,
+            238.58999633789062,
+            478.6750793457031,
+            251.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 14,
+          "text": "Thiết bị hoạt động quá công suất trong thời gian dài, gây ảnh hưởng đến các linh kiện bên trong.",
+          "bbox": [
+            61.5,
+            258.8399963378906,
+            503.3081359863281,
+            271.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 15,
+          "text": "Áp lực nước đầu vào quá mạnh khiến thanh đốt không đủ thời gian làm nóng nước.",
+          "bbox": [
+            61.5,
+            279.0899963378906,
+            440.2556457519531,
+            291.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 16,
+          "text": "Thanh đốt nóng (thanh điện trở) bị hỏng hoặc giảm khả năng truyền nhiệt.",
+          "bbox": [
+            61.5,
+            299.3399963378906,
+            399.5997009277344,
+            312.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 17,
+          "text": "Nút điều chỉnh nhiệt độ bị lỗi, lỏng hoặc không hoạt động chính xác.",
+          "bbox": [
+            61.5,
+            319.5899963378906,
+            373.8432312011719,
+            332.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 18,
+          "text": "Công tắc chống giật ELCB bị ngắt do phát hiện sự cố rò điện.",
+          "bbox": [
+            61.5,
+            339.8399963378906,
+            340.9782409667969,
+            352.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 19,
+          "text": "Bo mạch điều khiển bên trong máy bị hư hỏng.",
+          "bbox": [
+            61.5,
+            360.0899963378906,
+            276.1513366699219,
+            372.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 20,
+          "text": "Bình chứa hoặc thanh đốt bị bám nhiều cặn bẩn do lâu ngày không được vệ sinh.",
+          "bbox": [
+            61.5,
+            380.3399963378906,
+            431.9291687011719,
+            393.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 21,
+          "text": "Máy nước nóng được lắp đặt chưa đúng kỹ thuật, ảnh hưởng đến khả năng vận hành.",
+          "bbox": [
+            61.5,
+            400.5899963378906,
+            450.2358703613281,
+            413.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 22,
+          "text": "3. Cách liên hệ đơn vị sửa chữa máy nước nóng không nóng",
+          "bbox": [
+            46.5,
+            442.44000244140625,
+            541.139404296875,
+            464.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 23,
+          "text": "Khi gặp tình trạng máy nước nóng không nóng do lỗi linh kiện hoặc sự cố kỹ thuật, người dùng nên liên hệ trung",
+          "bbox": [
+            46.5,
+            473.3399963378906,
+            558.5582275390625,
+            486.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 24,
+          "text": "tâm hỗ trợ chính hãng để được kiểm tra và xử lý đúng cách. Với các sản phẩm Ariston, khách hàng có thể kết nối",
+          "bbox": [
+            46.5,
+            489.8399963378906,
+            560.0755004882812,
+            502.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 25,
+          "text": "với đội ngũ kỹ thuật qua các kênh sau:",
+          "bbox": [
+            46.5,
+            506.3399963378906,
+            222.3485870361328,
+            519.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 26,
+          "text": "Tổng đài chăm sóc khách hàng Ariston số 18001517 (thời gian làm việc từ 8h00 - 17h00, trừ Chủ nhật và ngày",
+          "bbox": [
+            61.5,
+            526.5900268554688,
+            556.9420776367188,
+            539.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 27,
+          "text": "lễ).",
+          "bbox": [
+            61.5,
+            543.0900268554688,
+            74.79297637939453,
+            555.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 28,
+          "text": "Kênh hỗ trợ trực tuyến qua Zalo OA Ariston.",
+          "bbox": [
+            61.5,
+            563.3400268554688,
+            261.06280517578125,
+            576.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 29,
+          "text": "Đăng ký bảo hành online để được tiếp nhận thông tin và hỗ trợ kỹ thuật.",
+          "bbox": [
+            61.5,
+            583.5900268554688,
+            390.9529724121094,
+            596.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 30,
+          "text": "Khi liên hệ, khách hàng nên chuẩn bị thông tin sản phẩm như model, số seri, tình trạng lỗi gặp phải để quá trình",
+          "bbox": [
+            46.5,
+            603.8400268554688,
+            555.7705078125,
+            616.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 31,
+          "text": "tư vấn và hỗ trợ sửa máy nước nóng không nóng diễn ra thuận tiện hơn.",
+          "bbox": [
+            46.5,
+            620.3400268554688,
+            374.0997009277344,
+            633.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 32,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n6/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "Ariston hỗ trợ tư vấn kỹ thuật, bảo hành và xử lý các vấn đề liên quan đến máy nước nóng thông qua hệ thống",
+          "bbox": [
+            55.0078125,
+            436.5899963378906,
+            557.7315673828125,
+            449.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "chăm sóc khách hàng chính hãng.",
+          "bbox": [
+            228.375,
+            453.0899963378906,
+            384.3733825683594,
+            465.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "Để đảm bảo quyền lợi trong quá trình sử dụng, người dùng nên kích hoạt bảo hành Ariston sau khi mua sản",
+          "bbox": [
+            46.5,
+            497.3399963378906,
+            537.8826904296875,
+            510.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "phẩm. Các bước thực hiện gồm:",
+          "bbox": [
+            46.5,
+            513.8400268554688,
+            191.7883758544922,
+            526.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 8,
+          "text": "Đăng ký bảo hành online: Bạn truy cập trang dịch vụ khách hàng chính thức của Ariston, lựa chọn mục đăng",
+          "bbox": [
+            61.5,
+            534.0900268554688,
+            558.9063720703125,
+            546.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 9,
+          "text": "ký bảo hành và cung cấp các thông tin cần thiết như số seri sản phẩm, thông tin cá nhân và thông tin liên hệ",
+          "bbox": [
+            61.5,
+            550.5900268554688,
+            556.007568359375,
+            563.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 10,
+          "text": "để hoàn tất kích hoạt.",
+          "bbox": [
+            61.5,
+            567.0900268554688,
+            160.72491455078125,
+            579.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 11,
+          "text": "Kích hoạt bảo hành qua điện thoại: Bạn gọi đến tổng đài chăm sóc khách hàng Ariston và cung cấp thông tin",
+          "bbox": [
+            61.5,
+            587.3400268554688,
+            564.97802734375,
+            600.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 12,
+          "text": "sản phẩm theo hướng dẫn của nhân viên hỗ trợ để được đăng ký bảo hành.",
+          "bbox": [
+            61.5,
+            603.8400268554688,
+            406.5611877441406,
+            616.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 13,
+          "text": "Sau khi hoàn tất kích hoạt, bạn sẽ nhận được hỗ trợ kỹ thuật từ đội ngũ chuyên gia Ariston, đồng thời được áp",
+          "bbox": [
+            46.5,
+            624.0900268554688,
+            547.6907958984375,
+            636.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 14,
+          "text": "dụng các quyền lợi bảo hành như sửa bình nóng lạnh không nóng hoặc thay thế linh kiện theo điều kiện bảo",
+          "bbox": [
+            46.5,
+            640.5900268554688,
+            542.656005859375,
+            653.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 15,
+          "text": "hành của sản phẩm.",
+          "bbox": [
+            46.5,
+            657.0900268554688,
+            138.49041748046875,
+            669.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 16,
+          "text": "Hy vọng những thông tin trong bài viết đã giúp người dùng hiểu rõ hơn về các nguyên nhân thường gặp và lựa",
+          "bbox": [
+            46.5,
+            677.3400268554688,
+            550.6360473632812,
+            690.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 17,
+          "text": "chọn cách sửa bình nóng lạnh không nóng phù hợp. Khi thiết bị phát sinh sự cố, bạn nên ưu tiên liên hệ đơn vị kỹ",
+          "bbox": [
+            46.5,
+            693.8400268554688,
+            562.5902709960938,
+            706.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 18,
+          "text": "thuật chuyên nghiệp để được kiểm tra, sửa chữa đúng cách. Với các sản phẩm Ariston, khách hàng có thể liên hệ",
+          "bbox": [
+            46.5,
+            710.3400268554688,
+            562.6690673828125,
+            723.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 19,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n7/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "trung tâm chăm sóc khách hàng của hãng để được hỗ trợ tư vấn kỹ thuật, bảo hành và xử lý sự cố theo đúng tiêu",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            561.1727905273438,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "chuẩn.",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            77.01296997070312,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 5,
+          "text": "Thắc mắc thường gặp",
+          "bbox": [
+            46.5,
+            112.44000244140625,
+            226.35581970214844,
+            134.36399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 6,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 7,
+          "text": "Dưới đây là một số câu hỏi thường gặp giúp người dùng hiểu rõ hơn về nguyên nhân và cách sửa bình nóng lạnh",
+          "bbox": [
+            46.5,
+            143.33999633789062,
+            560.905029296875,
+            156.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 8,
+          "text": "không nóng.",
+          "bbox": [
+            46.5,
+            159.83999633789062,
+            104.23946380615234,
+            172.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 9,
+          "text": "Máy nước nóng không nóng nhưng đèn báo vẫn sáng là bị gì?",
+          "bbox": [
+            64.5,
+            221.33999633789062,
+            377.31561279296875,
+            234.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 10,
+          "text": "Có thể tự sửa máy nước nóng không nóng tại nhà không?",
+          "bbox": [
+            64.5,
+            296.3399963378906,
+            354.4466857910156,
+            309.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 11,
+          "text": "Chi phí sửa máy nước nóng không nóng bao nhiêu?",
+          "bbox": [
+            64.5,
+            371.3399963378906,
+            324.63726806640625,
+            384.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 12,
+          "text": "Cần ngắt nguồn điện trước khi sửa máy nóng lạnh không?",
+          "bbox": [
+            64.5,
+            446.3399963378906,
+            356.93511962890625,
+            459.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 13,
+          "text": "Có nên thay máy mới nếu máy nước nóng thường xuyên không nóng?",
+          "bbox": [
+            64.5,
+            521.3400268554688,
+            415.6616516113281,
+            534.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 14,
+          "text": "Bài viết liên quan",
+          "bbox": [
+            46.5,
+            578.1900024414062,
+            190.0677947998047,
+            600.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 15,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n8/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 9,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 4,
+          "text": "TIN TỨC",
+          "bbox": [
+            169.125,
+            266.3399963378906,
+            212.62646484375,
+            279.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 5,
+          "text": "ARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025",
+          "bbox": [
+            163.125,
+            291.45001220703125,
+            441.5248718261719,
+            351.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 6,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            388.5899963378906,
+            335.2464294433594,
+            401.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 7,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            669.0900268554688,
+            262.910888671875,
+            681.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 8,
+          "text": "Máy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam",
+          "bbox": [
+            163.125,
+            694.2000122070312,
+            434.204833984375,
+            733.469970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n9/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 10,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 2,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            39.84000015258789,
+            335.2464294433594,
+            52.62900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 4,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 5,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            320.3399963378906,
+            262.910888671875,
+            333.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 6,
+          "text": "Máy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng",
+          "bbox": [
+            163.125,
+            345.45001220703125,
+            435.3597717285156,
+            405.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 7,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            442.5899963378906,
+            335.2464294433594,
+            455.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 8,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            723.0900268554688,
+            262.910888671875,
+            735.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 10,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n10/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 11,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 11,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 2,
+          "text": "Dung tích máy nước nóng gián tiếp và\ncách lựa chọn",
+          "bbox": [
+            163.125,
+            29.700000762939453,
+            416.1598815917969,
+            68.97000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 4,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            105.83999633789062,
+            335.2464294433594,
+            118.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 6,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            386.3399963378906,
+            262.910888671875,
+            399.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 7,
+          "text": "Lựa chọn máy nước nóng phù hợp cho căn\nhộ",
+          "bbox": [
+            163.125,
+            411.45001220703125,
+            446.68487548828125,
+            450.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 8,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            487.5899963378906,
+            335.2464294433594,
+            500.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 9,
+          "text": "Country: Việt Nam Language: Vietnamese",
+          "bbox": [
+            207.796875,
+            641.3400268554688,
+            404.9404296875,
+            654.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 10,
+          "text": "VỀ CHÚNG TÔI",
+          "bbox": [
+            46.5,
+            698.4600219726562,
+            129.31195068359375,
+            713.0759887695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 11,
+          "text": "Thương hiệu Ariston",
+          "bbox": [
+            46.5,
+            728.3400268554688,
+            139.6559295654297,
+            741.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 11,
+          "block_index": 12,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n11/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 12,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 12,
+          "block_index": 1,
+          "text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            446.2928161621094,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 2,
+          "text": "Tập đoàn Ariston",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            124.32593536376953,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 3,
+          "text": "Tuyển Dụng",
+          "bbox": [
+            46.5,
+            57.84000015258789,
+            101.8769302368164,
+            70.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 5,
+          "text": "TẠP CHÍ",
+          "bbox": [
+            46.5,
+            92.45999908447266,
+            91.06797790527344,
+            107.07600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 6,
+          "text": "Mẹo & giải pháp",
+          "bbox": [
+            46.5,
+            122.33999633789062,
+            121.39643859863281,
+            135.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 8,
+          "text": "Tin tức",
+          "bbox": [
+            46.5,
+            150.08999633789062,
+            77.41197967529297,
+            162.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 9,
+          "text": "Ngôi nhà thư thái",
+          "bbox": [
+            46.5,
+            177.83999633789062,
+            125.01893615722656,
+            190.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 10,
+          "text": "Cuộc sống xanh",
+          "bbox": [
+            46.5,
+            205.58999633789062,
+            120.9239273071289,
+            218.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 11,
+          "text": "Từ điển",
+          "bbox": [
+            46.5,
+            233.33999633789062,
+            80.20496368408203,
+            246.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 12,
+          "text": "DỊCH VỤ KHÁCH HÀNG",
+          "bbox": [
+            46.5,
+            267.9599914550781,
+            175.5839080810547,
+            282.57598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 13,
+          "text": "Đăng kí bảo hành online",
+          "bbox": [
+            46.5,
+            297.8399963378906,
+            158.78689575195312,
+            310.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 14,
+          "text": "Hội Viên Diamond Club",
+          "bbox": [
+            46.5,
+            325.5899963378906,
+            154.2823944091797,
+            338.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 15,
+          "text": "Liên Hệ Với Chúng Tôi",
+          "bbox": [
+            46.5,
+            353.3399963378906,
+            148.4234161376953,
+            366.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 16,
+          "text": "Tải xuống tài liệu",
+          "bbox": [
+            46.5,
+            381.0899963378906,
+            123.6224136352539,
+            393.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 17,
+          "text": "SẢN PHẨM",
+          "bbox": [
+            46.5,
+            415.7099914550781,
+            107.37596130371094,
+            430.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 18,
+          "text": "Máy Nước Nóng Gián Tiếp",
+          "bbox": [
+            46.5,
+            445.5899963378906,
+            167.6173858642578,
+            458.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 19,
+          "text": "Máy Nước Nóng Trực Tiếp",
+          "bbox": [
+            46.5,
+            473.3399963378906,
+            165.98988342285156,
+            486.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 20,
+          "text": "Máy Nước Nóng Năng Lượng",
+          "bbox": [
+            46.5,
+            501.0899963378906,
+            179.7763671875,
+            513.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 21,
+          "text": "Mặt Trời",
+          "bbox": [
+            46.5,
+            517.5900268554688,
+            83.24996948242188,
+            530.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 22,
+          "text": "Máy Nước Nóng Bơm Nhiệt",
+          "bbox": [
+            46.5,
+            545.3400268554688,
+            171.86990356445312,
+            558.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 23,
+          "text": "LEGAL AREA",
+          "bbox": [
+            46.5,
+            579.9600219726562,
+            116.14794921875,
+            594.5759887695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 24,
+          "text": "Privacy Policy",
+          "bbox": [
+            46.5,
+            609.8400268554688,
+            109.3214111328125,
+            622.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 25,
+          "text": "Cookie Policy",
+          "bbox": [
+            46.5,
+            637.5900268554688,
+            109.0904312133789,
+            650.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 26,
+          "text": "©2022 Ariston Holding N.V. – Company Info",
+          "bbox": [
+            46.5,
+            702.719970703125,
+            220.3258514404297,
+            713.6820068359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 12,
+          "block_index": 27,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n12/12",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9970703125,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Cách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181459+00'00'",
+    "modDate": "D:20261010181459+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "MUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nCách sửa bình nóng lạnh không nóng hiệu\nquả, an toàn\n\nĐã xuất bản trên\n\n21 Tháng 8 2026\n\nCách sửa bình nóng lạnh không nóng có nhiều cách dựa trên tình trạng của máy, gồm kiểm tra và thay thế\n\nthanh đốt nóng, nút điều chỉnh nhiệt độ, kiểm tra nguồn điện, bật lại ELCB khi bị ngắt, sửa chữa bo mạch, vệ\n\nsinh cặn bẩn trong bình và lắp đặt lại máy đúng kỹ thuật. Người dùng nên ưu tiên liên hệ kỹ thuật viên chuyên\n\nnghiệp để xử lý an toàn, đảm bảo máy nước nóng hoạt động ổn định và hạn chế phát sinh sự cố.\n\nBình nóng lạnh không nóng là sự cố thường gặp, ảnh hưởng đến nhu cầu sinh hoạt hằng ngày và có thể xuất\n\nphát từ nhiều nguyên nhân như lỗi nguồn điện, hỏng thanh đốt, rơ-le nhiệt gặp vấn đề hoặc thiết bị bị bám cặn.\n\n1/12\n\nBài viết dưới đây sẽ cung cấp thông tin về cách sửa bình nóng lạnh không nóng an toàn, giúp người dùng nhận\n\nbiết nguyên nhân, lựa chọn phương án xử lý phù hợp.\n\n1. Chia sẻ 8 cách sửa máy nước nóng không nóng hiệu quả\n\nĐể sửa máy nước nóng không nóng, người dùng cần kiểm tra và xử lý các nguyên nhân liên quan đến thanh đốt,\n\nMUA HÀNG DỰ ÁN\n\nnguồn điện, hệ thống chống giật ELCB, bo mạch điều khiển hoặc tình trạng cặn bẩn bên trong thiết bị. Dưới đây\n\nlà các cách sửa bình nóng lạnh không nóng an toàn và hiệu quả.\n\n1.1. Kiểm tra, thay thế thanh đốt nóng\n\nKhi thanh đốt bị hỏng, đứt mạch, giảm khả năng truyền nhiệt hoặc bị bao phủ bởi lớp cặn khoáng, thiết bị có thể\n\nvẫn nhận điện nhưng không tạo ra nước nóng. Trong trường hợp này, kỹ thuật viên cần kiểm tra tình trạng linh\n\nkiện để xác định khả năng sửa chữa hoặc thay thế phù hợp. Ngoài ra, việc bảo dưỡng định kỳ cũng giúp phát\n\nhiện sớm dấu hiệu xuống cấp của thanh đốt, hạn chế tình trạng sửa máy nước nóng không nóng do lỗi bộ phận\n\nlàm nóng.\n\n2/12\n\nKiểm tra và thay thế thanh đốt nóng là giải pháp thường được áp dụng khi máy nước nóng không nóng do lỗi bộ\n\nphận làm nóng.\n\n1.2. Kiểm tra, thay mới nút điều chỉnh nhiệt độ\n\nSau thời gian dài sử dụng, bộ phận nút điều chỉnh nhiệt có thể bị hao mòn, giảm khả năng tiếp xúc hoặc gặp lỗi\n\nMUA HÀNG DỰ ÁN\n\nkhiến thiết bị không nhận đúng mức nhiệt được cài đặt. Đây là một trong các nguyên nhân khiến máy nước nóng\n\nkhông nóng dù đèn báo vẫn hoạt động bình thường. Khi phát hiện lỗi liên quan đến nút điều chỉnh nhiệt độ,\n\nngười dùng nên liên hệ kỹ thuật viên để được kiểm tra và thay thế linh kiện phù hợp, đảm bảo thiết bị hoạt động\n\nổn định.\n\n1.3. Điều chỉnh nhiệt độ và lượng nước phù hợp\n\nĐối với máy nước nóng trực tiếp, áp lực nước đầu vào và lưu lượng nước đi qua thiết bị có thể ảnh hưởng trực tiếp\n\nđến khả năng làm nóng. Khi lượng nước chảy quá mạnh, thanh đốt có thể không đủ thời gian truyền nhiệt để đưa\n\nnước đạt đến mức nhiệt mong muốn. Vì vậy, bạn nên lựa chọn thiết bị có công suất phù hợp với nhu cầu sử dụng\n\nvà đảm bảo hệ thống cấp nước vận hành đúng tiêu chuẩn. Như vậy, bạn có thể hạn chế tình trạng máy hoạt động\n\nquá tải, đồng thời duy trì hiệu quả làm nóng trong quá trình sử dụng.\n\n1.4. Ngắt và kiểm tra nguồn cấp điện, dây dẫn điện\n\nCác sự cố như dây dẫn bị hư hỏng, phích cắm lỏng, nguồn điện chập chờn hoặc kết nối điện không ổn định đều\n\ncó thể khiến thiết bị không hoạt động và không tạo ra nước nóng. Khi gặp tình trạng này, hệ thống điện cấp cho\n\nmáy cần được kiểm tra để xác định nguyên nhân cụ thể. Người dùng nên ưu tiên liên hệ đơn vị kỹ thuật nếu phát\n\nhiện bất thường, bởi việc tự ý tháo sửa các bộ phận điện bên trong có thể gây mất an toàn.\n\n3/12\n\nMUA HÀNG DỰ ÁN\n\nKiểm tra nguồn cấp điện, dây dẫn và các kết nối giúp xác định nguyên nhân khiến máy nước nóng không nóng.\n\n1.5. Bật lại công tắc ELCB nếu bị ngắt\n\nKhi ELCB bị kích hoạt, máy có thể dừng hoạt động và không làm nóng nước dù các bộ phận khác vẫn còn nguyên\n\nvẹn. Tình trạng này cần được kiểm tra để xác định nguyên nhân khiến ELCB ngắt, chẳng hạn như rò điện hoặc lỗi\n\nlinh kiện bên trong. Nếu thiết bị thường xuyên gặp hiện tượng này, người dùng nên liên hệ trung tâm bảo hành\n\nhoặc đơn vị sửa chữa để được hỗ trợ xử lý.\n\n1.6. Sửa chữa hoặc thay thế bo mạch\n\nNếu bo mạch bị lỗi do sử dụng lâu ngày, ảnh hưởng từ nguồn điện không ổn định hoặc thiết bị hoạt động quá tải,\n\nmáy có thể xuất hiện tình trạng không làm nóng dù vẫn có dấu hiệu đang được cấp điện. Đây là lỗi liên quan đến\n\nhệ thống điện tử phức tạp nên cần được kiểm tra bởi kỹ thuật viên có chuyên môn. Tùy mức độ hư hỏng, bo mạch\n\ncó thể được sửa chữa hoặc thay thế để khôi phục khả năng vận hành.\n\n4/12\n\n1.7. Vệ sinh tẩy cặn trong máy nóng lạnh\n\nTrong quá trình sử dụng, các khoáng chất và tạp chất trong nguồn nước có thể tích tụ bên trong bình chứa hoặc\n\nbám vào thanh đốt. Lớp cặn này làm giảm khả năng truyền nhiệt, khiến máy mất nhiều thời gian làm nóng hoặc\n\nkhông cung cấp đủ nước nóng theo nhu cầu. Vì vậy, bạn cần vệ sinh và bảo dưỡng định kỳ máy nước nóng để\n\nloại bỏ cặn bẩn, duy trì hiệu suất hoạt động và kéo dài tuổi thọ thiết bị. Tần suất vệ sinh phụ thuộc vào chất lượng\n\nnguồn nước, tần suất sử dụng cũng như điều kiện vận hành thực tế của từng gia đình.\n\nMUA HÀNG DỰ ÁN\n\nVệ sinh bình chứa và loại bỏ cặn bám giúp duy trì khả năng truyền nhiệt, hỗ trợ máy nước nóng hoạt động hiệu\n\nquả hơn.\n\n5/12\n\n1.8. Lắp đặt lại máy nước nóng đúng cách\n\nCác yếu tố như vị trí lắp đặt, kết nối nguồn điện, đường nước cấp hoặc thông số kỹ thuật không phù hợp đều có\n\nthể làm giảm hiệu quả hoạt động của máy. Do đó, việc lắp đặt cần tuân thủ hướng dẫn từ nhà sản xuất và được\n\nthực hiện bởi người có chuyên môn. Lắp đặt đúng giúp hạn chế lỗi phát sinh, đồng thời đảm bảo thiết bị hoạt\n\nđộng ổn định và an toàn trong thời gian dài.\n\nMUA HÀNG DỰ ÁN\n\n2. Các nguyên nhân máy nước nóng không nóng\n\nMáy nước nóng không nóng có thể xuất phát từ nhiều lỗi khác nhau liên quan đến nguồn điện, linh kiện làm nóng\n\nhoặc quá trình lắp đặt, sử dụng thiết bị. Một số nguyên nhân phổ biến giúp bạn xác định được cách sửa máy nước\n\nnóng không nóng phù hợp gồm:\n\nMáy nước nóng bị mất nguồn điện, nguồn cấp điện không ổn định hoặc dây dẫn gặp sự cố.\n\nThiết bị hoạt động quá công suất trong thời gian dài, gây ảnh hưởng đến các linh kiện bên trong.\n\nÁp lực nước đầu vào quá mạnh khiến thanh đốt không đủ thời gian làm nóng nước.\n\nThanh đốt nóng (thanh điện trở) bị hỏng hoặc giảm khả năng truyền nhiệt.\n\nNút điều chỉnh nhiệt độ bị lỗi, lỏng hoặc không hoạt động chính xác.\n\nCông tắc chống giật ELCB bị ngắt do phát hiện sự cố rò điện.\n\nBo mạch điều khiển bên trong máy bị hư hỏng.\n\nBình chứa hoặc thanh đốt bị bám nhiều cặn bẩn do lâu ngày không được vệ sinh.\n\nMáy nước nóng được lắp đặt chưa đúng kỹ thuật, ảnh hưởng đến khả năng vận hành.\n\n3. Cách liên hệ đơn vị sửa chữa máy nước nóng không nóng\n\nKhi gặp tình trạng máy nước nóng không nóng do lỗi linh kiện hoặc sự cố kỹ thuật, người dùng nên liên hệ trung\n\ntâm hỗ trợ chính hãng để được kiểm tra và xử lý đúng cách. Với các sản phẩm Ariston, khách hàng có thể kết nối\n\nvới đội ngũ kỹ thuật qua các kênh sau:\n\nTổng đài chăm sóc khách hàng Ariston số 18001517 (thời gian làm việc từ 8h00 - 17h00, trừ Chủ nhật và ngày\n\nlễ).\n\nKênh hỗ trợ trực tuyến qua Zalo OA Ariston.\n\nĐăng ký bảo hành online để được tiếp nhận thông tin và hỗ trợ kỹ thuật.\n\nKhi liên hệ, khách hàng nên chuẩn bị thông tin sản phẩm như model, số seri, tình trạng lỗi gặp phải để quá trình\n\ntư vấn và hỗ trợ sửa máy nước nóng không nóng diễn ra thuận tiện hơn.\n\n6/12\n\nMUA HÀNG DỰ ÁN\n\nAriston hỗ trợ tư vấn kỹ thuật, bảo hành và xử lý các vấn đề liên quan đến máy nước nóng thông qua hệ thống\n\nchăm sóc khách hàng chính hãng.\n\nĐể đảm bảo quyền lợi trong quá trình sử dụng, người dùng nên kích hoạt bảo hành Ariston sau khi mua sản\n\nphẩm. Các bước thực hiện gồm:\n\nĐăng ký bảo hành online: Bạn truy cập trang dịch vụ khách hàng chính thức của Ariston, lựa chọn mục đăng\n\nký bảo hành và cung cấp các thông tin cần thiết như số seri sản phẩm, thông tin cá nhân và thông tin liên hệ\n\nđể hoàn tất kích hoạt.\n\nKích hoạt bảo hành qua điện thoại: Bạn gọi đến tổng đài chăm sóc khách hàng Ariston và cung cấp thông tin\n\nsản phẩm theo hướng dẫn của nhân viên hỗ trợ để được đăng ký bảo hành.\n\nSau khi hoàn tất kích hoạt, bạn sẽ nhận được hỗ trợ kỹ thuật từ đội ngũ chuyên gia Ariston, đồng thời được áp\n\ndụng các quyền lợi bảo hành như sửa bình nóng lạnh không nóng hoặc thay thế linh kiện theo điều kiện bảo\n\nhành của sản phẩm.\n\nHy vọng những thông tin trong bài viết đã giúp người dùng hiểu rõ hơn về các nguyên nhân thường gặp và lựa\n\nchọn cách sửa bình nóng lạnh không nóng phù hợp. Khi thiết bị phát sinh sự cố, bạn nên ưu tiên liên hệ đơn vị kỹ\n\nthuật chuyên nghiệp để được kiểm tra, sửa chữa đúng cách. Với các sản phẩm Ariston, khách hàng có thể liên hệ\n\n7/12\n\ntrung tâm chăm sóc khách hàng của hãng để được hỗ trợ tư vấn kỹ thuật, bảo hành và xử lý sự cố theo đúng tiêu\n\nchuẩn.\n\nThắc mắc thường gặp\n\nMUA HÀNG DỰ ÁN\n\nDưới đây là một số câu hỏi thường gặp giúp người dùng hiểu rõ hơn về nguyên nhân và cách sửa bình nóng lạnh\n\nkhông nóng.\n\nMáy nước nóng không nóng nhưng đèn báo vẫn sáng là bị gì?\n\nCó thể tự sửa máy nước nóng không nóng tại nhà không?\n\nChi phí sửa máy nước nóng không nóng bao nhiêu?\n\nCần ngắt nguồn điện trước khi sửa máy nóng lạnh không?\n\nCó nên thay máy mới nếu máy nước nóng thường xuyên không nóng?\n\nBài viết liên quan\n\n8/12\n\nMUA HÀNG DỰ ÁN\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\n9/12\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\n10/12\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nĐỌC THÊM\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\n11/12\n\nTập đoàn Ariston\n\nTuyển Dụng\n\nTẠP CHÍ\n\nMẹo & giải pháp\n\nMUA HÀNG DỰ ÁN\n\nTin tức\n\nNgôi nhà thư thái\n\nCuộc sống xanh\n\nTừ điển\n\nDỊCH VỤ KHÁCH HÀNG\n\nĐăng kí bảo hành online\n\nHội Viên Diamond Club\n\nLiên Hệ Với Chúng Tôi\n\nTải xuống tài liệu\n\nSẢN PHẨM\n\nMáy Nước Nóng Gián Tiếp\n\nMáy Nước Nóng Trực Tiếp\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nMáy Nước Nóng Bơm Nhiệt\n\nLEGAL AREA\n\nPrivacy Policy\n\nCookie Policy\n\n©2022 Ariston Holding N.V. – Company Info\n\n12/12",
+  "removed_repeated_lines": [
+    "01:14 11/10/26",
+    "ARISTON NET",
+    "Cách sửa bình nóng lạnh không nóng hiệu quả, an toàn",
+    "TẢI TÀI LIỆU",
+    "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 12845,
+    "cleaned_char_count": 10277,
+    "removed_char_count": 2568,
+    "reduction_ratio": 0.1999,
+    "removed_repeated_line_count": 5
+  },
+  "raw_text": "01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nCách sửa bình nóng lạnh không nóng hiệu\nquả, an toàn\n\nĐã xuất bản trên\n\n21 Tháng 8 2026\n\nCách sửa bình nóng lạnh không nóng có nhiều cách dựa trên tình trạng của máy, gồm kiểm tra và thay thế\n\nthanh đốt nóng, nút điều chỉnh nhiệt độ, kiểm tra nguồn điện, bật lại ELCB khi bị ngắt, sửa chữa bo mạch, vệ\n\nsinh cặn bẩn trong bình và lắp đặt lại máy đúng kỹ thuật. Người dùng nên ưu tiên liên hệ kỹ thuật viên chuyên\n\nnghiệp để xử lý an toàn, đảm bảo máy nước nóng hoạt động ổn định và hạn chế phát sinh sự cố.\n\nBình nóng lạnh không nóng là sự cố thường gặp, ảnh hưởng đến nhu cầu sinh hoạt hằng ngày và có thể xuất\n\nphát từ nhiều nguyên nhân như lỗi nguồn điện, hỏng thanh đốt, rơ-le nhiệt gặp vấn đề hoặc thiết bị bị bám cặn.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n1/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nBài viết dưới đây sẽ cung cấp thông tin về cách sửa bình nóng lạnh không nóng an toàn, giúp người dùng nhận\n\nbiết nguyên nhân, lựa chọn phương án xử lý phù hợp.\n\nARISTON NET\nTẢI TÀI LIỆU\n\n1. Chia sẻ 8 cách sửa máy nước nóng không nóng hiệu quả\n\nĐể sửa máy nước nóng không nóng, người dùng cần kiểm tra và xử lý các nguyên nhân liên quan đến thanh đốt,\n\nMUA HÀNG DỰ ÁN\n\nnguồn điện, hệ thống chống giật ELCB, bo mạch điều khiển hoặc tình trạng cặn bẩn bên trong thiết bị. Dưới đây\n\nlà các cách sửa bình nóng lạnh không nóng an toàn và hiệu quả.\n\n1.1. Kiểm tra, thay thế thanh đốt nóng\n\nKhi thanh đốt bị hỏng, đứt mạch, giảm khả năng truyền nhiệt hoặc bị bao phủ bởi lớp cặn khoáng, thiết bị có thể\n\nvẫn nhận điện nhưng không tạo ra nước nóng. Trong trường hợp này, kỹ thuật viên cần kiểm tra tình trạng linh\n\nkiện để xác định khả năng sửa chữa hoặc thay thế phù hợp. Ngoài ra, việc bảo dưỡng định kỳ cũng giúp phát\n\nhiện sớm dấu hiệu xuống cấp của thanh đốt, hạn chế tình trạng sửa máy nước nóng không nóng do lỗi bộ phận\n\nlàm nóng.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n2/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nKiểm tra và thay thế thanh đốt nóng là giải pháp thường được áp dụng khi máy nước nóng không nóng do lỗi bộ\n\nphận làm nóng.\n\nARISTON NET\nTẢI TÀI LIỆU\n\n1.2. Kiểm tra, thay mới nút điều chỉnh nhiệt độ\n\nSau thời gian dài sử dụng, bộ phận nút điều chỉnh nhiệt có thể bị hao mòn, giảm khả năng tiếp xúc hoặc gặp lỗi\n\nMUA HÀNG DỰ ÁN\n\nkhiến thiết bị không nhận đúng mức nhiệt được cài đặt. Đây là một trong các nguyên nhân khiến máy nước nóng\n\nkhông nóng dù đèn báo vẫn hoạt động bình thường. Khi phát hiện lỗi liên quan đến nút điều chỉnh nhiệt độ,\n\nngười dùng nên liên hệ kỹ thuật viên để được kiểm tra và thay thế linh kiện phù hợp, đảm bảo thiết bị hoạt động\n\nổn định.\n\n1.3. Điều chỉnh nhiệt độ và lượng nước phù hợp\n\nĐối với máy nước nóng trực tiếp, áp lực nước đầu vào và lưu lượng nước đi qua thiết bị có thể ảnh hưởng trực tiếp\n\nđến khả năng làm nóng. Khi lượng nước chảy quá mạnh, thanh đốt có thể không đủ thời gian truyền nhiệt để đưa\n\nnước đạt đến mức nhiệt mong muốn. Vì vậy, bạn nên lựa chọn thiết bị có công suất phù hợp với nhu cầu sử dụng\n\nvà đảm bảo hệ thống cấp nước vận hành đúng tiêu chuẩn. Như vậy, bạn có thể hạn chế tình trạng máy hoạt động\n\nquá tải, đồng thời duy trì hiệu quả làm nóng trong quá trình sử dụng.\n\n1.4. Ngắt và kiểm tra nguồn cấp điện, dây dẫn điện\n\nCác sự cố như dây dẫn bị hư hỏng, phích cắm lỏng, nguồn điện chập chờn hoặc kết nối điện không ổn định đều\n\ncó thể khiến thiết bị không hoạt động và không tạo ra nước nóng. Khi gặp tình trạng này, hệ thống điện cấp cho\n\nmáy cần được kiểm tra để xác định nguyên nhân cụ thể. Người dùng nên ưu tiên liên hệ đơn vị kỹ thuật nếu phát\n\nhiện bất thường, bởi việc tự ý tháo sửa các bộ phận điện bên trong có thể gây mất an toàn.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n3/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nKiểm tra nguồn cấp điện, dây dẫn và các kết nối giúp xác định nguyên nhân khiến máy nước nóng không nóng.\n\n1.5. Bật lại công tắc ELCB nếu bị ngắt\n\nKhi ELCB bị kích hoạt, máy có thể dừng hoạt động và không làm nóng nước dù các bộ phận khác vẫn còn nguyên\n\nvẹn. Tình trạng này cần được kiểm tra để xác định nguyên nhân khiến ELCB ngắt, chẳng hạn như rò điện hoặc lỗi\n\nlinh kiện bên trong. Nếu thiết bị thường xuyên gặp hiện tượng này, người dùng nên liên hệ trung tâm bảo hành\n\nhoặc đơn vị sửa chữa để được hỗ trợ xử lý.\n\n1.6. Sửa chữa hoặc thay thế bo mạch\n\nNếu bo mạch bị lỗi do sử dụng lâu ngày, ảnh hưởng từ nguồn điện không ổn định hoặc thiết bị hoạt động quá tải,\n\nmáy có thể xuất hiện tình trạng không làm nóng dù vẫn có dấu hiệu đang được cấp điện. Đây là lỗi liên quan đến\n\nhệ thống điện tử phức tạp nên cần được kiểm tra bởi kỹ thuật viên có chuyên môn. Tùy mức độ hư hỏng, bo mạch\n\ncó thể được sửa chữa hoặc thay thế để khôi phục khả năng vận hành.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n4/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\n1.7. Vệ sinh tẩy cặn trong máy nóng lạnh\n\nTrong quá trình sử dụng, các khoáng chất và tạp chất trong nguồn nước có thể tích tụ bên trong bình chứa hoặc\n\nARISTON NET\nTẢI TÀI LIỆU\n\nbám vào thanh đốt. Lớp cặn này làm giảm khả năng truyền nhiệt, khiến máy mất nhiều thời gian làm nóng hoặc\n\nkhông cung cấp đủ nước nóng theo nhu cầu. Vì vậy, bạn cần vệ sinh và bảo dưỡng định kỳ máy nước nóng để\n\nloại bỏ cặn bẩn, duy trì hiệu suất hoạt động và kéo dài tuổi thọ thiết bị. Tần suất vệ sinh phụ thuộc vào chất lượng\n\nnguồn nước, tần suất sử dụng cũng như điều kiện vận hành thực tế của từng gia đình.\n\nMUA HÀNG DỰ ÁN\n\nVệ sinh bình chứa và loại bỏ cặn bám giúp duy trì khả năng truyền nhiệt, hỗ trợ máy nước nóng hoạt động hiệu\n\nquả hơn.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n5/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\n1.8. Lắp đặt lại máy nước nóng đúng cách\n\nCác yếu tố như vị trí lắp đặt, kết nối nguồn điện, đường nước cấp hoặc thông số kỹ thuật không phù hợp đều có\n\nARISTON NET\nTẢI TÀI LIỆU\n\nthể làm giảm hiệu quả hoạt động của máy. Do đó, việc lắp đặt cần tuân thủ hướng dẫn từ nhà sản xuất và được\n\nthực hiện bởi người có chuyên môn. Lắp đặt đúng giúp hạn chế lỗi phát sinh, đồng thời đảm bảo thiết bị hoạt\n\nđộng ổn định và an toàn trong thời gian dài.\n\nMUA HÀNG DỰ ÁN\n\n2. Các nguyên nhân máy nước nóng không nóng\n\nMáy nước nóng không nóng có thể xuất phát từ nhiều lỗi khác nhau liên quan đến nguồn điện, linh kiện làm nóng\n\nhoặc quá trình lắp đặt, sử dụng thiết bị. Một số nguyên nhân phổ biến giúp bạn xác định được cách sửa máy nước\n\nnóng không nóng phù hợp gồm:\n\nMáy nước nóng bị mất nguồn điện, nguồn cấp điện không ổn định hoặc dây dẫn gặp sự cố.\n\nThiết bị hoạt động quá công suất trong thời gian dài, gây ảnh hưởng đến các linh kiện bên trong.\n\nÁp lực nước đầu vào quá mạnh khiến thanh đốt không đủ thời gian làm nóng nước.\n\nThanh đốt nóng (thanh điện trở) bị hỏng hoặc giảm khả năng truyền nhiệt.\n\nNút điều chỉnh nhiệt độ bị lỗi, lỏng hoặc không hoạt động chính xác.\n\nCông tắc chống giật ELCB bị ngắt do phát hiện sự cố rò điện.\n\nBo mạch điều khiển bên trong máy bị hư hỏng.\n\nBình chứa hoặc thanh đốt bị bám nhiều cặn bẩn do lâu ngày không được vệ sinh.\n\nMáy nước nóng được lắp đặt chưa đúng kỹ thuật, ảnh hưởng đến khả năng vận hành.\n\n3. Cách liên hệ đơn vị sửa chữa máy nước nóng không nóng\n\nKhi gặp tình trạng máy nước nóng không nóng do lỗi linh kiện hoặc sự cố kỹ thuật, người dùng nên liên hệ trung\n\ntâm hỗ trợ chính hãng để được kiểm tra và xử lý đúng cách. Với các sản phẩm Ariston, khách hàng có thể kết nối\n\nvới đội ngũ kỹ thuật qua các kênh sau:\n\nTổng đài chăm sóc khách hàng Ariston số 18001517 (thời gian làm việc từ 8h00 - 17h00, trừ Chủ nhật và ngày\n\nlễ).\n\nKênh hỗ trợ trực tuyến qua Zalo OA Ariston.\n\nĐăng ký bảo hành online để được tiếp nhận thông tin và hỗ trợ kỹ thuật.\n\nKhi liên hệ, khách hàng nên chuẩn bị thông tin sản phẩm như model, số seri, tình trạng lỗi gặp phải để quá trình\n\ntư vấn và hỗ trợ sửa máy nước nóng không nóng diễn ra thuận tiện hơn.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n6/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nAriston hỗ trợ tư vấn kỹ thuật, bảo hành và xử lý các vấn đề liên quan đến máy nước nóng thông qua hệ thống\n\nchăm sóc khách hàng chính hãng.\n\nĐể đảm bảo quyền lợi trong quá trình sử dụng, người dùng nên kích hoạt bảo hành Ariston sau khi mua sản\n\nphẩm. Các bước thực hiện gồm:\n\nĐăng ký bảo hành online: Bạn truy cập trang dịch vụ khách hàng chính thức của Ariston, lựa chọn mục đăng\n\nký bảo hành và cung cấp các thông tin cần thiết như số seri sản phẩm, thông tin cá nhân và thông tin liên hệ\n\nđể hoàn tất kích hoạt.\n\nKích hoạt bảo hành qua điện thoại: Bạn gọi đến tổng đài chăm sóc khách hàng Ariston và cung cấp thông tin\n\nsản phẩm theo hướng dẫn của nhân viên hỗ trợ để được đăng ký bảo hành.\n\nSau khi hoàn tất kích hoạt, bạn sẽ nhận được hỗ trợ kỹ thuật từ đội ngũ chuyên gia Ariston, đồng thời được áp\n\ndụng các quyền lợi bảo hành như sửa bình nóng lạnh không nóng hoặc thay thế linh kiện theo điều kiện bảo\n\nhành của sản phẩm.\n\nHy vọng những thông tin trong bài viết đã giúp người dùng hiểu rõ hơn về các nguyên nhân thường gặp và lựa\n\nchọn cách sửa bình nóng lạnh không nóng phù hợp. Khi thiết bị phát sinh sự cố, bạn nên ưu tiên liên hệ đơn vị kỹ\n\nthuật chuyên nghiệp để được kiểm tra, sửa chữa đúng cách. Với các sản phẩm Ariston, khách hàng có thể liên hệ\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n7/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\ntrung tâm chăm sóc khách hàng của hãng để được hỗ trợ tư vấn kỹ thuật, bảo hành và xử lý sự cố theo đúng tiêu\n\nchuẩn.\n\nARISTON NET\nTẢI TÀI LIỆU\n\nThắc mắc thường gặp\n\nMUA HÀNG DỰ ÁN\n\nDưới đây là một số câu hỏi thường gặp giúp người dùng hiểu rõ hơn về nguyên nhân và cách sửa bình nóng lạnh\n\nkhông nóng.\n\nMáy nước nóng không nóng nhưng đèn báo vẫn sáng là bị gì?\n\nCó thể tự sửa máy nước nóng không nóng tại nhà không?\n\nChi phí sửa máy nước nóng không nóng bao nhiêu?\n\nCần ngắt nguồn điện trước khi sửa máy nóng lạnh không?\n\nCó nên thay máy mới nếu máy nước nóng thường xuyên không nóng?\n\nBài viết liên quan\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n8/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n9/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nĐỌC THÊM\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n10/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nARISTON NET\nTẢI TÀI LIỆU\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nĐỌC THÊM\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n11/12\n\n01:14 11/10/26\nCách sửa bình nóng lạnh không nóng hiệu quả, an toàn\n\nTập đoàn Ariston\n\nTuyển Dụng\n\nARISTON NET\nTẢI TÀI LIỆU\n\nTẠP CHÍ\n\nMẹo & giải pháp\n\nMUA HÀNG DỰ ÁN\n\nTin tức\n\nNgôi nhà thư thái\n\nCuộc sống xanh\n\nTừ điển\n\nDỊCH VỤ KHÁCH HÀNG\n\nĐăng kí bảo hành online\n\nHội Viên Diamond Club\n\nLiên Hệ Với Chúng Tôi\n\nTải xuống tài liệu\n\nSẢN PHẨM\n\nMáy Nước Nóng Gián Tiếp\n\nMáy Nước Nóng Trực Tiếp\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nMáy Nước Nóng Bơm Nhiệt\n\nLEGAL AREA\n\nPrivacy Policy\n\nCookie Policy\n\n©2022 Ariston Holding N.V. – Company Info\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/binh-nong-lanh-khong-nong-nguyen-nhan-va-cach-khac-phuc\n12/12",
+  "char_count": 12845
+}

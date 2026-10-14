@@ -100,6 +100,22 @@ Request mẫu:
 - `tests/`: automated tests.
 - `data/manuals/`: chỉ mục nguồn tài liệu và tài liệu tham khảo cục bộ.
 
+### Xử lý tài liệu
+
+Module `document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,
+chuẩn hóa thận trọng các ký tự điều khiển và loại dòng lặp ở lề PDF. Kết quả
+được ghi thành cặp `.txt`/`.json` theo thư mục nguồn; file gốc không bị sửa.
+Module chưa thực hiện OCR, chia chunk hoặc embedding. Hãy rà soát các cảnh báo
+`OCR_REQUIRED`, `HIGH_TEXT_REDUCTION`, `CLEANED_TEXT_EMPTY` và `LOW_TEXT_VOLUME`
+trước khi đưa tài liệu vào bước tiếp theo.
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest tests\document_processing -q
+.\.venv\Scripts\python.exe -m document_processing.cli `
+    --input .\data\manuals\files `
+    --output .\data\processed\extracted
+```
+
 ## 5. Chạy kiểm thử
 
 ```powershell

@@ -1,0 +1,678 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\G001_panasonic_fridge_usage_guide.pdf",
+  "filename": "G001_panasonic_fridge_usage_guide.pdf",
+  "file_type": "pdf",
+  "page_count": 7,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            474.92193603515625,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "Panasonic Vietnam",
+          "bbox": [
+            37.006378173828125,
+            61.48886489868164,
+            97.8575210571289,
+            70.75741577148438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "",
+          "bbox": [
+            551.358642578125,
+            82.09016418457031,
+            564.9688720703125,
+            95.70037078857422
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "HƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC",
+          "bbox": [
+            42.110206604003906,
+            108.40097045898438,
+            235.9647216796875,
+            120.759033203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "HƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC",
+          "bbox": [
+            112.51819610595703,
+            146.33714294433594,
+            500.2274475097656,
+            171.0532684326172
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "Giải pháp tuyệt vời giúp tối ưu hóa công năng và tiết kiệm chí phí hóa đơn tiền điện hằng thàng.",
+          "bbox": [
+            42.11020278930664,
+            191.19638061523438,
+            450.80596923828125,
+            203.554443359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "1. Hướng dẫn sử dụng điều chỉnh nhiệt độ của tủ lạnh",
+          "bbox": [
+            42.11020278930664,
+            213.8800506591797,
+            286.50384521484375,
+            226.2381134033203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "*Dành cho kiểu máy có ngăn đá phía trên – Bảng điều khiển điện tử bên trong.",
+          "bbox": [
+            42.11020278930664,
+            236.563720703125,
+            377.1567077636719,
+            248.92178344726562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "Quý khách hàng vui lòng xem chi tiết tại hình ảnh bên dưới.",
+          "bbox": [
+            42.11020278930664,
+            250.17393493652344,
+            295.7768859863281,
+            262.5320129394531
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "https://www.panasonic.com/vn/support/user-manual-fridge.html\n1/7",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            474.92193603515625,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "2. Hưỡng dẫn điều chỉnh nhiệt độ của tủ lạnh (ngăn đá dưới, bảng điều khiển bên trong)",
+          "bbox": [
+            42.11020278930664,
+            575.6845703125,
+            441.51483154296875,
+            588.0426025390625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "*Dành cho kiểu máy có ngăn đá phía dưới – Bảng điều khiển điện tử bên trong.",
+          "bbox": [
+            42.11020278930664,
+            598.3682861328125,
+            379.21636962890625,
+            610.726318359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "Quý khách hàng vui lòng xem chi tiết tại hình ảnh bên dưới.",
+          "bbox": [
+            42.11020278930664,
+            611.978515625,
+            295.7768859863281,
+            624.3365478515625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "https://www.panasonic.com/vn/support/user-manual-fridge.html\n2/7",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            474.92193603515625,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "3. Hướng dẫn làm dây tiếp đất cho tủ lạnh",
+          "bbox": [
+            42.11020278930664,
+            575.6846313476562,
+            235.3385467529297,
+            588.0426635742188
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "Quý khách vui lòng xem chi tiết tại hình ảnh bên dưới",
+          "bbox": [
+            42.11020278930664,
+            598.3682250976562,
+            269.1008605957031,
+            610.7262573242188
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "*Dành cho trường hợp ổ điện đã có ổ nối đất",
+          "bbox": [
+            42.11020278930664,
+            611.9785766601562,
+            233.35150146484375,
+            624.3366088867188
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "https://www.panasonic.com/vn/support/user-manual-fridge.html\n3/7",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            474.92193603515625,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "*Dành cho trường hợp ổ điện không có ổ nối đất",
+          "bbox": [
+            42.11020278930664,
+            575.6845092773438,
+            249.7926025390625,
+            588.0425415039062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "https://www.panasonic.com/vn/support/user-manual-fridge.html\n4/7",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            474.92193603515625,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "4. Cách đóng cửa ngăn làm lạnh đúng cách (dành cho dòng tủ có nhiều cánh)",
+          "bbox": [
+            42.11020278930664,
+            575.6845092773438,
+            389.07025146484375,
+            588.0425415039062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "https://www.panasonic.com/vn/support/user-manual-fridge.html\n5/7",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            474.92193603515625,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "Panasonic Vietnam\nHướng dẫn đóng cửa tủ lạnh đúng cách_Mẹo từ chuyên gia Panasonic\nHướng dẫn đóng cửa tủ lạnh đúng cách_Mẹo từ chuyên gia Panasonic",
+          "bbox": [
+            86.3433609008789,
+            35.102073669433594,
+            440.7370300292969,
+            55.81138229370117
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "Xem trên",
+          "bbox": [
+            448.05047607421875,
+            298.5669250488281,
+            488.9682922363281,
+            308.7745666503906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "5. Hướng dẫn điều chỉnh chân tủ lạnh (dòng tủ nhiều cánh)",
+          "bbox": [
+            42.11020278930664,
+            357.92132568359375,
+            309.350830078125,
+            370.2793884277344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "Panasonic Vietnam\nHướng dẫn điều chỉnh chân tủ lạnh Panasonic nhiều cánh\nHướng dẫn điều chỉnh chân tủ lạnh Panasonic nhiều cánh",
+          "bbox": [
+            86.3433609008789,
+            395.7725830078125,
+            376.859619140625,
+            416.4819030761719
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "Xem trên",
+          "bbox": [
+            448.05047607421875,
+            659.2374267578125,
+            488.9682922363281,
+            669.4451293945312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "6. Hướng dẫn chỉnh đèn nháy trong ngăn mát tủ lạnh",
+          "bbox": [
+            42.11020278930664,
+            719.1586303710938,
+            284.1991882324219,
+            731.5166625976562
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "https://www.panasonic.com/vn/support/user-manual-fridge.html\n6/7",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            474.92193603515625,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "Panasonic Vietnam\nHướng dẫn điều chỉnh đèn ngăn mát của tủ lạnh nháy\nHướng dẫn điều chỉnh đèn ngăn mát của tủ lạnh nháy",
+          "bbox": [
+            86.3433609008789,
+            35.102073669433594,
+            356.2240905761719,
+            55.81138229370117
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "Xem trên",
+          "bbox": [
+            448.05047607421875,
+            298.5669250488281,
+            488.9682922363281,
+            308.7745666503906
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "HƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC",
+          "bbox": [
+            37.006378173828125,
+            402.877685546875,
+            182.39727783203125,
+            412.146240234375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "Facebook\nYouTube\nTikTok\nCommunity\nLinkedIn",
+          "bbox": [
+            195.64144897460938,
+            430.665283203125,
+            406.88983154296875,
+            439.933837890625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "Về Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành",
+          "bbox": [
+            69.02047729492188,
+            449.946533203125,
+            529.547119140625,
+            459.215087890625
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "CHÍNH SÁCH COOKIE",
+          "bbox": [
+            272.4735412597656,
+            465.824951171875,
+            340.26593017578125,
+            475.093505859375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 8,
+          "text": "Area/Country",
+          "bbox": [
+            291.79010009765625,
+            483.405029296875,
+            334.5669250488281,
+            492.673583984375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 9,
+          "text": "Copyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360",
+          "bbox": [
+            183.76797485351562,
+            499.283447265625,
+            428.9693298339844,
+            508.552001953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 10,
+          "text": "https://www.panasonic.com/vn/support/user-manual-fridge.html\n7/7",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "HƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010180649+00'00'",
+    "modDate": "D:20261010180649+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "Panasonic Vietnam\n\n\n\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC\n\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC\n\nGiải pháp tuyệt vời giúp tối ưu hóa công năng và tiết kiệm chí phí hóa đơn tiền điện hằng thàng.\n\n1. Hướng dẫn sử dụng điều chỉnh nhiệt độ của tủ lạnh\n\n*Dành cho kiểu máy có ngăn đá phía trên – Bảng điều khiển điện tử bên trong.\n\nQuý khách hàng vui lòng xem chi tiết tại hình ảnh bên dưới.\n\n1/7\n\n2. Hưỡng dẫn điều chỉnh nhiệt độ của tủ lạnh (ngăn đá dưới, bảng điều khiển bên trong)\n\n*Dành cho kiểu máy có ngăn đá phía dưới – Bảng điều khiển điện tử bên trong.\n\nQuý khách hàng vui lòng xem chi tiết tại hình ảnh bên dưới.\n\n2/7\n\n3. Hướng dẫn làm dây tiếp đất cho tủ lạnh\n\nQuý khách vui lòng xem chi tiết tại hình ảnh bên dưới\n\n*Dành cho trường hợp ổ điện đã có ổ nối đất\n\n3/7\n\n*Dành cho trường hợp ổ điện không có ổ nối đất\n\n4/7\n\n4. Cách đóng cửa ngăn làm lạnh đúng cách (dành cho dòng tủ có nhiều cánh)\n\n5/7\n\nPanasonic Vietnam\nHướng dẫn đóng cửa tủ lạnh đúng cách_Mẹo từ chuyên gia Panasonic\nHướng dẫn đóng cửa tủ lạnh đúng cách_Mẹo từ chuyên gia Panasonic\n\nXem trên\n\n5. Hướng dẫn điều chỉnh chân tủ lạnh (dòng tủ nhiều cánh)\n\nPanasonic Vietnam\nHướng dẫn điều chỉnh chân tủ lạnh Panasonic nhiều cánh\nHướng dẫn điều chỉnh chân tủ lạnh Panasonic nhiều cánh\n\nXem trên\n\n6. Hướng dẫn chỉnh đèn nháy trong ngăn mát tủ lạnh\n\n6/7\n\nPanasonic Vietnam\nHướng dẫn điều chỉnh đèn ngăn mát của tủ lạnh nháy\nHướng dẫn điều chỉnh đèn ngăn mát của tủ lạnh nháy\n\nXem trên\n\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC\n\nFacebook\nYouTube\nTikTok\nCommunity\nLinkedIn\n\nVề Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành\n\nCHÍNH SÁCH COOKIE\n\nArea/Country\n\nCopyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360\n\n7/7",
+  "removed_repeated_lines": [
+    "01:06 11/10/26",
+    "HƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam",
+    "https://www.panasonic.com/vn/support/user-manual-fridge.html"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 2707,
+    "cleaned_char_count": 1763,
+    "removed_char_count": 944,
+    "reduction_ratio": 0.3487,
+    "removed_repeated_line_count": 3
+  },
+  "raw_text": "01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam\n\nPanasonic Vietnam\n\n\n\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC\n\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC\n\nGiải pháp tuyệt vời giúp tối ưu hóa công năng và tiết kiệm chí phí hóa đơn tiền điện hằng thàng.\n\n1. Hướng dẫn sử dụng điều chỉnh nhiệt độ của tủ lạnh\n\n*Dành cho kiểu máy có ngăn đá phía trên – Bảng điều khiển điện tử bên trong.\n\nQuý khách hàng vui lòng xem chi tiết tại hình ảnh bên dưới.\n\nhttps://www.panasonic.com/vn/support/user-manual-fridge.html\n1/7\n\n01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam\n\n2. Hưỡng dẫn điều chỉnh nhiệt độ của tủ lạnh (ngăn đá dưới, bảng điều khiển bên trong)\n\n*Dành cho kiểu máy có ngăn đá phía dưới – Bảng điều khiển điện tử bên trong.\n\nQuý khách hàng vui lòng xem chi tiết tại hình ảnh bên dưới.\n\nhttps://www.panasonic.com/vn/support/user-manual-fridge.html\n2/7\n\n01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam\n\n3. Hướng dẫn làm dây tiếp đất cho tủ lạnh\n\nQuý khách vui lòng xem chi tiết tại hình ảnh bên dưới\n\n*Dành cho trường hợp ổ điện đã có ổ nối đất\n\nhttps://www.panasonic.com/vn/support/user-manual-fridge.html\n3/7\n\n01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam\n\n*Dành cho trường hợp ổ điện không có ổ nối đất\n\nhttps://www.panasonic.com/vn/support/user-manual-fridge.html\n4/7\n\n01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam\n\n4. Cách đóng cửa ngăn làm lạnh đúng cách (dành cho dòng tủ có nhiều cánh)\n\nhttps://www.panasonic.com/vn/support/user-manual-fridge.html\n5/7\n\n01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam\n\nPanasonic Vietnam\nHướng dẫn đóng cửa tủ lạnh đúng cách_Mẹo từ chuyên gia Panasonic\nHướng dẫn đóng cửa tủ lạnh đúng cách_Mẹo từ chuyên gia Panasonic\n\nXem trên\n\n5. Hướng dẫn điều chỉnh chân tủ lạnh (dòng tủ nhiều cánh)\n\nPanasonic Vietnam\nHướng dẫn điều chỉnh chân tủ lạnh Panasonic nhiều cánh\nHướng dẫn điều chỉnh chân tủ lạnh Panasonic nhiều cánh\n\nXem trên\n\n6. Hướng dẫn chỉnh đèn nháy trong ngăn mát tủ lạnh\n\nhttps://www.panasonic.com/vn/support/user-manual-fridge.html\n6/7\n\n01:06 11/10/26\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC - Panasonic Việt Nam\n\nPanasonic Vietnam\nHướng dẫn điều chỉnh đèn ngăn mát của tủ lạnh nháy\nHướng dẫn điều chỉnh đèn ngăn mát của tủ lạnh nháy\n\nXem trên\n\nHƯỚNG DẪN SỬ DỤNG TỦ LẠNH PANASONIC\n\nFacebook\nYouTube\nTikTok\nCommunity\nLinkedIn\n\nVề Chúng Tôi\nSơ đồ website\nĐiều khoản Sử dụng\nChính sách giao dịch chung\nĐăng ký bảo hành cho đại lý\nĐịa điểm bảo hành\n\nCHÍNH SÁCH COOKIE\n\nArea/Country\n\nCopyright © 2026 Panasonic Vietnam | Hotline : 1800 1593 | (024) 3767 7360\n\nhttps://www.panasonic.com/vn/support/user-manual-fridge.html\n7/7",
+  "char_count": 2707
+}

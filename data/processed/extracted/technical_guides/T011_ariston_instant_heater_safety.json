@@ -1,0 +1,2377 @@
+{
+  "source_path": "T:\\AI_AGENT\\AI_Agent_Elec_BE_2026\\data\\manuals\\files\\technical_guides\\T011_ariston_instant_heater_safety.pdf",
+  "filename": "T011_ariston_instant_heater_safety.pdf",
+  "file_type": "pdf",
+  "page_count": 9,
+  "pages": [
+    {
+      "page_number": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 1,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP\nMáy nước nóng trực tiếp có an toàn không?\nCách sử dụng đúng",
+          "bbox": [
+            46.5,
+            153.08999633789062,
+            524.603515625,
+            235.90200805664062
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 5,
+          "text": "Đã xuất bản trên",
+          "bbox": [
+            46.5,
+            568.5900268554688,
+            122.91891479492188,
+            581.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 6,
+          "text": "13 Tháng 8 2026",
+          "bbox": [
+            46.5,
+            585.0900268554688,
+            125.82740783691406,
+            597.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 7,
+          "text": "Máy nước nóng trực tiếp có an toàn không phụ thuộc vào chất lượng sản phẩm, cách lắp đặt và quá trình sử",
+          "bbox": [
+            46.5,
+            631.5900268554688,
+            555.3189697265625,
+            644.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 8,
+          "text": "dụng. Khi lựa chọn máy nước nóng trực tiếp chính hãng, lắp đặt đúng kỹ thuật, bảo dưỡng định kỳ và tuân thủ",
+          "bbox": [
+            46.5,
+            648.0900268554688,
+            565.0262451171875,
+            660.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 9,
+          "text": "hướng dẫn của nhà sản xuất, bạn có thể yên tâm sử dụng. Nhiều dòng máy nước nóng trực tiếp hiện nay cũng",
+          "bbox": [
+            46.5,
+            664.5900268554688,
+            565.9238891601562,
+            677.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 10,
+          "text": "được tích hợp các tính năng an toàn để hỗ trợ bảo vệ người dùng trong quá trình vận hành.",
+          "bbox": [
+            46.5,
+            681.0900268554688,
+            476.0230407714844,
+            693.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 11,
+          "text": "Máy nước nóng trực tiếp có an toàn không là câu hỏi được nhiều người quan tâm khi lựa chọn thiết bị cho gia",
+          "bbox": [
+            46.5,
+            725.3400268554688,
+            544.2415771484375,
+            738.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 12,
+          "text": "đình. Trên thực tế, mức độ an toàn phụ thuộc vào chất lượng sản phẩm, cách lắp đặt và quá trình sử dụng. Bài viết",
+          "bbox": [
+            46.5,
+            741.8400268554688,
+            565.3464965820312,
+            754.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 1,
+          "block_index": 13,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n1/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 2,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 2,
+          "text": "dưới đây sẽ giúp bạn hiểu rõ hơn về máy nước nóng trực tiếp cũng như những lưu ý quan trọng để sử dụng thiết",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            557.6079711914062,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 3,
+          "text": "bị an toàn..",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            96.87894439697266,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 5,
+          "text": "1. Máy nước nóng trực tiếp là gì?",
+          "bbox": [
+            46.5,
+            88.44000244140625,
+            313.4576416015625,
+            110.36399841308594
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 6,
+          "text": "Máy nước nóng trực tiếp là thiết bị làm nóng nước ngay khi nước đi qua thanh đốt nên không cần bình chứa. Với",
+          "bbox": [
+            46.5,
+            119.33999633789062,
+            556.6456298828125,
+            132.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 7,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 8,
+          "text": "nguyên lý máy nước nóng trực tiếp là gia nhiệt tức thì khi nước chảy qua thanh đốt, nước sẽ được làm nóng chỉ",
+          "bbox": [
+            46.5,
+            135.83999633789062,
+            550.1214599609375,
+            148.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 9,
+          "text": "sau vài giây trước khi đưa đến vòi sen hoặc đầu ra của thiết bị. Nhờ thiết kế nhỏ gọn, máy nước nóng trực tiếp",
+          "bbox": [
+            46.5,
+            152.33999633789062,
+            547.654052734375,
+            165.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 10,
+          "text": "phù hợp với nhiều không gian phòng tắm và thuận tiện khi lắp đặt.",
+          "bbox": [
+            46.5,
+            168.83999633789062,
+            350.0757751464844,
+            181.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 11,
+          "text": "Máy nước nóng trực tiếp làm nóng nước ngay khi nước đi qua thanh đốt mà không cần bình chứa.",
+          "bbox": [
+            84.046875,
+            428.3399963378906,
+            528.7005004882812,
+            441.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 12,
+          "text": "2. Sử dụng máy nước nóng trực tiếp có an toàn không?",
+          "bbox": [
+            46.5,
+            494.19000244140625,
+            499.3795166015625,
+            516.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 13,
+          "text": "Máy nước nóng trực tiếp có thể sử dụng an toàn nếu bạn lựa chọn sản phẩm chính hãng, lắp đặt đúng kỹ thuật và",
+          "bbox": [
+            46.5,
+            525.0900268554688,
+            564.6482543945312,
+            537.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 14,
+          "text": "tuân thủ hướng dẫn của nhà sản xuất. Nhiều dòng máy hiện nay được trang bị các tính năng hỗ trợ bảo vệ người",
+          "bbox": [
+            46.5,
+            541.5900268554688,
+            559.2039794921875,
+            554.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 15,
+          "text": "dùng trong quá trình vận hành. Bên cạnh đó, việc kiểm tra và bảo dưỡng định kỳ cũng góp phần duy trì khả năng",
+          "bbox": [
+            46.5,
+            558.0900268554688,
+            562.43798828125,
+            570.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 16,
+          "text": "hoạt động ổn định của thiết bị.",
+          "bbox": [
+            46.5,
+            574.5900268554688,
+            186.42286682128906,
+            587.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 17,
+          "text": "Xem thêm: Bình nóng lạnh trực tiếp và gián tiếp Ariston: Loại nào an toàn hơn?",
+          "bbox": [
+            46.5,
+            594.8400268554688,
+            405.4275817871094,
+            607.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 18,
+          "text": "3. Các tính năng an toàn trên máy nước nóng trực tiếp Ariston\nAures 2.0",
+          "bbox": [
+            46.5,
+            636.6900024414062,
+            559.3193969726562,
+            682.614013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 19,
+          "text": "Máy nước nóng trực tiếp được trang bị nhiều tính năng hỗ trợ nâng cao độ an toàn trong quá trình sử dụng. Một",
+          "bbox": [
+            46.5,
+            691.5900268554688,
+            554.9304809570312,
+            704.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 20,
+          "text": "số tính năng nổi bật gồm hệ thống an toàn đồng bộ TSS, hệ thống kiểm soát Safety Check, công nghệ chống",
+          "bbox": [
+            46.5,
+            708.0900268554688,
+            546.541015625,
+            720.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 21,
+          "text": "bỏng thông minh Residual Heat®, khóa nhiệt an toàn chống bỏng và tiêu chuẩn chống nước IP25.",
+          "bbox": [
+            46.5,
+            724.5900268554688,
+            492.4241027832031,
+            737.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 2,
+          "block_index": 22,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n2/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 3,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 2,
+          "text": "3.1 Hệ thống an toàn đồng bộ TSS",
+          "bbox": [
+            46.5,
+            35.70000076293945,
+            276.0898132324219,
+            53.970001220703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 3,
+          "text": "Hệ thống an toàn đồng bộ TSS của máy nước nóng trực tiếp Ariston Aures 2.0 được thiết kế nhằm hỗ trợ bảo vệ",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            558.9539184570312,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 4,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 5,
+          "text": "người dùng trong quá trình vận hành. Hệ thống tích hợp cầu dao chống giật ELCB Ariston, có khả năng ngắt",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            539.6005859375,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 6,
+          "text": "nguồn điện khi phát hiện rò rỉ điện. Cùng với bộ điều chỉnh nhiệt TBSE giúp máy nước nóng dừng gia nhiệt khi",
+          "bbox": [
+            46.5,
+            96.08999633789062,
+            550.0164794921875,
+            108.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 7,
+          "text": "nước đạt mức nhiệt đã cài đặt, trong khi van an toàn sẽ giải phóng áp suất khi vượt quá giới hạn cho phép. Sự kết",
+          "bbox": [
+            46.5,
+            112.58999633789062,
+            563.656005859375,
+            125.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 8,
+          "text": "hợp của các tính năng TBSE và ELCB chống giật cho máy nước nóng Ariston vận hành ổn định và an toàn hơn.",
+          "bbox": [
+            46.5,
+            129.08999633789062,
+            551.0244750976562,
+            141.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 9,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 10,
+          "text": "3.2 Hệ thống kiểm soát an toàn Safety Check",
+          "bbox": [
+            46.5,
+            154.9499969482422,
+            353.09979248046875,
+            173.22000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 11,
+          "text": "Hệ thống Safety Check được trang bị trên một số dòng máy nước nóng trực tiếp Ariston nhằm hỗ trợ kiểm tra tình",
+          "bbox": [
+            46.5,
+            182.33999633789062,
+            564.47509765625,
+            195.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 12,
+          "text": "trạng hoạt động trước khi sử dụng. Khi máy nước nóng trực tiếp Ariston được kết nối nguồn điện, hệ thống sẽ tự",
+          "bbox": [
+            46.5,
+            198.83999633789062,
+            557.0830078125,
+            211.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 13,
+          "text": "động kiểm tra các bộ phận liên quan. Nếu mọi điều kiện đều đạt yêu cầu, đèn Safety Check sẽ hiển thị màu xanh",
+          "bbox": [
+            46.5,
+            215.33999633789062,
+            563.603515625,
+            228.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 14,
+          "text": "để người dùng có thể sử dụng. Ngược lại, nếu phát hiện bất thường, đèn sẽ chuyển sang màu đỏ để cảnh báo và",
+          "bbox": [
+            46.5,
+            231.83999633789062,
+            562.3433837890625,
+            244.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 15,
+          "text": "khuyến nghị kiểm tra máy nước nóng trực tiếp Ariston trước khi tiếp tục vận hành.",
+          "bbox": [
+            46.5,
+            248.33999633789062,
+            418.4306945800781,
+            261.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 16,
+          "text": "Hệ thống Safety Check của máy nước nóng trực tiếp là gì? Safety Check là hệ thống hỗ trợ kiểm tra tình trạng",
+          "bbox": [
+            56.35546875,
+            507.8399963378906,
+            556.37548828125,
+            520.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 17,
+          "text": "máy nước nóng trước khi sử dụng.",
+          "bbox": [
+            228.5625,
+            524.3400268554688,
+            384.17242431640625,
+            537.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 18,
+          "text": "3.3 Công nghệ chống bỏng thông minh Residual Heat®",
+          "bbox": [
+            46.5,
+            574.2000122070312,
+            418.1547546386719,
+            592.469970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 19,
+          "text": "Công nghệ Residual Heat® được tích hợp trên máy nước nóng trực tiếp Ariston Aures 2.0 nhằm hỗ trợ hạn chế",
+          "bbox": [
+            46.5,
+            601.5900268554688,
+            549.239501953125,
+            614.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 20,
+          "text": "tình trạng nhiệt độ nước tăng đột ngột. Sau khi tắt máy, bầu đun vẫn có thể còn một lượng nước nóng bên trong.",
+          "bbox": [
+            46.5,
+            618.0900268554688,
+            559.0150146484375,
+            630.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 21,
+          "text": "Khi khởi động lại, công nghệ Residual Heat® sẽ đưa nước lạnh vào bầu đun để giảm nhanh lượng nhiệt còn lại.",
+          "bbox": [
+            46.5,
+            634.5900268554688,
+            550.3839721679688,
+            647.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 22,
+          "text": "Nhờ đó, máy nước nóng trực tiếp Ariston Aures 2.0 giúp nhiệt độ nước đầu ra ổn định hơn khi người dùng mở",
+          "bbox": [
+            46.5,
+            651.0900268554688,
+            545.5645141601562,
+            663.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 23,
+          "text": "nước trở lại.",
+          "bbox": [
+            46.5,
+            667.5900268554688,
+            99.9239501953125,
+            680.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 24,
+          "text": "3.4 Khóa nhiệt an toàn chống bỏng",
+          "bbox": [
+            46.5,
+            693.4500122070312,
+            285.1347961425781,
+            711.719970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 25,
+          "text": "Khóa nhiệt an toàn chống bỏng là một phần trong cấu tạo máy nước nóng trực tiếp. Khóa nhiệt giúp máy nước",
+          "bbox": [
+            46.5,
+            720.8400268554688,
+            549.9744873046875,
+            733.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 26,
+          "text": "nóng trực tiếp Ariston Aures 2.0 kiểm soát nhiệt độ nước đầu ra theo mức đã cài đặt. Tính năng này hạn chế tình",
+          "bbox": [
+            46.5,
+            737.3400268554688,
+            559.77099609375,
+            750.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 3,
+          "block_index": 27,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n3/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 4,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 2,
+          "text": "trạng nước nóng vượt quá nhiệt độ mong muốn trong quá trình sử dụng. Nhờ đó, máy nước nóng trực tiếp Ariston",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            563.8765258789062,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 3,
+          "text": "Aures 2.0 mang đến trải nghiệm sử dụng ổn định hơn. Đây là tính năng phù hợp với gia đình có trẻ nhỏ hoặc",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            541.8265380859375,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 4,
+          "text": "người lớn tuổi.",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            111.6944351196289,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 6,
+          "text": "3.5 Tiêu chuẩn chống nước IP25",
+          "bbox": [
+            46.5,
+            88.94999694824219,
+            265.97979736328125,
+            107.22000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 7,
+          "text": "Máy nước nóng trực tiếp Ariston Aures 2.0 đạt tiêu chuẩn chống nước IP25 để bảo vệ các linh kiện bên trong khi",
+          "bbox": [
+            46.5,
+            116.33999633789062,
+            561.072998046875,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 8,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 9,
+          "text": "lắp đặt trong môi trường có độ ẩm cao. Lớp vỏ đạt chuẩn giúp hạn chế nước và hơi ẩm xâm nhập vào các bộ",
+          "bbox": [
+            46.5,
+            132.83999633789062,
+            541.6480102539062,
+            145.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 10,
+          "text": "phận điện của máy nước nóng trực tiếp Ariston Aures 2.0. Điều này góp phần giảm nguy cơ chập mạch hoặc hư",
+          "bbox": [
+            46.5,
+            149.33999633789062,
+            557.030517578125,
+            162.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 11,
+          "text": "hỏng do nước gây ra. Nhờ đó, máy nước nóng trực tiếp Ariston Aures 2.0 có thể vận hành ổn định hơn trong điều",
+          "bbox": [
+            46.5,
+            165.83999633789062,
+            562.7005615234375,
+            178.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 12,
+          "text": "kiện sử dụng thông thường.",
+          "bbox": [
+            46.5,
+            182.33999633789062,
+            172.6993865966797,
+            195.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 13,
+          "text": "Tiêu chuẩn chống nước IP25 giúp bảo vệ các linh kiện bên trong máy nước nóng.",
+          "bbox": [
+            120.38671875,
+            441.8399963378906,
+            492.359375,
+            454.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 14,
+          "text": ">> Tìm hiểu và lựa chọn máy nước nóng trực tiếp Ariston Aures 2.0 tại Shopee Mall để tham khảo các phiên bản",
+          "bbox": [
+            46.5,
+            486.0899963378906,
+            557.1355590820312,
+            498.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 15,
+          "text": "và thông tin sản phẩm phù hợp với nhu cầu sử dụng.",
+          "bbox": [
+            46.5,
+            502.5899963378906,
+            286.4457702636719,
+            515.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 16,
+          "text": "4. Hướng dẫn sử dụng và bảo dưỡng máy nước nóng an toàn",
+          "bbox": [
+            46.5,
+            544.4400024414062,
+            548.3394165039062,
+            566.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 17,
+          "text": "Máy nước nóng trực tiếp có an toàn không còn phụ thuộc vào cách lắp đặt, sử dụng và bảo dưỡng thiết bị trong",
+          "bbox": [
+            46.5,
+            575.3400268554688,
+            556.2744750976562,
+            588.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 18,
+          "text": "quá trình vận hành. Dưới đây là những hướng dẫn quan trọng giúp bạn sử dụng máy nước nóng trực tiếp đúng",
+          "bbox": [
+            46.5,
+            591.8400268554688,
+            548.4939575195312,
+            604.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 19,
+          "text": "cách, duy trì hiệu quả hoạt động và góp phần đảm bảo an toàn lâu dài.",
+          "bbox": [
+            46.5,
+            608.3400268554688,
+            369.8891906738281,
+            621.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 20,
+          "text": "4.1 Thuê chuyên gia lắp đặt chuyên nghiệp",
+          "bbox": [
+            46.5,
+            634.2000122070312,
+            334.81475830078125,
+            652.469970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 21,
+          "text": "Máy nước nóng trực tiếp nên được lắp đặt bởi kỹ thuật viên có chuyên môn để đảm bảo đúng yêu cầu kỹ thuật.",
+          "bbox": [
+            46.5,
+            661.5900268554688,
+            553.9539184570312,
+            674.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 22,
+          "text": "Quá trình lắp đặt cần kiểm tra hệ thống điện, nguồn nước và các điều kiện an toàn trước khi đưa máy nước nóng",
+          "bbox": [
+            46.5,
+            678.0900268554688,
+            559.0254516601562,
+            690.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 23,
+          "text": "vào sử dụng. Việc lắp đặt đúng cách giúp máy nước nóng trực tiếp vận hành ổn định và phát huy đầy đủ các tính",
+          "bbox": [
+            46.5,
+            694.5900268554688,
+            560.4219970703125,
+            707.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 24,
+          "text": "năng an toàn. Đồng thời, người dùng cũng hạn chế được những rủi ro có thể phát sinh do lắp đặt sai kỹ thuật.",
+          "bbox": [
+            46.5,
+            711.0900268554688,
+            545.9161987304688,
+            723.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 25,
+          "text": "4.2 Bảo dưỡng định kỳ",
+          "bbox": [
+            46.5,
+            736.9500122070312,
+            199.64990234375,
+            755.219970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 4,
+          "block_index": 26,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n4/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 5,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 2,
+          "text": "Máy nước nóng trực tiếp nên được kiểm tra và bảo dưỡng định kỳ để duy trì hiệu quả hoạt động. Việc vệ sinh và",
+          "bbox": [
+            46.5,
+            30.09000015258789,
+            557.8704833984375,
+            42.87900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 3,
+          "text": "kiểm tra các bộ phận bên trong giúp máy nước nóng phát hiện sớm những dấu hiệu hư hỏng hoặc hao mòn. Bảo",
+          "bbox": [
+            46.5,
+            46.59000015258789,
+            561.1990966796875,
+            59.37900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 4,
+          "text": "dưỡng định kỳ cũng góp phần duy trì khả năng làm nóng nước và hỗ trợ các tính năng an toàn hoạt động ổn định.",
+          "bbox": [
+            46.5,
+            63.09000015258789,
+            565.5249633789062,
+            75.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 5,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 6,
+          "text": "Người dùng nên thực hiện bảo dưỡng theo khuyến nghị của nhà sản xuất hoặc khi nhận thấy máy nước nóng trực",
+          "bbox": [
+            46.5,
+            79.58999633789062,
+            564.6220092773438,
+            92.37899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 7,
+          "text": "tiếp có dấu hiệu hoạt động bất thường.",
+          "bbox": [
+            46.5,
+            96.08999633789062,
+            225.10484313964844,
+            108.87899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 8,
+          "text": "Khách hàng đang sử dụng máy nước nóng Ariston có thể liên hệ trung tâm dịch vụ của Ariston để được tư vấn về",
+          "bbox": [
+            46.5,
+            116.33999633789062,
+            562.4710693359375,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 9,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 10,
+          "text": "chế độ bảo dưỡng và hỗ trợ kỹ thuật phù hợp.",
+          "bbox": [
+            46.5,
+            132.83999633789062,
+            256.46307373046875,
+            145.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 11,
+          "text": "Bảo dưỡng định kỳ giúp máy nước nóng trực tiếp hoạt động ổn định và duy trì hiệu quả sử dụng.",
+          "bbox": [
+            86.53125,
+            392.3399963378906,
+            526.2183227539062,
+            405.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 12,
+          "text": "4.3 Tuân thủ hướng dẫn sử dụng nhà sản xuất",
+          "bbox": [
+            46.5,
+            442.20001220703125,
+            357.1647033691406,
+            460.4700012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 13,
+          "text": "Người dùng nên đọc kỹ hướng dẫn trước khi sử dụng máy nước nóng trực tiếp để hiểu đúng cách vận hành và",
+          "bbox": [
+            46.5,
+            469.5899963378906,
+            548.5728149414062,
+            482.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 14,
+          "text": "các lưu ý an toàn. Máy nước nóng cần được sử dụng đúng công suất và đúng mục đích theo khuyến nghị của nhà",
+          "bbox": [
+            46.5,
+            486.0899963378906,
+            564.7794799804688,
+            498.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 15,
+          "text": "sản xuất. Người dùng cũng không nên tự ý tháo rời hoặc sửa chữa máy nước nóng trực tiếp nếu không có chuyên",
+          "bbox": [
+            46.5,
+            502.5899963378906,
+            563.8450317382812,
+            515.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 16,
+          "text": "môn. Việc tuân thủ đúng hướng dẫn giúp máy nước nóng hoạt động ổn định và kéo dài tuổi thọ sử dụng.",
+          "bbox": [
+            46.5,
+            519.0900268554688,
+            524.2915649414062,
+            531.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 17,
+          "text": "Xem thêm: Máy nước nóng trực tiếp loại nào tốt? Top 4 máy tốt nên mua",
+          "bbox": [
+            46.5,
+            539.3400268554688,
+            376.4266357421875,
+            552.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 18,
+          "text": "Máy nước nóng trực tiếp có an toàn không phụ thuộc vào việc lựa chọn sản phẩm chất lượng, lắp đặt đúng kỹ",
+          "bbox": [
+            46.5,
+            559.5900268554688,
+            546.5987548828125,
+            572.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 19,
+          "text": "thuật và sử dụng theo hướng dẫn của nhà sản xuất. Hy vọng những chia sẻ trên đã giúp bạn an tâm hơn khi tận",
+          "bbox": [
+            46.5,
+            576.0900268554688,
+            554.8990478515625,
+            588.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 20,
+          "text": "hưởng làn nước ấm áp, thư giãn mỗi ngày!",
+          "bbox": [
+            46.5,
+            592.5900268554688,
+            238.06179809570312,
+            605.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 21,
+          "text": "Câu hỏi thường gặp",
+          "bbox": [
+            46.5,
+            658.4400024414062,
+            210.29981994628906,
+            680.364013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 22,
+          "text": "Bên cạnh thắc mắc máy nước nóng trực tiếp có nguy hiểm không, dưới đây là phần giải đáp một số câu hỏi",
+          "bbox": [
+            46.5,
+            689.3400268554688,
+            534.8860473632812,
+            702.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 23,
+          "text": "thường gặp giúp bạn sử dụng và bảo dưỡng thiết bị đúng cách.",
+          "bbox": [
+            46.5,
+            705.8400268554688,
+            335.2392272949219,
+            718.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 5,
+          "block_index": 24,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n5/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 6,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 2,
+          "text": "Máy nước nóng trực tiếp hay gián tiếp an toàn hơn?",
+          "bbox": [
+            64.5,
+            41.34000015258789,
+            325.10968017578125,
+            54.12900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 4,
+          "text": "Khách hàng có thể tự lắp đặt máy nước nóng trực tiếp tại nhà không?",
+          "bbox": [
+            64.5,
+            116.33999633789062,
+            414.46466064453125,
+            129.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 6,
+          "text": "Bao lâu thì nên bảo dưỡng máy nước nóng trực tiếp một lần?",
+          "bbox": [
+            64.5,
+            191.33999633789062,
+            370.8791809082031,
+            204.12899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 7,
+          "text": "Bài viết liên quan",
+          "bbox": [
+            46.5,
+            248.19000244140625,
+            190.0677947998047,
+            270.114013671875
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 8,
+          "text": "TIN TỨC",
+          "bbox": [
+            169.125,
+            533.3400268554688,
+            212.62646484375,
+            546.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 9,
+          "text": "ARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025",
+          "bbox": [
+            163.125,
+            558.4500122070312,
+            441.5248718261719,
+            618.719970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 10,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            655.5900268554688,
+            335.2464294433594,
+            668.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 6,
+          "block_index": 11,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n6/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 7,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 2,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 3,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 4,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            266.3399963378906,
+            262.910888671875,
+            279.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 5,
+          "text": "Máy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam",
+          "bbox": [
+            163.125,
+            291.45001220703125,
+            434.204833984375,
+            330.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 6,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            367.5899963378906,
+            335.2464294433594,
+            380.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 7,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            648.0900268554688,
+            262.910888671875,
+            660.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 8,
+          "text": "Máy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng",
+          "bbox": [
+            163.125,
+            673.2000122070312,
+            435.3597717285156,
+            733.469970703125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 7,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n7/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 8,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 2,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            39.84000015258789,
+            335.2464294433594,
+            52.62900161743164
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 4,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 5,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            320.3399963378906,
+            262.910888671875,
+            333.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 6,
+          "text": "Dung tích máy nước nóng gián tiếp và\ncách lựa chọn",
+          "bbox": [
+            163.125,
+            345.45001220703125,
+            416.1598815917969,
+            384.7200012207031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 7,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            421.5899963378906,
+            335.2464294433594,
+            434.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 8,
+          "text": "MẸO & GIẢI PHÁP",
+          "bbox": [
+            169.125,
+            702.0900268554688,
+            262.910888671875,
+            714.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 8,
+          "block_index": 9,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n8/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "width": 612.0,
+      "height": 792.0,
+      "blocks": [
+        {
+          "page_number": 9,
+          "block_index": 1,
+          "text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+          "bbox": [
+            24.0,
+            15.262338638305664,
+            461.5861511230469,
+            24.194252014160156
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 2,
+          "text": "Lựa chọn máy nước nóng phù hợp cho căn\nhộ",
+          "bbox": [
+            163.125,
+            29.700000762939453,
+            446.68487548828125,
+            68.97000122070312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 3,
+          "text": "ARISTON NET\nTẢI TÀI LIỆU",
+          "bbox": [
+            378.08203125,
+            73.70999908447266,
+            564.89111328125,
+            88.32600402832031
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 4,
+          "text": "ĐỌC THÊM",
+          "bbox": [
+            276.9609375,
+            105.83999633789062,
+            335.2464294433594,
+            118.62899780273438
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 5,
+          "text": "MUA HÀNG DỰ ÁN",
+          "bbox": [
+            427.5234375,
+            129.2100067138672,
+            540.143310546875,
+            143.8260040283203
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 6,
+          "text": "Country: Việt Nam Language: Vietnamese",
+          "bbox": [
+            207.796875,
+            259.5899963378906,
+            404.9404296875,
+            272.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 7,
+          "text": "VỀ CHÚNG TÔI",
+          "bbox": [
+            46.5,
+            316.7099914550781,
+            129.31195068359375,
+            331.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 8,
+          "text": "Thương hiệu Ariston",
+          "bbox": [
+            46.5,
+            346.5899963378906,
+            139.6559295654297,
+            359.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 9,
+          "text": "TẠP CHÍ",
+          "bbox": [
+            46.5,
+            364.7099914550781,
+            91.06797790527344,
+            379.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 10,
+          "text": "Tập đoàn Ariston",
+          "bbox": [
+            46.5,
+            374.3399963378906,
+            124.32593536376953,
+            387.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 11,
+          "text": "Mẹo & giải pháp",
+          "bbox": [
+            46.5,
+            394.5899963378906,
+            121.39643859863281,
+            407.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 12,
+          "text": "Tuyển Dụng",
+          "bbox": [
+            46.5,
+            402.0899963378906,
+            101.8769302368164,
+            414.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 13,
+          "text": "DỊCH VỤ KHÁCH HÀNG",
+          "bbox": [
+            46.5,
+            412.7099914550781,
+            175.5839080810547,
+            427.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 14,
+          "text": "Tin tức",
+          "bbox": [
+            46.5,
+            422.3399963378906,
+            77.41197967529297,
+            435.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 15,
+          "text": "Đăng kí bảo hành online",
+          "bbox": [
+            46.5,
+            442.5899963378906,
+            158.78689575195312,
+            455.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 16,
+          "text": "Ngôi nhà thư thái",
+          "bbox": [
+            46.5,
+            450.0899963378906,
+            125.01893615722656,
+            462.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 17,
+          "text": "SẢN PHẨM",
+          "bbox": [
+            46.5,
+            460.7099914550781,
+            107.37596130371094,
+            475.32598876953125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 18,
+          "text": "Hội Viên Diamond Club",
+          "bbox": [
+            46.5,
+            470.3399963378906,
+            154.2823944091797,
+            483.1289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 19,
+          "text": "Cuộc sống xanh",
+          "bbox": [
+            46.5,
+            477.8399963378906,
+            120.9239273071289,
+            490.6289978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 20,
+          "text": "Máy Nước Nóng Gián Tiếp",
+          "bbox": [
+            46.5,
+            490.5899963378906,
+            167.6173858642578,
+            503.3789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 21,
+          "text": "Liên Hệ Với Chúng Tôi",
+          "bbox": [
+            46.5,
+            498.0899963378906,
+            148.4234161376953,
+            510.8789978027344
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 22,
+          "text": "Từ điển",
+          "bbox": [
+            46.5,
+            505.5899963378906,
+            80.20496368408203,
+            518.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 23,
+          "text": "LEGAL AREA",
+          "bbox": [
+            46.5,
+            508.7099914550781,
+            116.14794921875,
+            523.3259887695312
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 24,
+          "text": "Máy Nước Nóng Trực Tiếp",
+          "bbox": [
+            46.5,
+            518.3400268554688,
+            165.98988342285156,
+            531.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 25,
+          "text": "Tải xuống tài liệu",
+          "bbox": [
+            46.5,
+            525.8400268554688,
+            123.6224136352539,
+            538.6290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 26,
+          "text": "Privacy Policy",
+          "bbox": [
+            46.5,
+            538.5900268554688,
+            109.3214111328125,
+            551.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 27,
+          "text": "Máy Nước Nóng Năng Lượng",
+          "bbox": [
+            46.5,
+            546.0900268554688,
+            179.7763671875,
+            558.8790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 28,
+          "text": "Mặt Trời",
+          "bbox": [
+            46.5,
+            562.5900268554688,
+            83.24996948242188,
+            575.3790283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 29,
+          "text": "Cookie Policy",
+          "bbox": [
+            46.5,
+            566.3400268554688,
+            109.0904312133789,
+            579.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 30,
+          "text": "Máy Nước Nóng Bơm Nhiệt",
+          "bbox": [
+            46.5,
+            590.3400268554688,
+            171.86990356445312,
+            603.1290283203125
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 31,
+          "text": "©2022 Ariston Holding N.V. – Company Info",
+          "bbox": [
+            46.5,
+            655.469970703125,
+            220.3258514404297,
+            666.4320068359375
+          ],
+          "kind": "text",
+          "metadata": {}
+        },
+        {
+          "page_number": 9,
+          "block_index": 32,
+          "text": "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n9/9",
+          "bbox": [
+            24.0,
+            768.2623291015625,
+            587.9920654296875,
+            777.1942749023438
+          ],
+          "kind": "text",
+          "metadata": {}
+        }
+      ],
+      "metadata": {
+        "rotation": 0
+      }
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Máy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "producer": "Skia/PDF m155",
+    "creationDate": "D:20261010181559+00'00'",
+    "modDate": "D:20261010181559+00'00'",
+    "trapped": ""
+  },
+  "cleaned_text": "MUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nMáy nước nóng trực tiếp có an toàn không?\nCách sử dụng đúng\n\nĐã xuất bản trên\n\n13 Tháng 8 2026\n\nMáy nước nóng trực tiếp có an toàn không phụ thuộc vào chất lượng sản phẩm, cách lắp đặt và quá trình sử\n\ndụng. Khi lựa chọn máy nước nóng trực tiếp chính hãng, lắp đặt đúng kỹ thuật, bảo dưỡng định kỳ và tuân thủ\n\nhướng dẫn của nhà sản xuất, bạn có thể yên tâm sử dụng. Nhiều dòng máy nước nóng trực tiếp hiện nay cũng\n\nđược tích hợp các tính năng an toàn để hỗ trợ bảo vệ người dùng trong quá trình vận hành.\n\nMáy nước nóng trực tiếp có an toàn không là câu hỏi được nhiều người quan tâm khi lựa chọn thiết bị cho gia\n\nđình. Trên thực tế, mức độ an toàn phụ thuộc vào chất lượng sản phẩm, cách lắp đặt và quá trình sử dụng. Bài viết\n\n1/9\n\ndưới đây sẽ giúp bạn hiểu rõ hơn về máy nước nóng trực tiếp cũng như những lưu ý quan trọng để sử dụng thiết\n\nbị an toàn..\n\n1. Máy nước nóng trực tiếp là gì?\n\nMáy nước nóng trực tiếp là thiết bị làm nóng nước ngay khi nước đi qua thanh đốt nên không cần bình chứa. Với\n\nMUA HÀNG DỰ ÁN\n\nnguyên lý máy nước nóng trực tiếp là gia nhiệt tức thì khi nước chảy qua thanh đốt, nước sẽ được làm nóng chỉ\n\nsau vài giây trước khi đưa đến vòi sen hoặc đầu ra của thiết bị. Nhờ thiết kế nhỏ gọn, máy nước nóng trực tiếp\n\nphù hợp với nhiều không gian phòng tắm và thuận tiện khi lắp đặt.\n\nMáy nước nóng trực tiếp làm nóng nước ngay khi nước đi qua thanh đốt mà không cần bình chứa.\n\n2. Sử dụng máy nước nóng trực tiếp có an toàn không?\n\nMáy nước nóng trực tiếp có thể sử dụng an toàn nếu bạn lựa chọn sản phẩm chính hãng, lắp đặt đúng kỹ thuật và\n\ntuân thủ hướng dẫn của nhà sản xuất. Nhiều dòng máy hiện nay được trang bị các tính năng hỗ trợ bảo vệ người\n\ndùng trong quá trình vận hành. Bên cạnh đó, việc kiểm tra và bảo dưỡng định kỳ cũng góp phần duy trì khả năng\n\nhoạt động ổn định của thiết bị.\n\nXem thêm: Bình nóng lạnh trực tiếp và gián tiếp Ariston: Loại nào an toàn hơn?\n\n3. Các tính năng an toàn trên máy nước nóng trực tiếp Ariston\nAures 2.0\n\nMáy nước nóng trực tiếp được trang bị nhiều tính năng hỗ trợ nâng cao độ an toàn trong quá trình sử dụng. Một\n\nsố tính năng nổi bật gồm hệ thống an toàn đồng bộ TSS, hệ thống kiểm soát Safety Check, công nghệ chống\n\nbỏng thông minh Residual Heat®, khóa nhiệt an toàn chống bỏng và tiêu chuẩn chống nước IP25.\n\n2/9\n\n3.1 Hệ thống an toàn đồng bộ TSS\n\nHệ thống an toàn đồng bộ TSS của máy nước nóng trực tiếp Ariston Aures 2.0 được thiết kế nhằm hỗ trợ bảo vệ\n\nngười dùng trong quá trình vận hành. Hệ thống tích hợp cầu dao chống giật ELCB Ariston, có khả năng ngắt\n\nnguồn điện khi phát hiện rò rỉ điện. Cùng với bộ điều chỉnh nhiệt TBSE giúp máy nước nóng dừng gia nhiệt khi\n\nnước đạt mức nhiệt đã cài đặt, trong khi van an toàn sẽ giải phóng áp suất khi vượt quá giới hạn cho phép. Sự kết\n\nhợp của các tính năng TBSE và ELCB chống giật cho máy nước nóng Ariston vận hành ổn định và an toàn hơn.\n\nMUA HÀNG DỰ ÁN\n\n3.2 Hệ thống kiểm soát an toàn Safety Check\n\nHệ thống Safety Check được trang bị trên một số dòng máy nước nóng trực tiếp Ariston nhằm hỗ trợ kiểm tra tình\n\ntrạng hoạt động trước khi sử dụng. Khi máy nước nóng trực tiếp Ariston được kết nối nguồn điện, hệ thống sẽ tự\n\nđộng kiểm tra các bộ phận liên quan. Nếu mọi điều kiện đều đạt yêu cầu, đèn Safety Check sẽ hiển thị màu xanh\n\nđể người dùng có thể sử dụng. Ngược lại, nếu phát hiện bất thường, đèn sẽ chuyển sang màu đỏ để cảnh báo và\n\nkhuyến nghị kiểm tra máy nước nóng trực tiếp Ariston trước khi tiếp tục vận hành.\n\nHệ thống Safety Check của máy nước nóng trực tiếp là gì? Safety Check là hệ thống hỗ trợ kiểm tra tình trạng\n\nmáy nước nóng trước khi sử dụng.\n\n3.3 Công nghệ chống bỏng thông minh Residual Heat®\n\nCông nghệ Residual Heat® được tích hợp trên máy nước nóng trực tiếp Ariston Aures 2.0 nhằm hỗ trợ hạn chế\n\ntình trạng nhiệt độ nước tăng đột ngột. Sau khi tắt máy, bầu đun vẫn có thể còn một lượng nước nóng bên trong.\n\nKhi khởi động lại, công nghệ Residual Heat® sẽ đưa nước lạnh vào bầu đun để giảm nhanh lượng nhiệt còn lại.\n\nNhờ đó, máy nước nóng trực tiếp Ariston Aures 2.0 giúp nhiệt độ nước đầu ra ổn định hơn khi người dùng mở\n\nnước trở lại.\n\n3.4 Khóa nhiệt an toàn chống bỏng\n\nKhóa nhiệt an toàn chống bỏng là một phần trong cấu tạo máy nước nóng trực tiếp. Khóa nhiệt giúp máy nước\n\nnóng trực tiếp Ariston Aures 2.0 kiểm soát nhiệt độ nước đầu ra theo mức đã cài đặt. Tính năng này hạn chế tình\n\n3/9\n\ntrạng nước nóng vượt quá nhiệt độ mong muốn trong quá trình sử dụng. Nhờ đó, máy nước nóng trực tiếp Ariston\n\nAures 2.0 mang đến trải nghiệm sử dụng ổn định hơn. Đây là tính năng phù hợp với gia đình có trẻ nhỏ hoặc\n\nngười lớn tuổi.\n\n3.5 Tiêu chuẩn chống nước IP25\n\nMáy nước nóng trực tiếp Ariston Aures 2.0 đạt tiêu chuẩn chống nước IP25 để bảo vệ các linh kiện bên trong khi\n\nMUA HÀNG DỰ ÁN\n\nlắp đặt trong môi trường có độ ẩm cao. Lớp vỏ đạt chuẩn giúp hạn chế nước và hơi ẩm xâm nhập vào các bộ\n\nphận điện của máy nước nóng trực tiếp Ariston Aures 2.0. Điều này góp phần giảm nguy cơ chập mạch hoặc hư\n\nhỏng do nước gây ra. Nhờ đó, máy nước nóng trực tiếp Ariston Aures 2.0 có thể vận hành ổn định hơn trong điều\n\nkiện sử dụng thông thường.\n\nTiêu chuẩn chống nước IP25 giúp bảo vệ các linh kiện bên trong máy nước nóng.\n\n>> Tìm hiểu và lựa chọn máy nước nóng trực tiếp Ariston Aures 2.0 tại Shopee Mall để tham khảo các phiên bản\n\nvà thông tin sản phẩm phù hợp với nhu cầu sử dụng.\n\n4. Hướng dẫn sử dụng và bảo dưỡng máy nước nóng an toàn\n\nMáy nước nóng trực tiếp có an toàn không còn phụ thuộc vào cách lắp đặt, sử dụng và bảo dưỡng thiết bị trong\n\nquá trình vận hành. Dưới đây là những hướng dẫn quan trọng giúp bạn sử dụng máy nước nóng trực tiếp đúng\n\ncách, duy trì hiệu quả hoạt động và góp phần đảm bảo an toàn lâu dài.\n\n4.1 Thuê chuyên gia lắp đặt chuyên nghiệp\n\nMáy nước nóng trực tiếp nên được lắp đặt bởi kỹ thuật viên có chuyên môn để đảm bảo đúng yêu cầu kỹ thuật.\n\nQuá trình lắp đặt cần kiểm tra hệ thống điện, nguồn nước và các điều kiện an toàn trước khi đưa máy nước nóng\n\nvào sử dụng. Việc lắp đặt đúng cách giúp máy nước nóng trực tiếp vận hành ổn định và phát huy đầy đủ các tính\n\nnăng an toàn. Đồng thời, người dùng cũng hạn chế được những rủi ro có thể phát sinh do lắp đặt sai kỹ thuật.\n\n4.2 Bảo dưỡng định kỳ\n\n4/9\n\nMáy nước nóng trực tiếp nên được kiểm tra và bảo dưỡng định kỳ để duy trì hiệu quả hoạt động. Việc vệ sinh và\n\nkiểm tra các bộ phận bên trong giúp máy nước nóng phát hiện sớm những dấu hiệu hư hỏng hoặc hao mòn. Bảo\n\ndưỡng định kỳ cũng góp phần duy trì khả năng làm nóng nước và hỗ trợ các tính năng an toàn hoạt động ổn định.\n\nNgười dùng nên thực hiện bảo dưỡng theo khuyến nghị của nhà sản xuất hoặc khi nhận thấy máy nước nóng trực\n\ntiếp có dấu hiệu hoạt động bất thường.\n\nKhách hàng đang sử dụng máy nước nóng Ariston có thể liên hệ trung tâm dịch vụ của Ariston để được tư vấn về\n\nMUA HÀNG DỰ ÁN\n\nchế độ bảo dưỡng và hỗ trợ kỹ thuật phù hợp.\n\nBảo dưỡng định kỳ giúp máy nước nóng trực tiếp hoạt động ổn định và duy trì hiệu quả sử dụng.\n\n4.3 Tuân thủ hướng dẫn sử dụng nhà sản xuất\n\nNgười dùng nên đọc kỹ hướng dẫn trước khi sử dụng máy nước nóng trực tiếp để hiểu đúng cách vận hành và\n\ncác lưu ý an toàn. Máy nước nóng cần được sử dụng đúng công suất và đúng mục đích theo khuyến nghị của nhà\n\nsản xuất. Người dùng cũng không nên tự ý tháo rời hoặc sửa chữa máy nước nóng trực tiếp nếu không có chuyên\n\nmôn. Việc tuân thủ đúng hướng dẫn giúp máy nước nóng hoạt động ổn định và kéo dài tuổi thọ sử dụng.\n\nXem thêm: Máy nước nóng trực tiếp loại nào tốt? Top 4 máy tốt nên mua\n\nMáy nước nóng trực tiếp có an toàn không phụ thuộc vào việc lựa chọn sản phẩm chất lượng, lắp đặt đúng kỹ\n\nthuật và sử dụng theo hướng dẫn của nhà sản xuất. Hy vọng những chia sẻ trên đã giúp bạn an tâm hơn khi tận\n\nhưởng làn nước ấm áp, thư giãn mỗi ngày!\n\nCâu hỏi thường gặp\n\nBên cạnh thắc mắc máy nước nóng trực tiếp có nguy hiểm không, dưới đây là phần giải đáp một số câu hỏi\n\nthường gặp giúp bạn sử dụng và bảo dưỡng thiết bị đúng cách.\n\n5/9\n\nMáy nước nóng trực tiếp hay gián tiếp an toàn hơn?\n\nKhách hàng có thể tự lắp đặt máy nước nóng trực tiếp tại nhà không?\n\nMUA HÀNG DỰ ÁN\n\nBao lâu thì nên bảo dưỡng máy nước nóng trực tiếp một lần?\n\nBài viết liên quan\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\n6/9\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\n7/9\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\n8/9\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nTẠP CHÍ\n\nTập đoàn Ariston\n\nMẹo & giải pháp\n\nTuyển Dụng\n\nDỊCH VỤ KHÁCH HÀNG\n\nTin tức\n\nĐăng kí bảo hành online\n\nNgôi nhà thư thái\n\nSẢN PHẨM\n\nHội Viên Diamond Club\n\nCuộc sống xanh\n\nMáy Nước Nóng Gián Tiếp\n\nLiên Hệ Với Chúng Tôi\n\nTừ điển\n\nLEGAL AREA\n\nMáy Nước Nóng Trực Tiếp\n\nTải xuống tài liệu\n\nPrivacy Policy\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nCookie Policy\n\nMáy Nước Nóng Bơm Nhiệt\n\n©2022 Ariston Holding N.V. – Company Info\n\n9/9",
+  "removed_repeated_lines": [
+    "01:15 11/10/26",
+    "ARISTON NET",
+    "Máy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng",
+    "TẢI TÀI LIỆU",
+    "https://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong"
+  ],
+  "cleaning_stats": {
+    "raw_char_count": 11188,
+    "cleaned_char_count": 9262,
+    "removed_char_count": 1926,
+    "reduction_ratio": 0.1721,
+    "removed_repeated_line_count": 5
+  },
+  "raw_text": "01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\nMáy nước nóng trực tiếp có an toàn không?\nCách sử dụng đúng\n\nĐã xuất bản trên\n\n13 Tháng 8 2026\n\nMáy nước nóng trực tiếp có an toàn không phụ thuộc vào chất lượng sản phẩm, cách lắp đặt và quá trình sử\n\ndụng. Khi lựa chọn máy nước nóng trực tiếp chính hãng, lắp đặt đúng kỹ thuật, bảo dưỡng định kỳ và tuân thủ\n\nhướng dẫn của nhà sản xuất, bạn có thể yên tâm sử dụng. Nhiều dòng máy nước nóng trực tiếp hiện nay cũng\n\nđược tích hợp các tính năng an toàn để hỗ trợ bảo vệ người dùng trong quá trình vận hành.\n\nMáy nước nóng trực tiếp có an toàn không là câu hỏi được nhiều người quan tâm khi lựa chọn thiết bị cho gia\n\nđình. Trên thực tế, mức độ an toàn phụ thuộc vào chất lượng sản phẩm, cách lắp đặt và quá trình sử dụng. Bài viết\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n1/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\ndưới đây sẽ giúp bạn hiểu rõ hơn về máy nước nóng trực tiếp cũng như những lưu ý quan trọng để sử dụng thiết\n\nbị an toàn..\n\nARISTON NET\nTẢI TÀI LIỆU\n\n1. Máy nước nóng trực tiếp là gì?\n\nMáy nước nóng trực tiếp là thiết bị làm nóng nước ngay khi nước đi qua thanh đốt nên không cần bình chứa. Với\n\nMUA HÀNG DỰ ÁN\n\nnguyên lý máy nước nóng trực tiếp là gia nhiệt tức thì khi nước chảy qua thanh đốt, nước sẽ được làm nóng chỉ\n\nsau vài giây trước khi đưa đến vòi sen hoặc đầu ra của thiết bị. Nhờ thiết kế nhỏ gọn, máy nước nóng trực tiếp\n\nphù hợp với nhiều không gian phòng tắm và thuận tiện khi lắp đặt.\n\nMáy nước nóng trực tiếp làm nóng nước ngay khi nước đi qua thanh đốt mà không cần bình chứa.\n\n2. Sử dụng máy nước nóng trực tiếp có an toàn không?\n\nMáy nước nóng trực tiếp có thể sử dụng an toàn nếu bạn lựa chọn sản phẩm chính hãng, lắp đặt đúng kỹ thuật và\n\ntuân thủ hướng dẫn của nhà sản xuất. Nhiều dòng máy hiện nay được trang bị các tính năng hỗ trợ bảo vệ người\n\ndùng trong quá trình vận hành. Bên cạnh đó, việc kiểm tra và bảo dưỡng định kỳ cũng góp phần duy trì khả năng\n\nhoạt động ổn định của thiết bị.\n\nXem thêm: Bình nóng lạnh trực tiếp và gián tiếp Ariston: Loại nào an toàn hơn?\n\n3. Các tính năng an toàn trên máy nước nóng trực tiếp Ariston\nAures 2.0\n\nMáy nước nóng trực tiếp được trang bị nhiều tính năng hỗ trợ nâng cao độ an toàn trong quá trình sử dụng. Một\n\nsố tính năng nổi bật gồm hệ thống an toàn đồng bộ TSS, hệ thống kiểm soát Safety Check, công nghệ chống\n\nbỏng thông minh Residual Heat®, khóa nhiệt an toàn chống bỏng và tiêu chuẩn chống nước IP25.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n2/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\n3.1 Hệ thống an toàn đồng bộ TSS\n\nHệ thống an toàn đồng bộ TSS của máy nước nóng trực tiếp Ariston Aures 2.0 được thiết kế nhằm hỗ trợ bảo vệ\n\nARISTON NET\nTẢI TÀI LIỆU\n\nngười dùng trong quá trình vận hành. Hệ thống tích hợp cầu dao chống giật ELCB Ariston, có khả năng ngắt\n\nnguồn điện khi phát hiện rò rỉ điện. Cùng với bộ điều chỉnh nhiệt TBSE giúp máy nước nóng dừng gia nhiệt khi\n\nnước đạt mức nhiệt đã cài đặt, trong khi van an toàn sẽ giải phóng áp suất khi vượt quá giới hạn cho phép. Sự kết\n\nhợp của các tính năng TBSE và ELCB chống giật cho máy nước nóng Ariston vận hành ổn định và an toàn hơn.\n\nMUA HÀNG DỰ ÁN\n\n3.2 Hệ thống kiểm soát an toàn Safety Check\n\nHệ thống Safety Check được trang bị trên một số dòng máy nước nóng trực tiếp Ariston nhằm hỗ trợ kiểm tra tình\n\ntrạng hoạt động trước khi sử dụng. Khi máy nước nóng trực tiếp Ariston được kết nối nguồn điện, hệ thống sẽ tự\n\nđộng kiểm tra các bộ phận liên quan. Nếu mọi điều kiện đều đạt yêu cầu, đèn Safety Check sẽ hiển thị màu xanh\n\nđể người dùng có thể sử dụng. Ngược lại, nếu phát hiện bất thường, đèn sẽ chuyển sang màu đỏ để cảnh báo và\n\nkhuyến nghị kiểm tra máy nước nóng trực tiếp Ariston trước khi tiếp tục vận hành.\n\nHệ thống Safety Check của máy nước nóng trực tiếp là gì? Safety Check là hệ thống hỗ trợ kiểm tra tình trạng\n\nmáy nước nóng trước khi sử dụng.\n\n3.3 Công nghệ chống bỏng thông minh Residual Heat®\n\nCông nghệ Residual Heat® được tích hợp trên máy nước nóng trực tiếp Ariston Aures 2.0 nhằm hỗ trợ hạn chế\n\ntình trạng nhiệt độ nước tăng đột ngột. Sau khi tắt máy, bầu đun vẫn có thể còn một lượng nước nóng bên trong.\n\nKhi khởi động lại, công nghệ Residual Heat® sẽ đưa nước lạnh vào bầu đun để giảm nhanh lượng nhiệt còn lại.\n\nNhờ đó, máy nước nóng trực tiếp Ariston Aures 2.0 giúp nhiệt độ nước đầu ra ổn định hơn khi người dùng mở\n\nnước trở lại.\n\n3.4 Khóa nhiệt an toàn chống bỏng\n\nKhóa nhiệt an toàn chống bỏng là một phần trong cấu tạo máy nước nóng trực tiếp. Khóa nhiệt giúp máy nước\n\nnóng trực tiếp Ariston Aures 2.0 kiểm soát nhiệt độ nước đầu ra theo mức đã cài đặt. Tính năng này hạn chế tình\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n3/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\ntrạng nước nóng vượt quá nhiệt độ mong muốn trong quá trình sử dụng. Nhờ đó, máy nước nóng trực tiếp Ariston\n\nAures 2.0 mang đến trải nghiệm sử dụng ổn định hơn. Đây là tính năng phù hợp với gia đình có trẻ nhỏ hoặc\n\nngười lớn tuổi.\n\nARISTON NET\nTẢI TÀI LIỆU\n\n3.5 Tiêu chuẩn chống nước IP25\n\nMáy nước nóng trực tiếp Ariston Aures 2.0 đạt tiêu chuẩn chống nước IP25 để bảo vệ các linh kiện bên trong khi\n\nMUA HÀNG DỰ ÁN\n\nlắp đặt trong môi trường có độ ẩm cao. Lớp vỏ đạt chuẩn giúp hạn chế nước và hơi ẩm xâm nhập vào các bộ\n\nphận điện của máy nước nóng trực tiếp Ariston Aures 2.0. Điều này góp phần giảm nguy cơ chập mạch hoặc hư\n\nhỏng do nước gây ra. Nhờ đó, máy nước nóng trực tiếp Ariston Aures 2.0 có thể vận hành ổn định hơn trong điều\n\nkiện sử dụng thông thường.\n\nTiêu chuẩn chống nước IP25 giúp bảo vệ các linh kiện bên trong máy nước nóng.\n\n>> Tìm hiểu và lựa chọn máy nước nóng trực tiếp Ariston Aures 2.0 tại Shopee Mall để tham khảo các phiên bản\n\nvà thông tin sản phẩm phù hợp với nhu cầu sử dụng.\n\n4. Hướng dẫn sử dụng và bảo dưỡng máy nước nóng an toàn\n\nMáy nước nóng trực tiếp có an toàn không còn phụ thuộc vào cách lắp đặt, sử dụng và bảo dưỡng thiết bị trong\n\nquá trình vận hành. Dưới đây là những hướng dẫn quan trọng giúp bạn sử dụng máy nước nóng trực tiếp đúng\n\ncách, duy trì hiệu quả hoạt động và góp phần đảm bảo an toàn lâu dài.\n\n4.1 Thuê chuyên gia lắp đặt chuyên nghiệp\n\nMáy nước nóng trực tiếp nên được lắp đặt bởi kỹ thuật viên có chuyên môn để đảm bảo đúng yêu cầu kỹ thuật.\n\nQuá trình lắp đặt cần kiểm tra hệ thống điện, nguồn nước và các điều kiện an toàn trước khi đưa máy nước nóng\n\nvào sử dụng. Việc lắp đặt đúng cách giúp máy nước nóng trực tiếp vận hành ổn định và phát huy đầy đủ các tính\n\nnăng an toàn. Đồng thời, người dùng cũng hạn chế được những rủi ro có thể phát sinh do lắp đặt sai kỹ thuật.\n\n4.2 Bảo dưỡng định kỳ\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n4/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\nMáy nước nóng trực tiếp nên được kiểm tra và bảo dưỡng định kỳ để duy trì hiệu quả hoạt động. Việc vệ sinh và\n\nkiểm tra các bộ phận bên trong giúp máy nước nóng phát hiện sớm những dấu hiệu hư hỏng hoặc hao mòn. Bảo\n\ndưỡng định kỳ cũng góp phần duy trì khả năng làm nóng nước và hỗ trợ các tính năng an toàn hoạt động ổn định.\n\nARISTON NET\nTẢI TÀI LIỆU\n\nNgười dùng nên thực hiện bảo dưỡng theo khuyến nghị của nhà sản xuất hoặc khi nhận thấy máy nước nóng trực\n\ntiếp có dấu hiệu hoạt động bất thường.\n\nKhách hàng đang sử dụng máy nước nóng Ariston có thể liên hệ trung tâm dịch vụ của Ariston để được tư vấn về\n\nMUA HÀNG DỰ ÁN\n\nchế độ bảo dưỡng và hỗ trợ kỹ thuật phù hợp.\n\nBảo dưỡng định kỳ giúp máy nước nóng trực tiếp hoạt động ổn định và duy trì hiệu quả sử dụng.\n\n4.3 Tuân thủ hướng dẫn sử dụng nhà sản xuất\n\nNgười dùng nên đọc kỹ hướng dẫn trước khi sử dụng máy nước nóng trực tiếp để hiểu đúng cách vận hành và\n\ncác lưu ý an toàn. Máy nước nóng cần được sử dụng đúng công suất và đúng mục đích theo khuyến nghị của nhà\n\nsản xuất. Người dùng cũng không nên tự ý tháo rời hoặc sửa chữa máy nước nóng trực tiếp nếu không có chuyên\n\nmôn. Việc tuân thủ đúng hướng dẫn giúp máy nước nóng hoạt động ổn định và kéo dài tuổi thọ sử dụng.\n\nXem thêm: Máy nước nóng trực tiếp loại nào tốt? Top 4 máy tốt nên mua\n\nMáy nước nóng trực tiếp có an toàn không phụ thuộc vào việc lựa chọn sản phẩm chất lượng, lắp đặt đúng kỹ\n\nthuật và sử dụng theo hướng dẫn của nhà sản xuất. Hy vọng những chia sẻ trên đã giúp bạn an tâm hơn khi tận\n\nhưởng làn nước ấm áp, thư giãn mỗi ngày!\n\nCâu hỏi thường gặp\n\nBên cạnh thắc mắc máy nước nóng trực tiếp có nguy hiểm không, dưới đây là phần giải đáp một số câu hỏi\n\nthường gặp giúp bạn sử dụng và bảo dưỡng thiết bị đúng cách.\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n5/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\nMáy nước nóng trực tiếp hay gián tiếp an toàn hơn?\n\nARISTON NET\nTẢI TÀI LIỆU\n\nKhách hàng có thể tự lắp đặt máy nước nóng trực tiếp tại nhà không?\n\nMUA HÀNG DỰ ÁN\n\nBao lâu thì nên bảo dưỡng máy nước nóng trực tiếp một lần?\n\nBài viết liên quan\n\nTIN TỨC\n\nARISTON THIẾT LẬP CHUẨN MỰC MỚI\nCHO GIẢI PHÁP NƯỚC NÓNG TẠI GIẢI\nTHƯỞNG HIỆU QUẢ NĂNG LƯỢNG 2025\n\nĐỌC THÊM\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n6/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết ẩm ướt: lợi\ních thiết yếu cho các gia đình Việt Nam\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nMáy nước nóng trong thời tiết nóng: tại\nsao vùng có khí hậu ấm áp của Việt Nam\nvẫn cần máy nước nóng\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n7/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\nĐỌC THÊM\n\nARISTON NET\nTẢI TÀI LIỆU\n\nMUA HÀNG DỰ ÁN\n\nMẸO & GIẢI PHÁP\n\nDung tích máy nước nóng gián tiếp và\ncách lựa chọn\n\nĐỌC THÊM\n\nMẸO & GIẢI PHÁP\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n8/9\n\n01:15 11/10/26\nMáy nước nóng trực tiếp có an toàn không? Cách sử dụng đúng\n\nLựa chọn máy nước nóng phù hợp cho căn\nhộ\n\nARISTON NET\nTẢI TÀI LIỆU\n\nĐỌC THÊM\n\nMUA HÀNG DỰ ÁN\n\nCountry: Việt Nam Language: Vietnamese\n\nVỀ CHÚNG TÔI\n\nThương hiệu Ariston\n\nTẠP CHÍ\n\nTập đoàn Ariston\n\nMẹo & giải pháp\n\nTuyển Dụng\n\nDỊCH VỤ KHÁCH HÀNG\n\nTin tức\n\nĐăng kí bảo hành online\n\nNgôi nhà thư thái\n\nSẢN PHẨM\n\nHội Viên Diamond Club\n\nCuộc sống xanh\n\nMáy Nước Nóng Gián Tiếp\n\nLiên Hệ Với Chúng Tôi\n\nTừ điển\n\nLEGAL AREA\n\nMáy Nước Nóng Trực Tiếp\n\nTải xuống tài liệu\n\nPrivacy Policy\n\nMáy Nước Nóng Năng Lượng\n\nMặt Trời\n\nCookie Policy\n\nMáy Nước Nóng Bơm Nhiệt\n\n©2022 Ariston Holding N.V. – Company Info\n\nhttps://www.ariston.com/vi-vn/the-comfort-way/meo-va-giai-phap/su-dung-may-nuoc-nong-truc-tiep-co-an-toan-khong\n9/9",
+  "char_count": 11188
+}
