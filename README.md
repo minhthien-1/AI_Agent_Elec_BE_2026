@@ -7,7 +7,7 @@ Elec-Agent là backend hỗ trợ người dùng tham khảo và khắc phục c
 Trước khi bắt đầu, cài đặt:
 
 - Git
-- Python 3.9 64-bit
+- Python 3.11 64-bit
 - Docker Desktop, đang chạy Docker Engine
 - Ollama, đã mở ứng dụng để API hoạt động
 

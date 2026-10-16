@@ -5,19 +5,19 @@ Set-Location $ProjectRoot
 
 Write-Host "=== Elec-Agent local setup ===" -ForegroundColor Cyan
 
-# 1. Check Python 3.9.
+# 1. Check Python 3.11. The pinned web/ML dependencies require Python 3.10+.
 if (-not (Get-Command py -ErrorAction SilentlyContinue)) {
-    throw "Python Launcher 'py' was not found. Install Python 3.9 x64."
+    throw "Python Launcher 'py' was not found. Install Python 3.11 x64."
 }
 
-& py -3.9 --version
+& py -3.11 --version
 if ($LASTEXITCODE -ne 0) {
-    throw "Python 3.9 was not found."
+    throw "Python 3.11 was not found."
 }
 
 # 2. Create virtual environment if necessary.
 if (-not (Test-Path ".\.venv\Scripts\python.exe")) {
-    & py -3.9 -m venv .venv
+    & py -3.11 -m venv .venv
 
     if ($LASTEXITCODE -ne 0) {
         throw "Failed to create virtual environment."

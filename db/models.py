@@ -11,10 +11,12 @@ from sqlalchemy import (
     Index,
     Integer,
     String,
+    Text,
     func,
 )
 from sqlalchemy.dialects.postgresql import JSONB, UUID
 from sqlalchemy.orm import Mapped, mapped_column, relationship
+from pgvector.sqlalchemy import Vector
 
 from db.database import Base
 
@@ -113,4 +115,23 @@ class TraceStep(Base):
             "trace_id",
             "step_order",
         ),
+    )
+
+
+class Chunk(Base):
+    """A document passage and its normalized multilingual-e5 embedding."""
+
+    __tablename__ = "chunks"
+
+    id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
+    )
+    chunk_key: Mapped[str] = mapped_column(String(255), nullable=False, unique=True)
+    content: Mapped[str] = mapped_column(Text, nullable=False)
+    embedding: Mapped[List[float]] = mapped_column(Vector(384), nullable=False)
+    # ``metadata`` is reserved by SQLAlchemy's declarative base, so the Python
+    # attribute has a different name while the database column remains metadata.
+    metadata_json: Mapped[Any] = mapped_column("metadata", JSONB, nullable=False)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), nullable=False, server_default=func.now()
     )

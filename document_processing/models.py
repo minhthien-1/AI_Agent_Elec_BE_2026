@@ -59,3 +59,13 @@ class ExtractedDocument:
     @property
     def char_count(self) -> int:
         return len(self.raw_text)
+
+
+@dataclass(frozen=True)
+class DocumentChunk:
+    """Một đoạn văn bản sẵn sàng đưa vào bước embedding hoặc retrieval."""
+
+    chunk_id: str
+    text: str
+    token_count: int
+    metadata: Metadata = field(default_factory=dict)
