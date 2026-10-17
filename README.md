@@ -105,7 +105,7 @@ Request mẫu:
 Module `document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,
 chuẩn hóa thận trọng các ký tự điều khiển và loại dòng lặp ở lề PDF. Kết quả
 được ghi thành cặp `.txt`/`.json` theo thư mục nguồn; file gốc không bị sửa.
-Module chưa thực hiện OCR, chia chunk hoặc embedding. Hãy rà soát các cảnh báo
+Lệnh trích xuất này chưa thực hiện OCR, chia chunk hoặc embedding. Hãy rà soát các cảnh báo
 `OCR_REQUIRED`, `HIGH_TEXT_REDUCTION`, `CLEANED_TEXT_EMPTY` và `LOW_TEXT_VOLUME`
 trước khi đưa tài liệu vào bước tiếp theo.
 
@@ -115,6 +115,20 @@ trước khi đưa tài liệu vào bước tiếp theo.
     --input .\data\manuals\files `
     --output .\data\processed\extracted
 ```
+
+### Nạp dữ liệu vào RAG
+
+Sau khi Docker PostgreSQL đã chạy và migration đã hoàn tất, nạp toàn bộ tài liệu
+vào pgvector bằng một lệnh từ thư mục gốc project:
+
+```powershell
+.\.venv\Scripts\python.exe -m app.rag.ingest data/manuals
+```
+
+Lệnh quét đệ quy các định dạng được hỗ trợ, làm sạch và chia văn bản thành các
+chunk, tạo embedding trên CPU, rồi upsert các chunk vào bảng `chunks`. Dòng JSON
+cuối cùng có `files`, `chunks`, và `duration_seconds`; với bộ dữ liệu hiện tại,
+`files` phải là `30`. Có thể giảm/tăng số chunk mỗi lô bằng `--batch-size 16`.
 
 ## 5. Chạy kiểm thử
 
