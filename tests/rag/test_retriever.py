@@ -49,11 +49,16 @@ def test_retrieve_embeds_query_executes_cosine_sql_and_returns_chunks() -> None:
     statement, params = db.execute.call_args.args
 
     assert "embedding <=>" in statement.text
+    assert "WHERE" in statement.text
+    assert "metadata ->> 'device'" in statement.text
+    assert "metadata ->> 'brand'" in statement.text
     assert "ORDER BY embedding <=>" in statement.text
     assert "LIMIT :k" in statement.text
     assert params == {
         "query_embedding": "[0.1, 0.2, 0.3]",
         "k": 2,
+        "device": "washing_machine",
+        "brand": None,
     }
 
     # Kiểm tra dữ liệu trả về.
@@ -106,3 +111,36 @@ def test_retrieve_returns_empty_list_when_database_has_no_chunks() -> None:
     )
 
     assert results == []
+
+
+def test_retrieve_filters_rice_cooker_and_brand_before_vector_ranking() -> None:
+    """A highly similar washing-machine chunk must be excluded by SQL, not afterwards."""
+    embedder = MagicMock()
+    embedder.embed_query.return_value = [0.1, 0.2, 0.3]
+    db = make_db_with_rows(
+        [{"id": "rice-cooker-1", "content": "Hướng dẫn nấu cơm.", "metadata": {"device": "rice_cooker", "brand": "panasonic"}, "score": 0.7}]
+    )
+
+    results = PgvectorRetriever(embedder).retrieve(
+        db, "Nồi cơm điện Panasonic không giữ ấm", k=3
+    )
+
+    statement, params = db.execute.call_args.args
+    assert statement.text.index("WHERE") < statement.text.index("ORDER BY")
+    assert params["device"] == "rice_cooker"
+    assert params["brand"] == "panasonic"
+    assert [result.id for result in results] == ["rice-cooker-1"]
+
+
+def test_retrieve_uses_explicit_metadata_filter_over_query_inference() -> None:
+    embedder = MagicMock()
+    embedder.embed_query.return_value = [0.1, 0.2, 0.3]
+    db = make_db_with_rows([])
+
+    PgvectorRetriever(embedder).retrieve(
+        db, "máy giặt Samsung", device="rice_cooker", brand="Toshiba"
+    )
+
+    _, params = db.execute.call_args.args
+    assert params["device"] == "rice_cooker"
+    assert params["brand"] == "toshiba"

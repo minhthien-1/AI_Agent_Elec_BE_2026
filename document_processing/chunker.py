@@ -20,7 +20,9 @@ _DEVICE_BY_PATH_PART = {
     "air_conditioners": "air_conditioner",
     "freezers": "freezer",
     "refrigerators": "refrigerator",
+    "rice_cookers": "rice_cooker",
     "washing_machines": "washing_machine",
+    "water_heaters": "water_heater",
 }
 
 
@@ -145,6 +147,9 @@ def _infer_device(document: ExtractedDocument) -> str:
         ("fridge", "refrigerator"),
         ("refrigerator", "refrigerator"),
         ("freezer", "freezer"),
+        ("rice_cooker", "rice_cooker"),
+        ("rice-cooker", "rice_cooker"),
+        ("rice cooker", "rice_cooker"),
         ("heater", "water_heater"),
         ("ac_", "air_conditioner"),
     ):

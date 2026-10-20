@@ -6,6 +6,7 @@ from typing import Any
 from sqlalchemy import text
 from sqlalchemy.orm import Session
 
+from app.rag.metadata_filters import resolve_metadata_filter
 from rag.embeddings import E5Embedder
 
 
@@ -21,7 +22,15 @@ class PgvectorRetriever:
     def __init__(self, embedder: E5Embedder | None = None) -> None:
         self.embedder = embedder or E5Embedder()
 
-    def retrieve(self, db: Session, query: str, k: int = 5) -> list[RetrievedChunk]:
+    def retrieve(
+        self,
+        db: Session,
+        query: str,
+        k: int = 5,
+        *,
+        device: str | None = None,
+        brand: str | None = None,
+    ) -> list[RetrievedChunk]:
         if not query or not query.strip():
             raise ValueError("query must not be empty")
 
@@ -29,6 +38,7 @@ class PgvectorRetriever:
             raise ValueError("k must be at least 1")
 
         query_vector = self.embedder.embed_query(query)
+        metadata_filter = resolve_metadata_filter(query, device=device, brand=brand)
 
         statement = text("""
             SELECT
@@ -37,6 +47,8 @@ class PgvectorRetriever:
                 metadata,
                 1 - (embedding <=> CAST(:query_embedding AS vector)) AS score
             FROM chunks
+            WHERE (:device IS NULL OR metadata ->> 'device' = :device)
+              AND (:brand IS NULL OR metadata ->> 'brand' = :brand)
             ORDER BY embedding <=> CAST(:query_embedding AS vector)
             LIMIT :k
         """)
@@ -46,6 +58,8 @@ class PgvectorRetriever:
             {
                 "query_embedding": str(query_vector),
                 "k": k,
+                "device": metadata_filter.device,
+                "brand": metadata_filter.brand,
             },
         ).mappings()
 

@@ -53,3 +53,16 @@ def test_explicit_metadata_overrides_inference() -> None:
 
     assert chunks[0].metadata["device"] == "water_heater"
     assert chunks[0].metadata["brand"] == "acme"
+
+
+def test_chunker_inferrs_rice_cooker_metadata_from_source_path() -> None:
+    chunks = chunk_document(
+        _document(
+            "# Vận hành\nNội dung.",
+            source_path="data/manuals/files/manuals/rice_cookers/M002_panasonic_manual.pdf",
+            filename="M002_panasonic_manual.pdf",
+        )
+    )
+
+    assert chunks[0].metadata["device"] == "rice_cooker"
+    assert chunks[0].metadata["brand"] == "panasonic"

@@ -130,6 +130,13 @@ chunk, tạo embedding trên CPU, rồi upsert các chunk vào bảng `chunks`. 
 cuối cùng có `files`, `chunks`, và `duration_seconds`; với bộ dữ liệu hiện tại,
 `files` phải là `30`. Có thể giảm/tăng số chunk mỗi lô bằng `--batch-size 16`.
 
+Mỗi chunk được lưu kèm metadata chuẩn hoá `device` và `brand`. Retriever tự nhận
+diện các cụm như `nồi cơm điện`, `máy giặt`, `tủ lạnh` và các hãng được hỗ trợ
+trong câu hỏi; điều kiện metadata được áp dụng trước khi xếp hạng cosine. Caller
+có thể truyền chính xác hơn qua `retrieve(..., device="rice_cooker",
+brand="panasonic")`. Khi không nhận diện được, retriever không lọc để tránh làm
+mất kết quả của câu hỏi chung chung.
+
 ## 5. Chạy kiểm thử
 
 ```powershell
