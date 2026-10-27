@@ -47,8 +47,10 @@ class PgvectorRetriever:
                 metadata,
                 1 - (embedding <=> CAST(:query_embedding AS vector)) AS score
             FROM chunks
-            WHERE (:device IS NULL OR metadata ->> 'device' = :device)
-              AND (:brand IS NULL OR metadata ->> 'brand' = :brand)
+            WHERE (CAST(:device AS text) IS NULL
+                   OR metadata ->> 'device' = CAST(:device AS text))
+              AND (CAST(:brand AS text) IS NULL
+                   OR metadata ->> 'brand' = CAST(:brand AS text))
             ORDER BY embedding <=> CAST(:query_embedding AS vector)
             LIMIT :k
         """)

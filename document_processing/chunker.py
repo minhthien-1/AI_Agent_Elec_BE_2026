@@ -9,8 +9,8 @@ from typing import Iterator, List, Optional, Tuple
 from document_processing.models import DocumentChunk, ExtractedDocument
 
 
-DEFAULT_MAX_TOKENS = 500
-DEFAULT_OVERLAP_TOKENS = 50
+DEFAULT_MAX_TOKENS = 250
+DEFAULT_OVERLAP_TOKENS = 30
 UNKNOWN_SECTION = "Không có tiêu đề"
 _TOKEN_PATTERN = re.compile(r"\S+")
 _NUMBERED_HEADING = re.compile(r"^\s*(?:\d+(?:\.\d+)*[.)]|[IVXLC]+[.)])\s+\S+", re.IGNORECASE)
@@ -57,7 +57,7 @@ def chunk_document(
             chunks.append(
                 DocumentChunk(
                     chunk_id=f"{source_stem}:{section_index}:{part_index}",
-                    text=" ".join(part_tokens),
+                    text=_chunk_text(section, part_tokens),
                     token_count=len(part_tokens),
                     metadata={
                         "device": resolved_device,
@@ -124,6 +124,14 @@ def _split_tokens(
         if end == len(tokens):
             return
         start = end - overlap_tokens
+
+
+def _chunk_text(section: str, part_tokens: List[str]) -> str:
+    """Build text for embedding while retaining the section as context."""
+    body = " ".join(part_tokens)
+    if section == UNKNOWN_SECTION:
+        return body
+    return f"{section}\n\n{body}"
 
 
 def _tokens(text: str) -> List[str]:

@@ -22,8 +22,8 @@ def test_chunker_splits_at_headings_and_keeps_required_metadata() -> None:
     chunks = chunk_document(document)
 
     assert [chunk.text for chunk in chunks] == [
-        "Rút điện trước khi vệ sinh.",
-        "Đặt máy trên mặt phẳng.",
+        "An toàn\n\nRút điện trước khi vệ sinh.",
+        "Lắp đặt\n\nĐặt máy trên mặt phẳng.",
     ]
     assert chunks[0].metadata == {
         "device": "washing_machine",
@@ -42,7 +42,9 @@ def test_chunker_splits_long_section_with_exact_overlap() -> None:
     )
 
     assert [chunk.token_count for chunk in chunks] == [500, 100]
-    assert chunks[0].text.split()[-50:] == chunks[1].text.split()[:50]
+    first_body = chunks[0].text.split("\n\n", 1)[1].split()
+    second_body = chunks[1].text.split("\n\n", 1)[1].split()
+    assert first_body[-50:] == second_body[:50]
     assert all(chunk.token_count <= 500 for chunk in chunks)
 
 

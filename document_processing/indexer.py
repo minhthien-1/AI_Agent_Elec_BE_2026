@@ -51,6 +51,7 @@ def index_documents(input_value: str, batch_size: int = 32) -> dict[str, int]:
             for (path, document, chunk), vector in zip(batch, vectors):
                 metadata = {
                     **chunk.metadata, "source_path": str(path),
+                    "source": document.filename,
                     "filename": document.filename, "file_type": document.file_type,
                     "token_count": chunk.token_count,
                 }
