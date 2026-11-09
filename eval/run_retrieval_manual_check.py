@@ -1,6 +1,6 @@
 """Export the top-k retrieved chunks for 20 manual relevance checks.
 
-Run after PostgreSQL/pgvector is up and ``app.rag.ingest`` has indexed the
+Run after PostgreSQL/pgvector is up and ``infrastructure.rag.ingest`` has indexed the
 manuals.  The CSV output intentionally leaves ``relevant`` blank: a human
 reviewer reads each returned chunk and enters 1 (relevant) or 0 (irrelevant).
 """
@@ -19,8 +19,8 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from app.rag.retriever import PgvectorRetriever
-from db.database import SessionLocal
+from infrastructure.persistence.database import SessionLocal
+from infrastructure.rag.retriever import PgvectorRetriever
 
 
 TOP_K = 5

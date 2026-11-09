@@ -1,12 +1,11 @@
 from fastapi import APIRouter, Depends, HTTPException
-from sqlalchemy.orm import Session
 
-from agent.chat_service import (
+from application.chat_service import (
+    ChatApplicationError,
     ChatService,
-    ChatServiceError,
 )
+from api.dependencies import get_chat_service
 from api.schemas.chat import ChatRequest, ChatResponse
-from db.database import get_db
 
 
 router = APIRouter(tags=["chat"])
@@ -15,7 +14,7 @@ router = APIRouter(tags=["chat"])
 @router.post("/chat", response_model=ChatResponse)
 def chat(
     request: ChatRequest,
-    db: Session = Depends(get_db),
+    service: ChatService = Depends(get_chat_service),
 ):
     question = request.message.strip()
 
@@ -25,21 +24,21 @@ def chat(
             detail="Message cannot be empty",
         )
 
-    service = ChatService()
-
     try:
-        result = service.send_message(
-            db=db,
-            message=question,
-        )
+        result = service.send_message(message=question)
 
-    except ChatServiceError as exc:
+    except ChatApplicationError as exc:
+        status_code = 502 if exc.kind == "llm_failed" else 500
         raise HTTPException(
-            status_code=exc.status_code,
+            status_code=status_code,
             detail={
                 "message": exc.message,
                 "trace_id": exc.trace_id,
             },
         ) from exc
 
-    return ChatResponse(**result)
+    return ChatResponse(
+        answer=result.answer,
+        trace_id=result.trace_id,
+        duration_ms=result.duration_ms,
+    )

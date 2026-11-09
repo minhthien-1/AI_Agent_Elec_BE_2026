@@ -91,18 +91,52 @@ Request mẫu:
 
 ## 4. Cấu trúc project
 
-- `api/`: FastAPI routers và request/response schemas.
-- `agent/`: logic điều phối lượt chat.
-- `llm/`: Ollama client.
-- `db/`: SQLAlchemy database và models.
-- `tools/`: TraceService.
+```text
+api/                         # HTTP endpoints, schemas, dependency wiring
+application/                 # Chat use case, ports, application result
+domain/                      # Business policies and domain concepts
+infrastructure/
+  llm/                       # Ollama adapter/client
+  persistence/               # PostgreSQL, SQLAlchemy models, trace storage
+  rag/                       # Retrieval, embeddings, ingestion command
+  document_processing/       # Document readers, cleaning, chunking, indexing
+alembic/                     # Database migrations
+tests/                       # Tests arranged by layer
+```
+
+- `api/`: FastAPI routers, HTTP schemas và composition root/dependency wiring.
+- `application/`: use case chat và các port trừu tượng, không phụ thuộc FastAPI/SQLAlchemy/Ollama.
+- `domain/`: khái niệm và chính sách nghiệp vụ độc lập với framework.
+- `infrastructure/`: adapter và tích hợp bên ngoài như PostgreSQL, Ollama, RAG, xử lý tài liệu.
 - `alembic/`: database migrations.
 - `tests/`: automated tests.
 - `data/manuals/`: chỉ mục nguồn tài liệu và tài liệu tham khảo cục bộ.
 
+API là điểm khởi tạo adapter; `application` chỉ phụ thuộc `domain` và các port.
+`infrastructure` hiện thực các port đó.
+
+### P3-1 — Trạng thái hội thoại
+
+`domain.conversation.ConversationState` là một bản tóm tắt bất biến theo từng thời điểm,
+không phải lịch sử các tin nhắn. State gồm thiết bị, triệu chứng, mức rủi ro,
+câu hỏi đã hỏi và giai đoạn:
+
+- `clarifying`: đang thu thập thông tin còn thiếu.
+- `safety_warning`: đã nhận diện rủi ro cao; ưu tiên cảnh báo an toàn.
+- `guidance`: đã có đủ thông tin để đưa ra hướng dẫn phù hợp.
+- `completed`: lượt tư vấn đã kết thúc.
+
+`transition_conversation` nhận state hiện tại cùng thông tin mới và trả về state mới;
+state cũ không bị sửa. Ở P3-1, caller cung cấp các thông tin đã được nhận diện,
+bao gồm giai đoạn tiếp theo. Mức rủi ro `high` luôn đưa state sang `safety_warning`.
+
+P3-1 chưa lưu state vào database. API hiện chưa có `conversation_id` để liên kết
+nhiều request thành một cuộc hội thoại; việc lưu bền vững cần đi cùng chức năng
+định danh và khôi phục cuộc hội thoại ở bước sau.
+
 ### Xử lý tài liệu
 
-Module `document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,
+Module `infrastructure.document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,
 chuẩn hóa thận trọng các ký tự điều khiển và loại dòng lặp ở lề PDF. Kết quả
 được ghi thành cặp `.txt`/`.json` theo thư mục nguồn; file gốc không bị sửa.
 Lệnh trích xuất này chưa thực hiện OCR, chia chunk hoặc embedding. Hãy rà soát các cảnh báo
@@ -110,8 +144,8 @@ Lệnh trích xuất này chưa thực hiện OCR, chia chunk hoặc embedding. 
 trước khi đưa tài liệu vào bước tiếp theo.
 
 ```powershell
-.\.venv\Scripts\python.exe -m pytest tests\document_processing -q
-.\.venv\Scripts\python.exe -m document_processing.cli `
+.\.venv\Scripts\python.exe -m pytest tests\infrastructure\document_processing -q
+.\.venv\Scripts\python.exe -m infrastructure.document_processing.cli `
     --input .\data\manuals\files `
     --output .\data\processed\extracted
 ```
@@ -122,7 +156,7 @@ Sau khi Docker PostgreSQL đã chạy và migration đã hoàn tất, nạp toà
 vào pgvector bằng một lệnh từ thư mục gốc project:
 
 ```powershell
-.\.venv\Scripts\python.exe -m app.rag.ingest data/manuals
+.\.venv\Scripts\python.exe -m infrastructure.rag.ingest data/manuals
 ```
 
 Lệnh quét đệ quy các định dạng được hỗ trợ, làm sạch và chia văn bản thành các
