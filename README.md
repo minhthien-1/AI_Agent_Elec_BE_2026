@@ -149,6 +149,22 @@ nhiều request thành một cuộc hội thoại; việc lưu bền vững cầ
 Request chat hiện chưa nhận `ConversationState`, nên nhánh kiểm tra state rủi ro cao
 có thể được dùng qua domain API nhưng chưa duy trì trạng thái giữa các request.
 
+### P3-3 — Giao diện Tool chung
+
+`application.tools.AgentTool` là hợp đồng chung: mỗi tool có `name`, `description`,
+`parameters_schema` theo JSON Schema và `run(arguments)`. `ToolRegistry` đăng ký,
+liệt kê metadata và thực thi tool theo tên; mỗi tool kiểm tra tham số cụ thể của nó.
+`infrastructure.tools.SearchManualTool` là tool mẫu, bọc cổng truy xuất tài liệu hiện có.
+
+Khi P3-2 chọn nhánh `retrieve_documents`, `ChatService` gọi `search_manual` qua registry,
+nhận kết quả chuẩn `ToolResult`, rồi đưa tài liệu đó vào prompt. Trace ghi lại tên và
+tham số tool để có thể kiểm tra nhánh nào đã chạy. Các comment trong Python dùng `#`,
+đây là cú pháp comment hợp lệ của Python (`//` không phải comment Python).
+
+P3-3 chuẩn hóa giao diện và cách gọi tool; hiện tại rule router vẫn chọn khi nào gọi
+`search_manual`. Agent/LLM tự chọn tool dựa trên `parameters_schema` là phần mở rộng sau,
+chưa được bật ở bước này.
+
 ### Xử lý tài liệu
 
 Module `infrastructure.document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,
