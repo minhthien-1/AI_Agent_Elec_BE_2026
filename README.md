@@ -165,6 +165,22 @@ P3-3 chuẩn hóa giao diện và cách gọi tool; hiện tại rule router v�
 `search_manual`. Agent/LLM tự chọn tool dựa trên `parameters_schema` là phần mở rộng sau,
 chưa được bật ở bước này.
 
+### P3-4 — Hai tool đầu tiên
+
+Tool đầu tiên `search_manual` tra tài liệu như mô tả ở P3-3. Tool thứ hai,
+`ask_clarification`, nhận `missing_fields` và tạo câu hỏi theo mẫu mà không gọi LLM.
+Khi thiếu thiết bị và triệu chứng, tool hỏi cả hai; nếu tên thiết bị đã nhận diện
+được từ request thì chỉ hỏi triệu chứng. Vì `ConversationState` chưa được truyền qua API,
+đây mới là nhận diện thiết bị theo một số từ khóa, chưa phải theo dõi các lượt chat trước.
+
+### P4-1 — Bộ luật an toàn cứng
+
+Luật tại `domain.routing` ưu tiên các tín hiệu điện giật/rò điện, mùi khét, khói/cháy,
+tia lửa, nước vào ổ điện hoặc thiết bị đang cắm, và sửa chữa khi chưa ngắt nguồn.
+Khi khớp, hệ thống trả cảnh báo cố định, không gọi LLM hoặc RAG. Bộ nhận diện kiểm tra
+phủ định gần tín hiệu và bỏ qua một số ngữ cảnh giả định/trích dẫn; đây là bộ luật từ khóa
+ban đầu, không thay thế đánh giá của người có chuyên môn.
+
 ### Xử lý tài liệu
 
 Module `infrastructure.document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,

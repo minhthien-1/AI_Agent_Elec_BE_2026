@@ -77,3 +77,21 @@ def test_chat_endpoint_maps_retrieval_error_to_bad_gateway():
         app.dependency_overrides.pop(get_chat_service, None)
 
     assert response.status_code == 502
+
+
+def test_chat_endpoint_maps_clarification_tool_error_to_bad_gateway():
+    class FailedChatService:
+        def send_message(self, message: str) -> ChatResult:
+            raise ChatApplicationError(
+                message="Cannot create a clarification question.",
+                trace_id="trace-tool",
+                kind="tool_failed",
+            )
+
+    app.dependency_overrides[get_chat_service] = FailedChatService
+    try:
+        response = client.post("/chat", json={"message": "Giúp tôi"})
+    finally:
+        app.dependency_overrides.pop(get_chat_service, None)
+
+    assert response.status_code == 502

@@ -6,11 +6,11 @@ from application.ports import RetrievedDocument
 from application.chat_service import ChatApplicationError, ChatService
 from application.tools import ToolRegistry
 from domain.routing import (
-    CLARIFICATION_RESPONSE,
     EMERGENCY_RESPONSE,
     NO_DOCUMENTS_RESPONSE,
     Route,
 )
+from infrastructure.tools.ask_clarification import AskClarificationTool
 from infrastructure.tools.search_manual import SearchManualTool
 
 
@@ -84,7 +84,12 @@ def create_chat_service(
     return ChatService(
         generator,
         recorder,
-        ToolRegistry([SearchManualTool(retriever)]),
+        ToolRegistry(
+            [
+                SearchManualTool(retriever),
+                AskClarificationTool(),
+            ]
+        ),
     )
 
 
@@ -145,6 +150,28 @@ def test_emergency_route_returns_fixed_warning_without_llm_or_retrieval():
     assert recorder.steps[0]["input_data"]["route"] == Route.EMERGENCY
 
 
+@pytest.mark.parametrize(
+    "message",
+    (
+        "Nước vào ổ cắm",
+        "Tôi đang sửa máy giặt khi chưa ngắt nguồn",
+        "Tủ lạnh có mùi khét",
+    ),
+)
+def test_all_hard_safety_signals_bypass_llm_and_rag(message: str):
+    generator = FakeGenerator()
+    recorder = FakeTraceRecorder()
+    retriever = FakeDocumentRetriever()
+    service = create_chat_service(generator, recorder, retriever)
+
+    reply = service.send_message(message)
+
+    assert reply.answer == EMERGENCY_RESPONSE
+    assert generator.prompt is None
+    assert retriever.queries == []
+    assert recorder.steps[0]["input_data"]["route"] == Route.EMERGENCY
+
+
 def test_ambiguous_route_asks_for_details_without_llm_or_retrieval():
     generator = FakeGenerator()
     recorder = FakeTraceRecorder()
@@ -153,10 +180,29 @@ def test_ambiguous_route_asks_for_details_without_llm_or_retrieval():
 
     reply = service.send_message("Giúp tôi")
 
-    assert reply.answer == CLARIFICATION_RESPONSE
+    assert "thiết bị nào" in reply.answer
+    assert "biểu hiện cụ thể" in reply.answer
     assert generator.prompt is None
     assert retriever.queries == []
     assert recorder.steps[0]["input_data"]["route"] == Route.ASK_CLARIFICATION
+    assert recorder.steps[0]["input_data"]["tool_name"] == "ask_clarification"
+    assert recorder.steps[0]["input_data"]["tool_arguments"] == {
+        "missing_fields": ["device", "symptoms"],
+    }
+
+
+def test_clarification_asks_only_for_symptoms_when_device_is_known():
+    generator = FakeGenerator()
+    recorder = FakeTraceRecorder()
+    retriever = FakeDocumentRetriever()
+    service = create_chat_service(generator, recorder, retriever)
+
+    reply = service.send_message("Máy giặt")
+
+    assert reply.answer == "Thiết bị đang có biểu hiện cụ thể như thế nào?"
+    assert recorder.steps[0]["input_data"]["tool_arguments"] == {
+        "missing_fields": ["symptoms"],
+    }
 
 
 def test_retrieval_route_uses_context_in_llm_prompt():

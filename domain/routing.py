@@ -20,14 +20,20 @@ class RouteDecision:
 
 EMERGENCY_RESPONSE = (
     "Có thể đang có nguy cơ mất an toàn về điện. Hãy ngừng sử dụng thiết bị "
-    "và tránh chạm vào thiết bị hoặc dây điện. Nếu có khói hay cháy, hãy rời "
-    "khỏi khu vực và gọi lực lượng cứu hộ tại địa phương. Không tự tháo sửa; "
-    "hãy liên hệ thợ điện hoặc trung tâm bảo hành đủ chuyên môn."
+    "và tránh chạm vào thiết bị, dây điện hoặc khu vực đang ướt. Nếu có khói "
+    "hay cháy, hãy rời khỏi khu vực và gọi lực lượng cứu hộ tại địa phương. "
+    "Không tự tháo sửa; hãy nhờ người có chuyên môn kiểm tra."
 )
 
-CLARIFICATION_RESPONSE = (
-    "Bạn cho mình biết thiết bị nào đang gặp vấn đề, hãng/model nếu có, "
-    "và hiện tượng cụ thể được không?"
+_DEVICE_TERMS = (
+    "máy giặt",
+    "tủ lạnh",
+    "tủ đông",
+    "điều hòa",
+    "máy lạnh",
+    "bình nóng lạnh",
+    "bình nước nóng",
+    "nồi cơm điện",
 )
 
 NO_DOCUMENTS_RESPONSE = (
@@ -43,6 +49,16 @@ _EMERGENCY_TERMS = (
     "rò rỉ điện",
     "chập điện",
     "chập cháy",
+    "đang sửa khi chưa ngắt điện",
+    "tự sửa khi chưa ngắt điện",
+    "chưa ngắt nguồn",
+    "chưa ngắt điện",
+    "nước vào ổ điện",
+    "nước vào ổ cắm",
+    "nước vào thiết bị đang cắm điện",
+    "nước vào thiết bị đang cắm",
+    "nước tràn vào ổ điện",
+    "nước tràn vào ổ cắm",
     "tia lửa",
     "bốc cháy",
     "cháy",
@@ -51,8 +67,18 @@ _EMERGENCY_TERMS = (
     "nổ",
 )
 
-_NEGATION_PATTERN = re.compile(r"\b(?:không|chưa|chẳng|không bị|không có)\b")
+_WATER_ELECTRIC_PATTERN = re.compile(
+    r"\bnước\b.{0,30}\b(?:ổ điện|ổ cắm|thiết bị)\b"
+    r".{0,30}\b(?:đang cắm điện|cắm điện|có điện)\b"
+)
+_NEGATION_PATTERN = re.compile(
+    r"(?:^|\s)(?:không|chưa|chẳng|không bị|không có|không thấy|không còn)"
+    r"(?:\s+\S+){0,4}\s*$"
+)
 _CLAUSE_BOUNDARY_PATTERN = re.compile(r"[,.;!?]|\bnhưng\b|\bcòn\b")
+_SAFETY_CLAUSE_PATTERN = re.compile(
+    r"\b(?:nếu|trường hợp|ví dụ|chẳng hạn)\b"
+)
 
 _AMBIGUOUS_PHRASES = (
     "giúp tôi",
@@ -129,13 +155,28 @@ def choose_route(
     return RouteDecision(Route.ASK_CLARIFICATION, "no_rule_matched")
 
 
+def clarification_fields_for(message: str) -> list[str]:
+    """Choose basic missing fields until conversation state is wired into the API."""
+    normalized = " ".join(message.casefold().split())
+    if any(device in normalized for device in _DEVICE_TERMS):
+        return ["symptoms"]
+    return ["device", "symptoms"]
+
+
 def _has_emergency_signal(message: str) -> bool:
+    # Luật an toàn chạy trước các nhánh LLM/RAG; chỉ xét tín hiệu trong mệnh đề hiện tại.
+    if _WATER_ELECTRIC_PATTERN.search(message):
+        return True
+
     for term in _EMERGENCY_TERMS:
         start = 0
         while (match_start := message.find(term, start)) >= 0:
             prefix = message[max(0, match_start - 60) : match_start]
             clause = _CLAUSE_BOUNDARY_PATTERN.split(prefix)[-1]
-            if not _NEGATION_PATTERN.search(clause):
+            if (
+                not _NEGATION_PATTERN.search(clause.rstrip())
+                and not _SAFETY_CLAUSE_PATTERN.search(clause)
+            ):
                 return True
             start = match_start + len(term)
     return False

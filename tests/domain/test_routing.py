@@ -11,6 +11,12 @@ from domain.routing import Route, choose_route
         "Có khói bốc ra từ tủ lạnh",
         "Tôi bị điện giật khi chạm vào máy nước nóng",
         "Tủ lạnh phát tia lửa",
+        "Ổ điện bị rò điện",
+        "Nước tràn vào ổ cắm",
+        "Nước vào thiết bị vẫn đang cắm điện",
+        "Tôi đang sửa máy giặt khi chưa ngắt điện",
+        "Tôi chưa ngắt nguồn trước khi tháo thiết bị",
+        "Thiết bị đang bốc cháy",
     ),
 )
 def test_routes_emergency_signals_before_other_intents(message: str):
@@ -19,10 +25,30 @@ def test_routes_emergency_signals_before_other_intents(message: str):
     assert decision.route is Route.EMERGENCY
 
 
-def test_negated_emergency_signal_does_not_trigger_emergency_route():
-    decision = choose_route("Máy giặt không có mùi khét")
+@pytest.mark.parametrize(
+    ("message", "expected_route"),
+    (
+        ("Máy giặt không có mùi khét", Route.ASK_CLARIFICATION),
+        ("Không thấy khói ở tủ lạnh", Route.ASK_CLARIFICATION),
+        ("Không có nước vào ổ điện", Route.ASK_CLARIFICATION),
+        (
+            "Tôi sẽ không sửa thiết bị khi chưa ngắt nguồn",
+            Route.RETRIEVE_DOCUMENTS,
+        ),
+        ("Nếu có mùi khét thì tôi nên làm gì?", Route.ASK_CLARIFICATION),
+        (
+            "Tôi đọc hướng dẫn về trường hợp bị điện giật",
+            Route.RETRIEVE_DOCUMENTS,
+        ),
+    ),
+)
+def test_negated_hypothetical_or_quoted_signal_does_not_trigger_emergency(
+    message: str,
+    expected_route: Route,
+):
+    decision = choose_route(message)
 
-    assert decision.route is Route.ASK_CLARIFICATION
+    assert decision.route is expected_route
 
 
 def test_conversation_high_risk_keeps_emergency_route():

@@ -6,6 +6,7 @@ from application.tools import (
     ToolRegistry,
     ToolResult,
 )
+from infrastructure.tools.ask_clarification import AskClarificationTool
 
 
 class EchoTool:
@@ -66,3 +67,14 @@ def test_registry_returns_a_copy_of_tool_schema():
     registry.definitions()[0]["parameters"]["properties"]["value"]["type"] = "integer"
 
     assert EchoTool.parameters_schema["properties"]["value"]["type"] == "string"
+
+
+def test_registry_can_register_and_describe_both_initial_tools():
+    registry = ToolRegistry([EchoTool(), AskClarificationTool()])
+
+    definitions = registry.definitions()
+
+    assert [definition["name"] for definition in definitions] == [
+        "echo",
+        "ask_clarification",
+    ]

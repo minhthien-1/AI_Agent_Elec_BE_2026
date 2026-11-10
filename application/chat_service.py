@@ -6,10 +6,10 @@ from application.results import ChatResult
 from application.tools import ToolRegistry
 from domain.chat import CHAT_SYSTEM_INSTRUCTIONS
 from domain.routing import (
-    CLARIFICATION_RESPONSE,
     EMERGENCY_RESPONSE,
     NO_DOCUMENTS_RESPONSE,
     Route,
+    clarification_fields_for,
     choose_route,
 )
 
@@ -24,6 +24,7 @@ class ChatApplicationError(Exception):
         kind: Literal[
             "llm_failed",
             "retrieval_failed",
+            "tool_failed",
             "trace_save_failed",
         ],
     ):
@@ -63,12 +64,25 @@ class ChatService:
         model_name: str | None = None
         tool_name: str | None = None
         tool_arguments: dict[str, object] | None = None
-        failed_operation: Literal["routing", "retrieval", "llm"] = "routing"
+        failed_operation: Literal[
+            "routing",
+            "clarification",
+            "retrieval",
+            "llm",
+        ] = "routing"
         try:
             if decision.route == Route.EMERGENCY:
                 answer = EMERGENCY_RESPONSE
             elif decision.route == Route.ASK_CLARIFICATION:
-                answer = CLARIFICATION_RESPONSE
+                # Router đã xác định request còn thiếu ngữ cảnh; tool tạo câu hỏi cụ thể.
+                failed_operation = "clarification"
+                tool_name = "ask_clarification"
+                tool_arguments = {
+                    # Chỉ hỏi những thông tin chưa nhận diện được từ request hiện tại.
+                    "missing_fields": clarification_fields_for(question),
+                }
+                tool_result = self.tools.execute(tool_name, tool_arguments)
+                answer = tool_result.content
             elif decision.route == Route.RETRIEVE_DOCUMENTS:
                 failed_operation = "retrieval"
                 # Tool registry thống nhất cách application gọi các năng lực của agent.
@@ -131,12 +145,20 @@ class ChatService:
             kind = (
                 "retrieval_failed"
                 if failed_operation == "retrieval"
-                else "llm_failed"
+                else (
+                    "tool_failed"
+                    if failed_operation == "clarification"
+                    else "llm_failed"
+                )
             )
             message = (
                 "Cannot retrieve reference documents."
                 if failed_operation == "retrieval"
-                else "Cannot get a response from Ollama."
+                else (
+                    "Cannot create a clarification question."
+                    if failed_operation == "clarification"
+                    else "Cannot get a response from Ollama."
+                )
             )
             raise ChatApplicationError(
                 message=message,

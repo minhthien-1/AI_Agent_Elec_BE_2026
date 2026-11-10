@@ -30,7 +30,7 @@ def chat(
     except ChatApplicationError as exc:
         status_code = (
             502
-            if exc.kind in {"llm_failed", "retrieval_failed"}
+            if exc.kind in {"llm_failed", "retrieval_failed", "tool_failed"}
             else 500
         )
         raise HTTPException(
