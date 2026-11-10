@@ -134,6 +134,21 @@ P3-1 chưa lưu state vào database. API hiện chưa có `conversation_id` đ�
 nhiều request thành một cuộc hội thoại; việc lưu bền vững cần đi cùng chức năng
 định danh và khôi phục cuộc hội thoại ở bước sau.
 
+### P3-2 — Định tuyến bằng luật
+
+`domain.routing.choose_route` chọn một trong bốn nhánh theo thứ tự ưu tiên:
+
+1. `emergency`: dấu hiệu nguy hiểm rõ ràng hoặc state đã có rủi ro cao; trả cảnh báo
+   cố định, không gọi LLM hay RAG.
+2. `ask_clarification`: câu mơ hồ/thiếu ngữ cảnh; hỏi người dùng bổ sung thông tin.
+3. `retrieve_documents`: câu hỏi về hướng dẫn, bảo hành, model, lỗi hoặc khắc phục;
+   tìm tài liệu trước khi gọi LLM. Nếu không có tài liệu, yêu cầu hãng/model thay vì đoán.
+4. `direct_answer`: câu hỏi phổ thông, rõ nghĩa; gọi LLM trực tiếp.
+
+Đây là bộ luật từ khóa ban đầu, không phải bộ phân loại ngôn ngữ hoàn chỉnh.
+Request chat hiện chưa nhận `ConversationState`, nên nhánh kiểm tra state rủi ro cao
+có thể được dùng qua domain API nhưng chưa duy trì trạng thái giữa các request.
+
 ### Xử lý tài liệu
 
 Module `infrastructure.document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,

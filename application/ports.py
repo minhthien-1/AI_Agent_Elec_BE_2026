@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import uuid
+from dataclasses import dataclass
 from typing import Any, Protocol
 
 
@@ -9,6 +10,20 @@ class ChatGenerator(Protocol):
     def model_name(self) -> str: ...
 
     def generate(self, prompt: str) -> str: ...
+
+
+@dataclass(frozen=True)
+class RetrievedDocument:
+    content: str
+    source: str | None = None
+
+
+class DocumentRetriever(Protocol):
+    def retrieve(
+        self,
+        query: str,
+        limit: int = 5,
+    ) -> list[RetrievedDocument]: ...
 
 
 class TraceRecorder(Protocol):

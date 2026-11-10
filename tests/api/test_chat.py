@@ -56,3 +56,24 @@ def test_chat_endpoint_maps_application_error_to_http_status():
         "message": "Cannot get a response from Ollama.",
         "trace_id": "trace-456",
     }
+
+
+def test_chat_endpoint_maps_retrieval_error_to_bad_gateway():
+    class FailedChatService:
+        def send_message(self, message: str) -> ChatResult:
+            raise ChatApplicationError(
+                message="Cannot retrieve reference documents.",
+                trace_id="trace-789",
+                kind="retrieval_failed",
+            )
+
+    app.dependency_overrides[get_chat_service] = FailedChatService
+    try:
+        response = client.post(
+            "/chat",
+            json={"message": "Máy giặt không lên nguồn"},
+        )
+    finally:
+        app.dependency_overrides.pop(get_chat_service, None)
+
+    assert response.status_code == 502
