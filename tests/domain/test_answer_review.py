@@ -5,7 +5,11 @@ from domain.answer_review import (
     RuleBasedAnswerReviewer,
     review_answer,
 )
-from domain.routing import EMERGENCY_RESPONSE, NO_DOCUMENTS_RESPONSE
+from domain.routing import (
+    EMERGENCY_RESPONSE,
+    NO_DOCUMENTS_RESPONSE,
+    REFUSAL_RESPONSE,
+)
 from infrastructure.tools.ask_clarification import AskClarificationTool
 
 
@@ -89,6 +93,7 @@ def test_checks_each_bullet_line():
     (
         EMERGENCY_RESPONSE,
         NO_DOCUMENTS_RESPONSE,
+        REFUSAL_RESPONSE,
         UNSAFE_ANSWER_RESPONSE,
         *AskClarificationTool._QUESTIONS.values(),
     ),

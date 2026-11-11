@@ -1,4 +1,5 @@
 import re
+import unicodedata
 from dataclasses import dataclass
 from enum import StrEnum
 
@@ -7,6 +8,7 @@ from domain.conversation import ConversationState
 
 class Route(StrEnum):
     EMERGENCY = "emergency"
+    REFUSE = "refuse"
     DIRECT_ANSWER = "direct_answer"
     ASK_CLARIFICATION = "ask_clarification"
     RETRIEVE_DOCUMENTS = "retrieve_documents"
@@ -19,10 +21,18 @@ class RouteDecision:
 
 
 EMERGENCY_RESPONSE = (
-    "Có thể đang có nguy cơ mất an toàn về điện. Hãy ngừng sử dụng thiết bị "
-    "và tránh chạm vào thiết bị, dây điện hoặc khu vực đang ướt. Nếu có khói "
-    "hay cháy, hãy rời khỏi khu vực và gọi lực lượng cứu hộ tại địa phương. "
-    "Không tự tháo sửa; hãy nhờ người có chuyên môn kiểm tra."
+    "Có thể đang có nguy cơ mất an toàn về điện. Hãy ngừng sử dụng và tránh "
+    "chạm vào thiết bị, dây điện hoặc khu vực đang ướt. Chỉ ngắt nguồn tại "
+    "cầu dao ở nơi khô ráo, an toàn nếu có thể; không tiến vào vùng nguy hiểm. "
+    "Nếu có người bị điện giật, bất tỉnh hoặc bị thương, gọi cấp cứu 115; nếu "
+    "có khói hoặc cháy, rời khỏi khu vực và gọi cứu hỏa 114. Không tự tháo sửa; "
+    "hãy nhờ người có chuyên môn kiểm tra."
+)
+
+REFUSAL_RESPONSE = (
+    "Mình không thể hướng dẫn thao tác này vì có thể gây điện giật, cháy hoặc "
+    "chấn thương. Không thực hiện hoặc tiếp tục thao tác; hãy giữ nguyên các "
+    "thiết bị bảo vệ và nhờ kỹ thuật viên có chuyên môn xử lý."
 )
 
 _DEVICE_TERMS = (
@@ -43,8 +53,12 @@ NO_DOCUMENTS_RESPONSE = (
 
 _EMERGENCY_TERMS = (
     "điện giật",
+    "giật điện",
     "bị giật khi chạm",
     "tê khi chạm",
+    "tê tê",
+    "tê tay",
+    "giật nhẹ",
     "rò điện",
     "rò rỉ điện",
     "chập điện",
@@ -61,23 +75,67 @@ _EMERGENCY_TERMS = (
     "nước tràn vào ổ cắm",
     "tia lửa",
     "bốc cháy",
-    "cháy",
-    "khói",
+    "có khói",
+    "bốc khói",
+    "khói bốc",
+    "khói xuất hiện",
+    "khói trắng",
+    "khói đen",
     "mùi khét",
     "nổ",
+    "xẹt xẹt",
+    "nhựa chảy",
+    "tiếng nổ bụp",
 )
 
 _WATER_ELECTRIC_PATTERN = re.compile(
-    r"\bnước\b.{0,30}\b(?:ổ điện|ổ cắm|thiết bị)\b"
-    r".{0,30}\b(?:đang cắm điện|cắm điện|có điện)\b"
+    r"\b(?:nuoc|bon tam)\b.{0,60}\b(?:o dien|o cam|day dien|phich cam)\b"
+    r"|\bnuoc\b.{0,80}\b(?:dang cam dien|van dang cam dien|cam dien)\b"
+    r"|\b(?:may say toc|thiet bi dang cam)\b.{0,60}\b(?:bon tam|nuoc)\b"
+    r"|\b(?:o dien|o cam|day dien|phich cam)\b.{0,50}\b(?:nuoc|am|ngap|ro nuoc)\b"
+    r"|\b(?:kep toc|vat kim loai)\b.{0,35}\b(?:lo o dien|o cam)\b"
 )
+_LIVE_WORK_PATTERN = re.compile(
+    r"\b(?:dang|hien tai|luc nay)\b.{0,80}"
+    r"(?:\b(?:thao|sua|thay|giu|cam|cham)\b.{0,60}"
+    r"\b(?:day dien|day nguon|day ben trong|o cam|o dien)\b"
+    r"|\b(?:chua ngat dien|chua ngat nguon)\b)"
+)
+_CONNECTED_INTERNAL_WORK_PATTERN = re.compile(
+    r"\bday nguon\b.{0,30}\bvan cam\b.{0,80}"
+    r"\b(?:cham|kiem tra|tho)\b.{0,40}\b(?:day ben trong|linh kien|ben trong)\b"
+)
+_FIRE_HAZARD_PATTERN = re.compile(r"\bnhua\b.{0,20}\bchay\b")
 _NEGATION_PATTERN = re.compile(
-    r"(?:^|\s)(?:không|chưa|chẳng|không bị|không có|không thấy|không còn)"
+    r"(?:^|\s)(?:khong|chua|chang|khong bi|khong co|khong thay|khong con)"
     r"(?:\s+\S+){0,4}\s*$"
 )
-_CLAUSE_BOUNDARY_PATTERN = re.compile(r"[,.;!?]|\bnhưng\b|\bcòn\b")
+_CLAUSE_BOUNDARY_PATTERN = re.compile(r"[,.;!?]|\bnhung\b|\bcon\b")
 _SAFETY_CLAUSE_PATTERN = re.compile(
-    r"\b(?:nếu|trường hợp|ví dụ|chẳng hạn)\b"
+    r"\b(?:neu|truong hop|vi du|chang han)\b"
+)
+
+_REFUSAL_TERMS = (
+    "nối tắt cầu chì",
+    "thay cầu chì bằng dây đồng",
+    "dây đồng thay cho cầu chì",
+    "bỏ cb chống giật",
+    "vô hiệu hóa cb",
+    "bỏ dây tiếp địa",
+    "tăng dòng định mức cb",
+    "xả tụ điện",
+    "xả tụ",
+    "magnetron",
+    "tự nạp gas",
+    "nạp gas tại nhà",
+    "thay điện trở",
+    "đấu lại cuộn dây",
+    "nối hai đầu dây",
+    "giữ dây điện vừa bật cb",
+)
+_REFUSAL_PATTERNS = (
+    re.compile(r"\bday tiep dia\b.{0,80}\bbo\b"),
+    re.compile(r"\bcb\b.{0,60}\b(?:dong dinh muc lon hon|dinh muc lon hon)\b"),
 )
 
 _AMBIGUOUS_PHRASES = (
@@ -135,7 +193,7 @@ def choose_route(
     state: ConversationState | None = None,
 ) -> RouteDecision:
     """Choose a safe action using deterministic rules before any LLM call."""
-    normalized = " ".join(message.casefold().split())
+    normalized = " ".join(_normalize_text(message).split())
 
     if state is not None and state.risk_level == "high":
         return RouteDecision(Route.EMERGENCY, "conversation_has_high_risk")
@@ -143,13 +201,18 @@ def choose_route(
     if _has_emergency_signal(normalized):
         return RouteDecision(Route.EMERGENCY, "emergency_signal_detected")
 
+    if any(
+        _normalize_text(term) in normalized for term in _REFUSAL_TERMS
+    ) or any(pattern.search(normalized) for pattern in _REFUSAL_PATTERNS):
+        return RouteDecision(Route.REFUSE, "unsafe_instruction_requested")
+
     if _is_ambiguous(normalized):
         return RouteDecision(Route.ASK_CLARIFICATION, "message_is_ambiguous")
 
-    if any(intent in normalized for intent in _DOCUMENT_INTENTS):
+    if any(_normalize_text(intent) in normalized for intent in _DOCUMENT_INTENTS):
         return RouteDecision(Route.RETRIEVE_DOCUMENTS, "document_intent_detected")
 
-    if any(intent in normalized for intent in _DIRECT_INTENTS):
+    if any(_normalize_text(intent) in normalized for intent in _DIRECT_INTENTS):
         return RouteDecision(Route.DIRECT_ANSWER, "general_question_detected")
 
     return RouteDecision(Route.ASK_CLARIFICATION, "no_rule_matched")
@@ -157,32 +220,59 @@ def choose_route(
 
 def clarification_fields_for(message: str) -> list[str]:
     """Choose basic missing fields until conversation state is wired into the API."""
-    normalized = " ".join(message.casefold().split())
-    if any(device in normalized for device in _DEVICE_TERMS):
+    normalized = " ".join(_normalize_text(message).split())
+    if any(_normalize_text(device) in normalized for device in _DEVICE_TERMS):
         return ["symptoms"]
     return ["device", "symptoms"]
 
 
 def _has_emergency_signal(message: str) -> bool:
     # Luật an toàn chạy trước các nhánh LLM/RAG; chỉ xét tín hiệu trong mệnh đề hiện tại.
-    if _WATER_ELECTRIC_PATTERN.search(message):
+    if (
+        _has_unnegated_pattern(_WATER_ELECTRIC_PATTERN, message)
+        or _has_unnegated_pattern(_LIVE_WORK_PATTERN, message)
+        or _has_unnegated_pattern(_CONNECTED_INTERNAL_WORK_PATTERN, message)
+        or _has_unnegated_pattern(_FIRE_HAZARD_PATTERN, message)
+    ):
         return True
 
-    for term in _EMERGENCY_TERMS:
-        start = 0
-        while (match_start := message.find(term, start)) >= 0:
-            prefix = message[max(0, match_start - 60) : match_start]
+    for term in (_normalize_text(item) for item in _EMERGENCY_TERMS):
+        term_pattern = re.compile(rf"\b{re.escape(term)}\b")
+        for match in term_pattern.finditer(message):
+            prefix = message[max(0, match.start() - 60) : match.start()]
             clause = _CLAUSE_BOUNDARY_PATTERN.split(prefix)[-1]
             if (
                 not _NEGATION_PATTERN.search(clause.rstrip())
                 and not _SAFETY_CLAUSE_PATTERN.search(clause)
             ):
                 return True
-            start = match_start + len(term)
     return False
+
+
+def _has_unnegated_pattern(pattern: re.Pattern[str], message: str) -> bool:
+    for match in pattern.finditer(message):
+        prefix = message[max(0, match.start() - 60) : match.start()]
+        clause = _CLAUSE_BOUNDARY_PATTERN.split(prefix)[-1]
+        if (
+            not _NEGATION_PATTERN.search(clause.rstrip())
+            and not _SAFETY_CLAUSE_PATTERN.search(clause)
+        ):
+            return True
+    return False
+
+
+def _normalize_text(value: str) -> str:
+    # Chuẩn hóa dấu để luật an toàn nhận được cả tiếng Việt gõ không dấu.
+    decomposed = unicodedata.normalize("NFD", value.casefold())
+    without_marks = "".join(
+        character
+        for character in decomposed
+        if unicodedata.category(character) != "Mn"
+    )
+    return without_marks.replace("đ", "d")
 
 
 def _is_ambiguous(message: str) -> bool:
     if len(message.split()) < 2:
         return True
-    return any(phrase in message for phrase in _AMBIGUOUS_PHRASES)
+    return any(_normalize_text(phrase) in message for phrase in _AMBIGUOUS_PHRASES)

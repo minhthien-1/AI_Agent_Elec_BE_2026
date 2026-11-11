@@ -136,14 +136,16 @@ nhiều request thành một cuộc hội thoại; việc lưu bền vững cầ
 
 ### P3-2 — Định tuyến bằng luật
 
-`domain.routing.choose_route` chọn một trong bốn nhánh theo thứ tự ưu tiên:
+`domain.routing.choose_route` chọn một trong năm nhánh theo thứ tự ưu tiên:
 
 1. `emergency`: dấu hiệu nguy hiểm rõ ràng hoặc state đã có rủi ro cao; trả cảnh báo
    cố định, không gọi LLM hay RAG.
-2. `ask_clarification`: câu mơ hồ/thiếu ngữ cảnh; hỏi người dùng bổ sung thông tin.
-3. `retrieve_documents`: câu hỏi về hướng dẫn, bảo hành, model, lỗi hoặc khắc phục;
+2. `refuse`: yêu cầu hướng dẫn thao tác điện rủi ro cao; từ chối bằng mẫu cố định,
+   không gọi LLM hay RAG.
+3. `ask_clarification`: câu mơ hồ/thiếu ngữ cảnh; hỏi người dùng bổ sung thông tin.
+4. `retrieve_documents`: câu hỏi về hướng dẫn, bảo hành, model, lỗi hoặc khắc phục;
    tìm tài liệu trước khi gọi LLM. Nếu không có tài liệu, yêu cầu hãng/model thay vì đoán.
-4. `direct_answer`: câu hỏi phổ thông, rõ nghĩa; gọi LLM trực tiếp.
+5. `direct_answer`: câu hỏi phổ thông, rõ nghĩa; gọi LLM trực tiếp.
 
 Đây là bộ luật từ khóa ban đầu, không phải bộ phân loại ngôn ngữ hoàn chỉnh.
 Request chat hiện chưa nhận `ConversationState`, nên nhánh kiểm tra state rủi ro cao
@@ -176,10 +178,10 @@ Khi thiếu thiết bị và triệu chứng, tool hỏi cả hai; nếu tên th
 ### P4-1 — Bộ luật an toàn cứng
 
 Luật tại `domain.routing` ưu tiên các tín hiệu điện giật/rò điện, mùi khét, khói/cháy,
-tia lửa, nước vào ổ điện hoặc thiết bị đang cắm, và sửa chữa khi chưa ngắt nguồn.
-Khi khớp, hệ thống trả cảnh báo cố định, không gọi LLM hoặc RAG. Bộ nhận diện kiểm tra
-phủ định gần tín hiệu và bỏ qua một số ngữ cảnh giả định/trích dẫn; đây là bộ luật từ khóa
-ban đầu, không thay thế đánh giá của người có chuyên môn.
+tia lửa, nước gần ổ điện/thiết bị điện và thao tác trực tiếp khi chưa ngắt nguồn.
+Khi khớp, hệ thống trả cảnh báo cố định, không gọi LLM hoặc RAG. Bộ nhận diện chuẩn hóa
+dấu tiếng Việt để nhận một số câu không dấu, đồng thời xét phủ định gần tín hiệu; đây là
+bộ luật từ khóa ban đầu, không thay thế đánh giá của người có chuyên môn.
 
 ### P4-2 — Bộ kiểm duyệt độc lập
 
@@ -202,10 +204,10 @@ thao tác điện nguy hiểm, toàn bộ câu trả lời bị thay bằng `UNS
   "đừng", "tránh", "tuyệt đối không" đứng trước thao tác thì cho qua; nhưng nếu sau lời
   cấm có "hãy", "sau đó", "rồi"... thì vẫn chặn (ví dụ "Đừng lo, hãy xả tụ").
 - **Một cửa kiểm duyệt duy nhất**: bước review đặt sau mọi nhánh route. Mặc định mọi câu
-  trả lời (LLM, output tool) đều bị kiểm; chỉ các câu cố định trong `domain/`
-  (`EMERGENCY_RESPONSE`, `NO_DOCUMENTS_RESPONSE`) được bỏ qua để reviewer không thể chặn
-  nhầm cảnh báo khẩn cấp. Test `test_fixed_templates_pass_reviewer` bảo đảm các câu cố định
-  vẫn qua được luật nếu sau này luật thay đổi.
+  trả lời (LLM, output tool) đều bị kiểm; các mẫu cố định trong `domain/`
+  (`EMERGENCY_RESPONSE`, `REFUSAL_RESPONSE`, `NO_DOCUMENTS_RESPONSE`) được bỏ qua để reviewer
+  không chặn nhầm cảnh báo/từ chối an toàn. Test `test_fixed_templates_pass_reviewer` bảo
+  đảm các câu cố định vẫn qua được luật nếu sau này luật thay đổi.
 - **Fail-closed**: nếu reviewer ném lỗi, hệ thống trả `UNSAFE_ANSWER_RESPONSE` thay vì
   câu chưa được kiểm; request vẫn thành công và lỗi được ghi trong trace.
 - **Trace**: thêm step `answer_review` (`step_order=2`) với `status`
@@ -220,6 +222,22 @@ trong luật; khi gặp, bổ sung mẫu vào `_UNSAFE_RULES` kèm test tương 
 ```powershell
 .\.venv\Scripts\python.exe -m pytest tests\domain\test_answer_review.py tests\application\test_chat_service.py -q
 ```
+
+### P4-3 — Bộ 30 ca nguy hiểm
+
+`SAFETY_BENCHMARK_CASES` trong `tests/application/test_chat_service.py` lưu nguyên 30 câu
+kiểm thử đã chuẩn bị: 18 ca phải đi vào `emergency`, 12 ca yêu cầu thao tác rủi ro phải
+đi vào `refuse`. Mỗi ca chạy qua `ChatService` và chỉ PASS khi đồng thời trả đúng mẫu an
+toàn, trace ghi đúng route, không gọi LLM, không gọi RAG, và đánh dấu mẫu cố định đã được
+được ghi `skipped/trusted_template` vì là câu trả lời cố định đã có test riêng. Bộ test có
+cả câu không dấu, tín hiệu nguy hiểm ở cuối câu và câu hỏi đánh lạc hướng như bảo hành/model.
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest tests\application\test_chat_service.py -q -k p4_3
+```
+
+Đây là kiểm thử hồi quy cho đúng 30 ví dụ, không chứng minh bộ luật đã bao phủ mọi cách
+diễn đạt nguy hiểm hoặc thay thế kiểm thử với chuyên gia.
 
 ### Xử lý tài liệu
 

@@ -9,6 +9,7 @@ from domain.chat import CHAT_SYSTEM_INSTRUCTIONS
 from domain.routing import (
     EMERGENCY_RESPONSE,
     NO_DOCUMENTS_RESPONSE,
+    REFUSAL_RESPONSE,
     Route,
     clarification_fields_for,
     choose_route,
@@ -76,11 +77,15 @@ class ChatService:
         ] = "routing"
         # P4-2: mặc định MỌI câu trả lời đều phải qua reviewer, kể cả output của tool mới
         # thêm sau này. Chỉ các câu cố định viết sẵn trong domain/ (đã được test) mới được
-        # đánh dấu bỏ qua, để reviewer không thể chặn nhầm cảnh báo khẩn cấp.
+        # đánh dấu bỏ qua, để reviewer không chặn nhầm cảnh báo hoặc từ chối an toàn.
         needs_review = True
         try:
             if decision.route == Route.EMERGENCY:
                 answer = EMERGENCY_RESPONSE
+                needs_review = False
+            elif decision.route == Route.REFUSE:
+                # P4-3: yêu cầu thao tác rủi ro bị từ chối trước khi gọi LLM hoặc RAG.
+                answer = REFUSAL_RESPONSE
                 needs_review = False
             elif decision.route == Route.ASK_CLARIFICATION:
                 # Router đã xác định request còn thiếu ngữ cảnh; tool tạo câu hỏi cụ thể.
