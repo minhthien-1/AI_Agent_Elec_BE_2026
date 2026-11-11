@@ -265,6 +265,23 @@ mất kết quả của câu hỏi chung chung.
 ```
 
 Docker PostgreSQL và Ollama cần hoạt động đối với các integration test sử dụng dịch vụ thật.
+Các test này được đánh dấu `@pytest.mark.integration` (đăng ký trong `pytest.ini`).
+Chỉ chạy unit test (nhanh, không cần Docker/Ollama):
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest -m "not integration" -q
+```
+
+### CI trên GitHub
+
+`.github/workflows/ci.yml` chạy tự động khi push lên `main` hoặc mở Pull Request vào `main`:
+cài Python 3.11, torch bản CPU, `requirements.txt`, rồi chạy `pytest -m "not integration"`.
+Kết quả xem ở tab **Actions** của repository. Test mới cần PostgreSQL/Ollama thật phải thêm
+`pytestmark = pytest.mark.integration`, nếu không CI sẽ fail vì không có các dịch vụ đó.
+
+`requirements.txt` phải được lưu ở UTF-8. Khi thêm thư viện, hãy thêm dòng mới bằng editor;
+tránh `pip freeze > requirements.txt` trong Windows PowerShell 5.1 vì lệnh này tạo file UTF-16
+(GitHub hiển thị file như dữ liệu nhị phân và không xem được diff).
 
 ## 6. Database
 

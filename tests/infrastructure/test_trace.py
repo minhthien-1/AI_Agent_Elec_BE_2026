@@ -1,3 +1,8 @@
+import pytest
+
+# Cần dịch vụ thật (PostgreSQL/Ollama) nên CI bỏ qua: pytest -m "not integration".
+pytestmark = pytest.mark.integration
+
 import uuid
 
 from infrastructure.persistence.database import SessionLocal

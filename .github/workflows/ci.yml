@@ -1,0 +1,47 @@
+# CI: mỗi lần push hoặc mở Pull Request, GitHub tạo một máy Linux sạch, cài project
+# từ đầu và chạy unit test. Nếu test fail, commit/PR hiện dấu ❌ trên GitHub.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Nếu push liên tiếp lên cùng nhánh, hủy lượt chạy cũ để không tốn thời gian chờ.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      # database.py báo lỗi ngay khi import nếu thiếu DATABASE_URL. Unit test không kết nối
+      # DB thật (dùng fake/mock), nên chỉ cần một giá trị hợp lệ về cú pháp.
+      DATABASE_URL: postgresql+psycopg://ci:ci@localhost:5432/ci_unused
+
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Cài Python 3.11 (cùng phiên bản với máy dev)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          # Lưu cache thư mục tải của pip theo nội dung requirements.txt để lần sau cài nhanh hơn.
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Cài torch bản CPU
+        # sentence-transformers kéo theo torch; mặc định trên Linux pip tải bản CUDA (~2-3 GB).
+        # Cài trước bản CPU (cùng phiên bản đang dùng local) để CI nhẹ và nhanh hơn nhiều.
+        run: pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Cài dependency
+        run: pip install -r requirements.txt
+
+      - name: Chạy unit test (bỏ qua test cần PostgreSQL/Ollama thật)
+        run: python -m pytest -m "not integration" -q
