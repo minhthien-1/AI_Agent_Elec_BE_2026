@@ -3,6 +3,7 @@ from sqlalchemy.orm import Session
 
 from application.chat_service import ChatService
 from application.tools import ToolRegistry
+from domain.answer_review import RuleBasedAnswerReviewer
 from infrastructure.llm.ollama_generator import OllamaGenerator
 from infrastructure.persistence.database import get_db
 from infrastructure.persistence.trace_service import TraceService
@@ -25,4 +26,6 @@ def get_chat_service(
                 AskClarificationTool(),
             ]
         ),
+        # P4-2: reviewer dùng luật, không gọi Ollama; có thể thay hiện thực khác qua port.
+        reviewer=RuleBasedAnswerReviewer(),
     )

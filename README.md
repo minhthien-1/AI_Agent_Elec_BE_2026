@@ -181,6 +181,46 @@ Khi khớp, hệ thống trả cảnh báo cố định, không gọi LLM hoặc
 phủ định gần tín hiệu và bỏ qua một số ngữ cảnh giả định/trích dẫn; đây là bộ luật từ khóa
 ban đầu, không thay thế đánh giá của người có chuyên môn.
 
+### P4-2 — Bộ kiểm duyệt độc lập
+
+P4-1 chặn ở **đầu vào** (câu hỏi). P4-2 thêm lớp chặn ở **đầu ra**: `domain.answer_review`
+kiểm tra câu trả lời SAU khi đã sinh, trước khi trả cho người dùng. Nếu phát hiện chỉ dẫn
+thao tác điện nguy hiểm, toàn bộ câu trả lời bị thay bằng `UNSAFE_ANSWER_RESPONSE`
+(cảnh báo về thao tác, khác với `EMERGENCY_RESPONSE` dành cho tình huống khẩn cấp).
+
+- **Tách hẳn module, không nằm trong prompt**: reviewer là luật thuần Python, không gọi
+  Ollama, nên độc lập với model sinh câu trả lời, cho kết quả ổn định và test được.
+  `ChatService` chỉ biết port `application.ports.AnswerReviewer`; hiện thực mặc định là
+  `RuleBasedAnswerReviewer`, được gắn trong `api/dependencies.py`.
+- **Nhóm luật luôn cấm** (bị chặn kể cả khi câu trả lời có nhắc "ngắt nguồn trước"):
+  `live_work` (chạm/đo/sửa khi còn điện), `bypass_protection` (nối tắt cầu chì, bỏ CB,
+  bỏ tiếp địa), `high_energy_component` (xả/thay tụ, magnetron, bo nguồn, máy nén),
+  `refrigerant_gas` (xả/nạp gas), `mains_wiring` (tự đấu nối điện lưới),
+  `open_enclosure` (tháo vỏ máy). Bảo dưỡng thông thường như rút phích rồi vệ sinh lưới
+  lọc không nằm trong luật.
+- **Phủ định**: luật xét theo từng câu/dòng. Lời cấm như "không được", "không nên",
+  "đừng", "tránh", "tuyệt đối không" đứng trước thao tác thì cho qua; nhưng nếu sau lời
+  cấm có "hãy", "sau đó", "rồi"... thì vẫn chặn (ví dụ "Đừng lo, hãy xả tụ").
+- **Một cửa kiểm duyệt duy nhất**: bước review đặt sau mọi nhánh route. Mặc định mọi câu
+  trả lời (LLM, output tool) đều bị kiểm; chỉ các câu cố định trong `domain/`
+  (`EMERGENCY_RESPONSE`, `NO_DOCUMENTS_RESPONSE`) được bỏ qua để reviewer không thể chặn
+  nhầm cảnh báo khẩn cấp. Test `test_fixed_templates_pass_reviewer` bảo đảm các câu cố định
+  vẫn qua được luật nếu sau này luật thay đổi.
+- **Fail-closed**: nếu reviewer ném lỗi, hệ thống trả `UNSAFE_ANSWER_RESPONSE` thay vì
+  câu chưa được kiểm; request vẫn thành công và lỗi được ghi trong trace.
+- **Trace**: thêm step `answer_review` (`step_order=2`) với `status`
+  (`allowed`/`blocked`/`skipped`/`error`), `reason`, `matched_rules`, `final_answer`, và
+  `blocked_answer` (câu gốc bị chặn) để rà soát chặn nhầm. Step 1 vẫn lưu câu trả lời do
+  nhánh route tạo ra.
+- **API không đổi**: response vẫn gồm `answer`, `trace_id`, `duration_ms`.
+
+Đây là bộ luật từ khóa/regex ban đầu: có thể chặn nhầm hoặc bỏ sót cách diễn đạt chưa có
+trong luật; khi gặp, bổ sung mẫu vào `_UNSAFE_RULES` kèm test tương ứng.
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest tests\domain\test_answer_review.py tests\application\test_chat_service.py -q
+```
+
 ### Xử lý tài liệu
 
 Module `infrastructure.document_processing` đọc PDF, DOCX, HTML và TXT, giữ văn bản thô,

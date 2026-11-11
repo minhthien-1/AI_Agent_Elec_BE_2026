@@ -4,6 +4,8 @@ import uuid
 from dataclasses import dataclass
 from typing import Any, Protocol
 
+from domain.answer_review import ReviewDecision
+
 
 class ChatGenerator(Protocol):
     @property
@@ -24,6 +26,16 @@ class DocumentRetriever(Protocol):
         query: str,
         limit: int = 5,
     ) -> list[RetrievedDocument]: ...
+
+
+class AnswerReviewer(Protocol):
+    """P4-2: kiểm duyệt câu trả lời SAU khi sinh, trước khi trả cho người dùng.
+
+    Là port riêng để ChatService không biết reviewer dùng luật hay cách khác;
+    hiện thực mặc định là `domain.answer_review.RuleBasedAnswerReviewer`.
+    """
+
+    def review(self, question: str, answer: str) -> ReviewDecision: ...
 
 
 class TraceRecorder(Protocol):
